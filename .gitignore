@@ -1,0 +1,11 @@
+# generated outputs
+corpus/
+logs/
+
+# mac specific
+.idea/
+.DS_Store
+
+# python specific
+__pycache__
+.venv/
