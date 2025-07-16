@@ -1,6 +1,7 @@
 # generated outputs
 corpus/
 logs/
+db_cache/
 
 # mac specific
 .idea/

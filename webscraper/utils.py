@@ -6,6 +6,11 @@ import hashlib
 import requests
 import sys
 
+def clean_url(url):
+    url = url.replace('https://', '')
+    url = url.replace('http://', '')
+    return url.rstrip('/')
+
 
 # print helper that only prints if debug enabled. same args as print()
 def debug(*args, **kwargs):
@@ -21,9 +26,9 @@ def download_url(url, path):
         file.write(response.content)
 
 # save the response contents from requests into a file
-def save_resp_content(resp, filename):
+def save_resp_content(content, filename):
     with open(filename, 'wb') as file:
-        file.write(resp.content)
+        file.write(content)
 
 
 def get_wayback_url(url):
@@ -60,7 +65,8 @@ def html_to_text(mysoup):
 
 def hash_html_content(html):
     normalized = html.strip().lower()
-    return hashlib.sha256(normalized.encode('utf-8')).hexdigest()
+    return hashlib.sha256(normalized).hexdigest()
+    #return hashlib.sha256(normalized.encode('utf-8')).hexdigest()
 
 
 def hash_soup(soup: BeautifulSoup) -> str:

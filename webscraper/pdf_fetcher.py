@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-# PDF retriever
+"""This module provides utility functions related to PDF retrieval and text extraction.
+"""
 
 import requests
 import fitz  # PyMuPDF

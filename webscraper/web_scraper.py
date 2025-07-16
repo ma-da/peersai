@@ -1,41 +1,57 @@
 #!/usr/bin/env python3
 
-# TITLE: PEERS AI Project Website Scraper (WantToKnowScraper)
-# VERSION: 1.0
-# AUTHOR: Marc Baber
-# DATE: 06 MAR 2025
-#
-# TO DO LIST:
-# 1. Make FIFO stack, for breadth first, not depth
-# 2. No hash suffixes
-# 3. Don't take HREFs from archived docs
-# 4. Need a way to detect and avoid recursion. PRUNE???
-# 5. If file already local, load it instead???
-# 6. Prune out MK docs
-#
-#
-# 1. Fix MomentOfLove navbar recursions on g/victim_or_creator_vs and inspiration/inspiring-videos
-# 2. Set recursion limit higher (apparently 1000 wasn't high enough). But is there a way to avoid getting so deep?
-#    I might have to go breadth first (instead of depth first) using a FIFO set/stack
-#    a. seed the FIFO with just the first (base) URL
-#    b. WHILE there's anything in the FIFO queue that has not already been visited:
-#       crawl the first URL:
-#       retrieve file (html or pdf) -- getting archive if necessary
-#       make .txt file
-#       If HTML, add all hrefs to FIFO stack, but not if archive (push right)
-#       Add this url to visited.
-#       WEND
-# 3. Don't visit a # hash href if the base URL has already been visited
-# 4. Why did processing stop after 50 hrs on a PPT file: http://www.cs.cmu.edu/~pausch/Randy/Randy/pauschlastlecture.ppt ?
-#    (update: did not crash, just stalled)
-# 5.
+"""
+ TITLE: PEERS AI Project Website Scraper (WantToKnowScraper)
+ VERSION: 1.0
+ AUTHOR: Marc Baber
+ DATE: 06 MAR 2025
+
+ TO DO LIST:
+ 1. Make FIFO stack, for breadth first, not depth
+ 2. No hash suffixes
+ 3. Don't take HREFs from archived docs
+ 4. Need a way to detect and avoid recursion. PRUNE???
+ 5. If file already local, load it instead???
+ 6. Prune out MK docs
 
 
+ 1. Fix MomentOfLove navbar recursions on g/victim_or_creator_vs and inspiration/inspiring-videos
+ 2. Set recursion limit higher (apparently 1000 wasn't high enough). But is there a way to avoid getting so deep?
+    I might have to go breadth first (instead of depth first) using a FIFO set/stack
+    a. seed the FIFO with just the first (base) URL
+    b. WHILE there's anything in the FIFO queue that has not already been visited:
+       crawl the first URL:
+       retrieve file (html or pdf) -- getting archive if necessary
+       make .txt file
+       If HTML, add all hrefs to FIFO stack, but not if archive (push right)
+       Add this url to visited.
+       WEND
+ 3. Don't visit a # hash href if the base URL has already been visited
+ 4. Why did processing stop after 50 hrs on a PPT file: http://www.cs.cmu.edu/~pausch/Randy/Randy/pauschlastlecture.ppt ?
+    (update: did not crash, just stalled)
+ 5.
+
+ Don't prune page tree while still on "home site" which should include whole family of PEERS
+ Websites and online courses currently managed by PEERS:
+
+ www.momentoflove.org - Every person in the world has a heart
+ www.weboflove.org - Strengthening the web of love that interconnects us all
+ www.WantToKnow.info - Revealing major cover-ups and working together for a brighter future
+ www.newsarticles.media - Collection of under-reported major media news articles
+ www.divinemystery.net - Mystical musings of a spiritual explorer
+ www.inspiringcommunity.org - Building a global community for all
+ www.wisdomcourses.net - Free online courses inspire you to greatness
+ www.inspirationcourse.net - The Inspiration Course: Opening to more love and deeper connection
+ www.hidden-knowledge.net - Hidden Knowledge Course: Illuminating shadow aspects of our world
+ www.insightcourse.net - The Insight Course: The best of the Internet all in one free course
+ www.transformationteam.net - Transformation Team: Building bridges to expanded consciousness
+ www.gatheringspot.net - Dynamic community networking portal for course graduates
+"""
+import cache
 import config
 from pybloom_live import BloomFilter
 import pdf_fetcher
 import os
-import requests
 import re
 import fitz  # PyMuPDF
 import sys
@@ -43,21 +59,6 @@ from utils import *
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-# Don't prune page tree while still on "home site" which should include whole family of PEERS
-# Websites and online courses currently managed by PEERS:
-#
-# www.momentoflove.org - Every person in the world has a heart
-# www.weboflove.org - Strengthening the web of love that interconnects us all
-# www.WantToKnow.info - Revealing major cover-ups and working together for a brighter future
-# www.newsarticles.media - Collection of under-reported major media news articles
-# www.divinemystery.net - Mystical musings of a spiritual explorer
-# www.inspiringcommunity.org - Building a global community for all
-# www.wisdomcourses.net - Free online courses inspire you to greatness
-# www.inspirationcourse.net - The Inspiration Course: Opening to more love and deeper connection
-# www.hidden-knowledge.net - Hidden Knowledge Course: Illuminating shadow aspects of our world
-# www.insightcourse.net - The Insight Course: The best of the Internet all in one free course
-# www.transformationteam.net - Transformation Team: Building bridges to expanded consciousness
-# www.gatheringspot.net - Dynamic community networking portal for course graduates
 
 pattern_peers_family = re.compile(r"""
     ^https?://        # Start with http or https
@@ -142,7 +143,11 @@ def should_process_child_links(depth_effective, is_peers_family, max_depth):
 
 
 def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
+    # make sure all artifact dirs exists
     os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(config.LOGS_FOLDER_LOCATION, exist_ok=True)
+    os.makedirs(config.DB_CACHE_LOCATION, exist_ok=True)
+
     visited = set()
     seen_content_hashes = BloomFilter(capacity=1_000_000, error_rate=0.00001)
     num_pages_visited = 0
@@ -171,18 +176,12 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
         # Try to fetch the page
         try:
-            response = requests.get(url, headers=config.headers, timeout=15)
-            if response.status_code == 200:
-                clean_url = url.replace('https://', '')
-                clean_url = clean_url.replace('http://', '')
-                clean_url = clean_url.rstrip('/')
-
-                content_type = response.headers.get('Content-Type')
-
+            cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_request(url, headers=config.headers, timeout=15)
+            if status_code == 200:
                 if config.ENABLE_PROCESS_PDFS and 'application/pdf' in content_type:
                     print(f"File appears to be PDF {url}", flush=config.FLUSH_LOG)
 
-                    pdf_output_path = os.path.join(output_dir, clean_url.replace('/', '_') + '.pdf')
+                    pdf_output_path = os.path.join(output_dir, cleaned_url.replace('/', '_') + '.pdf')
                     pdf_output_txt_filename = pdf_output_path.replace('.pdf', '.txt')
                     print(f"Save PDF-to-text: {pdf_output_txt_filename}", flush=config.FLUSH_LOG)
 
@@ -197,28 +196,41 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
                 elif 'text/html' in content_type:
                     debug(f"File appears to be HTML {url}", flush=config.FLUSH_LOG)
-
-                    soup = BeautifulSoup(response.text, 'html.parser')
+                    soup = BeautifulSoup(content, 'html.parser')
 
                     # hash contents and compare if we need to process this page
-                    hash_val = hash_html_content(response.text)
+                    hash_val = hash_html_content(content)
                     if already_seen(seen_content_hashes, hash_val):
-                        error(f"Already seen content url: {url}. No more processing done.")
+                        debug(f"Already seen content url: {url}. No more processing done.")
                         return
                     debug(f"Adding hash {hash_val} to seen content for url: {url}")
                     seen_content_hashes.add(hash_val)
 
-                    # Save the page
-                    filename = os.path.join(output_dir, clean_url.replace('/', '_') + '.html')
-                    if config.SAVE_HTML_CONTENT:
-                        print(f"Save page filename: {filename}", flush=config.FLUSH_LOG)
-                        save_resp_content(response, filename)
-                        filename = filename.replace('.html', '.txt')
-                        print(f"Save text: {filename}", flush=config.FLUSH_LOG)
-                        with open(filename, 'wb') as file:
-                            file.write(html_to_text(soup).encode("utf-8"))
+                    # Save the page to the corpus
+                    if not was_cached:
+                        debug(f"Processing url {cleaned_url} for corpus collection")
+                        filename = os.path.join(output_dir, cleaned_url.replace('/', '_') + '.html')
+                        if config.SAVE_HTML_CONTENT:
+                            # save html content
+                            debug(f"Save page filename: {filename}", flush=config.FLUSH_LOG)
+                            save_resp_content(content, filename)
+
+                            # save txt content
+                            txt_filename = filename.replace('.html', '.txt')
+                            debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
+                            with open(txt_filename, 'wb') as file:
+                                file.write(html_to_text(soup).encode("utf-8"))
+
+                            # save cache metadata entry
+                            if config.CACHE_ENABLED:
+                                url_file_size = os.path.getsize(filename)
+                                txt_file_size = os.path.getsize(txt_filename)
+                                cache.update_cache(cleaned_url, 'text/html', filename, url_file_size, txt_filename, txt_file_size, hash_val)
+                        else:
+                            debug(f"Marked page filename: {filename}", flush=config.FLUSH_LOG)
                     else:
-                        print(f"Marked page filename: {filename}", flush=config.FLUSH_LOG)
+                        debug(f"Skipped url {cleaned_url} for corpus collection because it was already in cache.")
+
 
                     # Crawl internal and external links
                     child_depth = depth_effective + 1
@@ -259,17 +271,17 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
             else:  # status code not 200
                 # Handle broken link
-                print(f"Broken link: {url} (Status: {response.status_code})", flush=config.FLUSH_LOG)
+                print(f"Broken link: {url} (Status: {status_code})", flush=config.FLUSH_LOG)
                 archived_url = get_wayback_url(url)
                 if archived_url:
                     print(f"Retrieving archived version from: {archived_url}", flush=config.FLUSH_LOG)
-                    clean_url = archived_url.replace('https://', '')
-                    clean_url = clean_url.replace('http://', '')
-                    clean_url = clean_url.rstrip('/')
-                    clean_url = clean_url.replace('?', 'QQ')
-                    clean_url = clean_url.replace('=', 'EQ')
-                    clean_url = clean_url.replace('&', 'AMP')
-                    download_url(archived_url, os.path.join(output_dir, "archived_" + clean_url.replace('/',
+                    cleaned_url = archived_url.replace('https://', '')
+                    cleaned_url = clean_url.replace('http://', '')
+                    cleaned_url = clean_url.rstrip('/')
+                    cleaned_url = clean_url.replace('?', 'QQ')
+                    cleaned_url = clean_url.replace('=', 'EQ')
+                    cleaned_url = clean_url.replace('&', 'AMP')
+                    download_url(archived_url, os.path.join(output_dir, "archived_" + cleaned_url.replace('/',
                                                                                                         '_')))  # handle html or pdf?
                     # download_url(archived_url, os.path.join(output_dir, "archived_" + clean_url.replace('/', '_') + '.html'))
                     # Unless it's a PDF and not an HTML file ???
@@ -296,6 +308,11 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
 
 def main():
+    cache.init_db()
+
+    if config.FLUSH_CACHE_ON_START:
+        cache.clear_cache()
+
     # config settings
     corpus_location = config.CORPUS_FOLDER_LOCATION
     log_location = config.LOGS_FOLDER_LOCATION
