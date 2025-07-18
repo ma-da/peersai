@@ -30,7 +30,7 @@ MAX_PAGES_CRAWL_LIMIT = 100
 MAX_DEPTH_CRAWL_LIMIT = 2
 
 # crawler behavior
-ENABLE_PROCESS_PDFS = False   # for testing
+ENABLE_PROCESS_PDFS = True   # for testing
 SAVE_HTML_CONTENT = True      # for testing
 FLUSH_LOG = False             # set to true for better debugging output
 DEBUG_ENABLED = True          # set to False to disable debug printing

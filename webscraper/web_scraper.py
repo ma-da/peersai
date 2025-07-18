@@ -50,11 +50,15 @@
 import cache
 import config
 from pybloom_live import BloomFilter
+
+import content_filter
 import pdf_fetcher
 import os
 import re
 import fitz  # PyMuPDF
 import sys
+
+import utils
 from utils import *
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -65,7 +69,7 @@ pattern_peers_family = re.compile(r"""
     www\.             # Literal 'www.'
     (                 # Start of group for domain names
         wanttoknow\.info         |
-        momentoflove\.org        | 
+        momentoflove\.org        |
         # momentoflove domain taken out 03/06/25 due to recursive href's in the navbar in two places:
         # 1. g/victim_or_creator_vs lead to "g/g/g/g/g/g/g/g" recursions
         # 2. inspiration/inspiring-videos lead to "inspiration/inspiration/inspiration..." recursions
@@ -84,14 +88,14 @@ pattern_peers_family = re.compile(r"""
 
 pattern_archive_url = re.compile(r"""
     ^https?://        # Start with http or https
-    web\.archive\.org        
+    web\.archive\.org
     """, re.VERBOSE | re.IGNORECASE)
 
 pattern_hash_url = r'#([\w-]+)$'
 
 # don't visit any urls that match this
 pattern_filter_list = re.compile(r"""
-    javscript:;
+    java?script:;:?
 """, re.VERBOSE | re.IGNORECASE
                                  )
 
@@ -215,11 +219,8 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                             debug(f"Save page filename: {filename}", flush=config.FLUSH_LOG)
                             save_resp_content(content, filename)
 
-                            # save txt content
                             txt_filename = filename.replace('.html', '.txt')
-                            debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
-                            with open(txt_filename, 'wb') as file:
-                                file.write(html_to_text(soup).encode("utf-8"))
+                            utils.save_txt_content_to_file(txt_filename, content)
 
                             # save cache metadata entry
                             if config.CACHE_ENABLED:
@@ -229,6 +230,13 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                         else:
                             debug(f"Marked page filename: {filename}", flush=config.FLUSH_LOG)
                     else:
+                        # if cached, lets check if we need to regenerate the txt file if it doesn't exist
+                        txt_filename = os.path.join(output_dir, cleaned_url.replace('/', '_') + '.txt')
+                        if not os.path.exists(txt_filename):
+                            error(f"Regenerating {txt_filename}")
+                            utils.save_txt_content_to_file(txt_filename, content)
+                        else:
+                            error(f"Not Regenerating {txt_filename}")
                         debug(f"Skipped url {cleaned_url} for corpus collection because it was already in cache.")
 
 
@@ -334,8 +342,8 @@ def main():
 
     error(f"*** CRAWL SITE BEGIN")  # just stderr logging
 
-    #crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
-    crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
+    crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
     # crawl_site("https://www.wanttoknow.info/a-why-healthy-food-so-expensive-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-than-salad", "C:\\Users\\rames\\ai\\CrawlTest\\")
     # crawl_site("http://www.washingtonpost.com/wp-dyn/articles/A49449-2004Dec8.html", "C:\\Users\\marc\\ai\\CrawlTest\\")
     # crawl_site("http://martintruther.substack.com", "D:\\Dropbox\\DeepSeek\\CrawlTest\\")

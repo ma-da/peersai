@@ -6,6 +6,9 @@ import hashlib
 import requests
 import sys
 
+import content_filter
+
+
 def clean_url(url):
     url = url.replace('https://', '')
     url = url.replace('http://', '')
@@ -20,15 +23,20 @@ def debug(*args, **kwargs):
 def error(*args, **kwargs):
     print(*args, file=sys.stderr, flush=True, **kwargs)
 
+
 def download_url(url, path):
     response = requests.get(url, headers=config.headers)
     with open(path, 'wb') as file:
         file.write(response.content)
 
+
 # save the response contents from requests into a file
 def save_resp_content(content, filename):
     with open(filename, 'wb') as file:
         file.write(content)
+
+def get_txt_file_name(html_filename):
+    return html_filename.replace('.html', '.txt')
 
 
 def get_wayback_url(url):
@@ -76,3 +84,15 @@ def hash_soup(soup: BeautifulSoup) -> str:
 
 def already_seen(filter, content_hash):
     return content_hash in filter
+
+def is_html_file(filename):
+    return filename.lower().endswith((".html", ".htm"))
+
+def save_txt_content_to_file(txt_filename, html_content):
+    content = content_filter.extract_content_newspaper(html_content)
+    # content = content_filter.extract_content_from_soup(soup)
+
+    # save txt content
+    debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
+    with open(txt_filename, 'wb') as file:
+        file.write(content.encode("utf-8"))
