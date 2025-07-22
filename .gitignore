@@ -10,3 +10,8 @@ db_cache/
 # python specific
 __pycache__
 .venv/
+
+._*
+._.*
+../._.idea
+../._.venv
