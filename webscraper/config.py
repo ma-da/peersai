@@ -29,12 +29,16 @@ MAX_PAGES_CRAWL_LIMIT = 100
 # Deprecated - we are not crawling links for non-peers pages
 MAX_DEPTH_CRAWL_LIMIT = 2
 
+# progress output every N pages
+# this number cannot be zero
+PROGRESS_REPORT_N_PAGES = 25
+
 # crawler behavior
-ENABLE_PROCESS_PDFS = True   # for testing
+ENABLE_PROCESS_PDFS = True    # for testing
 SAVE_HTML_CONTENT = True      # for testing
 FLUSH_LOG = False             # set to true for better debugging output
 DEBUG_ENABLED = True          # set to False to disable debug printing
-CACHE_ENABLED = True          # set to true to enable cache usage
+CACHE_ENABLED = False          # set to true to enable cache usage
 FLUSH_CACHE_ON_START = False  # set to true to flush the cache on program start
 
 # test url for testing pdf functionality

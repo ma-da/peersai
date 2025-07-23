@@ -2,6 +2,8 @@
 corpus/
 logs/
 db_cache/
+txt_corpus/
+txt_corpus.tar.gz
 
 # mac specific
 .idea/

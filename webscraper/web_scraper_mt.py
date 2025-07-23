@@ -1,52 +1,11 @@
-#!/usr/bin/env python3
-
 """
- TITLE: PEERS AI Project Website Scraper (WantToKnowScraper)
- VERSION: 1.0
- AUTHOR: Marc Baber
- DATE: 06 MAR 2025
-
- TO DO LIST:
- 1. Make FIFO stack, for breadth first, not depth
- 2. No hash suffixes
- 3. Don't take HREFs from archived docs
- 4. Need a way to detect and avoid recursion. PRUNE???
- 5. If file already local, load it instead???
- 6. Prune out MK docs
-
-
- 1. Fix MomentOfLove navbar recursions on g/victim_or_creator_vs and inspiration/inspiring-videos
- 2. Set recursion limit higher (apparently 1000 wasn't high enough). But is there a way to avoid getting so deep?
-    I might have to go breadth first (instead of depth first) using a FIFO set/stack
-    a. seed the FIFO with just the first (base) URL
-    b. WHILE there's anything in the FIFO queue that has not already been visited:
-       crawl the first URL:
-       retrieve file (html or pdf) -- getting archive if necessary
-       make .txt file
-       If HTML, add all hrefs to FIFO stack, but not if archive (push right)
-       Add this url to visited.
-       WEND
- 3. Don't visit a # hash href if the base URL has already been visited
- 4. Why did processing stop after 50 hrs on a PPT file: http://www.cs.cmu.edu/~pausch/Randy/Randy/pauschlastlecture.ppt ?
-    (update: did not crash, just stalled)
- 5.
-
- Don't prune page tree while still on "home site" which should include whole family of PEERS
- Websites and online courses currently managed by PEERS:
-
- www.momentoflove.org - Every person in the world has a heart
- www.weboflove.org - Strengthening the web of love that interconnects us all
- www.WantToKnow.info - Revealing major cover-ups and working together for a brighter future
- www.newsarticles.media - Collection of under-reported major media news articles
- www.divinemystery.net - Mystical musings of a spiritual explorer
- www.inspiringcommunity.org - Building a global community for all
- www.wisdomcourses.net - Free online courses inspire you to greatness
- www.inspirationcourse.net - The Inspiration Course: Opening to more love and deeper connection
- www.hidden-knowledge.net - Hidden Knowledge Course: Illuminating shadow aspects of our world
- www.insightcourse.net - The Insight Course: The best of the Internet all in one free course
- www.transformationteam.net - Transformation Team: Building bridges to expanded consciousness
- www.gatheringspot.net - Dynamic community networking portal for course graduates
+ PEERS AI Project Multi-threaded Website Scraper (WantToKnowScraper)
+ The following is an implementation of the webscraper that is fully multi-threaded.
 """
+import queue
+import threading
+import time
+
 import cache
 import config
 from pybloom_live import BloomFilter
@@ -59,134 +18,120 @@ import fitz  # PyMuPDF
 import sys
 
 import utils
+import web_scraper
 from utils import *
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+from queue import Queue
 
+# Set the number of multithreaded workers here
+NUM_WORKERS = 4
 
-pattern_peers_family = re.compile(r"""
-    ^https?://        # Start with http or https
-    www\.             # Literal 'www.'
-    (                 # Start of group for domain names
-        wanttoknow\.info         |
-        momentoflove\.org        |
-        # momentoflove domain taken out 03/06/25 due to recursive href's in the navbar in two places:
-        # 1. g/victim_or_creator_vs lead to "g/g/g/g/g/g/g/g" recursions
-        # 2. inspiration/inspiring-videos lead to "inspiration/inspiration/inspiration..." recursions
-        weboflove\.org           |
-        newsarticles\.media      |
-        divinemystery\.net       |
-        inspiringcommunity\.org  |
-        wisdomcourses\.net       |
-        inspirationcourse\.net   |
-        hidden-knowledge\.net    |
-        insightcourse\.net       |
-        transformationteam\.net  |
-        gatheringspot\.net
-    )                # End of group
-    """, re.VERBOSE | re.IGNORECASE)
-
-pattern_archive_url = re.compile(r"""
-    ^https?://        # Start with http or https
-    web\.archive\.org
-    """, re.VERBOSE | re.IGNORECASE)
-
-pattern_hash_url = r'#([\w-]+)$'
-
-# don't visit any urls that match this
-pattern_filter_list = re.compile(r"""
-    ^java?script:           |  # filter javascript: links
-    ^mailto:                |  # filter mailto links
-    youtube\.com            |
-    youtu\.be               |
-    instagram\.com          |
-    facebook\.com           |
-    tiktok\.com             |
-    twitter\.com            |
-    x\.com                    # for Twitter's new domain
-""", re.VERBOSE | re.IGNORECASE)
-
-# Check if this url should be processed
-# Note preferable check this prior to recursive call of crawl
-def should_visit(url, depth_effective, visited_set):
-    debug(f"Should visit url {url} depth {depth_effective}?", flush=config.FLUSH_LOG)
-
-    if pattern_filter_list.match(url):
-        debug(f"Visit declined. Skipping pattern filter list {url}", flush=config.FLUSH_LOG)
-        return False
-
-    if pattern_archive_url.match(url):
-        debug(f"Visit declined. Skipping Archive URL {url}", flush=config.FLUSH_LOG)
-        return False
-
-    if url in visited_set:
-        debug(f"Visit declined. Previously visited: {url}", flush=config.FLUSH_LOG)
-        return False
-
-    # Don't process image files
-    if (bool(re.search('.jpe+g$', url)) or bool(re.search('.gif$', url)) or bool(re.search('.png$', url))):
-        debug(f"Visit declined. Skipping image: {url}", flush=config.FLUSH_LOG)
-        return False
-
-    # Don't process mailto's
-    if (bool(re.search('^mailto:', url))):
-        debug(f"Visit declined. Skipping mailto: {url}", flush=config.FLUSH_LOG)
-        return False
-
-    debug(f"Accepted visit url {url} depth {depth_effective}", flush=config.FLUSH_LOG)
-    return True
-
-
-def should_process_child_links(depth_effective, is_peers_family, max_depth):
-    # don't stray too far from home domain(s)
-    if depth_effective >= max_depth:
-        debug(f"process_child_links declined. Effective depth exceeded {depth_effective}", flush=config.FLUSH_LOG)
-        return False
-
-    # only visit peers family site
-    if not is_peers_family:
-        debug(f"process_child_links declined. Not a peers family site", flush=config.FLUSH_LOG)
-        return False
-
-    debug(f"process child links allowed", flush=config.FLUSH_LOG)
-    return True
-
-
-# make sure all artifact dirs exists
-def init_working_dirs(output_dir):
-    os.makedirs(output_dir, exist_ok=True)
-    os.makedirs(config.LOGS_FOLDER_LOCATION, exist_ok=True)
-    os.makedirs(config.DB_CACHE_LOCATION, exist_ok=True)
-
+# Multithreaded version of crawl_site()
 def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
-    init_working_dirs(output_dir)
+    web_scraper.init_working_dirs(output_dir)
 
     # visited tracks the urls we have visited
     visited = set()
+    visited_lock = threading.Lock()
 
     # seen_content_hashes tracks the hashed value of the url contents to see if we have seen it before
     seen_content_hashes = BloomFilter(capacity=1_000_000, error_rate=0.00001)
+    seen_content_hashes_lock = threading.Lock()
+
     num_pages_visited = 0
+    num_pages_visited_lock = threading.Lock()
+    next_num_pages_visited_report = config.PROGRESS_REPORT_N_PAGES
+
+    # holds the urls we have not yet visited
+    url_queue = Queue()
+    stop_event = threading.Event()
+
+
+    def stop_crawl(id):
+        error(f"Worker {id} signaled to stop the crawl")
+        stop_event.set()
+
+
+    def worker(id):
+        debug(f"Worker id {id} started")
+        while True:
+            if stop_event.is_set():
+                debug(f"Worker id got stop event{id}")
+                break
+
+            try:
+                url, depth_actual, depth_effective = url_queue.get(timeout=1)
+            except queue.Empty:
+                # error(f"Worker {id} got empty")
+                time.sleep(1.0)
+                continue
+
+            try:
+                if url is None:
+                    debug(f"Worker id got queue shutdown {id}")
+                    break
+
+                debug(f"Worker {id} got work {url}")
+
+                if not stop_event.is_set():
+                    crawl(url, depth_actual, depth_effective)
+
+            except StopIteration:
+                # only need to output this once
+                if not stop_event.is_set():
+                    error("-- Stopping iteration. Max pages hit.")
+                    sys.stderr.write("\n-- Stopping iteration. Max pages hit.")
+                break
+            except Exception as e:
+                error(f"Worker id {id} got runtime exception: {e}")
+                break
+            finally:
+                url_queue.task_done()
+
+        if not stop_event.is_set():
+            stop_crawl(id)
+
+        debug(f"Finished worker id {id}")
+
+    def add_url_to_crawl(url, depth_actual, depth_effective):
+        url_queue.put((url, depth_actual, depth_effective))
+        debug(f"Adding url_to_crawl: {url}")
+
+    def queue_join_with_timeout(timeout=1.0):
+        nonlocal num_pages_visited
+        nonlocal next_num_pages_visited_report
+
+        """Wait for queue to be empty or stop_event to be set."""
+        while url_queue.unfinished_tasks > 0:
+            with num_pages_visited_lock:
+                if num_pages_visited > 0 and num_pages_visited > next_num_pages_visited_report:
+                    error(f"Webcrawler crawled {num_pages_visited} number of pages.")
+                    next_num_pages_visited_report = next_num_pages_visited_report + config.PROGRESS_REPORT_N_PAGES
+
+            if stop_event.is_set():
+                break
+
+            time.sleep(timeout)
+
 
     # crawl should process only already filtered urls
     def crawl(url, depth_actual, depth_effective):
         nonlocal num_pages_visited
 
-        if num_pages_visited > 0 and num_pages_visited % config.PROGRESS_REPORT_N_PAGES == 0:
-            error(f"Webcrawler crawled {num_pages_visited} number of pages.")
-
         is_peers_family = False
-        if pattern_peers_family.match(url):
+        if web_scraper.pattern_peers_family.match(url):
             depth_effective = 0  # Effective depth is how many hops from home domain(s)
             is_peers_family = True
             debug(f"URL is in Home Domain(s): {url}", flush=config.FLUSH_LOG)
         else:
             debug(f"URL is NOT in Home Domain(s) {url}", flush=config.FLUSH_LOG)
 
-        num_pages_visited = num_pages_visited + 1
-        if max_pages > 0 and num_pages_visited > max_pages:
-            print("Maximum pages hit. Stopping crawl.")
-            raise StopIteration("Maximum pages hit")
+        with num_pages_visited_lock:
+            num_pages_visited = num_pages_visited + 1
+            if max_pages > 0 and num_pages_visited > max_pages:
+                print("Maximum pages hit. Stopping crawl.")
+                raise StopIteration("Maximum pages hit")
 
         debug(f"Adding {url} to visited set")
         visited.add(url)
@@ -257,20 +202,20 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
                     # Crawl internal and external links
                     child_depth = depth_effective + 1
-                    if should_process_child_links(child_depth, is_peers_family, max_depth):
+                    if web_scraper.should_process_child_links(child_depth, is_peers_family, max_depth):
                         debug(f"Processing child links for {url}", flush=config.FLUSH_LOG)
                         for link in soup.find_all('a', href=True):
                             child_url = urljoin(url, link['href'])
 
                             # Remove the hash and the following alphanumeric (or dash) characters at the end of the string (if any)
-                            child_url = re.sub(pattern_hash_url, '', child_url)
+                            child_url = re.sub(web_scraper.pattern_hash_url, '', child_url)
 
                             # if full_url not in visited and full_url <> url:
                             # Previous - if full_url not in visited:
-                            if should_visit(child_url, child_depth, visited):
-                                print(f"CRAWL:({depth_actual}/{depth_effective}) Parent: '{url}' Child: '{child_url}'",
+                            if web_scraper.should_visit(child_url, child_depth, visited):
+                                print(f"ADD_TO_CRAWL:({depth_actual}/{depth_effective}) Parent: '{url}' Child: '{child_url}'",
                                       flush=config.FLUSH_LOG)
-                                crawl(child_url, depth_actual + 1, child_depth)
+                                add_url_to_crawl(child_url, depth_actual + 1, child_depth)
                     else:
                         debug(f"Skipping of child links for {url}", flush=config.FLUSH_LOG)
 
@@ -305,7 +250,7 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                     cleaned_url = cleaned_url.replace('=', 'EQ')
                     cleaned_url = cleaned_url.replace('&', 'AMP')
                     download_url(archived_url, os.path.join(output_dir, "archived_" + cleaned_url.replace('/',
-                                                                                                        '_')))  # handle html or pdf?
+                                                                                                          '_')))  # handle html or pdf?
                     #download_url(archived_url, os.path.join(output_dir, "archived_" + clean_url.replace('/', '_') + '.html'))
                     # Unless it's a PDF and not an HTML file ???
                 else:
@@ -319,14 +264,39 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
         except Exception as e:
             error(f"ERROR EXCEPTION WHILE CRAWLING {url}: {e}")
 
-    # start the initial crawl
-    try:
-        crawl(start_url, 0, 0)
-    except StopIteration:
-        print("-- Stopping iteration. Max pages hit.")
-        sys.stderr.write("\n-- Stopping iteration. Max pages hit.")
 
-    output_msg = "\n** Crawl finished, visited num pages: " + str(num_pages_visited)
+    # start the initial crawl
+    #try:
+    #    crawl(start_url, 0, 0)
+    #except StopIteration:
+    #    print("-- Stopping iteration. Max pages hit.")
+    #    sys.stderr.write("\n-- Stopping iteration. Max pages hit.")
+
+    # adds the initial seed url to crawl
+    add_url_to_crawl(start_url, 0, 0)
+
+    id = 1
+    threads = []
+    error(f"Starting {NUM_WORKERS} number of worker threads...")
+    for _ in range(NUM_WORKERS):
+        debug(f"Starting worker thread {id}...")
+        t = threading.Thread(target=worker, args=(id, ), daemon=False)
+        t.start()
+        id = id + 1
+        threads.append(t)
+
+    error("Waiting for url_queue to join...")
+    queue_join_with_timeout()
+
+    stop_event.set()
+
+    error("Waiting for worker threads to join...")
+    for t in threads:
+        t.join()
+
+    error("Workers completed.")
+
+    output_msg = "\n** Parallel web crawl finished, visited num pages: " + str(num_pages_visited)
     error(output_msg)  # just stderr
 
 

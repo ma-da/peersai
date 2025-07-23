@@ -22,6 +22,7 @@ def debug(*args, **kwargs):
 
 def error(*args, **kwargs):
     print(*args, file=sys.stderr, flush=True, **kwargs)
+    debug(*args, flush=True, **kwargs)
 
 
 def download_url(url, path):
@@ -91,6 +92,9 @@ def is_html_file(filename):
 def save_txt_content_to_file(txt_filename, html_content):
     content = content_filter.extract_content_newspaper(html_content)
     # content = content_filter.extract_content_from_soup(soup)
+
+    if len(content) == 0:
+        return
 
     # save txt content
     debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
