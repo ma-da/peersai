@@ -48,6 +48,8 @@ def get_cached_content_or_request(url, headers=config.headers, timeout=15):
 def init_db(db_path=config.DB_CACHE_PATH):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
+
+    # create table for url downloads cache
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS downloads (
             cleaned_url TEXT PRIMARY KEY,
@@ -61,6 +63,16 @@ def init_db(db_path=config.DB_CACHE_PATH):
         )
     ''')
     conn.commit()
+
+    # create table for pending url queue persistence
+    conn.execute('''
+        CREATE TABLE IF NOT EXISTS url_queue (
+            url TEXT PRIMARY KEY,
+            depth_actual INTEGER NOT NULL,
+            depth_effective INTEGER NOT NULL
+        );
+    ''')
+
     conn.close()
 
 def clear_cache(db_path=config.DB_CACHE_PATH, delete_db=False):
@@ -142,3 +154,29 @@ def get_cached_file_content(cleaned_url, db_path=config.DB_CACHE_PATH):
                     contents = file.read()
                     return contents, content_type
     return None
+
+def save_pending_url_to_db(url, depth_actual, depth_effective, db_path=config.DB_CACHE_PATH):
+    with sqlite3.connect(db_path) as conn:
+        conn.execute('''
+            INSERT OR IGNORE INTO url_queue (url, depth_actual, depth_effective)
+            VALUES (?, ?, ?)
+        ''', (url, depth_actual, depth_effective))
+        conn.commit()
+
+def delete_pending_url_from_db(url, db_path=config.DB_CACHE_PATH):
+    with sqlite3.connect(db_path) as conn:
+        conn.execute('DELETE FROM url_queue WHERE url = ?', (url,))
+        conn.commit()
+
+def load_pending_urls_from_db(url_queue, db_path=config.DB_CACHE_PATH):
+    with sqlite3.connect(db_path) as conn:
+        cursor = conn.execute('SELECT url, depth_actual, depth_effective FROM url_queue')
+        rows = cursor.fetchall()
+        # populate the url_queue
+        for url, depth_actual, depth_effective in rows:
+            url_queue.put((url, depth_actual, depth_effective))
+
+def clear_pending_url_queue_db(db_path=config.DB_CACHE_PATH):
+    with sqlite3.connect(db_path) as conn:
+        conn.execute('DELETE FROM url_queue')
+        conn.commit()

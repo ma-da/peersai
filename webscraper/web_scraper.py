@@ -111,7 +111,7 @@ pattern_filter_list = re.compile(r"""
 def should_visit(url, depth_effective, visited_set):
     debug(f"Should visit url {url} depth {depth_effective}?", flush=config.FLUSH_LOG)
 
-    if pattern_filter_list.match(url):
+    if pattern_filter_list.search(url):
         debug(f"Visit declined. Skipping pattern filter list {url}", flush=config.FLUSH_LOG)
         return False
 

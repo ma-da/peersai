@@ -96,7 +96,12 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
     def add_url_to_crawl(url, depth_actual, depth_effective):
         url_queue.put((url, depth_actual, depth_effective))
+        cache.save_pending_url_to_db(url, depth_actual, depth_effective)
         debug(f"Adding url_to_crawl: {url}")
+
+    def finalize_url_to_crawl(url):
+        cache.delete_pending_url_from_db(url)
+        debug(f"Finalized url_to_crawl: {url}")
 
     def queue_join_with_timeout(timeout=1.0):
         nonlocal num_pages_visited
@@ -271,6 +276,13 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
     #except StopIteration:
     #    print("-- Stopping iteration. Max pages hit.")
     #    sys.stderr.write("\n-- Stopping iteration. Max pages hit.")
+
+    # loads any pending urls from the last run that haven't been processed yet
+    if config.LOAD_PENDING_QUEUE_ON_START:
+        cache.load_pending_urls_from_db(url_queue)
+        qsize = url_queue.qsize()
+        if qsize > 0:
+            error(f"Pending url_queue was refreshed with {qsize} elements")
 
     # adds the initial seed url to crawl
     add_url_to_crawl(start_url, 0, 0)
