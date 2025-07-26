@@ -95,15 +95,29 @@ pattern_hash_url = r'#([\w-]+)$'
 
 # don't visit any urls that match this
 pattern_filter_list = re.compile(r"""
-    ^java?script:           |  # filter javascript: links
-    ^mailto:                |  # filter mailto links
-    youtube\.com            |
-    youtu\.be               |
-    instagram\.com          |
-    facebook\.com           |
-    tiktok\.com             |
-    twitter\.com            |
-    x\.com                    # for Twitter's new domain
+    ^java?script:              |  # javascript links
+    ^mailto:                   |  # mailto links
+    youtube\.com               |
+    youtu\.be                  |
+    instagram\.com             |
+    facebook\.com              |
+    tiktok\.com                |
+    twitter\.com               |
+    x\.com                     |  # Twitter's new domain
+    linkedin\.com              |
+    reddit\.com                |
+    pinterest\.com             |
+    snapchat\.com              |
+    nytimes\.com               |  # New York Times
+    washingtontimes\.com       |  # Washington Times
+    cnn\.com                   |
+    foxnews\.com               |
+    nbcnews\.com               |
+    abcnews\.go\.com           |
+    example\.com               |
+    example\.org               |
+    \.gov\b                    |  # any domain ending with .gov
+    \.mil\b                       # military domains
 """, re.VERBOSE | re.IGNORECASE)
 
 # Check if this url should be processed
@@ -357,8 +371,8 @@ def main():
 
     error(f"*** CRAWL SITE BEGIN")  # just stderr logging
 
-    crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
-    #crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
+    crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
     # crawl_site("https://www.wanttoknow.info/a-why-healthy-food-so-expensive-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-than-salad", "C:\\Users\\rames\\ai\\CrawlTest\\")
     # crawl_site("http://www.washingtonpost.com/wp-dyn/articles/A49449-2004Dec8.html", "C:\\Users\\marc\\ai\\CrawlTest\\")
     # crawl_site("http://martintruther.substack.com", "D:\\Dropbox\\DeepSeek\\CrawlTest\\")
