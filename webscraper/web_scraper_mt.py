@@ -18,18 +18,19 @@ import fitz  # PyMuPDF
 import sys
 
 import utils
-import web_scraper
+import web_scraper_old
 from utils import *
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from queue import Queue
+from web_scraper_base import *
 
 # Set the number of multithreaded workers here
-NUM_WORKERS = 4
+NUM_WORKERS = 8
 
 # Multithreaded version of crawl_site()
-def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
-    web_scraper.init_working_dirs(output_dir)
+def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=True):
+    init_working_dirs(output_dir)
 
     # visited tracks the urls we have visited
     visited = set()
@@ -125,7 +126,7 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
         nonlocal num_pages_visited
 
         is_peers_family = False
-        if web_scraper.pattern_peers_family.match(url):
+        if config.pattern_peers_family.match(url):
             depth_effective = 0  # Effective depth is how many hops from home domain(s)
             is_peers_family = True
             debug(f"URL is in Home Domain(s): {url}", flush=config.FLUSH_LOG)
@@ -145,7 +146,10 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
         # Try to fetch the page
         try:
-            cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_request(url, headers=config.headers, timeout=15)
+            # original version
+            # cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_request(url, headers=config.headers, timeout=15)
+            # playwright version
+            cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_playwright_request(url, headers=config.headers, timeout=60000)
             if status_code == 200:
                 if config.ENABLE_PROCESS_PDFS and 'application/pdf' in content_type:
                     print(f"File appears to be PDF {url}", flush=config.FLUSH_LOG)
@@ -166,9 +170,11 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                 elif 'text/html' in content_type:
                     debug(f"File appears to be HTML {url}", flush=config.FLUSH_LOG)
                     soup = BeautifulSoup(content, 'html.parser')
+                    utils.body_adjustments(soup)
+                    soup_content = soup.prettify().encode()
 
                     # hash contents and compare if we need to process this page
-                    hash_val = hash_html_content(content)
+                    hash_val = hash_html_content(soup_content)
                     if already_seen(seen_content_hashes, hash_val):
                         debug(f"Already seen content url: {url}. No more processing done.")
                         return
@@ -181,11 +187,11 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                         filename = os.path.join(output_dir, cleaned_url.replace('/', '_') + '.html')
                         if config.SAVE_HTML_CONTENT:
                             # save html content
-                            debug(f"Save page filename: {filename}", flush=config.FLUSH_LOG)
-                            save_resp_content(content, filename)
+                            debug(f"SAVE page filename: {filename}", flush=config.FLUSH_LOG)
+                            save_resp_content(soup_content, filename)
 
                             txt_filename = filename.replace('.html', '.txt')
-                            utils.save_txt_content_to_file(txt_filename, content)
+                            utils.save_txt_content_to_file(txt_filename, soup_content)
 
                             # save cache metadata entry
                             if config.CACHE_ENABLED:
@@ -193,13 +199,13 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                                 txt_file_size = os.path.getsize(txt_filename)
                                 cache.update_cache(cleaned_url, 'text/html', filename, url_file_size, txt_filename, txt_file_size, hash_val)
                         else:
-                            debug(f"Marked page filename: {filename}", flush=config.FLUSH_LOG)
+                            debug(f"MARK page filename: {filename}", flush=config.FLUSH_LOG)
                     else:
                         # if cached, lets check if we need to regenerate the txt file if it doesn't exist
                         txt_filename = os.path.join(output_dir, cleaned_url.replace('/', '_') + '.txt')
                         if not os.path.exists(txt_filename):
                             error(f"Regenerating {txt_filename}")
-                            utils.save_txt_content_to_file(txt_filename, content)
+                            utils.save_txt_content_to_file(txt_filename, soup_content)
                         else:
                             debug(f"Not Regenerating {txt_filename}")
                         debug(f"Skipped url {cleaned_url} for corpus collection because it was already in cache.")
@@ -207,17 +213,17 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
 
                     # Crawl internal and external links
                     child_depth = depth_effective + 1
-                    if web_scraper.should_process_child_links(child_depth, is_peers_family, max_depth):
+                    if should_process_child_links(child_depth, is_peers_family, max_depth):
                         debug(f"Processing child links for {url}", flush=config.FLUSH_LOG)
                         for link in soup.find_all('a', href=True):
                             child_url = urljoin(url, link['href'])
 
                             # Remove the hash and the following alphanumeric (or dash) characters at the end of the string (if any)
-                            child_url = re.sub(web_scraper.pattern_hash_url, '', child_url)
+                            child_url = re.sub(config.pattern_hash_url, '', child_url)
 
                             # if full_url not in visited and full_url <> url:
                             # Previous - if full_url not in visited:
-                            if web_scraper.should_visit(child_url, child_depth, visited):
+                            if should_visit(child_url, child_depth, visited):
                                 print(f"ADD_TO_CRAWL:({depth_actual}/{depth_effective}) Parent: '{url}' Child: '{child_url}'",
                                       flush=config.FLUSH_LOG)
                                 add_url_to_crawl(child_url, depth_actual + 1, child_depth)
@@ -278,11 +284,12 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
     #    sys.stderr.write("\n-- Stopping iteration. Max pages hit.")
 
     # loads any pending urls from the last run that haven't been processed yet
-    if config.LOAD_PENDING_QUEUE_ON_START:
+    if refresh_queue:
         cache.load_pending_urls_from_db(url_queue)
         qsize = url_queue.qsize()
         if qsize > 0:
             error(f"Pending url_queue was refreshed with {qsize} elements")
+            cache.clear_pending_url_queue_db()
 
     # adds the initial seed url to crawl
     add_url_to_crawl(start_url, 0, 0)
@@ -318,29 +325,58 @@ def main():
     if config.FLUSH_CACHE_ON_START:
         cache.clear_cache()
 
+    # start_url
+    start_url = "http://www.momentoflove.org"
+
     # config settings
     corpus_location = config.CORPUS_FOLDER_LOCATION
     log_location = config.LOGS_FOLDER_LOCATION
     log_file = log_location + config.LOGS_NAME
     max_depth = config.MAX_DEPTH_CRAWL_LIMIT
     max_pages = config.MAX_PAGES_CRAWL_LIMIT
-
-    # process commandline
-    n = len(sys.argv)
-    if n > 1:
-        max_pages = int(sys.argv[1])
-        print(f"max_pages override set to {max_pages}")
+    refresh_queue = config.LOAD_PENDING_QUEUE_ON_START
 
     # Redirect all output to log file.
     file = open(log_file, "w")  # use 'a' for append, 'w' for overwrite
     sys.stdout = file
 
+    # process commandline
+    # Optional 1st arg – start crawl with given url
+    # Optional 2nd arg - max pages to crawl
+    n = len(sys.argv)
+    error(f"CMD # {n}")
+    if n > 1:
+        cmd_url = sys.argv[1]
+        if not cmd_url.startswith("http://") and not cmd_url.startswith("https://"):
+            cmd_url = "http://" + cmd_url
+        start_url = cmd_url
+        refresh_queue = False
+        error(f"Override start url {start_url}")
+
+    if n > 2:
+        max_pages_cmd = int(sys.argv[2])
+        error(f"Found new max_pages to crawl setting {max_pages_cmd}")
+        max_pages = max_pages_cmd
+
     sys.setrecursionlimit(config.PYTHON_RECURSION_DEPTH)  # Is this truly necessary? Why wasn't 1000 enough?
 
-    error(f"*** CRAWL SITE BEGIN")  # just stderr logging
+    error(f"*** CRAWL SITE BEGIN at url: {start_url}")  # just stderr logging
 
-    crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
+    crawl_site(start_url, corpus_location, max_depth, max_pages, refresh_queue)
+
+    #crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
     #crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
+
+    #crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.weboflove.org", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.newsarticles.media", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.divinemystery.net", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.inspiringcommunity.org", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.wisdomcourses.net", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.inspirationcourse.net", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.insightcourse.net", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.transformationteam.net", corpus_location, max_depth, max_pages)
+    #crawl_site("http://www.gatheringspot.net", corpus_location, max_depth, max_pages)
     # crawl_site("https://www.wanttoknow.info/a-why-healthy-food-so-expensive-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-than-salad", "C:\\Users\\rames\\ai\\CrawlTest\\")
     # crawl_site("http://www.washingtonpost.com/wp-dyn/articles/A49449-2004Dec8.html", "C:\\Users\\marc\\ai\\CrawlTest\\")
     # crawl_site("http://martintruther.substack.com", "D:\\Dropbox\\DeepSeek\\CrawlTest\\")

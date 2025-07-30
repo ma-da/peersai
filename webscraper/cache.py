@@ -1,3 +1,5 @@
+from playwright.sync_api import sync_playwright
+
 import config
 import sqlite3
 from datetime import datetime
@@ -44,6 +46,95 @@ def get_cached_content_or_request(url, headers=config.headers, timeout=15):
         content, content_type = cached_data
         debug(f"cleaned_url {cleaned_url} was retrieved from cache")
         return cleaned_url, 200, content_type, content, True
+
+import requests
+from playwright.sync_api import sync_playwright, TimeoutError
+
+def get_cached_content_or_playwright_request(url, headers=config.headers, timeout=15000):
+    cleaned_url = clean_url(url)
+    cached_data = None
+    debug(f"fetch_or_request for {url}", flush=config.FLUSH_LOG)
+
+    if config.CACHE_ENABLED:
+        cached_data = get_cached_file_content(cleaned_url, config.DB_CACHE_PATH)
+
+    if cached_data is not None:
+        content, content_type = cached_data
+        debug(f"cleaned_url {cleaned_url} was retrieved from cache", flush=config.FLUSH_LOG)
+        return cleaned_url, 200, content_type, content, True
+
+    # If not cached, check whether this is a PDF
+    try:
+        debug(f"cleaned_url {cleaned_url} not found in cache. Retrieving headers...", flush=config.FLUSH_LOG)
+        head_response = requests.head(url, headers=headers, timeout=timeout, allow_redirects=True)
+        content_type = head_response.headers.get('Content-Type', '').lower()
+
+        # Handle PDF via direct GET
+        if 'application/pdf' in content_type:
+            debug(f"{url} detected as PDF. Downloading via requests.", flush=config.FLUSH_LOG)
+            response = requests.get(url, headers=headers, timeout=timeout)
+            if response.status_code == 200:
+                return cleaned_url, 200, content_type, response.content, False
+            else:
+                raise Exception(f"Non-200 response for PDF: {response.status_code}")
+
+        # Use Playwright only for HTML
+        elif 'text/html' in content_type:
+            debug(f"{url} detected as HTML. Attempting Playwright rendering.", flush=config.FLUSH_LOG)
+            with sync_playwright() as pw:
+                browser = pw.chromium.launch(headless=True)
+                page = browser.new_page()
+                response = page.goto(url, timeout=timeout)
+
+                if not response:
+                    raise Exception("No response received from Playwright.", flush=config.FLUSH_LOG)
+
+                if response.status != 200:
+                    raise Exception(f"Non-200 response for html: {response.status} for {url}")
+
+                content_type = response.headers.get("content-type", "")
+                if "text/html" not in content_type:
+                    raise Exception(f"Unsupported content type in Playwright: {content_type}")
+
+                html_content = page.content()
+                return cleaned_url, 200, content_type, html_content.encode("utf-8"), False
+
+        else:
+            raise Exception(f"Unsupported content type: {content_type}")
+
+    except TimeoutError:
+        error(f"Timeout loading {url}")
+    except Exception as e:
+        error(f"Error fetching {url}: {e}")
+
+    return cleaned_url, 500, "text/html", b"", False
+
+def get_rendered_html(url, timeout=15000):
+    try:
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(headless=True)
+            page = browser.new_page()
+            response = page.goto(url, timeout=timeout)
+
+            if not response:
+                raise Exception("No response received.")
+
+            if response.status != 200:
+                raise Exception(f"Non-200 response: {response.status} for {url}")
+
+            content_type = response.headers.get("content-type", "")
+            if "text/html" not in content_type:
+                raise Exception(f"Unsupported content type: {content_type}")
+
+            return page.content()
+
+    except TimeoutError:
+        print(f"Timeout loading {url}")
+        return None
+    except Exception as e:
+        print(f"Error rendering {url}: {e}")
+        return None
+
 
 def init_db(db_path=config.DB_CACHE_PATH):
     conn = sqlite3.connect(db_path)
@@ -112,6 +203,17 @@ def update_cache(cleaned_url, content_type, url_file_path, url_file_size, text_f
     conn.close()
     debug(f"update_cached saved entry with cleaned_url {cleaned_url}, url_file {url_file_path}, url_file_size {url_file_size}, text_file_path {text_file_path}, text_file_size {text_file_size}, hash {hash}")
 
+def remove_download_entry(cleaned_url, db_path="cache.db"):
+    try:
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        cursor.execute("DELETE FROM downloads WHERE cleaned_url = ?", (cleaned_url,))
+        conn.commit()
+    except sqlite3.Error as e:
+        error(f"Error removing entry from downloads table: {e}")
+    finally:
+        conn.close()
+
 # Get metadata associated with cached url, returns None if not found
 def get_cached_url_data(db_path, cleaned_url):
     conn = sqlite3.connect(db_path)
@@ -153,6 +255,10 @@ def get_cached_file_content(cleaned_url, db_path=config.DB_CACHE_PATH):
                 with open(file_path, 'rb') as file:
                     contents = file.read()
                     return contents, content_type
+        else:
+            debug(f"cache removing bad entry for url {cleaned_url}")
+            remove_download_entry(cleaned_url) # remove bad entries
+
     return None
 
 def save_pending_url_to_db(url, depth_actual, depth_effective, db_path=config.DB_CACHE_PATH):

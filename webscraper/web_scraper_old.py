@@ -57,120 +57,13 @@ import os
 import re
 import fitz  # PyMuPDF
 import sys
+from web_scraper_base import *
 
 import utils
 from utils import *
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-
-pattern_peers_family = re.compile(r"""
-    ^https?://        # Start with http or https
-    www\.             # Literal 'www.'
-    (                 # Start of group for domain names
-        wanttoknow\.info         |
-        momentoflove\.org        |
-        # momentoflove domain taken out 03/06/25 due to recursive href's in the navbar in two places:
-        # 1. g/victim_or_creator_vs lead to "g/g/g/g/g/g/g/g" recursions
-        # 2. inspiration/inspiring-videos lead to "inspiration/inspiration/inspiration..." recursions
-        weboflove\.org           |
-        newsarticles\.media      |
-        divinemystery\.net       |
-        inspiringcommunity\.org  |
-        wisdomcourses\.net       |
-        inspirationcourse\.net   |
-        hidden-knowledge\.net    |
-        insightcourse\.net       |
-        transformationteam\.net  |
-        gatheringspot\.net
-    )                # End of group
-    """, re.VERBOSE | re.IGNORECASE)
-
-pattern_archive_url = re.compile(r"""
-    ^https?://        # Start with http or https
-    web\.archive\.org
-    """, re.VERBOSE | re.IGNORECASE)
-
-pattern_hash_url = r'#([\w-]+)$'
-
-# don't visit any urls that match this
-pattern_filter_list = re.compile(r"""
-    ^java?script:              |  # javascript links
-    ^mailto:                   |  # mailto links
-    youtube\.com               |
-    youtu\.be                  |
-    instagram\.com             |
-    facebook\.com              |
-    tiktok\.com                |
-    twitter\.com               |
-    x\.com                     |  # Twitter's new domain
-    linkedin\.com              |
-    reddit\.com                |
-    pinterest\.com             |
-    snapchat\.com              |
-    nytimes\.com               |  # New York Times
-    washingtontimes\.com       |  # Washington Times
-    cnn\.com                   |
-    foxnews\.com               |
-    nbcnews\.com               |
-    abcnews\.go\.com           |
-    example\.com               |
-    example\.org               |
-    \.gov\b                    |  # any domain ending with .gov
-    \.mil\b                       # military domains
-""", re.VERBOSE | re.IGNORECASE)
-
-# Check if this url should be processed
-# Note preferable check this prior to recursive call of crawl
-def should_visit(url, depth_effective, visited_set):
-    debug(f"Should visit url {url} depth {depth_effective}?", flush=config.FLUSH_LOG)
-
-    if pattern_filter_list.search(url):
-        debug(f"Visit declined. Skipping pattern filter list {url}", flush=config.FLUSH_LOG)
-        return False
-
-    if pattern_archive_url.match(url):
-        debug(f"Visit declined. Skipping Archive URL {url}", flush=config.FLUSH_LOG)
-        return False
-
-    if url in visited_set:
-        debug(f"Visit declined. Previously visited: {url}", flush=config.FLUSH_LOG)
-        return False
-
-    # Don't process image files
-    if (bool(re.search('.jpe+g$', url)) or bool(re.search('.gif$', url)) or bool(re.search('.png$', url))):
-        debug(f"Visit declined. Skipping image: {url}", flush=config.FLUSH_LOG)
-        return False
-
-    # Don't process mailto's
-    if (bool(re.search('^mailto:', url))):
-        debug(f"Visit declined. Skipping mailto: {url}", flush=config.FLUSH_LOG)
-        return False
-
-    debug(f"Accepted visit url {url} depth {depth_effective}", flush=config.FLUSH_LOG)
-    return True
-
-
-def should_process_child_links(depth_effective, is_peers_family, max_depth):
-    # don't stray too far from home domain(s)
-    if depth_effective >= max_depth:
-        debug(f"process_child_links declined. Effective depth exceeded {depth_effective}", flush=config.FLUSH_LOG)
-        return False
-
-    # only visit peers family site
-    if not is_peers_family:
-        debug(f"process_child_links declined. Not a peers family site", flush=config.FLUSH_LOG)
-        return False
-
-    debug(f"process child links allowed", flush=config.FLUSH_LOG)
-    return True
-
-
-# make sure all artifact dirs exists
-def init_working_dirs(output_dir):
-    os.makedirs(output_dir, exist_ok=True)
-    os.makedirs(config.LOGS_FOLDER_LOCATION, exist_ok=True)
-    os.makedirs(config.DB_CACHE_LOCATION, exist_ok=True)
 
 def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
     init_working_dirs(output_dir)
@@ -190,7 +83,7 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
             error(f"Webcrawler crawled {num_pages_visited} number of pages.")
 
         is_peers_family = False
-        if pattern_peers_family.match(url):
+        if config.pattern_peers_family.match(url):
             depth_effective = 0  # Effective depth is how many hops from home domain(s)
             is_peers_family = True
             debug(f"URL is in Home Domain(s): {url}", flush=config.FLUSH_LOG)
@@ -277,7 +170,7 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                             child_url = urljoin(url, link['href'])
 
                             # Remove the hash and the following alphanumeric (or dash) characters at the end of the string (if any)
-                            child_url = re.sub(pattern_hash_url, '', child_url)
+                            child_url = re.sub(config.pattern_hash_url, '', child_url)
 
                             # if full_url not in visited and full_url <> url:
                             # Previous - if full_url not in visited:

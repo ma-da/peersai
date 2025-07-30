@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 
 # config.py
 # contains various project settings
@@ -48,3 +49,64 @@ TEST_PDF_URL = "https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.
 # Wayback Machine API endpoint
 WAYBACK_API = "http://archive.org/wayback/available"
 headers = {"User-Agent": "AiBot/1.0"}
+
+# These are the sites we will be visiting
+pattern_peers_family = re.compile(r"""
+    ^https?://                          # Start with http or https
+    (www\.)?                            # Literal 'www.'
+    (                                   # Start of group for domain names
+        wanttoknow\.info         |
+        momentoflove\.org        |
+        weboflove\.org           |
+        newsarticles\.media      |
+        divinemystery\.net       |
+        inspiringcommunity\.org  |
+        wisdomcourses\.net       |
+        inspirationcourse\.net   |
+        hidden-knowledge\.net    |
+        insightcourse\.net       |
+        transformationteam\.net  |
+        martintruther\.com       |
+        gatheringspot\.net
+    )                                   # End of group
+    (?=/|$)                             # Ensure domain ends properly (optional but safer)
+    """, re.VERBOSE | re.IGNORECASE)
+
+pattern_archive_url = re.compile(r"""
+    ^https?://        # Start with http or https
+    web\.archive\.org
+    """, re.VERBOSE | re.IGNORECASE)
+
+pattern_hash_url = r'#([\w-]+)$'
+
+# don't visit any urls that match this
+pattern_filter_list = re.compile(r"""
+    ^java?script:              |  # javascript links
+    ^mailto:                   |  # mailto links
+    amazon\.com                |
+    youtube\.com               |
+    youtu\.be                  |
+    instagram\.com             |
+    facebook\.com              |
+    tiktok\.com                |
+    twitter\.com               |
+    x\.com                     |  # Twitter's new domain
+    linkedin\.com              |
+    reddit\.com                |
+    pinterest\.com             |
+    snapchat\.com              |
+    nytimes\.com               |  # New York Times
+    washingtontimes\.com       |  # Washington Times
+    cnn\.com                   |
+    foxnews\.com               |
+    nbcnews\.com               |
+    abcnews\.go\.com           |
+    example\.com               |
+    example\.org               |
+    rumble\.com                |
+    redirect                   |
+    sign-in                    |
+    \.gov\b                    |  # any domain ending with .gov
+    \.mil\b                       # military domains
+""", re.VERBOSE | re.IGNORECASE)
+

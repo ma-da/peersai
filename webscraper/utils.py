@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from urllib.parse import urlparse, parse_qs
 
 from bs4 import BeautifulSoup
 import config
@@ -79,15 +80,17 @@ def hash_html_content(html):
 
 
 def hash_soup(soup: BeautifulSoup) -> str:
-    html = soup.pretty()
+    html = soup.prettify()
     return hash_html_content(html)
 
 
 def already_seen(filter, content_hash):
     return content_hash in filter
 
+
 def is_html_file(filename):
     return filename.lower().endswith((".html", ".htm"))
+
 
 def save_txt_content_to_file(txt_filename, html_content):
     content = content_filter.extract_content_newspaper(html_content)
@@ -100,3 +103,31 @@ def save_txt_content_to_file(txt_filename, html_content):
     debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
     with open(txt_filename, 'wb') as file:
         file.write(content.encode("utf-8"))
+
+
+# adjustments to soup body for ease of processing
+def body_adjustments(soup):
+    body = soup.find("body")
+    for s in body.find_all("script"):
+        try:
+            if "substackcdn" in s["src"]:
+                s.decompose()
+        except:
+            pass
+    return body
+
+
+def is_substack_comment_page(url: str) -> bool:
+    parsed = urlparse(url)
+
+    # Check if domain matches Substack
+    if not parsed.netloc.endswith("substack.com"):
+        return False
+
+    # Check query string for comment-related keys
+    query_params = parse_qs(parsed.query)
+    for key in query_params:
+        if "comment" in key.lower():
+            return True
+
+    return False
