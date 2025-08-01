@@ -52,7 +52,8 @@ CRAWLER_FETCH_REQUESTS = 1
 CRAWLER_FETCH_PLAYWRIGHT = 2
 
 # this is the fetch strategy that the crawler will use
-CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
+#CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
+CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_PLAYWRIGHT
 
 # test url for testing pdf functionality
 TEST_PDF_URL = "https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf"
@@ -78,7 +79,8 @@ pattern_peers_family = re.compile(r"""
         insightcourse\.net       |
         transformationteam\.net  |
         martintruther.com        |
-        gatheringspot\.net
+        gatheringspot\.net       |
+        childrenshealthdefense\.org
     )                                   # End of group
     (?=/|$)                             # Ensure domain ends properly (optional but safer)
     """, re.VERBOSE | re.IGNORECASE)
