@@ -147,9 +147,30 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
         # Try to fetch the page
         try:
             # original version
-            # cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_request(url, headers=config.headers, timeout=15)
-            # playwright version
-            cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_playwright_request(url, headers=config.headers, timeout=60000)
+            cleaned_url = ""
+            status_code = 0
+            content_type = ""
+            content = ""
+            was_cached = False
+
+            # uses http requests library to fetch
+            if config.CRAWLER_FETCH_STRATEGY == config.CRAWLER_FETCH_REQUESTS:
+                cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_request(url, headers=config.headers, timeout=15)
+            # uses playwright library to fetch
+            elif config.CRAWLER_FETCH_STRATEGY == config.CRAWLER_FETCH_PLAYWRIGHT:
+                    cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_playwright_request(url, headers=config.headers, timeout=60000)
+            else:
+                raise Exception("Crawl failed due to unknown fetch strategy")
+
+            num_retries = 0
+            while status_code == 429 and num_retries < config.RATELIMIT_RETRIES:  # handle relimiting
+                debug(f"Got rate limiting response 429. Will wait and retry for url: {url}")
+                cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_playwright_request(url, headers=config.headers, timeout=60000)
+                time.sleep(config.RATELIMIT_RETRY_TIME_SECS)
+                num_retries = num_retries + 1
+            if num_retries >= config.RATELIMIT_RETRIES:
+                error(f"Exceeded allowed number of retries for url: {url}")
+
             if status_code == 200:
                 if config.ENABLE_PROCESS_PDFS and 'application/pdf' in content_type:
                     print(f"File appears to be PDF {url}", flush=config.FLUSH_LOG)

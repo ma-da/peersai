@@ -47,9 +47,7 @@ def get_cached_content_or_request(url, headers=config.headers, timeout=15):
         debug(f"cleaned_url {cleaned_url} was retrieved from cache")
         return cleaned_url, 200, content_type, content, True
 
-import requests
-from playwright.sync_api import sync_playwright, TimeoutError
-
+# Return tuple (cleaned_url, status_code, content_type, content, was_cached)
 def get_cached_content_or_playwright_request(url, headers=config.headers, timeout=15000):
     cleaned_url = clean_url(url)
     cached_data = None
@@ -68,6 +66,8 @@ def get_cached_content_or_playwright_request(url, headers=config.headers, timeou
         debug(f"cleaned_url {cleaned_url} not found in cache. Retrieving headers...", flush=config.FLUSH_LOG)
         head_response = requests.head(url, headers=headers, timeout=timeout, allow_redirects=True)
         content_type = head_response.headers.get('Content-Type', '').lower()
+        if head_response.status_code == 429:
+            return cleaned_url, 429, content_type, "", False
 
         # Handle PDF via direct GET
         if 'application/pdf' in content_type:
@@ -88,8 +88,9 @@ def get_cached_content_or_playwright_request(url, headers=config.headers, timeou
 
                 if not response:
                     raise Exception("No response received from Playwright.", flush=config.FLUSH_LOG)
-
-                if response.status != 200:
+                elif response.status == 429:
+                    return cleaned_url, 429, content_type, "", False
+                elif response.status != 200:
                     raise Exception(f"Non-200 response for html: {response.status} for {url}")
 
                 content_type = response.headers.get("content-type", "")
@@ -98,6 +99,10 @@ def get_cached_content_or_playwright_request(url, headers=config.headers, timeou
 
                 html_content = page.content()
                 return cleaned_url, 200, content_type, html_content.encode("utf-8"), False
+
+        # treat plain text as retry scenario
+        elif 'text/plain' in content_type:
+            return cleaned_url, 429, content_type, "", False
 
         else:
             raise Exception(f"Unsupported content type: {content_type}")

@@ -34,6 +34,10 @@ MAX_DEPTH_CRAWL_LIMIT = 2
 # this number cannot be zero
 PROGRESS_REPORT_N_PAGES = 25
 
+# settings used if we encounter a ratelimit response (http code 429)
+RATELIMIT_RETRIES = 3
+RATELIMIT_RETRY_TIME_SECS = 0.1
+
 # crawler behavior
 ENABLE_PROCESS_PDFS = True          # for testing
 SAVE_HTML_CONTENT = True            # for testing
@@ -42,6 +46,13 @@ DEBUG_ENABLED = True                # set to False to disable debug printing
 CACHE_ENABLED = False               # set to true to enable cache usage
 FLUSH_CACHE_ON_START = False        # set to true to flush the cache on program start
 LOAD_PENDING_QUEUE_ON_START = True  # set to true to load the pending queue on start (pending prioritized ahead of start_url)
+
+# enumerates possible crawler fetch strategy
+CRAWLER_FETCH_REQUESTS = 1
+CRAWLER_FETCH_PLAYWRIGHT = 2
+
+# this is the fetch strategy that the crawler will use
+CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
 
 # test url for testing pdf functionality
 TEST_PDF_URL = "https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf"
@@ -66,7 +77,7 @@ pattern_peers_family = re.compile(r"""
         hidden-knowledge\.net    |
         insightcourse\.net       |
         transformationteam\.net  |
-        martintruther\.com       |
+        martintruther.com        |
         gatheringspot\.net
     )                                   # End of group
     (?=/|$)                             # Ensure domain ends properly (optional but safer)
