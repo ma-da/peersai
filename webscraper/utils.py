@@ -97,12 +97,14 @@ def save_txt_content_to_file(txt_filename, html_content):
     # content = content_filter.extract_content_from_soup(soup)
 
     if len(content) == 0:
-        return
+        return False
 
     # save txt content
     debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
     with open(txt_filename, 'wb') as file:
         file.write(content.encode("utf-8"))
+    debug(f"Finished text {txt_filename}")
+    return True
 
 
 # adjustments to soup body for ease of processing

@@ -41,9 +41,9 @@ RATELIMIT_RETRY_TIME_SECS = 0.1
 # crawler behavior
 ENABLE_PROCESS_PDFS = True          # for testing
 SAVE_HTML_CONTENT = True            # for testing
-FLUSH_LOG = False                   # set to true for better debugging output
+FLUSH_LOG = True                   # set to true for better debugging output
 DEBUG_ENABLED = True                # set to False to disable debug printing
-CACHE_ENABLED = False               # set to true to enable cache usage
+CACHE_ENABLED = True               # set to true to enable cache usage
 FLUSH_CACHE_ON_START = False        # set to true to flush the cache on program start
 LOAD_PENDING_QUEUE_ON_START = True  # set to true to load the pending queue on start (pending prioritized ahead of start_url)
 

@@ -212,12 +212,16 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
                             save_resp_content(soup_content, filename)
 
                             txt_filename = filename.replace('.html', '.txt')
-                            utils.save_txt_content_to_file(txt_filename, soup_content)
+                            txt_file_saved = utils.save_txt_content_to_file(txt_filename, soup_content)
 
                             # save cache metadata entry
                             if config.CACHE_ENABLED:
                                 url_file_size = os.path.getsize(filename)
-                                txt_file_size = os.path.getsize(txt_filename)
+
+                                txt_file_size = 0
+                                if txt_file_saved:
+                                    txt_file_size = os.path.getsize(txt_filename)
+
                                 cache.update_cache(cleaned_url, 'text/html', filename, url_file_size, txt_filename, txt_file_size, hash_val)
                         else:
                             debug(f"MARK page filename: {filename}", flush=config.FLUSH_LOG)
@@ -285,6 +289,7 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
                                                                                                           '_')))  # handle html or pdf?
                     #download_url(archived_url, os.path.join(output_dir, "archived_" + clean_url.replace('/', '_') + '.html'))
                     # Unless it's a PDF and not an HTML file ???
+                    debug("Fetched archive url {url}")
                 else:
                     error(f"ERROR: No archived version found for: {url}")
                 # endif for if archived
