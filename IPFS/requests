@@ -1,68 +1,71 @@
+# Our dedicated gateway is: peers.mypinata.cloud
+# Our gateway domain is: ai.peerservice.org
+
 import requests
 import json
+import os
 
-# Our dedicated gateway is: peers.mypinata.cloud
+# ====== CONFIG ======
+JWT = "THE_JWT"  # Your Pinata JWT
+GATEWAY_DOMAIN = "https://ai.peerservice.org"
+# ====================
 
-# UPLOAD FILE
+def upload_file(file_path: str, name: str, keyvalues: dict) -> dict:
+    """Upload a file to Pinata v3 and return the JSON response."""
+    metadata_json = {"keyvalues": {k: str(v) for k, v in keyvalues.items()}} # all values must be strings
+    upload_name = name or os.path.basename(file_path)
 
-# Pinata JWT
-JWT = "THE JWT"
+    with open(file_path, "rb") as file_data:
+        files = {
+            "file": (upload_name, file_data, "text/plain")
+        }
+        data = {
+            "network": "public",
+            "name": upload_name,
+            "metadata": json.dumps(metadata_json)
+        }
+        headers = {"Authorization": f"Bearer {JWT}"}
 
-# Path to your local .txt file
-file_path = "C:/datasources/PEERSAITEST1.txt"
+        response = requests.post(
+            "https://uploads.pinata.cloud/v3/files",
+            headers=headers,
+            files=files,
+            data=data,
+            timeout=120
+        )
 
-# Desired name and metadata (values must be strings)
-name = "PEERSAITEST1.txt"
-keyvalues = {
-    "env": "prod"
-}
+    if response.ok:
+        print("Upload successful!")
+        print(response.json())
+        return response.json()
+    else:
+        print("Upload failed:", response.status_code, response.text)
+        return {}
+""" Example successful response: {'data': {'id': '01988bbf-ec57-7ca6-b686-ce84fecdfb8b', 'name': 'aitest2.txt', 'size': 281, 'mime_type': 'text/plain', 'cid': 'bafkreickkozp7gxrtteuh652gvhoap73iudgozvczqmjhwe5wodtjip234', 'network': 'public', 'number_of_files': 1, 'streamable': False, 'created_at': '2025-08-08T22:14:27.888Z', 'updated_at': '2025-08-08T22:14:27.888Z'}}"""
+def download_file(cid: str, filename: str) -> str:
+    """Download a raw file from your custom gateway by CID and filename."""
+    url = f"{GATEWAY_DOMAIN}/ipfs/{cid}/{filename}?format=raw"
+    headers = {"Accept": "text/plain, application/octet-stream;q=0.9"}
 
-# Pinata expects the keyvalues field formatted as:
-# {
-#   "keyvalues": {
-#     "env": "prod"
-#   }
-# }
-metadata_json = {
-    "keyvalues": {k: str(v) for k, v in keyvalues.items()}
-}
+    response = requests.get(url, headers=headers)
+    if response.ok:
+        print("Download successful!")
+        return response.text
+    else:
+        raise RuntimeError(f"Failed to fetch: {response.status_code} {response.text}")
 
-# Open and upload file
-with open(file_path, "rb") as file_data:
-    files = {
-        "file": (file_path, file_data, "text/plain")
-    }
+if __name__ == "__main__":
+    # Example: upload then download
+    file_path = "C:/datasources/aitest2.txt"
+    file_name = "aitest2.txt"
+    kv = {"env": "prod"}
 
-    data = {
-        "network": "public",
-        "name": name,
-        "metadata": json.dumps(metadata_json)  # this key must be called 'metadata'
-    }
+    upload_res = upload_file(file_path, file_name, kv)
 
-    headers = {
-        "Authorization": f"Bearer {JWT}"
-    }
+    # If you want to immediately download, use the directory CID from the upload
+    # (upload CID is usually a directory CID in v3)
+    if "data" in upload_res:
+        dir_cid = upload_res["data"]["cid"]
+        file_text = download_file(dir_cid, file_name)
+        print("File contents:\n", file_text)
 
-    response = requests.post(
-        "https://uploads.pinata.cloud/v3/files",
-        headers=headers,
-        files=files,
-        data=data
-    )
-
-# Handle the response
-if response.ok:
-    print("Upload successful!")
-    print(response.json())
-else:
-    print("Upload failed:", response.status_code)
-    print(response.text)
-
-# Sample successful response - mote that cid is the standard identifier for reference    
-# Upload successful!
-# {'data': {'id': '0198803f-c882-7534-9aeb-36c12c0513cc', 'name': 'PEERSAITEST1.txt', 'size': 177, 'mime_type': 'directory', 'cid': 'bafybeiean24z5phlz2eqdxuph7y6ononukmdr2p2cgrbxr3bmwuq5y5ime', 'network': 'public', 'number_of_files': 1, 'streamable': False, 'created_at': '2025-08-06T16:38:40.796Z', 'updated_at': '2025-08-06T16:38:40.796Z'}}
-    
-    
-# RETRIEVE FILE
-
-# will update once custom domain is set up and connected to our gateway 
