@@ -7,42 +7,46 @@ import os
 
 # ====== CONFIG ======
 JWT = "THE_JWT"  # Your Pinata JWT
-GATEWAY_DOMAIN = "https://ai.peerservice.org"
 # ====================
 
-def upload_file(file_path: str, name: str, keyvalues: dict) -> dict:
-    """Upload a file to Pinata v3 and return the JSON response."""
-    metadata_json = {"keyvalues": {k: str(v) for k, v in keyvalues.items()}} # all values must be strings
-    upload_name = name or os.path.basename(file_path)
+# Path to your local .txt file
+file_path = "C:/datasources/aitest5.txt"
 
-    with open(file_path, "rb") as file_data:
-        files = {
-            "file": (upload_name, file_data, "text/plain")
-        }
-        data = {
-            "network": "public",
-            "name": upload_name,
-            "metadata": json.dumps(metadata_json)
-        }
-        headers = {"Authorization": f"Bearer {JWT}"}
+# Desired name and metadata (values must be strings)
+name = "aitest5.txt"
+keyvalues = {"env": "prod"}
+metadata_json = {"keyvalues": {k: str(v) for k, v in keyvalues.items()}}
 
-        response = requests.post(
-            "https://uploads.pinata.cloud/v3/files",
-            headers=headers,
-            files=files,
-            data=data,
-            timeout=120
-        )
+# choose the name to appear inside IPFS (no directories)
+upload_name = name or os.path.basename(file_path)
 
-    if response.ok:
-        print("Upload successful!")
-        print(response.json())
-        return response.json()
-    else:
-        print("Upload failed:", response.status_code, response.text)
-        return {}
-""" Example successful response: {'data': {'id': '01988bbf-ec57-7ca6-b686-ce84fecdfb8b', 'name': 'aitest2.txt', 'size': 281, 'mime_type': 'text/plain', 'cid': 'bafkreickkozp7gxrtteuh652gvhoap73iudgozvczqmjhwe5wodtjip234', 'network': 'public', 'number_of_files': 1, 'streamable': False, 'created_at': '2025-08-08T22:14:27.888Z', 'updated_at': '2025-08-08T22:14:27.888Z'}}"""
-def download_file(cid: str, filename: str) -> str:
+with open(file_path, "rb") as file_data:
+    files = {
+        # use basename (or your provided `name`)
+        "file": (upload_name, file_data, "text/plain")
+    }
+    data = {
+        "network": "public",
+        "name": upload_name,                      # optional but nice to keep consistent
+        "metadata": json.dumps(metadata_json)     # must be 'metadata' and values must be strings
+    }
+    headers = {"Authorization": f"Bearer {JWT}"}
+
+    response = requests.post(
+        "https://uploads.pinata.cloud/v3/files",
+        headers=headers,
+        files=files,
+        data=data,
+        timeout=120
+    )
+
+# Handle the response
+if response.ok:
+    print("Upload successful!")
+    print(response.json())
+else:
+    print("Upload failed:", response.status_code)
+    print(response.text)def download_file(cid: str, filename: str) -> str:
     """Download a raw file from your custom gateway by CID and filename."""
     url = f"{GATEWAY_DOMAIN}/ipfs/{cid}/{filename}?format=raw"
     headers = {"Accept": "text/plain, application/octet-stream;q=0.9"}
@@ -53,19 +57,23 @@ def download_file(cid: str, filename: str) -> str:
         return response.text
     else:
         raise RuntimeError(f"Failed to fetch: {response.status_code} {response.text}")
+# ===== EXAMPLE GOOD RESPONSE =====
+{'data': {'id': '0198af81-e08e-7f33-8b0f-0c41ed9b96ab', 'name': 'aitest5.txt', 'size': 344, 'mime_type': 'text/plain', 'cid': 'bafkreibdot7rq776eqwo5k4ogpmm5lcxh2lwg5qx7fxum6xfiq6uf4ktzq', 'network': 'public', 'number_of_files': 1, 'streamable': False, 'created_at': '2025-08-15T20:53:01.405Z', 'updated_at': '2025-08-15T20:53:01.405Z'}}
+# ===== REQUEST THE FILE BY CID =====
+# test dir cid = "bafybeiean24z5phlz2eqdxuph7y6ononukmdr2p2cgrbxr3bmwuq5y5ime"
+cid = "bafkreibdot7rq776eqwo5k4ogpmm5lcxh2lwg5qx7fxum6xfiq6uf4ktzq"
+url = f"https://ai.peerservice.org/ipfs/{cid}?format=raw"
 
-if __name__ == "__main__":
-    # Example: upload then download
-    file_path = "C:/datasources/aitest2.txt"
-    file_name = "aitest2.txt"
-    kv = {"env": "prod"}
+r = requests.get(
+    url,
+    headers={"Accept": "text/plain, application/octet-stream;q=0.9"}
+)
+r.raise_for_status()
+text = r.text  # or r.content for bytes
 
-    upload_res = upload_file(file_path, file_name, kv)
+response = requests.get(url)
 
-    # If you want to immediately download, use the directory CID from the upload
-    # (upload CID is usually a directory CID in v3)
-    if "data" in upload_res:
-        dir_cid = upload_res["data"]["cid"]
-        file_text = download_file(dir_cid, file_name)
-        print("File contents:\n", file_text)
-
+if response.ok:
+    print(response.text)
+else:
+    print("Failed to fetch:", response.status_code, response.text)
