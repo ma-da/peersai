@@ -57,10 +57,13 @@ else:
         return response.text
     else:
         raise RuntimeError(f"Failed to fetch: {response.status_code} {response.text}")
+
 # ===== EXAMPLE GOOD RESPONSE =====
+
 {'data': {'id': '0198af81-e08e-7f33-8b0f-0c41ed9b96ab', 'name': 'aitest5.txt', 'size': 344, 'mime_type': 'text/plain', 'cid': 'bafkreibdot7rq776eqwo5k4ogpmm5lcxh2lwg5qx7fxum6xfiq6uf4ktzq', 'network': 'public', 'number_of_files': 1, 'streamable': False, 'created_at': '2025-08-15T20:53:01.405Z', 'updated_at': '2025-08-15T20:53:01.405Z'}}
+
 # ===== REQUEST THE FILE BY CID =====
-# test dir cid = "bafybeiean24z5phlz2eqdxuph7y6ononukmdr2p2cgrbxr3bmwuq5y5ime"
+
 cid = "bafkreibdot7rq776eqwo5k4ogpmm5lcxh2lwg5qx7fxum6xfiq6uf4ktzq"
 url = f"https://ai.peerservice.org/ipfs/{cid}?format=raw"
 
