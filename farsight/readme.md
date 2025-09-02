@@ -1,1 +1,3 @@
-Indexing the Farsight dataset.
+# Indexing the Farsight dataset
+
+farsight.ipynb crawls the [Farsight Institute Vault](https://farsight.org/FarsightPress/Publication_Dates_for_Farsight_Projects), processesses all transcript text into text chunks formatted as json, computes TF-IDF vectors for all chunks, and generates an index of their vectors. farsight.html provides a search interface for the dataset, relying on the precomputed vectors for initial results, then refining the results using semantic [BGE embeddings](https://huggingface.co/BAAI/bge-small-en). The dataset and index are stored on IPFS and all search compute happens in the browser. You can see the interface in action [here](https://rstory.io/farsight.html).   
