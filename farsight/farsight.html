@@ -20,12 +20,14 @@
   button{ padding:12px 18px; border-radius:12px; border:1px solid var(--ring); background:var(--card); color:var(--fg); cursor:pointer }
   button:hover{ outline:1px solid var(--accent) }
   .status{ margin-top:8px; color:var(--muted); font-size:14px }
-  .progress{ height:8px; width:100%; border-radius:999px; background:var(--accent); overflow:hidden; margin:10px 0 18px; border:1px solid var(--ring) }
+  .progress{ height:8px; width:100%; border-radius:999px; background:var(--accent); overflow:hidden; margin:10px 0 18px; border:1px solid var(--bg) }
   .bar{ height:100%; width:0%; background:linear-gradient(90deg, var(--accent), #88f) }
   .results{ display:grid; gap:14px }
-  .card{ padding:14px 16px; background:var(--card); border:1px solid var(--ring); border-radius:16px }
-  .meta{ font-size:13px; color:var(--muted); display:flex; gap:10px; flex-wrap:wrap }
-  .pill{ padding:1px 8px; border:1px solid var(--ring); border-radius:999px }
+  .card{ padding:14px 16px; background:var(--card); border:1px solid var(--ring); border-radius:16px; margin-bottom: 16px }
+  .meta{ font-size:13px; color:var(--muted); display:flex; gap:10px; flex-wrap:wrap; margin-bottom: 16px }
+  .pill{ display:inline-block; padding:1px 8px; border:3px solid var(--ring); border-radius:999px; }
+  .pill-link, .pill-link:visited{ color: var(--fg); text-decoration: none; }
+  .pill-link:hover, .pill-link:focus{ border-color: var(--accent); outline: none; }
   .score{ color:var(--accent); font-weight:600 }
   .title a{ color:var(--fg); text-decoration:none; border-bottom:1px dashed var(--ring) }
   .chunk{ white-space:pre-wrap; word-break:break-word }
@@ -66,8 +68,8 @@
 </main>
 
 <footer>
-  <p>Here you can easily search the <a href="https://farsight.org/FarsightPress/Publication_Dates_for_Farsight_Projects" target="_blank">Farsight Institute Vault</a> material. The page provides instant TF-IDF matches, then a semantic re-ranking of the best matches that takes a little longer. Once re-ranking is complete, 20 dataset entries are displayed with titles that link to each entry's Farsight page. <a href="#" data-img="https://rstory.mypinata.cloud/ipfs/bafybeihrzl7uks6nwxyxwzu2j6s4byysjsglsejiufgduin6zgtbjba7km" data-caption="Farsight wordcloud">View word cloud</a>.</p> 
-  <p>Page by <a href="https://freemindgazette.substack.com/" target="_blank">Mark Bailey</a> of <a href="https://www.wanttoknow.info/" target="_blank">WantToKnow.info</a></p>
+  <p>Here you can easily search the <a href="https://farsight.org/FarsightPress/Publication_Dates_for_Farsight_Projects" target="_blank">Farsight Institute Vault</a> material. The page provides instant TF-IDF matches, then a semantic re-ranking of the best matches that takes a little longer. Once re-ranking is complete, 10 dataset entries are displayed with titles that link to each entry's Farsight page. <a href="#" data-img="https://rstory.mypinata.cloud/ipfs/bafybeihrzl7uks6nwxyxwzu2j6s4byysjsglsejiufgduin6zgtbjba7km" data-caption="Farsight wordcloud">View word cloud</a>.</p> 
+  <p>Page by <a href="https://freemindgazette.substack.com/" target="_blank">Mark Bailey</a> of <a href="https://www.wanttoknow.info/" target="_blank">WantToKnow.info</a>. All code used here is <a href="https://github.com/ma-da/peersai/tree/main/farsight">available on Github</a></p>
 
 </footer>
 
@@ -139,8 +141,8 @@ const DATA_URL  = `https://rstory.mypinata.cloud/ipfs/${DATA_CID}?filename=farsi
 const INDEX_URL = `https://rstory.mypinata.cloud/ipfs/${INDEX_CID}?filename=tfidf_index.json`;
 
 // Results & rerank
-const TOP_K_DISPLAY   = 20;   // show this many
-const RERANK_POOL     = 200;  // TF-IDF top-N to semantically rerank
+const TOP_K_DISPLAY   = 10;   // show this many
+const RERANK_POOL     = 50;  // TF-IDF top-N to semantically rerank
 const BATCH_SIZE_EMBED = 8;   // embedding batch size
 
 // Embedding model (Transformers.js)
@@ -317,24 +319,75 @@ async function embedTextsBatch(texts, batchSize = BATCH_SIZE_EMBED, { isQuery=fa
   return out;
 }
 
+// Trim a chunk so it starts/ends on sentence boundaries (display-only).
+function clampToSentenceBounds(text, { maxSkip = 220 } = {}) {
+  if (!text) return "";
+  let t = String(text).trim();
+
+  const looksLikeSentenceStart = (s) =>
+    /^[A-Z0-9“"(\[]/.test(s); // capital/quote/paren etc.
+
+  const looksLikeSentenceEnd = (s) =>
+    /[.!?…][)"'’»\]\)]*\s*$/.test(s);
+
+  // --- Trim the head: if we likely start mid-sentence, skip to the first boundary ---
+  if (!looksLikeSentenceStart(t)) {
+    const headRe = /[.!?…][)"'’»\]\)]*\s+/g; // sentence boundary
+    const m = headRe.exec(t);
+    if (m && m.index < maxSkip) {
+      t = t.slice(m.index + m[0].length).trimStart();
+    }
+  }
+
+  // --- Trim the tail: cut after the last boundary if we likely end mid-sentence ---
+  if (!looksLikeSentenceEnd(t)) {
+    const tailRe = /[.!?…][)"'’»\]\)]*/g;
+    let last = null, m;
+    while ((m = tailRe.exec(t)) !== null) last = m;
+    if (last && (t.length - (last.index + last[0].length)) < maxSkip) {
+      t = t.slice(0, last.index + last[0].length).trimEnd();
+    }
+  }
+
+  // If we trimmed too aggressively and got very short, fall back to original
+  if (t.length < 60) return String(text).trim();
+  return t;
+}
+
 /* ---------------- Render ---------------- */
 function renderResultsFromPairs(rows, pairs){
   resultsEl.innerHTML = "";
   for (const [id, score] of pairs){
     const r = rows[id];
+
+    const titlePill = r.title_url
+      ? `<a class="pill pill-link" href="${r.title_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(r.title || "(untitled)")}</a>`
+      : `<span class="pill">${escapeHtml(r.title || "(untitled)")}</span>`;
+
+    const sectionPill = r.section
+      ? `<span class="pill pill--muted">${escapeHtml(r.section)}</span>`
+      : "";
+
+    const dateHtml = r.publication_date
+      ? `<span>${new Date(r.publication_date).toDateString()}</span>`
+      : "";
+
+    const scoreHtml = `<span class="score">score=${Number(score).toFixed(3)}</span>`;
+
+    const metaRow = `
+      <div class="meta">
+        ${titlePill}
+        ${sectionPill}
+        ${dateHtml}
+        ${scoreHtml}
+      </div>
+    `;
+
     const el = document.createElement("div");
     el.className = "card";
     el.innerHTML = `
-      <div class="meta">
-        <span class="pill">${r.section || r.title || ""}</span>
-        <span>${r.publication_date ? new Date(r.publication_date).toDateString() : ""}</span>
-        <span class="score">score=${Number(score).toFixed(3)}</span>
-      </div>
-      <div class="title" style="margin-top:6px; margin-bottom:8px;">
-        ${r.title_url ? `<a href="${r.title_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(r.title||"(untitled)")}</a>`
-                      : `<span>${escapeHtml(r.title||"(untitled)")}</span>`}
-      </div>
-      <div class="chunk">${escapeHtml(r.chunk_text || "")}</div>
+      ${metaRow}
+      <div class="chunk">${escapeHtml(clampToSentenceBounds ? clampToSentenceBounds(r.chunk_text || "") : (r.chunk_text || ""))}</div>
     `;
     resultsEl.appendChild(el);
   }
@@ -438,3 +491,5 @@ $("#q")?.addEventListener("keydown", (e) => { if (e.key === "Enter") doSearch();
 
 </body>
 </html>
+
+
