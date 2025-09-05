@@ -115,10 +115,10 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1):
                     pdf_fetcher.download_pdf(url, pdf_output_path)
 
                     # Step 2: Extract text from the PDF
-                    extracted_text = pdf_fetcher.extract_text_from_pdf(pdf_output_path)
+                    title, extracted_text = pdf_fetcher.extract_text_from_pdf(pdf_output_path)
 
                     # Step 3: Save the extracted text to a file
-                    pdf_fetcher.save_text_to_file(extracted_text, pdf_output_txt_filename)
+                    pdf_fetcher.save_text_to_file(title, extracted_text, pdf_output_txt_filename)
 
                 elif 'text/html' in content_type:
                     debug(f"File appears to be HTML {url}", flush=config.FLUSH_LOG)

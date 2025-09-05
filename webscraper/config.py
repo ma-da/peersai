@@ -52,8 +52,8 @@ CRAWLER_FETCH_REQUESTS = 1
 CRAWLER_FETCH_PLAYWRIGHT = 2
 
 # this is the fetch strategy that the crawler will use
-#CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
-CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_PLAYWRIGHT
+CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
+#CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_PLAYWRIGHT
 
 # test url for testing pdf functionality
 TEST_PDF_URL = "https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf"
@@ -80,6 +80,11 @@ pattern_peers_family = re.compile(r"""
         transformationteam\.net  |
         martintruther.com        |
         gatheringspot\.net       |
+        usrtk\.org                |
+        newparadigminstitute\.org |
+        responsibletechnology\.org |
+        theblackvault\.com         |
+        farsight\.org              |
         childrenshealthdefense\.org
     )                                   # End of group
     (?=/|$)                             # Ensure domain ends properly (optional but safer)
@@ -119,6 +124,8 @@ pattern_filter_list = re.compile(r"""
     rumble\.com                |
     redirect                   |
     sign-in                    |
+    wa\.me                     |
+    tel:\+                     |
     \.gov\b                    |  # any domain ending with .gov
     \.mil\b                       # military domains
 """, re.VERBOSE | re.IGNORECASE)

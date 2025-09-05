@@ -40,6 +40,8 @@ def save_resp_content(content, filename):
 def get_txt_file_name(html_filename):
     return html_filename.replace('.html', '.txt')
 
+def get_txt_file_name(pdf_filename):
+    return pdf_filename.replace('.pdf', '.txt')
 
 def get_wayback_url(url):
     """Fetch the closest archived version of a URL from Archive.org."""
@@ -93,7 +95,7 @@ def is_html_file(filename):
 
 
 def save_txt_content_to_file(txt_filename, html_content):
-    content = content_filter.extract_content_newspaper(html_content)
+    title, content = content_filter.extract_content_newspaper(html_content)
     # content = content_filter.extract_content_from_soup(soup)
 
     if len(content) == 0:
@@ -102,6 +104,7 @@ def save_txt_content_to_file(txt_filename, html_content):
     # save txt content
     debug(f"Save text: {txt_filename}", flush=config.FLUSH_LOG)
     with open(txt_filename, 'wb') as file:
+        file.write((title.strip() + "\n\n").encode("utf-8"))
         file.write(content.encode("utf-8"))
     debug(f"Finished text {txt_filename}")
     return True

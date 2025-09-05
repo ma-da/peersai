@@ -36,17 +36,24 @@ def main():
 
         print(f"Processing html file {html_filename}", flush=config.FLUSH_LOG)
         with open(html_filename, 'rb') as input_file:
-            content = input_file.read()
-            soup = BeautifulSoup(content, 'html.parser')
+            try:
+                content = input_file.read()
+                soup = BeautifulSoup(content, 'html.parser')
 
-            # here we want to choose the appropriate content conversion strategy
-            txt_content = content_filter.extract_content_newspaper(content)
-            #txt_content = content_filter.extract_content_from_soup(soup)
+                if not content or len(content) == 0:
+                    continue
 
-            with open(txt_filename, 'wb') as output_file:
-                output_file.write(txt_content.encode("utf-8"))
-                print(f"Regenerating txt: '{txt_filename}' from file: '{html_file}'")
-                n = n + 1
+                # here we want to choose the appropriate content conversion strategy
+                title, txt_content = content_filter.extract_content_newspaper(content)
+                #txt_content = content_filter.extract_content_from_soup(soup)
+
+                with open(txt_filename, 'wb') as output_file:
+                    output_file.write((title + "\n\n").encode("utf-8"))
+                    output_file.write(txt_content.encode("utf-8"))
+                    print(f"Regenerating txt: '{txt_filename}' from file: '{html_file}'")
+                    n = n + 1
+            except:
+                print(f"Problem occurred when processing html file {html_filename}", flush=config.FLUSH_LOG)
 
     print(f"Text conversion converted {n} txt files")
 

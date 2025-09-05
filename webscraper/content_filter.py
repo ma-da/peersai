@@ -7,7 +7,7 @@ def extract_content_newspaper(html_content):
     article = Article(url="https://dummy.com")  # dummy url
     article.set_html(html_content)
     article.parse()
-    return article.text
+    return article.title, article.text
 
 
 # This strategy strips out the html tags
