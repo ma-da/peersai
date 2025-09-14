@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Farsight Transcript Search — TF-IDF + Semantic Rerank</title>
+<title>Farsight Transcript Search</title>
 
 <style>
   :root { --bg:#BCD0D6; --fg:#eaf0f1; --muted:#422F05; --accent:#79ffe1; --card:#151a1f; --ring:#2b3540; }
@@ -18,16 +18,14 @@
   input[type="text"]{ width:100%; padding:12px 14px; border-radius:12px; border:1px solid var(--ring); background:var(--card); color:var(--fg) }
   img { display: block; margin: 0 auto; max-width: 80%; height: auto; }
   button{ padding:12px 18px; border-radius:12px; border:1px solid var(--ring); background:var(--card); color:var(--fg); cursor:pointer }
-  button:hover{ outline:1px solid var(--accent) }
+  button:hover{ outline:3px solid var(--accent) }
   .status{ margin-top:8px; color:var(--muted); font-size:14px }
-  .progress{ height:8px; width:100%; border-radius:999px; background:var(--accent); overflow:hidden; margin:10px 0 18px; border:1px solid var(--bg) }
+  .progress{ height:8px; width:100%; border-radius:999px; background:var(--accent); overflow:hidden; margin:10px 0 18px; border:0px solid var(--ring) }
   .bar{ height:100%; width:0%; background:linear-gradient(90deg, var(--accent), #88f) }
   .results{ display:grid; gap:14px }
-  .card{ padding:14px 16px; background:var(--card); border:1px solid var(--ring); border-radius:16px; margin-bottom: 16px }
-  .meta{ font-size:13px; color:var(--muted); display:flex; gap:10px; flex-wrap:wrap; margin-bottom: 16px }
-  .pill{ display:inline-block; padding:1px 8px; border:3px solid var(--ring); border-radius:999px; }
-  .pill-link, .pill-link:visited{ color: var(--fg); text-decoration: none; }
-  .pill-link:hover, .pill-link:focus{ border-color: var(--accent); outline: none; }
+  .card{ padding:14px 16px; background:var(--card); border:1px solid var(--ring); border-radius:16px }
+  .meta{ font-size:13px; color:var(--muted); display:flex; gap:10px; flex-wrap:wrap }
+  .pill{ padding:1px 8px; border:1px solid var(--ring); border-radius:999px }
   .score{ color:var(--accent); font-weight:600 }
   .title a{ color:var(--fg); text-decoration:none; border-bottom:1px dashed var(--ring) }
   .chunk{ white-space:pre-wrap; word-break:break-word }
@@ -46,6 +44,77 @@
     position:absolute; top:8px; right:8px; border:1px solid var(--ring,#2b3540);
     background:transparent; color:var(--fg,#eaf0f1); border-radius:8px; padding:4px 10px; cursor:pointer;
   }
+  /* Controls row */
+  .controls{
+    display:flex; gap:12px; align-items:right; float: right; margin-top:8px;
+    color:var(--muted); margin-bottom: 8px;
+  }
+
+  /* Checkbox: match theme with accent-color (modern browsers) */
+  .controls input[type="checkbox"]{
+    width:1.1rem; height:1.1rem;
+    accent-color: var(--accent);   
+    cursor:pointer;
+    transform: translateY(1px);    /* align with text */
+  }
+
+  /* API key field */
+  #thesKey{
+    width:280px; padding:10px 12px;
+    border-radius:10px; border:1px solid var(--ring);
+    background:var(--card); color:var(--fg);
+    outline:none; transition: border-color .15s, box-shadow .15s;
+  }
+  #thesKey::placeholder{ color:var(--muted); }
+  #thesKey:focus{
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+  }
+
+  /* Save button */
+  #saveKey{
+    padding:10px 12px; border-radius:10px;
+    border:1px solid var(--ring); background:var(--card); color:var(--fg);
+    cursor:pointer; transition: border-color .15s, box-shadow .15s;
+  }
+  #saveKey:hover, #saveKey:focus{
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 30%, transparent);
+    outline: none;
+  }
+
+  /* Toggle switch */
+  .toggle{ display:inline-flex; align-items:center; gap:10px; cursor:pointer; }
+  .toggle input{ position:absolute; opacity:0; pointer-events:none; }
+
+  .toggle__track{
+    width:44px; height:24px; border-radius:999px; position:relative;
+    background: #1b2229; border:1px solid var(--ring);
+    transition: background .2s, border-color .2s, box-shadow .2s;
+  }
+  .toggle__track::after{
+    content:""; position:absolute; top:2px; left:2px; width:20px; height:20px;
+    border-radius:50%; background: var(--accent);
+    transition: transform .2s ease, background .2s ease;
+  }
+
+  /* checked state */
+  .toggle input:checked + .toggle__track{
+    background: color-mix(in srgb, var(--accent) 85%, #000000);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+  }
+  .toggle input:checked + .toggle__track::after{
+    transform: translateX(20px);
+    background: black;
+  }
+
+  /* keyboard focus (when input is focused) */
+  .toggle input:focus + .toggle__track{
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 35%, transparent);
+  }
+
+  .toggle__label{ color: var(--muted); }
 
 </style>
 </head>
@@ -53,11 +122,23 @@
 
 <header>
   <main style="padding:0">
-    <h1 style="margin:0;font-size:24px">Farsight Transcript Search — TF-IDF + Semantic Re-ranking</h1>
+    <h1 style="margin:0;font-size:24px">Farsight Transcript Search</h1>
     <div class="row">
       <input id="q" type="text" placeholder="Type your question… e.g., 'crystals engraved with symbols'">
       <button id="go">Search</button>
     </div>
+	<div class="controls">
+      <label class="toggle">
+	  <span class="toggle__label">Expanded meaning search toggle -></span>
+      <input id="semPad" type="checkbox" />
+      <span class="toggle__track" aria-hidden="true"></span>
+      
+    </label>
+<!--
+      <input id="thesKey" type="password" placeholder="API key from Mark" />
+      <button id="saveKey" type="button">Save key</button>    -->
+    </div>
+
     <div class="status" id="status">Loading dataset…</div>
     <div class="progress" aria-hidden="true"><div class="bar" id="bar"></div></div>
   </main>
@@ -130,28 +211,28 @@
 })();
 </script>
 
-
 <script type="module">
-/* ---------------- CONFIG ---------------- */
-const DATA_CID  = "bafybeig66qdfmnom2vkbr33ro2rby6nyak4tucr4nivw27cjd4jxeummmu"; // your chunks JSON
-const INDEX_CID = "bafybeigenv42ihgthvzs2bgjiyzx5iixqbuemqrxrjp3j3udgyknhetjxy"; // your precomputed tfidf_index.json
-
-// Pinata gateway URLs (filename hints help content-type)
+/* ===================== CONFIG ===================== */
+const DATA_CID  = "bafybeig66qdfmnom2vkbr33ro2rby6nyak4tucr4nivw27cjd4jxeummmu"; // chunks JSON
+const INDEX_CID = "bafybeigenv42ihgthvzs2bgjiyzx5iixqbuemqrxrjp3j3udgyknhetjxy"; // tfidf_index.json
 const DATA_URL  = `https://rstory.mypinata.cloud/ipfs/${DATA_CID}?filename=farsight_chunks.json`;
 const INDEX_URL = `https://rstory.mypinata.cloud/ipfs/${INDEX_CID}?filename=tfidf_index.json`;
 
-// Results & rerank
-const TOP_K_DISPLAY   = 10;   // show this many
-const RERANK_POOL     = 50;  // TF-IDF top-N to semantically rerank
-const BATCH_SIZE_EMBED = 8;   // embedding batch size
+const TOP_K_DISPLAY    = 10;
+const RERANK_POOL      = 50;
+const BATCH_SIZE_EMBED = 8;
 
-// Embedding model (Transformers.js)
+const USE_BGE_PREFIX = false;          // prefix 'query:' / 'passage:' (BGE)
+const SEM_PAD_FOR_TFIDF = true;        // use padded query for TF-IDF
+const SEM_PAD_FOR_EMBED = false;       // keep original query for embeddings
+const SEM_PAD_UNION     = true;        // union(base, padded) TF-IDF candidates
+
+/* ============= Embedding model (Transformers.js) ============= */
 import { pipeline } from "https://cdn.jsdelivr.net/npm/@xenova/transformers/dist/transformers.min.js";
 const MODEL_ID = "Xenova/bge-small-en-v1.5";
 const PIPELINE_TASK = "feature-extraction";
-const USE_BGE_PREFIX = false; // set true for asymmetric retrieval (query/passages prefixes)
 
-/* ---------------- DOM helpers ---------------- */
+/* ===================== DOM helpers ===================== */
 const $ = sel => document.querySelector(sel);
 const statusEl = $("#status");
 const barEl = $("#bar");
@@ -160,12 +241,12 @@ function setStatus(t){ if(statusEl) statusEl.textContent = t; }
 function setBar(ratio){ if(barEl) barEl.style.width = `${Math.max(0, Math.min(1, ratio))*100}%`; }
 function escapeHtml(s){ return (s||"").replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c])); }
 
-/* ---------------- Math helpers ---------------- */
+/* ===================== Math helpers ===================== */
 function l2norm(a){ let s=0; for (let i=0;i<a.length;i++) s+=a[i]*a[i]; return Math.sqrt(s); }
 function normalize(v){ const n=l2norm(v); if(n){ for(let i=0;i<v.length;i++) v[i]/=n; } return v; }
 function dot(a,b){ let s=0; for (let i=0;i<a.length;i++) s+=a[i]*b[i]; return s; }
 
-/* ---------------- Data loader ---------------- */
+/* ===================== Data loader ===================== */
 async function fetchData() {
   setStatus("Fetching dataset…");
   const res = await fetch(DATA_URL, { cache: "force-cache" });
@@ -191,12 +272,12 @@ async function fetchData() {
   }
 }
 
-/* ---------------- Tokenization (match your precompute script) ----------- Ask ----- */
+/* ========== Tokenization (match your precompute script) ========== */
 const STOP = new Set((
   "a an and are as at be but by for from has have in into is it its " +
   "of on or over such that the their then there these this to was were will with without " +
   "i you he she they we them his her our your my mine ours yours theirs not no yes do did done " +
-  "what when where who why how which"
+  "what when where who why how which project overview session sessions target targets http https www com org net pdf txt amp nbsp"
 ).split(/\s+/));
 const tokenRe = /[A-Za-z][A-Za-z'-]{1,}/g;
 function tokenize(s){
@@ -208,17 +289,11 @@ function tokenize(s){
   return out;
 }
 
-/* ---------------- Precomputed TF-IDF index (packed arrays) ---------------- */
+/* ========== Precomputed TF-IDF index (packed arrays) ========== */
 let TFIDF = {
-  vocab: null,           // string[]
-  term2idx: null,        // Map token -> idx
-  idf: null,             // Float32Array
-  offsets: null,         // Uint32Array (length = vocab.length + 1)
-  docIds: null,          // Uint32Array (total postings)
-  weights: null,         // Float32Array (normalized doc weights)
-  docCount: 0
+  vocab: null, term2idx: null,
+  idf: null, offsets: null, docIds: null, weights: null, docCount: 0
 };
-
 async function loadPrecomputedIndex(){
   setStatus("Fetching TF-IDF index…");
   const res = await fetch(INDEX_URL, { cache: "force-cache" });
@@ -235,40 +310,34 @@ async function loadPrecomputedIndex(){
 
   setStatus(`TF-IDF index ready (vocab=${TFIDF.vocab.length}, postings=${TFIDF.docIds.length}).`);
 }
-
-// Cosine search via packed postings (returns [{id, score}, …] desc)
 function tfidfSearch(query, limit = 1000){
   const toks = tokenize(query);
   if (toks.length === 0) return [];
 
-  // query counts → tf-idf (log tf) → normalize
+  // query tf-idf
   const qCounts = Object.create(null);
   for (const t of toks) qCounts[t] = (qCounts[t] || 0) + 1;
 
-  const qTerms = [];     // term indices present in vocab
-  const qW = [];         // normalized weights
-  let sumsq = 0;
+  const qTerms = []; const qW = []; let sumsq = 0;
   for (const t in qCounts){
     const idx = TFIDF.term2idx.get(t);
-    if (idx === undefined) continue; // OOV
+    if (idx === undefined) continue;
     const tfw = 1 + Math.log(qCounts[t]);
     const w = tfw * TFIDF.idf[idx];
     if (w > 0){ qTerms.push(idx); qW.push(w); sumsq += w*w; }
   }
   if (qTerms.length === 0) return [];
-
   const qn = Math.sqrt(Math.max(sumsq, 1e-12));
   for (let i=0;i<qW.length;i++) qW[i] /= qn;
 
-  const docN = TFIDF.docCount;
+  const docN = TFIDF.docCount || 0;
   const scores = new Float32Array(docN);
-
   for (let k=0; k<qTerms.length; k++){
     const termIdx = qTerms[k], qw = qW[k];
     const start = TFIDF.offsets[termIdx], end = TFIDF.offsets[termIdx + 1];
     for (let p = start; p < end; p++){
       const doc = TFIDF.docIds[p];
-      scores[doc] += qw * TFIDF.weights[p]; // cosine
+      scores[doc] += qw * TFIDF.weights[p];
     }
   }
 
@@ -277,8 +346,17 @@ function tfidfSearch(query, limit = 1000){
   out.sort((a,b)=> b.score - a.score);
   return out.slice(0, limit);
 }
+function mergeCandidates(a, b, limit){
+  const best = new Map();
+  for (const h of a) best.set(h.id, Math.max(best.get(h.id) || 0, h.score));
+  for (const h of b) best.set(h.id, Math.max(best.get(h.id) || 0, h.score));
+  return Array.from(best.entries())
+    .map(([id, score]) => ({ id, score }))
+    .sort((x,y)=> y.score - x.score)
+    .slice(0, limit);
+}
 
-/* ---------------- Embedding (Transformers.js) ---------------- */
+/* ===================== Embeddings ===================== */
 let embedder;
 async function getEmbedder(){
   if (!embedder) {
@@ -300,61 +378,30 @@ async function embedText(text, { isQuery=false } = {}){
   const vec = out?.data ? out.data : out;
   return normalize(Float32Array.from(vec));
 }
-async function embedTextsBatch(texts, batchSize = BATCH_SIZE_EMBED, { isQuery=false } = {}){
-  const out = [];
-  const total = texts.length || 1;
 
-  for (let i = 0; i < total; i += batchSize){
-    const batch = texts.slice(i, i + batchSize);
-    const vecs  = await Promise.all(batch.map(t => embedText(t, { isQuery })));
-    out.push(...vecs);
-
-    // progress: reserve last 20% for scoring
-    const done = Math.min(i + batch.length, total);
-    setStatus(`Re-ranking… embedding ${done}/${total}`);
-    setBar(0.8 * (done / total));
-
-    await new Promise(r => setTimeout(r, 0)); // yield to UI
-  }
-  return out;
-}
-
-// Trim a chunk so it starts/ends on sentence boundaries (display-only).
+/* ===================== Sentence clamp (display) ===================== */
 function clampToSentenceBounds(text, { maxSkip = 220 } = {}) {
   if (!text) return "";
   let t = String(text).trim();
-
-  const looksLikeSentenceStart = (s) =>
-    /^[A-Z0-9“"(\[]/.test(s); // capital/quote/paren etc.
-
-  const looksLikeSentenceEnd = (s) =>
-    /[.!?…][)"'’»\]\)]*\s*$/.test(s);
-
-  // --- Trim the head: if we likely start mid-sentence, skip to the first boundary ---
-  if (!looksLikeSentenceStart(t)) {
-    const headRe = /[.!?…][)"'’»\]\)]*\s+/g; // sentence boundary
+  const looksStart = s => /^[A-Z0-9“"(\[]/.test(s);
+  const looksEnd   = s => /[.!?…][)"'’»\]\)]*\s*$/.test(s);
+  if (!looksStart(t)) {
+    const headRe = /[.!?…][)"'’»\]\)]*\s+/g;
     const m = headRe.exec(t);
-    if (m && m.index < maxSkip) {
-      t = t.slice(m.index + m[0].length).trimStart();
-    }
+    if (m && m.index < maxSkip) t = t.slice(m.index + m[0].length).trimStart();
   }
-
-  // --- Trim the tail: cut after the last boundary if we likely end mid-sentence ---
-  if (!looksLikeSentenceEnd(t)) {
-    const tailRe = /[.!?…][)"'’»\]\)]*/g;
-    let last = null, m;
+  if (!looksEnd(t)) {
+    const tailRe = /[.!?…][)"'’»\]\)]*/g; let last=null, m;
     while ((m = tailRe.exec(t)) !== null) last = m;
     if (last && (t.length - (last.index + last[0].length)) < maxSkip) {
       t = t.slice(0, last.index + last[0].length).trimEnd();
     }
   }
-
-  // If we trimmed too aggressively and got very short, fall back to original
   if (t.length < 60) return String(text).trim();
   return t;
 }
 
-/* ---------------- Render ---------------- */
+/* ===================== Render ===================== */
 function renderResultsFromPairs(rows, pairs){
   resultsEl.innerHTML = "";
   for (const [id, score] of pairs){
@@ -364,48 +411,123 @@ function renderResultsFromPairs(rows, pairs){
       ? `<a class="pill pill-link" href="${r.title_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(r.title || "(untitled)")}</a>`
       : `<span class="pill">${escapeHtml(r.title || "(untitled)")}</span>`;
 
-    const sectionPill = r.section
-      ? `<span class="pill pill--muted">${escapeHtml(r.section)}</span>`
-      : "";
-
-    const dateHtml = r.publication_date
-      ? `<span>${new Date(r.publication_date).toDateString()}</span>`
-      : "";
-
-    const scoreHtml = `<span class="score">score=${Number(score).toFixed(3)}</span>`;
-
-    const metaRow = `
-      <div class="meta">
-        ${titlePill}
-        ${sectionPill}
-        ${dateHtml}
-        ${scoreHtml}
-      </div>
-    `;
+    const sectionPill = r.section ? `<span class="pill pill--muted">${escapeHtml(r.section)}</span>` : "";
+    const dateHtml    = r.publication_date ? `<span>${new Date(r.publication_date).toDateString()}</span>` : "";
+    const scoreHtml   = `<span class="score">score=${Number(score).toFixed(3)}</span>`;
 
     const el = document.createElement("div");
     el.className = "card";
     el.innerHTML = `
-      ${metaRow}
-      <div class="chunk">${escapeHtml(clampToSentenceBounds ? clampToSentenceBounds(r.chunk_text || "") : (r.chunk_text || ""))}</div>
+      <div class="meta">${titlePill}${sectionPill}${dateHtml}${scoreHtml}</div>
+      <div class="chunk">${escapeHtml(clampToSentenceBounds(r.chunk_text || ""))}</div>
     `;
     resultsEl.appendChild(el);
   }
 }
 
-/* ---------------- App logic ---------------- */
+/* ===================== Synonym padding ===================== */
+const SEM_PAD_MAX_PER_WORD = 3;
+const SEM_PAD_MAX_WORDS    = 8;
+const THESAURUS_BASE = "https://words.bighugelabs.com/api/2";
+
+const HARD_SYNS = {
+  satellite: ["moon"],
+  pedophile: ["epstein", "trafficking"],
+  pedophiles: ["epstein", "trafficking"]
+};
+
+const synCache = new Map();
+/* old code for entered api key function getSavedThesaurusKey(){
+  return (localStorage.getItem("thesApiKey") || $("#thesKey")?.value || "").trim();
+}     */
+
+// --- DEV: obfuscated thesaurus key ---
+const SALT = 4400; // must match Python
+const THESAURUS_API_KEY_HEX = "YOUR_ENCODED_API_KEY_GOES_HERE";
+
+function hexXorDecode(hex, salt = SALT) {
+  if (!hex || hex.length % 2 !== 0) return "";
+  let out = "";
+  for (let i = 0; i < hex.length; i += 2) {
+    const byte = parseInt(hex.slice(i, i + 2), 16) ^ salt;
+    out += String.fromCharCode(byte);
+  }
+  return out;
+}
+function getSavedThesaurusKey() {
+  return hexXorDecode(THESAURUS_API_KEY_HEX);
+}
+
+$("#saveKey")?.addEventListener("click", () => {
+  const v = $("#thesKey")?.value?.trim() || "";
+  localStorage.setItem("thesApiKey", v);
+  setStatus(v ? "Saved thesaurus API key." : "Cleared thesaurus API key.");
+});
+(function(){ const k = localStorage.getItem("thesApiKey"); if (k && $("#thesKey")) $("#thesKey").value = k; })();
+
+async function getSynonymsForWord(word, maxN = SEM_PAD_MAX_PER_WORD) {
+  const w = (word || "").toLowerCase();
+  if (!w || STOP.has(w)) return [];
+  const seeded = Array.from(new Set(HARD_SYNS[w] || [])).slice(0, maxN);
+  if (seeded.length >= maxN) return seeded;
+
+  if (synCache.has(w)) return synCache.get(w).slice(0, maxN);
+
+  const key = getSavedThesaurusKey();
+  if (!key) { synCache.set(w, seeded); return seeded; }
+
+  try {
+    const url = `${THESAURUS_BASE}/${encodeURIComponent(key)}/${encodeURIComponent(w)}/json`;
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    const buckets = ["syn", "sim", "rel"];
+    const out = new Set(seeded);
+    for (const pos of Object.keys(data)) {
+      const entry = data[pos] || {};
+      for (const b of buckets) {
+        const arr = entry[b];
+        if (Array.isArray(arr)) {
+          for (const s of arr) {
+            const t = String(s).toLowerCase();
+            if (!STOP.has(t) && t && !t.includes(" ") && t !== w) out.add(t);
+            if (out.size >= maxN) break;
+          }
+        }
+        if (out.size >= maxN) break;
+      }
+      if (out.size >= maxN) break;
+    }
+    const list = Array.from(out).slice(0, maxN);
+    synCache.set(w, list);
+    return list;
+  } catch {
+    synCache.set(w, seeded);
+    return seeded;
+  }
+}
+
+async function expandQueryWithSynonyms(query) {
+  if (!$("#semPad")?.checked) return query; // toggle off
+  setStatus("Expanding query with synonyms…");
+  const tokens = tokenize(query);
+  const uniq   = Array.from(new Set(tokens)).slice(0, SEM_PAD_MAX_WORDS);
+  const synLists = await Promise.all(uniq.map(w => getSynonymsForWord(w)));
+  const pad = synLists.flat().filter(Boolean);
+  return pad.length ? `${query} ${pad.join(" ")}` : query;
+}
+
+/* ===================== App logic ===================== */
 let DATA_ROWS = [];
 
 async function init(){
   try {
     setBar(0);
     DATA_ROWS = await fetchData();
-    // Minimal sanity: must have chunk_text
     DATA_ROWS = DATA_ROWS.filter(r => typeof r.chunk_text === "string" && r.chunk_text.trim().length > 0);
-
-    await loadPrecomputedIndex();  // ← use your packed index from IPFS
-
-    setStatus("Ready? Ask your question and press Search");
+    await loadPrecomputedIndex();
+    setStatus("Ready. Type a query and press Search.");
     setBar(0);
   } catch (e){
     console.error(e);
@@ -415,37 +537,46 @@ async function init(){
 init();
 
 async function doSearch(){
-  const q = $("#q").value.trim(); 
+  const q = $("#q").value.trim();
   if (!q) return;
 
-  // ---- 1) Instant TF-IDF preview ----
+  // Build padded string (if toggle is ON)
+  const padded = await expandQueryWithSynonyms(q);
+  const tfidfQuery = SEM_PAD_FOR_TFIDF ? padded : q;
+  const embedQuery = SEM_PAD_FOR_EMBED ? padded : q;
+
+  // ---- 1) TF-IDF candidates (with optional union) ----
   setStatus("Searching (TF-IDF) …");
   setBar(0);
-  let tfidfCandidates = tfidfSearch(q, Math.max(RERANK_POOL, TOP_K_DISPLAY));
+  const baseHits   = tfidfSearch(q,       Math.max(RERANK_POOL, TOP_K_DISPLAY));
+  const paddedHits = ($("#semPad")?.checked && SEM_PAD_FOR_TFIDF)
+    ? tfidfSearch(tfidfQuery, Math.max(RERANK_POOL, TOP_K_DISPLAY))
+    : [];
+  let tfidfCandidates = (SEM_PAD_UNION && paddedHits.length)
+    ? mergeCandidates(baseHits, paddedHits, Math.max(RERANK_POOL, TOP_K_DISPLAY))
+    : baseHits;
 
   if (tfidfCandidates.length) {
-    const initial = tfidfCandidates.slice(0, TOP_K_DISPLAY).map(h => [h.id, h.score]);
-    renderResultsFromPairs(DATA_ROWS, initial);
+    renderResultsFromPairs(DATA_ROWS, tfidfCandidates.slice(0, TOP_K_DISPLAY).map(h => [h.id, h.score]));
   } else {
     resultsEl.innerHTML = "<div class='card'><div class='meta'>No lexical matches — computing semantic fallback…</div></div>";
   }
 
-  // ---- 2) Semantic rerank (with visible progress) ----
+  // ---- 2) Semantic rerank (progress-driven) ----
   setStatus("Re-ranking semantically…");
   setBar(0.02);
 
-  // Candidate pool for rerank
   let pool = tfidfCandidates.slice(0, Math.min(RERANK_POOL, tfidfCandidates.length));
   if (pool.length === 0) {
     const count = Math.min(RERANK_POOL, DATA_ROWS.length);
     pool = Array.from({length: count}, (_, i) => ({ id: i, score: 0 }));
   }
 
-  // Embed query (small progress bump)
-  const qvec = await embedText(q, { isQuery: true });
+  // Query embedding
+  const qvec = await embedText(embedQuery, { isQuery: true });
   setBar(0.08);
 
-  // Embed candidates in batches, update bar up to ~80%
+  // Candidate embeddings (batched) up to ~80%
   const texts = pool.map(h => DATA_ROWS[h.id].chunk_text || "");
   const total = texts.length || 1;
   const batchSize = Math.max(1, BATCH_SIZE_EMBED || 8);
@@ -459,29 +590,27 @@ async function doSearch(){
     const done = Math.min(i + batch.length, total);
     const frac = done / total;
     setStatus(`Re-ranking… embedding ${done}/${total}`);
-    setBar(0.08 + 0.72 * frac); // 8% → 80%
-    await new Promise(r => setTimeout(r, 0)); // yield to UI
+    setBar(0.08 + 0.72 * frac);
+    await new Promise(r => setTimeout(r, 0));
   }
 
-  // Score + final 20% of the bar
+  // Scoring + final 20%
   setStatus("Re-ranking… scoring");
   const scored = new Array(total);
   for (let i = 0; i < total; i++) {
     scored[i] = [pool[i].id, dot(qvec, cvecs[i])];
-
     if ((i & 31) === 0 || i === total - 1) {
       const frac = (i + 1) / total;
-      setBar(0.80 + 0.20 * frac); // 80% → 100%
+      setBar(0.80 + 0.20 * frac);
       await new Promise(r => setTimeout(r, 0));
     }
   }
 
   scored.sort((a,b) => b[1] - a[1]);
-  const finalTop = scored.slice(0, TOP_K_DISPLAY);
-
-  renderResultsFromPairs(DATA_ROWS, finalTop);
-  setStatus(`Semantically re-ranked top ${TOP_K_DISPLAY}.`);
-  setBar(0); // set to 1 if you prefer leaving it 'full' after completion
+  renderResultsFromPairs(DATA_ROWS, scored.slice(0, TOP_K_DISPLAY));
+  const suffix = ($("#semPad")?.checked ? (SEM_PAD_UNION ? " (TF-IDF padded + union)" : " (TF-IDF padded)") : "");
+  setStatus(`Semantically re-ranked top ${TOP_K_DISPLAY}${suffix}.`);
+  setBar(0); // set to 1 if you prefer leaving it full
 }
 
 /* UI events */
@@ -489,7 +618,9 @@ $("#go")?.addEventListener("click", doSearch);
 $("#q")?.addEventListener("keydown", (e) => { if (e.key === "Enter") doSearch(); });
 </script>
 
+
 </body>
 </html>
+
 
 
