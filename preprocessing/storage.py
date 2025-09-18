@@ -108,6 +108,7 @@ def upload_files_to_ipfs():
     print("\nSummary:")
     print(json.dumps(results, indent=2))
 
+# N - looks like retreive not store. I can add storage code but have been storing it manually until now
 def store_manifest_group_urls_on_hive():
     c = rpc(HIVE_RPC, "condenser_api.get_content", [HIVE_AUTHOR, HIVE_PERMLINK])
 
