@@ -1,0 +1,269 @@
+Key Findings 2021-2023
+
+Key Findings: Chemical Incident Tracking 2021-2023
+
+An analysis by Coming Clean and the Environmental Justice Health Alliance for Chemical Policy Reform NOVEMBER 9, 2023
+
+Analysis prepared by: Deidre Nelms and Eliana Bernat Coming Clean
+
+Data, research and review provided by: Material Research, in service to the Coalition to Prevent Chemical Disasters.
+
+Supporting data can be found on preventchemicaldisasters.org.
+
+Coming Clean is a nonprofit environmental health collaborative working to transform the chemical industry so it is no longer a source of harm, and to secure systemic changes that allow a safe chemical and clean energy economy to flourish. Our members are organizations and technical experts — including grassroots activists, community leaders, scientists, health professionals, business leaders, lawyers, and farmworker advocates — committed to principled collaboration to advance a nontoxic, sustainable, and just world for all.
+
+The Coalition to Prevent Chemical Disasters includes community members, environmental health and justice organizations, health professionals, and labor groups advocating for policies that can prevent chemical disasters. For many years, they have called on the EPA to finalize stronger regulations for the 12,000+ facilities that use, store, and manufacture highly hazardous chemicals, to improve the safety of homes, workplaces, hospitals and schools. All of the data summarized in this report can be found on preventchemicaldisasters.org.
+
+The Environmental Justice Health Alliance for Chemical Policy Reform (EJHA) is a national network of grassroots Environmental and Economic Justice organizations and advocates in communities that are disproportionately impacted by toxic chemicals from legacy contamination, ongoing exposure to polluting facilities and health-harming chemicals in household products. EJHA supports a just transition towards safer chemicals and a pollution-free economy that leaves no community or worker behind. The EJHA network model features leadership of, by, and for Environmental Justice groups with support from additional allied groups and individual experts.
+
+Material Research L3C, is a low profit openaccess data company based in Southwest Harbor, Maine, US, that works with researchers, advisors and analysts in different parts of the world. Their mission is to gather and deliver information that serves journalists, communities, researchers and campaigners worldwide in pursuit of environmental justice and human rights.
+
+Methodology
+
+In January 2021, the Coalition to Prevent Chemical Disasters began tracking hazardous chemical incidents from news reports. This project was undertaken in order to document the alarming frequency of hazardous chemical incidents in the United States, and to motivate federal agencies to adopt stronger regulations to prevent chemical disasters and protect workers and communities. In the following analysis, we summarize key findings from incident data collected between January 1, 2021- October 15, 2023, which is available in the form of an interactive map and searchable/downloadable Chemical Incident Tracker on preventchemicaldisasters.org.
+
+Hazardous chemical incidents are here defines as leaks, spills and releases of toxic or flammable chemicals, as well as fires and explosions involving hazardous chemicals and/or materials, in their transportation, storage, use, manufacture and disposal. All chemical incidents included in the Chemical Incident Tracker display a link to the original media coverage of the incident. In some cases, however, these articles can no longer be found online. Location data and the status of a facility’s coverage by the U.S. Environmental Protection Agency was provided by Material Research, LLC. Additional analysis of chemical incident data was provided by Coming Clean. Because not all chemical incidents are reported in the media, the total number of chemical incidents reflected on the Chemical Incident Tracker and map should be interpreted as a conservative calculation of the true number of incidents that have occurred in the U.S from Jan 1, 2021- Oct 15, 2023.
+
+Additional Resources and Disclosures
+
+The U.S. Environmental Protection Agency (EPA) tracks chemical incidents that are reported by facilities covered by the Risk Management Program (RMP), but only provides incident data periodically. Most incidents that have been reported to the EPA by RMP-covered facilities between 2004-2020 can be found in Appendix A; Technical Background Document for Notice of Proposed Rulemaking: Risk Management Programs Under the Clean Air Act, Section 112(r)(7) Safer Communities by Chemical Accident Prevention. It is likely that future data released by the EPA will include chemical incidents that were not reported on in the news, and therefore do not currently appear in the Chemical Incident Tracker.
+
+Chemical spills that pose public health threats are also tracked by the U.S. Coast Guard’s National Response Center (NRC). The NRC’s database may include incidents that did not appear in news reports in the period 2021-2023, and therefore don’t appear in the Chemical Incident Tracker.
+
+The U.S. Department of Transportation’s Pipelines and Hazardous Material Safety Administration also tracks chemical incidents that occur on the nation’s railroads and highways. By comparison, the Chemical Incident Tracker only includes rail and road incidents that appeared in news reports, and that triggered an evacuation, shelter-in-place advisory, road closure, and/or caused injuries or deaths.
+
+The vast majority of pesticide exposure incidents that happen each year are not reported in the media, and therefore do not appear in the Chemical Incident Tracker. The Center for Disease Control and Prevention’s Tracking Network publishes pesticide exposure data in partnership with the American Association of Poison Control Centers.
+
+1
+
+Over 825 hazardous chemical incidents
+
+have occurred in the U.S. since January 1, 2021.
+
+On average, that’s one every other day.
+
+Click the map to view interactively on preventchemicaldisasters.org.
+
+Hazardous chemical incidents here include leaks, spills and releases of toxic or flammable chemicals, as well as fires and explosions involving hazardous chemicals and/or materials, in their transportation, storage, use, manufacture and disposal.
+
+Between January 1, 2021 and October 15, 2023:
+
+43 people lost their lives in the immediate aftermath of a hazardous chemical incident.
+
+Over 150 incidents have resulted in injury, hospitalization, and/or reports of acute symptoms following a chemical exposure event.
+
+191 communities were advised or required to evacuate.
+
+2
+
+179 Hazardous Chemical Incidents at RMP facilities
+
+January 1, 2021- October 15, 2023
+
+Stronger regulations could prevent disasters
+
+The U.S Environmental Protection Agency’s Risk Management Program (RMP) was created to prevent chemical disasters, by regulating an estimated 12,000 facilities in the U.S. that use and store a select list of toxic and/or flammable chemicals above threshold quantities.
+
+In 2021, the EPA announced that it was planning to update the RMP rule, and held listening sessions to hear firsthand from impacted communities. Plant workers and environmental justice organizations overwhelmingly encouraged the agency to strengthen the RMP rule to prevent the fires, explosions and dangerous chemical releases that frequently harm their communities. Over 175 incidents have occurred at facilities covered by the RMP since the beginning of 2021, as indicated by the icons in blue. In 2022, EPA Administrator Michael Regan signed the Safer Communities by Chemical Accident Prevention Rule, proposing revisions to the RMP. Coming Clean, EJHA, and other members of the Coalition to Prevent Chemical Disasters testified and commented that these updates don’t go nearly far enough and rely too much on voluntary action from hazardous facilities.
+
+A truly preventative RMP rule would: require all facilities covered by the RMP rule to consider, document and implement safer chemicals and processes; require all RMP facilities to install backup power and take other preventative measures to ensure that they can safely operate or shut down when hurricanes, floods or tornadoes hit; allow workers at RMP facilities to stop working and/or anonymously report unsafe practices in the workplace without fear of retaliation; develop a public, multilingual online database where any member of the public can access non-confidential RMP facility information and risk management plans; and expand coverage of the RMP program to more facilities, processes and chemicals. Learn more.
+
+3
+
+Incidents at RMP facilities included:
+
+Fire and naphtha leak at Marathon Petroleum refinery: Garyville, Louisiana August 25, 2023 Parish officials issued an emergency declaration and ordered people within two miles to evacuate. First responders contained the fire after several hours. Subsequent reporting by the Louisiana Illuminator found that naphtha started leaking from the tank 15 hours before residents were evacuated. Naphtha is a petrochemical that is used to make gasoline, and can contain the carcinogen benzene. The same Garyville refinery, which has a refining capacity of 578,000 barrels of crude oil a day, also reported a massive explosion that injured at least 5 people on February 21, 2022. Chris Granger
+
+Hydrogen fluoride/chlorine leak, shelter-in-place at Honeywell blowing agent factory: Carville, Louisiana January 23, 2023 An explosion led to the release of an unknown amount of hydrogen fluoride (HF) and chlorine from the facility. Honeywell officials ordered a shelter-in-place and shut down local roads. This is the latest of many serious incidents at the facility involving hydrogen fluoride. After a leak in July 2022, Honeywell’s Carville facility went into shelter-in-place mode, and an employee was treated for exposure. In October 2021, a worker was killed after being exposed to highly corrosive hydrofluoric acid on the job. The plant had “11 accidental releases of toxic or flammable chemicals in the past three years” according to the Advocate. Honeywell’s Carville plant makes hydrofluoric acid and per- and polyfluoroalkyl substances (PFAS), including fluorocarbon refrigerants, which are potent greenhouse gases with a global warming potential (GWP) many times that of carbon dioxide.
+
+Chemical Safety Board
+
+Fire at Vantage Chemicals: Gurnee, Illinois September 19, 2021 One employee was injured trying to extinguish the fire which reportedly started in the exhaust stacks of an oil boiler. Vantage’s Gurnee plant produces silicone release and wetting agents, surfactants, emulsifiers, lubricants, rust inhibitors and organic fermentation defoamers. It uses the carcinogenic chemical ethylene oxide in this process and was subject of a 2021 investigation by The Intercept.
+
+Search for more incidents at RMP facilities on preventchemicaldisasters.org. 4
+
+Over 200 chemical incidents that occurred since January 1, 2021 were caused or worsened by weather events, including extreme weather events like hurricanes, tornadoes and storm surges that are intensifying due to climate change.
+
+August 2021: Hurricane Ida damaged six petrochemical plants in Louisiana, causing toxic chemical releases. Shell Chemical in Norco lost power, water and steam, visibly flared chemicals, and released hydrogen, hydrogen sulfide, benzene, butadiene, and methane. Cornerstone Chemical in Waggaman released unknown amounts of sulfur dioxide and sulfur trioxide and 7,000 pounds of ammonia. The CF Industries fertilizer plant in Donaldsonville released anhydrous ammonia after losing power.
+
+Healthy Gulf
+
+February 2021: an unusually harsh cold snap in Texas shut down power, halted natural gas deliveries and caused hundreds of toxic chemical releases at oil and chemical plants. According to data compiled Environment Texas, 194 facilities reported over three million pounds of toxic chemical releases related to the freezing weather for over a week.
+
+Jonathan Curer/ Flickr
+
+June 2023: a storage tank of highly flammable naphtha ignited after being struck by lightning at the Calcasieu Refining Company in Lake Charles, Louisiana, forcing residents to evacuate and shelter in place.
+
+T
+
+Screenshot/RawsAlerts
+
+January 2023: a tornado ran through the heart of the petrochemical industry in East Houston, Texas, flattening power lines, directly hitting the Ineos plastics plant, and causing operational issues at Shell Chemical that led the company to flare off chemicals into the environment.
+
+5
+
+Search for more weather-related incidents on preventchemicaldisasters.org.
+
+States with the most news-reported chemical incidents:
+
+January 1, 2021- October 15, 2023
+
+80
+
+79
+
+60
+
+46
+
+40
+
+39
+
+30 30 29
+
+24 22 21 19
+
+20
+
+0
+
+Texas
+
+California
+
+Louisiana
+
+Illinois
+
+Pennsylvania
+
+Ohio
+
+Tennessee
+
+Massachusetts
+
+Florida
+
+Michigan
+
+Texas had more hazardous chemical incidents in this period than any other state in the county - with at least 79 chemical incidents since the beginning of 2021.
+
+Texas has 1558 hazardous facilities registered with the U.S. Environmental Protection Agency‘s Risk Management Program, which is also more than any other U.S. state, according to EPA data dated October 2022.
+
+Search for chemical incidents by state on preventchemicaldisasters.org.
+
+6
+
+Hazardous Chemical Incidents by Sector
+
+January 1, 2021- October 15, 2023
+
+Fertilizer Production & Storage
+
+16
+
+Pulp & Paper
+
+Misc. Manufacturing & Other
+
+10
+
+107
+
+Pesticide Use & Storage
+
+6
+
+Water & Wastewater Treatment
+
+13
+
+Metalworking Plating & Coating
+
+Plastics & Petrochemical Manufacturing
+
+30
+
+344
+
+Chemical Transport, Distribution & Storage
+
+55
+
+Waste & Recycling
+
+70
+
+Food & Beverage Refrigeration
+
+Oil & Gas
+
+82
+
+96
+
+The majority of chemical incidents that have occurred in this period - such as fires, explosions, and chemical releases - can be traced to the toxic lifecycle of fossil fuels.
+
+This includes:
+
+the extraction and transportation of crude oil and natural gas; the production of fuels, plastics, pesticides, fertilizers and petrochemicals from fossil fuel feedstocks; the use and storage of chemicals that are made using fossil fuel feedstocks (including ammonia in refrigeration systems); the distribution of petrochemicals by road and rail; the disposal and recycling of petrochemical products (plastic, paint, tires etc.) at waste facilities.
+
+Search for chemical incidents by sector at preventchemicaldisasters.org. 7
+
+Where are chemical disasters happening? At every stage of the toxic lifecycle of fossil fuels.
+
+Over 95 incidents occurred in the oil & gas sector since the beginning of 2021. These include incidents involved in upstream exploration and extraction, midstream transportation and storage, and downstream refining of crude oil and natural gas.
+
+Extraction, transport and storage of oil and gas
+
+Incidents at oil and gas wells and terminals include explosions, fires, and major crude oil spills into waterways. On November 6, 2022, a gas storage well owned by Equitrans in Western Pennsylvania released as much as one billion cubic feet of methane over a period of several days.
+
+Pipelines
+
+Long distance pipelines transporting crude oil leaked over one hundred thousand gallons of crude oil in both Kansas and Illinois. There were also major incidents at pipelines that transport crude oil and gas directly to refineries, plastics and chemical plants. These include a massive fire at a gas liquids pipeline at Ineos’ plastics plant in Alvin, Texas and a leak in a gas pipeline owned by Chevron Phillips in Port Arthur, Texas that shut down highways and forced students and residents within one mile to shelter in place.
+
+Refineries
+
+Since the beginning of 2021, there have been at least 44 incidents at refineries. Refineries not only process crude oil and gas into fuels, but also produce platform chemicals like benzene, toluene and xylene as byproducts, which are then used to produce 90% of downstream organic chemicals. Incidents at refineries include releases of harmful chemicals like sulfur dioxide, hydrogen sulfide, and hydrogen fluoride, as well as major fires and explosions, some fatal. In September 2022, two brothers working at the BP Refinery in Oregon, Ohio died from burns following an explosion at the facility. BP failed to provide adequate worker trainings and violated process safety rules, according to a later federal investigation.
+
+8
+
+340+ incidents were associated with plastics and petrochemical manufacturing since the beginning of 2021. Fossil fuel feedstocks are consumed in the production of plastics and a range of chemicals that are used in pesticides, cleaning products, fabrics, paints, cosmetics and more.
+
+Explosion at Yenkin-Majestic Paints kills a worker and injures eight Columbus, Ohio, April 8, 2021 One worker was killed and nine others injured after a massive explosion and fire caused the collapse of the company’s olefin polymer unit. The Chemical Safety Board reported that “materials stored onsite include maleic anhydride, phthalic anhydride, xylene, and mineral spirits.” OPC Polymers unit was cited for 26 OSHA violations after a six-month investigation. Of the 26 violations, 25 were deemed serious — which is classified as "death or serious harm could result."
+
+Chemical Safety Board
+
+Fire, evacuations, shelter-in-place at Pinova Solutions plastic resin manufacturer: Brunswick, Georgia, April 15, 2023 A destructive fire at the plastics facility that sent a black plume of smoke into the air was declared a city-wide emergency due to unpredictable weather conditions. Residents city-wide were advised to shelter in place, and those living within a half mile of the plant were advised to evacuate. Two people later reported burn injuries.
+
+Google maps
+
+Over 50 incidents involved chemical distribution, transportation and storage since the beginning of 2021, including explosions, leaks and fires at chemical distribution centers, as well as incidents involving the transport of chemicals by road and rail that were reported in the news.
+
+Derailment, vinyl chloride leak, thousands evacuated in East Palestine, Ohio A train carrying vinyl chloride, butyl acetate and benzene residues derailed causing a massive fire and fears of “catastrophic failure” of at least one of the containers, which would release toxic compounds and shrapnel into the area. Five of the 20 cars that derailed carried vinyl chloride, a carcinogenic compound used to make PVC plastic. After three days, officials conducted a “controlled release” of the chemicals in train cars to mitigate the danger of an explosion. Officials ordered a mandatory evacuation of residents in a one-mile radius of the facility which was in place for five days. Local schools were closed for a week. Residents reported health problems including nausea and rashes.
+
+9
+
+Ammonia-based fertilizer and refrigerants
+
+Ammonia production currently relies heavily on fossil fuel feedstocks, primarily natural gas.
+
+Over 15 incidents involved fertilizer production and/or storage.
+
+Synthetic agricultural fertilizers are predominantly made from fossil fuels and are highly flammable. On January 31, 2022, a massive fire at the Winston Weaver fertilizer plant in Winston-Salem, North Carolina came dangerously close to igniting the 600 lbs of ammonium nitrate stored on site, which would have caused a catastrophic explosion. 6,500 people were evacuated, and the fire was not extinguished for nearly a week.
+
+EPA
+
+Over 80 incidents involved leaks of ammonia and other refrigerants from mass refrigeration systems.
+
+A large ammonia leak at the Tyson Foods poultry plant in Goodlettsville, Tennessee on September 5, 2021 was one of over 60 incidents involving the release of ammonia reported in the news since January 1, 2021. 240 residents were evacuated, and portions of Interstate 65, Highway 41 and the CSX rail yard next to the plant were shut down. Ammonia gas is highly corrosive and can be deadly in high doses. According to a CNN investigation, Tyson has reported 146 ammonia leak-related injuries between 2012 and 2021 at its U.S. facilities.
+
+USDA
+
+At least 74 incidents occurred in the waste and recycling sector since the beginning of 2021, many of which included fires and explosions that were caused or exacerbated by fossil fuels, discarded plastic products, and chemical waste present on site.
+
+A fire at a plastics recycling center in Richmond, Indiana on April 11, 2023 forced 2,000 people to evacuate, and likely exposed many residents to toxic chemicals, including dioxins, from burning plastic. 70 million pounds of waste plastic were estimated to be inside the privately owned facility. “Advanced recycling” facilities, which incinerate plastic, have been criticized for greenwashing their processes to evade regulation, as reported by Inside Climate News.
+
+10

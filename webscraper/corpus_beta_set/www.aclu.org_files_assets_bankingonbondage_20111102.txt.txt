@@ -1,0 +1,1309 @@
+no_title
+
+BANKING ON BONDAGE
+
+Private Prisons and Mass Incarceration
+
+NOVEMBER 2011
+
+BANKING ON BONDAGE
+
+Private Prisons and Mass Incarceration
+
+AMERICAN CIVIL LIBERTIES UNION
+
+125 Broad Street, 19th Floor
+
+New York, NY 10004
+
+www.aclu.org
+
+Because Freedom Can’t Protect Itself
+
+BANKING ON BONDAGE: Private Prisons and Mass Incarceration
+
+November 2, 2011
+
+AMERICAN CIVIL LIBERTIES UNION 125 Broad Street, 19th Floor New York, NY 10004 www.aclu.org
+
+ACKNOWLEDGEMENTS
+
+This report has been a project of the ACLU National Prison Project and Center for Justice and was authored by David Shapiro (Staff Attorney, National Prison Project). First and foremost, the author would like to thank Mike Tartaglia (Paralegal, National Prison Project) for his many contributions to the report, and David Fathi (Director, National Prison Project) and Vanita Gupta (ACLU Deputy Legal Director) for their support of the project. Numerous individuals generously reviewed drafts or otherwise contributed their wisdom and insight, including Anjali Abraham, Rachel Bloom, Mike Brickner, Inimai Chettiar, Scott Crichton, Shakyra Diaz, Terence Dougherty, Marjorie Esman, Alex Friedmann, Jennifer Giuttari, Lisa Graybill, Judy Greene, Rachel Jordan, Bob Libal, Victoria Lopez, Will Matthews, Rachel Myers, Nila Natarajan, Stephen Pevar, Daniel Pochoda, Judy Rabinovitz, Chris Rickerd, Tom Stenson, Willa Tracosas, Jennifer Wedekind, Margaret Winter, and Paul Wright.
+
+Cover Image: Steve McAlister/Photographer’s Choice/Getty Images
+
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY...........................................................................................5
+
+PART I: THE PRIVATE PRISON EXPLOSION............................................................9 Early Experiments in For-Profit Imprisonment......................................................................10 The Exponential Growth of Private Prisons............................................................................10 Enormous Profits for the Private Prison Industry..................................................................13 Private Prisons, Mass Incarceration, and the American Legislative Exchange Council..................................................................................................14 Immigration Detention and Private Prison Expansion...........................................................16
+
+PART II: THE FALSE PROMISE OF PRIVATE PRISONS.............................................18 Supposed Cost Savings...........................................................................................................19 Scant Economic Benefit for Local Communities....................................................................20 Limited Incentives to Curb Recidivism and Prison Violence .................................................23
+
+PART III: THE PRIVATE PRISON PITCH...................................................................32 Questionable Financial Incentives..........................................................................................32 The Revolving Door Between Public and Private Corrections................................................36 The Private Prison Lobby........................................................................................................38 Campaign Contributions.........................................................................................................39 Control of Information.............................................................................................................40
+
+CONCLUSION.........................................................................................................42
+
+ENDNOTES.............................................................................................................43
+
+EXECUTIVE SUMMARY
+
+The imprisonment of human beings at record levels is both a moral failure and an economic one—especially at a time when more and more Americans are struggling to make ends meet and when state governments confront enormous fiscal crises. This report finds, however, that mass incarceration provides a gigantic windfall for one special interest group—the private prison industry—even as current incarceration levels harm the country as a whole. While the nation’s unprecedented rate of imprisonment deprives individuals of freedom, wrests loved ones from their families, and drains the resources of governments, communities, and taxpayers, the private prison industry reaps lucrative rewards. As the public good suffers from mass incarceration, private prison companies obtain more and more government dollars, and private prison executives at the leading companies rake in enormous compensation packages, in some cases totaling millions of dollars.
+
+The Spoils of Mass Incarceration
+
+The United States imprisons more people—both per capita and in absolute terms—than any other nation in the world, including Russia, China, and Iran.1 Over the past four decades, imprisonment in the United States has increased explosively, spurred by criminal laws that impose steep sentences and curtail the opportunity to earn probation and parole.2 The current incarceration rate deprives record numbers of individuals of their liberty, disproportionately affects people of color, and has at best a minimal effect on public safety.3 Meanwhile, the crippling cost of imprisoning increasing numbers of Americans saddles government budgets with rising debt and exacerbates the current fiscal crises confronting states across the nation.4
+
+Leading private prison companies essentially admit that their business model depends on high rates of incarceration. For example, in a 2010 Annual Report filed with the Securities and Exchange Commission, Corrections Corporation of America (CCA), the largest private prison company, stated: “The demand for our facilities and services could be adversely affected by . . . leniency in conviction or parole standards and sentencing practices . . . .”5
+
+As incarceration rates skyrocket, the private prison industry expands at exponential rates, holding ever more people in its prisons and jails, and generating massive profits. Private prisons for adults were virtually non-existent until the early 1980s, but the number of prisoners in private prisons increased by approximately 1600% between 1990 and 2009.6 Today, for-profit companies are responsible for approximately 6% of state prisoners, 16% of federal prisoners, and, according to one report, nearly half of all immigrants detained by the federal government.7 In 2010, the two largest private prison companies alone received nearly $3 billion dollars in revenue, and their top executives, according to one source, each received annual compensation packages worth well over $3 million.8
+
+AMERICAN CIVIL LIBERTIES UNION | 5
+
+A Danger to State Finances
+
+While supporters of privatization tout the idea that governments can save money through private facilities, the evidence for supposed cost savings is mixed at best.9 As state governments across the nation confront deep fiscal deficits, the assertion that private prisons demonstrably reduce the costs of incarceration can be dangerous and irresponsible. Such claims may lure states into building private prisons or privatizing existing ones rather than reducing incarceration rates and limiting corrections spending through serious criminal justice reform.
+
+This year, advocates of for-profit prisons trotted out privatization schemes as a supposed answer to budgetary woes in numerous states:
+
+Arizona has announced plans to award 5,000 additional prison beds to private contractors,10 despite a recent statement by the Arizona Auditor General that forprofit imprisonment in Arizona may cost more than incarceration in publicly-operated facilities.11 Arizona’s Department of Corrections is the only large agency in that state not subject to a budget cut in fiscal year 2012—in fact, the Department’s budget increased by $10 million.12 According to a news report, private prison employees and corporate officers contributed money to Governor Jan Brewer’s reelection campaign, and high ranking Brewer Administration officials previously worked as private prison lobbyists.13
+
+Florida has responded to exploding incarceration costs largely through increasing reliance on private prisons.14 Although the assertion that private prisons save taxpayer money is highly questionable, supporters of privatization, according to a recent news report, claim that privatization in Florida is necessary to rein in the prison system’s budget, which stood at $2.3 billion in 2010.15 A recent editorial in the Orlando Sentinel expressed the view that privatization “has eclipsed and shelved potentially more fruitful, cost-effective changes. One of them is sentencing reform.”16 On September 30, 2011, a Florida court enjoined the Department of Corrections from implementing the privatization of prisons in 18 counties, finding that the planned privatization failed to comply with procedures mandated by state law.17 The court stated, “[t]he decision to issue only one [request for proposal] and only one contract for all 29 prison facilities [subject to proposed privatization] was based on convenience and speed, … rather than on any demonstrated savings or benefit advantage.”18
+
+Ohio recently announced that it will become, on December 31, 2011, the first state in the nation to sell a publicly operated prison, Lake Erie Correctional Facility, to a private company, CCA.19 Notably, the head of Ohio’s corrections department had served as a managing director of CCA.20 The claim that prison privatization demonstrably reduces costs and trims government budgets may detract from the critical work of reducing the state’s prison population.21
+
+AMERICAN CIVIL LIBERTIES UNION | 6
+
+Louisiana narrowly defeated a proposal, pushed by Governor Bobby Jindal in a desperate attempt to generate short-term revenue, to sell off three state prisons to private companies.22 The Louisiana House Appropriations Committee blocked the bill by a vote of 13-12, with legislators expressing deep concern about the wisdom of selling off the state’s assets.23
+
+The federal government is in the midst of a private prison expansion spree, driven primarily by Immigration and Customs Enforcement (ICE), an agency that locks up roughly 400,000 immigrants each year and spends over $1.9 billion annually on custody operations.24 ICE now intends to create a new network of massive immigration detention centers, managed largely by private companies, in states including New Jersey, Texas, Florida, California and Illinois.25 According to a news report, in August 2011, ICE’s plans to send 1,250 immigration detainees to Essex County, New Jersey threatened to unravel amid allegations that a private prison company seeking the contract, whose executives enjoyed close ties to Governor Chris Christie, received “special treatment” from the county.26 The fiscal crisis confronting the federal government, however, has done nothing to dampen Washington’s spending binge on privatized immigration detention.
+
+Atrocious Conditions
+
+While evidence is mixed, certain empirical studies show a heightened level of violence against prisoners in private institutions. This may reflect in part the higher rate of staff turnover in private prisons, which can result in inexperienced guards walking the tiers.27 After an infamous escape from an Arizona private prison in 2010, for example, the Arizona Department of Corrections reported that at the prison, “[s]taff are fairly ‘green’ across all shifts,” “are not proficient with weapons,” and habitually ignore sounding alarms.28 Private facilities have also been linked to atrocious conditions. In a juvenile facility in Texas, for example, auditors reported, “[c]ells were filthy, smelled of feces and urine.”29
+
+Just three weeks before the release of this report, prisoner fights in several locations throughout a private prison in Oklahoma left 46 prisoners injured and required 16 inmates to be sent to the hospital, some of them in critical condition.30 The risks to safety confronting inmates in private prisons are especially relevant at present, as the U.S. Supreme Court considers a case that could, depending on the outcome, prevent federal prisoners in private institutions from seeking compensation for constitutional violations—including deliberate indifference to prisoners’ physical well being.31
+
+AMERICAN CIVIL LIBERTIES UNION | 7
+
+Shrewd Tactics
+
+Certain private prison companies employ shrewd tactics to obtain more and more government contracts to incarcerate prisoners. In February 2011, for example, a jury convicted former Luzerene County, Pennsylvania Judge Mark Ciavarella of racketeering, racketeering conspiracy, and money laundering conspiracy in connection with payments received from a private prison developer.32 Tactics employed by some private prison companies, or individuals associated with the private prison industry, to gain influence or acquire more contracts or inmates include: use of questionable financial incentives; benefitting from the “revolving door” between public and private corrections; extensive lobbying; lavish campaign contributions; and efforts to control information.33
+
+****
+
+Part One of this Report traces the rise of the for-profit prison industry over the past 30 years, demonstrating that private prisons reaped lucrative spoils as incarceration rates reached historic levels. Part Two focuses on the supposed benefits associated with private prisons, showing that the view that private prison companies provide demonstrable economic benefits and humane facilities is debatable at best. Part Three discusses the tactics private prison companies have used to obtain control of more and more human beings and taxpayer dollars.
+
+The time to halt the expansion of for-profit incarceration is now. The evidence that private prisons provide savings compared to publicly operated facilities is highly questionable, and certain studies point to worse conditions in for-profit facilities. The private prison industry helped to create the mass incarceration crisis and feeds off of this social ill. Private prisons cannot be part of the solution—economic or ethical—to the problem of mass incarceration.
+
+AMERICAN CIVIL LIBERTIES UNION | 8
+
+PART I: THE PRIVATE PRISON EXPLOSION
+
+Mass incarceration strains state budgets and deprives individuals of liberty in record numbers. But the social ill of mass incarceration is a bonanza for the private prison industry, which has extracted more and more taxpayer dollars from state budgets as governments dispatch prisoners to private facilities in ever-increasing numbers.
+
+This chapter chronicles the rapid ascent of the private prison industry over the past 30 years—a development that went hand-in-hand with explosive growth in incarceration rates. Although various forms of correctional privatization had existed in earlier centuries, for-profit incarceration seemed destined for extinction—until, beginning in the 1980s, private prisons suddenly reemerged and proliferated with breathtaking speed.
+
+Today, private companies imprison roughly 130,000 prisoners34 and, according to one group, 16,000 civil immigration detainees in the United States at any given time.35 As states send more and more people to prison, they funnel ever greater amounts of taxpayer money to private prison operators. By 2010, annual revenues of the two top private prison companies alone stood at nearly $3 billion.36
+
+Terminology Used in This Report
+
+The terms “private prison operator” and “private prison company” are used to describe companies that own and/or operate for-profit facilities that incarcerate people—including facilities such as prisons, jails, and immigration detention centers.
+
+The term “private prison industry” is a somewhat broader category. In addition to private prison operators and private prison companies, “the private prison industry” may also include other companies or individuals that profit from private prisons, such as companies that provide consulting services in connection with private prison construction.
+
+A statement in this report that private prison companies, private prison operators, or the private prison industry made a certain claim, engaged in a certain practice, or exhibited a certain feature is not meant to imply that the same statement applies to all private prison companies or operators, or that all members of the private prison industry did the same.
+
+AMERICAN CIVIL LIBERTIES UNION | 9
+
+Early Experiments in For-Profit Imprisonment
+
+Early forms of prison privatization yielded horrific results. In eighteenth-century England, private “keepers” ran prisons, making their living by extracting lodging fees from those they incarcerated —and by operating coffee shops and beer taps for affluent prisoners.37 The rich may have lived well even behind bars, but private jailers had little stake in the well-being of poor prisoners, who were “gouged for fees, cheated on their provisions, loaded with irons, [and] exposed to disease.”38
+
+Fortunately, a movement to improve prison order and establish public control began to gather force in England in the late Eighteenth Century.39
+
+In the years following the Civil War, the United States also experimented with a form of privatization. The convict lease system—which has been called a “substitute for slavery”40—took hold in the South. Under this system, state and local governments managed the prisons, but prisoners were leased out to work for private companies or individuals.41 Like the private “keepers” in England, these contractors had little incentive to treat prisoners humanely. According to Professor Michelle Alexander, “Death rates were shockingly high, for the private contractors had no interest in the health and well-being of their laborers, unlike the earlier slave-owners who needed their slaves, at minimum, to be healthy enough to survive hard labor.”42
+
+Toward the end of the Nineteenth Century, states began to outlaw convict leasing, and Congress forbade the leasing of federal prisoners in 1887.43 By 1900, virtually all governments around the world had assumed responsibility for management of their own prisons.44
+
+The Exponential Growth of Private Prisons
+
+At the beginning of the 1980s, private prisons for adults did not exist in the United States, but recent years have witnessed a reemergence and dramatic expansion of this form of incarceration.45 The private prison explosion went hand-in-hand with a massive increase in incarceration rates. Since President Richard Nixon first announced the “war on drugs” forty years ago, the United States has adopted “tough on crime” laws that have given it the dubious distinction of having the highest incarceration rate in the world. These laws include:
+
+Mandatory minimum sentencing laws: Such laws impose long sentences and prevent judges from exercising discretion to impose more lenient punishments, where appropriate, based on the circumstances of the crime and the defendant’s individual characteristics.
+
+Truth in sentencing laws: Such laws sharply curtail probation and parole eligibility, requiring inmates to remain in prison long after they have been rehabilitated.
+
+AMERICAN CIVIL LIBERTIES UNION | 10
+
+Three strikes laws: Such laws subject defendants convicted of three crimes to extremely long sentences. In one case heard by the U.S. Supreme Court, a man charged with stealing golf clubs received a sentence of 25 years to life under a three strikes law.46
+
+Mass incarceration has further weakened depressed communities by depopulating them and stripping even nonviolent former prisoners of opportunities to find employment and meaningfully reenter society.47 And while public safety requires the incarceration of certain criminals, current rates of incarceration are so anomalous that they provide little, if any, public safety benefit.48
+
+Between 1970 and 2005, the number of people incarcerated in the United States grew by 700%.49
+
+Today, the United States incarcerates approximately 2.3 million people.50 According to the Congressional Research Service, the United States has only 5% of the world’s populatin but a full 25% of its prisoners.51
+
+Source: http://www.aclu.org/combating-mass-incarceration-facts-0
+
+Even compared to this breathtaking rate of overall growth in incarceration, the rate of expansion of for-profit imprisonment far outpaced the field, accounting for a disproportionate increase in the number of people locked up. In 1980, private adult prisons did not exist on American soil, but by 1990 private prison companies had established a firm foothold, boasting 67 for-profit facilities and an average daily population of roughly 7,000 prisoners.52 During the next twenty years (from 1990 to 2009) the number of people incarcerated in private prisons increased by more than 1600%, growing from approximately 7,000 to approximately 129,000 inmates.53
+
+AMERICAN CIVIL LIBERTIES UNION | 11
+
+Average number of prisoners in
+
+private facilities in 1990:
+
+7,771
+
+NUMBER OF PRISONERS
+
+Number of prisoners in private facilities on December 31, 2009:
+
+129,336
+
+Percentage increase 1990-2009:
+
+1664%
+
+YEAR: 1990 2009
+
+SOURCE for prisoner numbers: United States Department of Justice (Bureau of Justice Statistics)
+
+Increasing incarceration rates fueled this massive expansion of private corrections. CCA— the largest private prison company in the United States—admits that current sentencing laws increase the company’s profits by swelling prison populations, whereas policies aimed at reducing incarceration rates create financial risks for the corporation. Specifically, in a 2010 Annual Report submitted to the Securities and Exchange Commission (SEC), CCA stated, under the heading “Risks Related to Our Business and Industry”:
+
+Our ability to secure new contracts to develop and manage correctional and detention facilities depends on many factors outside our control. Our growth is generally dependent upon our ability to obtain new contracts to develop and manage new correctional and detention facilities. This possible growth depends on a number of factors we cannot control, including crime rates and sentencing patterns in various jurisdictions and acceptance of privatization. The demand for our facilities and services could be adversely affected by the relaxation of enforcement efforts, leniency in conviction or parole standards and sentencing practices or through the decriminalization of certain activities that are currently proscribed by our criminal laws. For instance, any changes with respect to drugs and controlled substances or illegal immigration could affect the number of persons arrested, convicted, and sentenced, thereby potentially reducing demand for correctional facilities to house them. Legislation has been proposed in numerous jurisdictions that could lower minimum sentences for some non-violent crimes and make more inmates eligible for early release based on good behavior. Also, sentencing alternatives under consideration could put some offenders on probation with electronic monitoring who would otherwise be incarcerated. Similarly, reductions in crime rates or resources dedicated to prevent and enforce crime could lead to reductions in arrests, convictions and sentences requiring incarceration at correctional facilities.54
+
+AMERICAN CIVIL LIBERTIES UNION | 12
+
+The GEO Group, the second largest private prison operator, identified similar “Risks Related to Our Business and Industry” in SEC filings:
+
+Our growth depends on our ability to secure contracts to develop and manage new correctional, detention and mental health facilities, the demand for which is outside our control …. [A]ny changes with respect to the decriminalization of drugs and controlled substances could affect the number of persons arrested, convicted, sentenced and incarcerated, thereby potentially reducing demand for correctional facilities to house them. Similarly, reductions in crime rates could lead to reductions in arrests, convictions and sentences requiring incarceration at correctional facilities. Immigration reform laws which are currently a focus for legislators and politicians at the federal, state and local level also could materially adversely impact us.55
+
+Enormous Profits for the Private Prison Industry
+
+The incarceration explosion over the past several decades produced very few winners. Mass imprisonment broke state budgets, tore families and communities apart, and failed to promote public safety in any significant way.56 But as mass incarceration led to disastrous effects for the nation as a whole, one special interest group—the private prison industry—emerged as a clear winner. A massive transfer of taxpayer dollars to the private prison industry accompanied the unprecedented increase in incarceration and the rapid ascent of for-profit imprisonment.
+
+In the early 1980s, private prisons barely existed in the United States, but that decade would witness the founding of the two companies that dominate the industry today—Corrections Corporation of America (CCA) and the GEO Group (then called Wackenhut Corrections Corporation).57 By 2010, annual revenues for these two companies alone had grown to nearly $3 billion.58
+
+Government contracts (state, local, and federal) provide the dominant source of private prison revenue.59 Therefore, these astronomical revenue figures demonstrate that private prison companies receive massive amounts of taxpayer dollars.60
+
+The ability of private prison companies to capture taxpayer dollars results in handsome rewards for their top executives. According to one source, in 2010, CCA’s President and CEO received more than $3.2 million in executive compensation, and GEO’s Chairman and CEO received nearly $3.5 millon.61
+
+AMERICAN CIVIL LIBERTIES UNION | 13
+
+Private Prisons, Mass Incarceration, and the American Legislative Exchange Council
+
+CCA, the leading private prison company, has long provided major support to, and had close ties with, the American Legislative Exchange Council (ALEC)—an organization of state legislators that has advocated harsh sentencing and detention laws, such as mandatory minimum sentencing statutes. ALEC provides state legislators with model legislation, and each year, ALEC members introduce hundreds of these model bills in statehouses across the country.62
+
+ALEC operates by hosting lavish retreats that bring together state legislators and corporate executives.63 Almost 2,000 state legislators belong to the organization.64 According to National Public Radio, at ALEC annual conferences, “companies get to sit around a table and write ‘model bills’ with the state legislators, who then take them home to their states.”65 Legislators, it has been reported, pay nominal fees to attend the meetings ($50 for an annual membership), while the corporate participants pay thousands of dollars in membership dues.66 As one ALEC member
+
+Top Private Prison Companies
+
+1. Corrections Corporation of America (CCA)
+
+2010 Revenue:
+
+$1,700,000,000
+
+Prisoner Capacity: 90,037
+
+Year Founded:
+
+1983
+
+Headquarters:
+
+Nashville, Tennessee
+
+Head:
+
+Damon Hininger (President and CEO)
+
+Executive Compensation: $3,266,387 compensation package for
+
+Hininger in 2010 (according to Morningstar)
+
+2. The GEO Group
+
+2010 Revenue:
+
+$1,269,968,000
+
+Prisoner Capacity: 81,000
+
+Year Founded:
+
+1984 (founded as Wackenhut Corrections
+
+Corporation)
+
+Headquarters:
+
+Boca Raton, Florida
+
+Head:
+
+George Zoley (Chairman, CEO, Founder)
+
+Executive Compensation: $3,484,807 compensation package for Zoley in 2010
+
+(according to Morningstar)
+
+AMERICAN CIVIL LIBERTIES UNION | 14
+
+allegedly stated in the late 1990s: “The organization is supported by money from the corporate sector, and, by paying to be members, corporations are allowed the opportunity to sit down at the table and discuss the issues that they have an interest in.”67
+
+“The demand for our facilities and services could be adversely affected by … leniency in conviction or parole standards and sentencing practices…”
+
+After ALEC meetings, legislators return to their home states with ALEC model legislation.68
+
+ALEC has pushed legislation that benefits private prison companies by promoting policies that result in mass incarceration.69 In the 1990s, ALEC championed—and, according to one report by an advocacy group, succeeded in enacting in 27 states—“truth in sentencing” and “three strikes” legislation.70 Such laws were certain to increase prison populations (whether public or private) and the amount of taxpayer money funneled into prisons.
+
+—Corrections Corporation of America, Annual Report filed with the Securities and Exchange Commission
+
+In the 1990s, ALEC’s mass incarceration legislation met with overwhelming success. In a 1996 article entitled Getting Tough Works: Old Strategies Are the Weapons in the New War on Crime, a former ALEC Task Force Director boasted, “[n]ow, truth in sentencing laws, based on an ALEC model bill, require inmates to serve 80 to 90 percent of their sentences before becoming eligible for parole.”71
+
+“Now, truth in sentencing laws, based on an ALEC model bill, require inmates to serve 80 to 90 percent of their sentences before becoming eligible for parole.”
+
+While private prison companies deny taking steps to affirmatively support legislation that promotes mass incarceration,72 and although CCA left ALEC in 2010,73 according to a recent news report, “for the past two decades, a CCA executive has been a member of the council’s [task force that] produced more than 85 model bills and resolutions that required tougher criminal sentencing, expanded immigration enforcement and promoted prison privatization … CCA’s senior director of business development was the private-sector chair of the task force in the midto late 90s when it produced a series of model bills promoting tough-on-crime measures that would send more people to prison for a longer time.”74 According to one report by a non-profit organization, “[i]n 1999, CCA made the [ALEC] President’s List for contributions to ALEC’s States and National Policy Summit; Wackenhut also sponsored the conference.”75
+
+—Former ALEC Task Force Director Michael Hotra
+
+Even as ALEC has recently pushed certain piecemeal reforms for low-risk prisoners, the organization continues to trumpet harsh mandatory minimums, stating on its website:
+
+Each year, close to 1,000 bills, based at least in part on ALEC Model Legislation, are introduced in the states. Of these, an average of 20 percent become law …. Since its founding, ALEC has amassed an unmatched record of achieving ground-breaking
+
+AMERICAN CIVIL LIBERTIES UNION | 15
+
+changes in public policy. Policies such as mandatory minimum sentencing for violent criminals represent just a handful of ALEC’s victories in the states.76
+
+ALEC has not only done work that helped increase the amount of taxpayer money spent on corrections generally but has also supported policies likely to increase the proportion of corrections spending funneled to private corporations. In fact, the “Private Correctional Facilities Act,” another ALEC model bill, authorized for-profit incarceration contracts between state and local governments and private prison operators. The model act stated: “This Act would allow any unit of government to contract with the private sector to perform services currently performed by a corrections agency.”77 The model act further provided that a state prisoner “may be incarcerated in a facility constructed or operated by a private entity pursuant to contract under this Act,” and permitted contracts for the private purchase or lease of correctional facilities for periods of up to 30 years.78 According to a report by an advocacy group, ALEC’s Criminal Justice Task Force at one point reported that prison privatization was a “major issue” on which it was focusing,79
+
+and according to a recent news report, “[s]tarting in the 1990s, [an] ALEC task force … produced model bills directly promoting prison privatization. These included bills to let private prisons house inmates from other states without permission of local governments, require privatization of prisons and correctional services and encourage contracting for prison labor.”80
+
+Immigration Detention and Private Prison Expansion
+
+In recent years, private prisons have profited not only from harsh sentencing policies but also from an unprecedented increase in the number of detained immigrants—a group incarcerated pursuant to civil detention authority but housed in prison-like conditions. According to one group, facilities operated by private prison companies currently house nearly 50% of the more than 30,000 immigrants detained by Immigration and Customs Enforcement (ICE) at any given time.81
+
+Like imprisonment, immigration detention has expanded dramatically in recent years. In 1994, the average daily population of detained immigrants stood at 6,785.82 In 1996, Congress passed the Illegal Immigrant Reform and Immigrant Responsibility Act (IIRIRA), which massively expanded the detention of immigrants.83 Some of the statute’s provisions were aimed at noncitizens with criminal convictions, authorizing their mandatory (and in some cases indefinite) detention. Other provisions targeted asylum seekers, who became subject to an expedited removal process that also mandated detention. By 2001, the number of immigrants detained at any given time had more than tripled, to 20,429.84
+
+Yet even that number would continue to grow, as the September 11, 2001 attacks further fueled the reliance on immigration detention, in turn bringing new business for the private prison industry. Just weeks after September 11, the head of a private prison company spoke with stock analysts. According to one report submitted to the U.N. Special Rapporteur on the Rights of Migrants, he stated:
+
+AMERICAN CIVIL LIBERTIES UNION | 16
+
+It is clear that since September 11 there’s a heightened focus on detention. More people are gonna get caught. So I would say that’s positive. The federal business is the best business for us, and September 11 is increasing that business.85
+
+The past decade has borne out the prediction that 9/11 would be good business for private prisons. By 2010, the average daily population of immigration detainees stood at 31,020, more than a 50% increase over the 2001 level (and an increase of roughly 450% over the 1994 level).86
+
+Percentage increase in immigration detention since 1994: 457%
+
+Recently, ALEC leaders have been involved with discriminatory immigration laws that carry potential benefits for private prisons. On April 23, 2010, Arizona Governor Jan Brewer signed into law Senate Bill 1070, a statute that requires police officers in Arizona to ask people for their papers during law enforcement stops based only on an undefined “reasonable suspicion” that they are in the country unlawfully.87 Senate Bill 1070, and similar “copycat” laws since enacted in several other states,88 have the potential to further increase the number of immigrants detained, thereby adding to pressure to build more immigration detention centers. Russell Pearce, currently President of the Arizona State Senate and a member of ALEC’s Public Safety and Elections Task Force, was a sponsor and moving force behind the Arizona bill,89 and he presented the idea for the law at an ALEC meeting.90 According to a report by National Public Radio (which is disputed by Pearce and CCA), the private prison industry engaged in a “quiet, behind-the-scenes effort to help draft and pass Arizona Senate Bill 1070.”91
+
+Percentage of immigration detainees currently in private facilities: 49%
+
+SOURCES: Congressional Research Service; Detention Watch Network
+
+****
+
+While mass incarceration injures the nation as a whole, private prison companies enjoy a massive windfall, extracting ever greater amounts of taxpayer dollars from the public fisc. As shown in the next chapter, such government largesse toward private prison companies results at least in part from a series of highly questionable claims about privatization that encourage binge spending on for-profit facilities.
+
+AMERICAN CIVIL LIBERTIES UNION | 17
+
+PART II: THE FALSE PROMISE OF PRIVATE PRISONS
+
+Although mass incarceration strains state budgets while rewarding for-profit companies, certain private prison supporters and policymakers have put forth privatization as part of a solution to budgetary crises confronting states across the nation.92 Similarly, leading private prison companies promise to provide cost-effective alternatives to governmentally operated prisons. CCA asserts on its website, “[w]ith state and federal budgets stretched and public needs always competing with limited dollars, legislators are faced with critical choices on where to spend scarce resources. Creating a partnership with CCA to construct, manage and maintain their prisons allows governments to care for hardworking taxpayer dollars, while protecting critical priorities like education and health care.”93 Other private prison companies assert that privatization saves money, or is otherwise cost-effective. GEO, for example, claims to provide “20% to 30% cost savings” in facility development, and “10% to 20% cost savings” in facility management.94
+
+This chapter demonstrates that the supposed benefits (economic and otherwise) of private prisons often fail to withstand scrutiny. The view that private prisons save taxpayer money, fuel local economies, and adequately protect the safety of prisoners helps to feed mass incarceration by making privatization appear to be an attractive alternative to reducing prison populations. But the evidence for such benefits is mixed at best. Not only may privatization fail to save taxpayer money, but private prison companies, as for-profit institutions, are strongly incentivized to cut corners and thereby maximize profits, which may come at the expense of public safety and the well being of prisoners.95
+
+Inflated hopes about the supposed benefits of privatization are especially dangerous now, as several states, spurred by fiscal necessity, have begun the difficult work of reducing mass incarceration.96 Such progress threatens the private prison industry. As CCA stated in its 2010 Annual Report, under the heading “Risks Related to Our Business and Industry,” “[l]egislation has been proposed in numerous jurisdictions that could lower minimum sentences for some nonviolent crimes and make more inmates eligible for early release based on good behavior. Also, sentencing alternatives under consideration could put some offenders on probation ... who would otherwise be incarcerated.”97
+
+The danger currently posed by the private prison industry is that legislators, operating under the highly questionable view that private prisons save money, will turn to privatization as a fiscal solution, rather than cutting corrections spending by reducing the number of people behind bars. For example, despite a recent statement by the Arizona Auditor General that for-profit imprisonment in Arizona may cost more than incarceration in publicly-operated facilities,98 Arizona has announced plans to contract out an additional 5,000 prison “beds.” 99
+
+AMERICAN CIVIL LIBERTIES UNION | 18
+
+Accordingly, an analysis of the key benefits supposedly associated with private prisons—that forprofit prisons save money, stimulate economic growth, and adequately ensure the well-being of prisoners—is especially relevant in the present moment. Such claims are examined below.
+
+Supposed Cost Savings
+
+Evidence that private prisons save public money is mixed at best. While some research supports such a view,100 numerous other studies and reports have indicated that private prisons do not save money, cannot be demonstrated to save money in meaningful amounts, or may even cost more than governmentally operated prisons. For example:
+
+In 2010, the Arizona Auditor General stated that analysis by the Arizona Department of Corrections “indicated that it may be more costly to house inmates in private prisons” than public institutions. Indeed, after making adjustments to allow for a more accurate comparison, “rates paid to private facilities were higher for both minimum- and medium-custody beds—the two categories of beds for which the [Arizona Department of Corrections] contracts.”101
+
+In 2010, the Hawaii State Auditor issued a scathing report which found that the state’s Department of Public Safety “repeatedly misled policymakers and the public by reporting inaccurate incarceration costs.” In justifying the decision to send prisoners to CCA prisons in the continental United States, rather than publicly operated prisons in Hawaii, the Department used a “flawed methodology,” “provide[d] artificial inmate costs,” and engaged in “skewed cost reporting.”102
+
+In 2010, a Legal Review Committee, established by Monmouth County, New Jersey, to study the legal implications of privatizing the Monmouth County Correctional Institution, reported: “Many studies have been done regarding prison privatization, most of which conclude that the legal implications associated therewith make privatization unattractive. Specifically, increased liability to the public entity, increased reported escapes, private prison guards who are not trained to the level of law enforcement officers, increased number of lawsuits and increased violence and disturbances at correction facilities … Most objective cost studies show little or no cost savings to taxpayers coupled with an increased safety risk … [P]rivatization does not appear to be a viable option for Monmouth County’s maximum security facility due to the potential increased risk of liability and safety risks without proof of cost savings.”103
+
+In 2007, the Government Accountability Office (GAO) reported that the Federal Bureau of Prisons failed to collect adequate data to determine whether private federal prisons were more or less expensive than publicly operated federal prisons.104
+
+AMERICAN CIVIL LIBERTIES UNION | 19
+
+A 2007 meta-analysis of previous privatization studies by University of Utah researchers found: “Cost savings from privatization are not guaranteed and quality of services is not improved. Across the board effect sizes were small, so small that the value of moving to a privately managed system is questionable.”105
+
+While a judicial decision does not constitute a study, it is noteworthy that on September 30, 2011, a Florida court enjoined the Florida Department of Corrections from implementing the privatization of prisons in 18 counties, finding that the planned privatization failed to comply with procedures mandated by state law, including provisions regarding cost effectiveness.106 The court stated that the Department of Corrections “has not prepared any cost comparison study, cost-benefit analysis, or business case analysis. It has not consulted the Auditor General … The decision to issue only one RFP and only one contract for all 29 prison facilities was based on convenience and speed, … rather than on any demonstrated savings or benefit advantage … From the record, it appears that the rush to meet [certain] deadlines has resulted in many shortcomings in the evaluation of whether privatization is in the best public interest as it relates to cost savings and effective service.”107 As this report went to press, Governor Rick Scott reportedly had not decided whether to appeal the ruling.108
+
+While other studies have reported cost savings,109 the independence of at least one researcher who supported private prisons has come into question based on his links to private prison companies. Charles Thomas, a University of Florida academic and one of the most outspoken proponents of private prisons, reportedly received $3 million in consulting fees from private prison companies or related entities.110 Although a potential conflict of interest does not necessarily imply flawed research, the Florida Commission on Ethics stated that Thomas’ “contractual relationships with private corrections companies, or companies related to the private corrections industry … conflicted with his duty to objectively evaluate the corrections industry through his research with the University of Florida.”111
+
+Scant Economic Benefit for Local Communities
+
+Aside from supposed cost benefits, the leading for-profit private prison companies assert that private prisons spur economic growth for local communities. The GEO Group’s website, for example, claims that GEO prisons provide local communities with an “influx of capital [that] has the ability to stimulate the economic makeup of a community through consumer spending, new business enterprises, and capital improvements.”112 Similarly, CCA promises that “[o]ur presence means more revenue for counties, towns, cities and states. Our facilities mean more local jobs for hardworking residents.”113
+
+AMERICAN CIVIL LIBERTIES UNION | 20
+
+The view that prisons substantially promote economic development is highly questionable. According to certain studies, new prisons appear to bring few, if any, economic benefits. A 2010 study by researchers at Washington State University and Ohio State University examined data on “all existing and new prisons in the United States since 1960,” reporting findings that “cast doubt on claims that prison building is worth the investment for struggling rural communities.”114 A 2005 nationwide study reported similar results.115 Yet another empirical study, which was conducted by an advocacy organization and which focused on rural counties in New York State, found that although new prisons create jobs, “these benefits do not aid the host county to any substantial degree since local residents are not necessarily in a position to be hired for these jobs.” 116 While it should be noted that these studies did not differentiate between governmental and private prisons, the evidence contained in such studies supports the view that opening new prisons provides scant benefit to local communities.
+
+“The findings reported here cast doubt on claims that prison building is worth the investment for struggling rural communities.”
+
+—Gregory Hooks et al., Revisiting the Impact of Prison Building on Job Growth: Education, Incarceration, and County-Level Employment, 1976-2004, 91 Social Science Quarterly 228 (2010)
+
+Furthermore, private prisons can impose costs on local communities by obtaining subsidies, enjoying property tax exemptions, and receiving municipal services (such as water and sewer services) that cost taxpayer money.117 In 2001, a report by one advocacy group stated that nearly three quarters of large private prisons received development subsidies from the government.118
+
+Meanwhile, the benefit to counties where private prisons are built and operated can be quite scant—some receive less than $2 per prisoner per day from the private prison operator.119 The private prison companies themselves receive a far greater payoff from the government entity (such as a state corrections department) whose prisoners the company incarcerates. For example, private prison operators in Arizona were paid $63.52 per medium security prisoner per day in 2009,120 and as early as 2000, the federal government agreed to pay CCA almost $90 per day for each detained immigrant at a San Diego facility.121
+
+Furthermore, in some cases, local communities eager to build private prisons have set up financial arrangements that ultimately damage their fiscal standing.122 The following case study exemplifies this problem.
+
+AMERICAN CIVIL LIBERTIES UNION | 21
+
+CASE STUDY Hardin’s Empty Prison
+
+In 2004, a group of businessmen had a proposal for the small town of Hardin, Montana: build a private detention center.123 The theory was that such a facility would lead to economic benefits for the community.124 In 2004, the city’s economic development director predicted that at the new facility, a job seeker “with a GED or high school diploma” might be able to “get a job with a significantly higher income.”125
+
+To finance the project in Hardin, the economic development authority created by the town issued $27 million worth of municipal bonds that were both uninsured and unrated.126 But once the facility had been built, it was unable to obtain a contract to house prisoners, and its 464 beds remained empty.127 One news report described the facility as follows: “Inside its concrete walls, orange jumpsuits, rubber sandals and stacks of white tube socks weigh down the shelves of the storeroom. Computers, phones and video monitors line the tables in the control room. In the cafeteria, stacks of plastic trays and cooking utensils wait to be put to use.”128
+
+Because the jail remained empty, the $27 million worth of bonds issued by the economic development authority created by the town lacked sufficient revenue to back them.129 The authority defaulted on the bonds.130 Roughly 67 people had been offered jobs and cleared background checks—but they could not report to work because the facility never opened.131 Just preventing the empty building from falling apart became a financial burden for the town. Pipes began to leak in late 2009, more leaks were discovered in 2010, and repairs were slated to total $8,000.132 In the winter, gas bills ran as high as $10,000 per month.133
+
+Desperate for a solution, the town turned to increasingly outlandish alternatives to fill the facility. For a time, it appeared that an individual by the name of Michael Hilton, the head of a company called “American Police Force” would provide the answer to Hardin’s prayers.134 Hilton proposed not only to fill the jail with prisoners but to construct a “para-military training center” close to the jail.135 Hilton pledged to provide fees, in addition to such things as computers for schools and a homeless shelter.136 Hardin’s economic development authority signed a ten-year contract with Hilton’s company,137 and Hilton arrived in Hardin with SUVs outfitted with a logo for the “Hardin Police Department” (an entity that does not exist).138
+
+It soon came to light, however, that Hilton had, according to the Associated Press, “gone by at least 17 aliases and ha[d] a history of fraud and theft … He spent three years in prison in California and ha[d] $1.1 million in outstanding civil judgments against him.”139 According to a news report, American Police Force claimed that its services included “sell[ing] assault rifles and other weapons in Afghanistan on behalf of the U.S. military….”140
+
+The town’s deal with Hilton and his “American Police Force” fell through, but the town still sought a way to fill its empty jail. When President Barack Obama pledged to remove all detainees from Guantanamo Bay, the Hardin City Council voted unanimously in favor of receiving Guantanamo
+
+AMERICAN CIVIL LIBERTIES UNION | 22
+
+detainees at the local facility, a proposal that of course never materialized.141 Other ideas for what to do with the empty jail included using it “as an enormous indoor greenhouse for medical marijuana, a fight site for paintball or as low income housing.”142 In early 2011, the makers of the show Deadliest Catch (a program about crabbing boats in Alaska) were exploring whether to use the facility for a potential reality series on prisons (and how to fill the jail with inmates in order to make such a series possible).143
+
+According to a news report, one of the groups involved in the plan to construct the facility in 2004 was Corplan Corrections.144 Corplan Corrections currently states on its website:
+
+Many prisons bring 150 to 400 new jobs to a community, not to mention the additional impact of the income that flows into city and county budgets from prisons. Plus, we have found that well managed prisons also provide substantial “free” and “donated” labor for civic projects, parks, schools and public needs.
+
+We look forward to working with you. Now, there are many more communities wanting detention centers than are available. But if your community qualifies, Corplan Corrections will make it possible for you. We may even be able to show you how your community can qualify.145
+
+Limited Incentives to Curb Recidivism and Prison Violence
+
+Leading private prison companies assert that for-profit facilities protect the safety of prisoners. Management & Training Corporation states on its website: “Our staff training, operational policies, and systems of accountability emphasize not only safe and secure operations, but rehabilitation and protection of human rights.”146 Similarly, GEO asserts, “We are committed to establishing and maintaining a workplace that is safe, secure and humane, not only for our trained and experienced professionals, but for the offenders entrusted in our care.”147 CCA states: “On the frontline level, being a member of the security team at CCA means more than performing routine checks on a shift; it means being an ambassador of safety and security for inmates, the surrounding community and fellow staff.”148
+
+As detailed below, however, certain research suggests that for-profit prisons may be associated with heightened levels of violence toward prisoners. The perverse incentives to maximize profits and cut corners—even at the expense of safety and decent conditions—may contribute to an unacceptable level of danger in private prisons.
+
+AMERICAN CIVIL LIBERTIES UNION | 23
+
+Violence in Private Prisons
+
+Although there is some evidence to the contrary,149 several studies suggest that prisoners in private facilities may face greater threats to safety than those in governmentally operated prisons. One study concluded that “the private sector is a more dangerous place to be incarcerated,” and reported, based upon an analysis of national data, that “the private sector experienced more than twice the number of assaults against inmates than did the public sector.”150 Similarly, a United States Department of Justice study, based on a national survey of private prisons, reported that “the privately operated facilities have a much higher rate of inmate-on-inmate and inmateon-staff assaults and other disturbances” than publicly operated facilities, when institutions of similar security levels are compared.151 Another study reported: “[T]he survey data presented in this paper show that privately operated prisons … had much higher escape rates from secure institutions, and much higher random drug hit rates than the Bureau of Prisons.”152
+
+Another Department of Justice study, which compared a private federal prison, Taft Correctional Institution (“TCI”), with certain other institutions operated by the federal Bureau of Prisons (“BOP”), reported lower levels of violent inmate misconduct at the private prison but also stated that the private prison “contributed to a higher probability that inmates would be involved in overall misconduct for much of the time period than any of the [governmental] comparison prisons.”153 The study also stated:
+
+TCI consistently demonstrated lower levels of performance on the performance measures examined here, primarily inmate misconduct and illegal drug use. This relationship holds both when TCI is compared to the three BOP comparison prisons as well as when TCI is compared to other BOP low-security prisons. TCI experienced three significant incidents that did not occur at the BOP comparison prisons. TCI experienced two escapes … and one large-scale disturbance in which at least 1,000 inmates refused to return to their cells. These instances endangered both public safety and institution safety.154
+
+Recent examples of unsafe conditions in private prisons include the following:
+
+Just three weeks before the release of this report, prisoner fights in several locations throughout a private prison in Oklahoma left 46 prisoners injured and required 16 inmates to be sent to the hospital, some of them in critical condition.155
+
+In September 2011, Donald Dunn, a private prison employee responsible for transporting immigration detainees pleaded guilty, according to a Department of Justice press release, to two federal deprivation of rights charges: “While transporting the females between the correctional center and either Austin Bergstrom International Airport or the Greyhound Bus Terminal in Austin, Dunn admittedly would stop the vehicle, order
+
+AMERICAN CIVIL LIBERTIES UNION | 24
+
+the females to exit the vehicle, then mislead each of the victims to believe that he was conducting a legitimate search of their bodies, when in fact, the defendant touched the victims in a sexual manner and for the purposes of self gratification.”156 Dunn earlier pled guilty to state charges of official oppression and unlawful restraint in connection with the molestation of five immigration detainees.157 On October 19, 2011, the ACLU of Texas brought suit against defendants including Dunn, the private prison company, and Immigration and Customs Enforcement, on behalf of immigration detainees alleging sexual abuse.158
+
+In August 2011, according to a Department of Justice press release: “former Contract Security Officer Edwin Rodriguez, 30, pleaded guilty to engaging in sexual abuse of a female detainee under his supervision and control. The sexual act occurred inside the Willacy Detention Center while Rodriguez was on duty.”159
+
+In 2009, State of Hawaii investigators sent to Otter Creek Correctional Center, a private prison for women in Kentucky that held Hawaii prisoners, found, according to a news report, that “at least five corrections officials at the prison, including a chaplain, had been charged with [engaging in sexual intercourse] with inmates in the last three years, and four were convicted.”160
+
+Evidence recently obtained by the ACLU through a Freedom of Information Act request, submitted in 2011 to the Department of Homeland Security, provides a further window into assault in private prisons. These documents suggest that the Department’s Office of Inspector General, which investigates sexual abuse of individuals held in immigration detention facilities, received numerous sexual abuse complaints between 2008 and 2010 regarding the Willacy Detention Center in Raymondville, Texas—a private facility operated by Management & Training Corporation. Excerpts from these documents, which were heavily redacted by the government, appear below.
+
+AMERICAN CIVIL LIBERTIES UNION | 25
+
+The following case studies further illustrate unacceptable levels of violence and unsafe conditions in private prisons.
+
+CASE STUDY Appalling Conditions at a For-Profit Youth Facility
+
+Walnut Grove Youth Correctional Facility, a juvenile prison in Mississippi operated by the GEO Group, is currently the target of a lawsuit and a Department of Justice investigation regarding conditions alleged to be so horrific that a former resident reportedly calls the facility “the deepest depths of hell.”161 Another former prisoner indicates that violence is so pervasive that it has become “entertainment” for guards.162 The facility has averaged as many as three injuries per day due to violence.163 Oversight at the facility is highly questionable, as the GEO Group provides reimbursement for the salary of the individual appointed by the state to monitor conditions.164
+
+A lawsuit filed by the ACLU and the Southern Poverty Law Center in 2010 alleges a pattern of horrendous physical and sexual abuse by security staff, use of prolonged solitary confinement, abuse and neglect of mentally ill youth, and failure to provide basic mental health care.165 While juveniles allegedly suffer in atrocious conditions, private companies including the GEO Group have, according to one report, extracted more than $100 million in revenue from the facility’s operation.166
+
+CASE STUDY The Death of Jesus Manuel Galindo
+
+After spending a month in solitary confinement in a Texas private prison, 32-year-old Jesus Manuel Galindo, according to the complaint filed in a pending lawsuit, was found dead in his cell in December 2008.167 According to papers filed in the case, the GEO Group operated the prison; a second private entity, Physicians Network Association (PNA), provided medical care for prisoners.168
+
+As court papers and news reports assert, Galindo was an epileptic, and thus in need of regular medical care and attention, but his body allegedly was found after rigor mortis had set in, indicating that prison officials did not discover his death for some time.169 According to the complaint filed in the lawsuit, Galindo died of an epileptic seizure while in solitary confinement, left in a cell with a broken intercom that prevented him from calling for help.170 According to a neurologist who reviewed Galindo’s autopsy, he was “set up to die.”171
+
+Galindo’s death is all the more tragic because several years earlier, in 2003, the Civil Rights Division of the United States Department of Justice had found that another correctional facility, through PNA, “provide[d] inadequate medical services in the following areas: intake, screening, and referral; acute care; emergent care; chronic and prenatal care; and medication administration and management. As a result, inmates at the [facility] with serious medical needs [were] at risk for harm.”172 Despite these findings of serious neglect, the federal Bureau of Prisons rewarded the company by entering into a contract to house federal prisoners at the Texas facility where PNA provides medical care, and where Galindo’s death would later occur.
+
+AMERICAN CIVIL LIBERTIES UNION | 26
+
+CASE STUDY Rampant Violence at the Idaho Correctional Center
+
+The Idaho Correctional Center (ICC) is owned and operated by CCA. Levels of violence at the facility have been so extreme that it has been dubbed the “Gladiator School.”173 A study conducted by the Idaho Department of Correction in 2008 found that there were four times as many prisoneron-prisoner assaults at ICC than at Idaho’s other seven prisons combined.174 In a lawsuit filed by the ACLU on behalf of ICC prisoners, which settled in September 2011, the Complaint alleged that guards “cruelly use prisoner violence as a management tool,” that “violence is epidemic at ICC,” and that staff “fail to adequately investigate assaults,” “frequently place vulnerable prisoners with predators,” and “fail to protect prisoners who request and need protection from assault.”175 In 2010, the Associated Press obtained video footage showing a prisoner being mercilessly beaten by another inmate, while guards reportedly failed to intervene.176
+
+In a letter to the ACLU, one prisoner described the lack of treatment he received after being attacked:
+
+I was treated horribly. Like it was my fault … I was then taken to the ‘hole,’ stripped to my underwear and left. I was shaking and cold. I was bleeding and [I kept going] in and out of consciousness. I had a concussion with loss of balance and headache—many, many hours later I was given my clothes and a blanket. The ice was all the medical [treatment] I had.
+
+The parties reached a settlement agreement in September 2011 that requires CCA to make major improvements in facility conditions, including a requirement that the corporation perform an investigation of all assaults and increase staffing levels.177
+
+Flawed Incentives and Private Prison Violence
+
+Dangers in private prisons may reflect, at least in part, financial incentives to minimize costs and thereby maximize profits. Indeed, according to one scholar, “there is a much stronger incentive for private [prison] companies to save costs, not for the public’s benefit, but for their own profit.”178
+
+In particular, low pay for private prison staff may result in a higher level of staff turnover. As stated in one study, “private operators are running prisons with workers who are generally paid less than their public-sector counterparts,” and “privately operated prisons … had much higher separation rates for correctional officers.”179 Similarly, according to another study, private prisons, as compared to public facilities, pay correctional officers less and face a higher rate of staff turnover.180
+
+AMERICAN CIVIL LIBERTIES UNION | 27
+
+These shortcuts potentially create grave risks, as pay and turnover may “contribute to the higher levels of violence seen in the private sector.” 181 More specifically:
+
+Privately operated prisons appear to have systemic problems in maintaining secure facilities …. Advocates of prison privatization have argued that private prisons can pay workers less, offer fewer benefits, and still deliver a product that is as good or better than that provided by the public sector. The evidence to date contradicts such an encompassing assertion.182
+
+The same study continued: “[t]he data presented here indicate that less costly workers in private prisons have not produced an acceptable level of public safety or inmate care to date.”183
+
+Private Prison Incentives:
+
+The more things change…
+
+Eighteenth Century: The private keepers who ran jails had little incentive to spend money on impoverished inmates, subjecting them to meager rations and disease.
+
+Nineteenth Century: The contractors who “rented” prisoners for the day under the convict lease system had no financial reason to keep them alive; prisoners died in droves.
+
+Today: Private prison operators have incentives to improve their bottom line by cutting corners—potentially at the expense of both public safety and prison conditions.
+
+… the more they stay the same.
+
+The following case study shows that an Arizona private prison was staffed with inexperienced guards, and that better management of the facility might have avoided a horrific escape.
+
+AMERICAN CIVIL LIBERTIES UNION | 28
+
+CASE STUDY A Horrific Escape from an Arizona Private Prison
+
+The infamous escape of three prisoners, including convicted murderer Tracy Province, from a private prison in Kingman, Arizona on July 30, 2010, provides a tragic illustration of the dangers created in one private prison184—and the use of inexperienced correctional officers. The results of the escape were horrific, and escapees were charged with allegedly murdering, while on the run, an elderly Oklahoma couple vacationing in New Mexico, and setting fire to their camper.185 One of the prisoners was recaptured only after a chase in which he fired bullets at a police car; another was caught while hitchhiking with a pistol.186 The Director of the Arizona Department of Corrections described the prison break as the state’s worst escape in 30 years.187
+
+The escape is all the more tragic because security lapses may have been a contributing factor.188 Although alarms went off as the prisoners escaped, state officials would later report that private prison guards ignored the alarms, deeming them false.189 In August 2010, shortly after the escape, the Arizona Department of Corrections produced a scathing security assessment of the private prison, finding, among numerous other problems, that the private prison’s staff lacked experience and routinely ignored alarms. Findings in the report included the following:
+
+“Alarms regularly and routinely activate throughout the day .... This has become such a ‘norm’ that zone activation events are treated at a lower priority than other duties such as answering the telephone, issuing keys, checking staff in, etc.”190
+
+“The alarm system in the perimeter zones has not been serviced or maintained by trained experts .... The sensitivity of the zones is not routinely tested or adjusted. This has led to constant false alarms (during one five minute period .... [the auditor] noted six alarm activations) which, over the course of months, has led to staff being desensitized.”191
+
+“Staff are fairly ‘green’ across all shifts. Many staff have under one year of service. Finding staff with 2 or more years of service is rare.”192
+
+It was estimated that “one third of security employees have less than three months on the job or in their promoted position.”193
+
+“Staff are not proficient with weapons.”194
+
+“Weapons are stored loaded and drills are not being conducted regularly.”195
+
+Despite this tragic escape, the same private prison company (Management & Training Corporation) continues to operate private prisons in Arizona, including the Kingman facility.196
+
+AMERICAN CIVIL LIBERTIES UNION | 29
+
+Private Prisons and Rehabilitation
+
+Private prison operators have limited incentives to reduce future crime. As one scholar notes, “[i]t very well may be that companies operating private prisons … will be so concerned with cost cutting, profit making, and satisfying their stockholders that some major goals of the institution will be neglected or overlooked. For instance, some aspects of rehabilitation … may be affected.”197 Numerous religious groups have condemned the perverse incentives inherent in for-profit incarceration—including the absence of incentives to devote resources to rehabilitation. According to the Private Corrections Working Group, statements by religious groups in opposition to private prisons include the following:
+
+Catholic Bishops Resolution (2000): “We bishops question whether private, for-profit corporations can effectively run prisons. The profit motive may lead to reduced efforts to change behaviors, treat substance abuse, and offer skills necessary for reintegration into the community.”
+
+Presbyterian Church USA (2003): “Since the goal of for-profit private prisons is earning a profit for their shareholders, there is a basic and fundamental conflict with the concept of rehabilitation as the ultimate goal of the prison system. We believe that this is a glaring and significant flaw in our justice system and that for-profit private prisons should be abolished.”
+
+United Methodist Church (2000): “The United Methodist Church declares its opposition to the privatization of prisons and jails and to profit making from the punishment of human beings.”
+
+Episcopal Diocese of Newark (2002): “The industry of warehousing prisoners in private prisons has presented a temptation to those who would profit from the punishment of human beings.” 198
+
+While the empirical evidence is mixed, individuals released from private prisons may be more likely to commit future crimes than people released from publicly operated prisons. According to a 2008 study of Oklahoma prisons, “private prison inmate groups had a greater hazard of recidivism than did public inmate groups.”199
+
+Not only is there little incentive to spend money on rehabilitation, but crime, at least in one sense, is good for private prisons: the more crimes that are committed, and the more individuals who are sent to prison, the more money private prisons stand to make. Increased recidivism gives private prisons a steady clientele but has negative consequences for the public—more crime, and more money spent re-incarcerating former prisoners.
+
+AMERICAN CIVIL LIBERTIES UNION | 30
+
+For Private Prisons, More Crime = More Profits
+
+Our growth … depends on a number of factors we cannot control, including crime rates … [R]eductions in crime rates … could lead to reductions in arrests, convictions and sentences requiring incarceration at correctional facilities.
+
+—Corrections Corporation of America, Securities and Exchange Commission Form 10-K, at 19-20 (2010)
+
+One day, as a 14-year-old boy was being released after serving his sentence [at a private prison operated by CCA], the guard offered him some friendly advice.
+
+“Stay out of trouble,” he said. “I don’t want to see you back here.”
+
+“Why not?” the kid responded. “That’s how you make your money.”
+
+—Eric Bates, Private Prisons: Over the Next Five Years Analysts Expect the Private Share of the Prison “Market” to More than Double, The Nation, Jan. 5, 1998
+
+****
+
+Although supporters of for-profit prisons contend that such institutions provide an answer to bloated state corrections budgets, these facilities offer no solution—financial or otherwise—to the mass incarceration crisis confronting state governments. The evidence that private prisons provide demonstrable financial savings is mixed at best, and prisons do not appear to provide economic benefits to local communities. Private prisons suffer from flawed incentives and may face heightened levels of violence.
+
+Given these enormous potential drawbacks, why have private prison companies been so successful in persuading policymakers to build more and more private prisons? Much of the answer lies in shrewd—and sometimes cynical—efforts used by some members of the private prison industry to curry political favor. The following chapter explores this topic.
+
+AMERICAN CIVIL LIBERTIES UNION | 31
+
+PART III: THE PRIVATE PRISON PITCH
+
+In order to increase revenue and maximize profit, private prison companies must obtain more and more contracts to lock up increasing numbers of people. Some private prison companies, or individuals associated with these companies, employ a range of aggressive tactics to expand the reach of for-profit imprisonment. This chapter examines such tactics, which include:
+
+Questionable financial incentives
+
+Benefitting from the “revolving door” between public and private corrections
+
+Extensive lobbying
+
+Lavish campaign contributions
+
+Control of information
+
+Not every private prison company has been found to engage in each tactic discussed in this chapter, but the tactics used by some companies may pose an especially grave concern at present, as state governments struggle to reduce incarceration costs. Such tactics threaten to undermine real solutions to overincarceration by encouraging cash-strapped state governments to turn to privatization rather than serious criminal justice reform. The highly questionable view that private prisons provide advantages (financial or otherwise) over governmental facilities, discussed in the previous chapter, may become all the more dangerous when coupled with the influence-peddling strategies discussed in this chapter.
+
+Questionable Financial Incentives
+
+The private prison industry has managed to expand its reach in part because some private prison companies, or individuals associated with those companies, have provided questionable financial incentives to legislators or other government officials. Two case studies of recent events in Pennsylvania and Alaska illustrate the use of questionable financial incentives in connection with private prisons.
+
+AMERICAN CIVIL LIBERTIES UNION | 32
+
+CASE STUDY A Travesty of Juvenile Justice in Pennsylvania
+
+In February 2011, a jury convicted former Luzerene County, Pennsylvania Judge Mark Ciavarella of racketeering, money laundering, and conspiracy in connection with his acceptance of nearly one million dollars from the developer of a private juvenile facility.200 Prosecutors reportedly referred to these activities as a “kids for cash” scheme.201 Ciavarella was responsible for an enormous share of imprisoned juveniles. Indeed, in the span of five years, Ciavarella’s rulings accounted for 22% of decisions to detain children in Pennsylvania—even though Luzerne county accounts for less than 3% of Pennsylvania’s population.202 Ciavarella has appealed the convictions.203
+
+According to families with children tried by Ciavarella, the judge would hold trials only minutes long.204 He allegedly ordered a ten-year-old incarcerated and locked up a high school girl for three months because she mocked a school official on a website.205 In another reported instance, a twelve-year-old boy took his mother’s car and got into an accident.206 The mother filed a police report, concerned that insurance otherwise would not cover the damage.207 Ciavarella reportedly jailed the boy for a full two years.208 In another instance, Ciavarella allegedly based a juvenile’s sentence on “the number of birds perched outside a courtroom window.”209
+
+The payments received by Ciavarella from the private prison developer ultimately led not only to Ciavarella’s criminal conviction but also to the dismissal, by the Supreme Court of Pennsylvania, of 4,000 juvenile cases handled by Ciavarella.210 The Court stated:
+
+Ciavarella admitted under oath that he had received payments from Robert Powell, a co-owner of the [two private facilities], and from Robert K. Mericle, the developer who constructed the juvenile facilities, during the period of time that Ciavarella was presiding over juvenile matters in Luzerne County .... Ciavarella’s admission that he received these payments, and that he failed to disclose his financial interests arising from the development of the juvenile facilities, thoroughly undermines the integrity of all juvenile proceedings before Ciavarella .... [T]his Court cannot have any confidence that Ciavarella decided any Luzerne County juvenile case fairly and impartially while he labored under the specter of his self-interested dealings with the facilities.211
+
+AMERICAN CIVIL LIBERTIES UNION | 33
+
+CASE STUDY Operation Polar Pen
+
+The federal probe of political corruption in Alaska that culminated in the trial of Senator Ted Stevens and the guilty plea of oil executive Bill Allen began as “Operation Polar Pen”—an investigation of corruption connected to a scheme to build a private prison in Alaska.212 The federal investigation led to charges not only against politicians and oil industry moguls but also against Bill Weimar, an individual who ultimately pled guilty to criminal counts, including conspiracy to engage in honest services mail and wire fraud,213 in connection with efforts to win passage of legislation that could have resulted in construction of a private prison.214 Sections of the factual basis for his guilty plea, which Weimar signed, are shown on the following page.
+
+Before the scandal, Weimar had made enormous profits in private corrections. In the late 1990s, he had sold, at a price tag of $21 million, five private halfway houses in Alaska to Cornell Companies.215 Weimar then moved to Montana and acquired a personal compound that reportedly included “a six-bedroom home, two-bedroom caretaker’s cottage, indoor shooting and archery ranges, equestrian center, two-lane bowling alley, heated swimming pool, racquetball and tennis courts and helipad, all on 60 acres.”216
+
+But Weimar had an opportunity to make even more money if a private prison were constructed in Alaska. His company, Allvest—along with Cornell Companies and Veco (the company led by Allen)—were part of a consortium called “Corrections Group North” that was seeking to acquire a $1 billion, 25-year contract to build and operate such a prison.217 Weimar retained an interest in the plan and would have made another $5.5 million if the prison were constructed.218
+
+To push the plan forward, Weimar focused on an individual—identified only as “CANDIDATE A” in legal papers filed by federal prosecutors—who was running for a seat in the Alaska State Legislature.219 According to news reports, the candidate described in legal papers matched the description of Jerry Ward, who had previously served in the legislature and was seeking reelection to his former position.220 Ward has been described as “one of the [Alaska] Legislature’s biggest advocates of hiring private contractors to provide public services,”221 and a representative who “fervently pushed private prison projects.” 222
+
+Weimar provided financial support totaling approximately $20,000 to the campaign of “CANDIDATE A,” and Weimar, according to his guilty plea, “understood and believed that CANDIDATE A would, as a public official, use his official position to advocate for the passage and funding of legislation that would establish a privately-operated prison, knowing that if such legislation passed and a privately-operated prison contract was awarded to Company A, WEIMAR stood to benefit personally.”223
+
+Ultimately, the private prison that Weimar corruptly sought to build was never constructed, thanks to resistance from local communities, correctional officers’ unions, and other Alaska lawmakers.224 Weimar himself served his sentence in a governmentally operated federal prison in Arizona.225
+
+AMERICAN CIVIL LIBERTIES UNION | 34
+
+AMERICAN CIVIL LIBERTIES UNION | 35
+
+The Revolving Door Between Public and Private Corrections
+
+Private prison companies make their money through contracts for prison construction and operation negotiated with public officials. Many in the private prison industry, however, once served in state corrections departments, and numerous state corrections officials formerly worked for private prison companies. In some cases, this revolving door between public corrections and private prisons may contribute to the ability of some companies to win contracts or to avoid sufficient scrutiny from the corrections departments charged with overseeing their operations. A full examination of the numerous instances in which private prison contractors have been hired into and out of government posts could fill an entire report. Select examples include the following:
+
+Prior to becoming the New Mexico Secretary of Corrections, Joe Williams worked for the GEO Group as a warden. In 2010, the New Mexico Legislative Finance Committee reported that although private prisons, including GEO, failed to maintain prison staffing levels required by contract, the state corrections department—headed by Williams— declined to collect contractual fines. The Committee found that the state might have collected an estimated $18 million from the private prison companies if the corrections department had enforced the contractual rules applicable to private prisons.226
+
+Former BOP Director Harley Lappin, after being arrested for alleged drunk driving, left government service in early 2011.227 Lappin clearly remained valuable to the private prison industry, and soon began work for CCA, as the company’s Chief Corrections Officer. As the corporation’s CEO stated, “Harley values correctional partnerships …. I am very excited to have him as part of our leadership team.”228 The company’s payroll also includes a second former BOP Director: J. Michael Quinlan serves as a Senior Vice President of CCA.229
+
+According to a letter from the American Federation of Government Employees to Senator Patrick Leahy, during Stacia A. Hylton’s tenure as Federal Detention Trustee, GEO obtained contracts to house federal prisoners, including U.S. Marshals Service detainees, that generate more than $80 million in annual revenue for the company. The letter asserts that even before she retired as Federal Detention Trustee, Hylton formed a private consulting company. Shortly after retiring, the letter continues, Hylton accepted $112,500 from the GEO Group, her only client.230 In 2010, Hylton reentered the federal government, as head of the U.S. Marshals Service.231
+
+The following case study further illustrates the problems created by the revolving door between public and private corrections.
+
+AMERICAN CIVIL LIBERTIES UNION | 36
+
+CASE STUDY Former GEO Employees Fail To Report Children
+
+Living in Squalor
+
+In 2007, the Texas Youth Commission fired employees responsible for monitoring a West Texas juvenile prison run by GEO because the employees failed to report horrid conditions at the prison.232 In fact, the employees “not only failed to report substandard conditions but praised the operation. In the monitors’ most recent review … the prison was awarded an overall compliance score of 97.7 percent. In that review, monitors also thanked GEO staff for their positive work with [Texas] youth.”233
+
+It later came to light that some of the monitors—immediately before commencing their employment as state monitors of GEO’s contract performance—had worked for the GEO Group.234 When Texas finally sent independent auditors to the youth facility, the auditors reportedly “got so much fecal matter on their shoes they had to wipe their feet on the grass outside.”235 Findings in the independent report included all of the following:
+
+“The GEO Group does not ensure that the youth are provided with a clean and orderly living environment.”
+
+“Cells were filthy, smelled of feces and urine, and were in need of paint.”
+
+“[T]here are serious problems with insects throughout the facility and grounds.”
+
+“Plumbing chases were not secure at the time of the inspection. Contraband and pests were found in these areas.”
+
+“Water leaks are numerous throughout the facility, creating an unsanitary and unsafe environment for all youth and staff.”
+
+“There is racial segregation [in] the dorms; Hispanics are not allowed to be cell mates with African Americans.”
+
+“Youth sprayed with [Oleoresin Capsicum] pepper spray are not routinely decontaminated.”236
+
+The Texas Youth Commission auditors also held focus groups, in which children at the facility reported:
+
+They have “not received church services in over two months.”
+
+They are “disciplined for speaking Spanish.”
+
+They “are sometimes not allowed to brush their teeth for days at a time.”
+
+They “had been forced to urinate or defecate in some container other than a toilet.”237
+
+AMERICAN CIVIL LIBERTIES UNION | 37
+
+The Private Prison Lobby
+
+Certain private prison companies, according to a recent report by Detention Watch Network, spend large sums of money to lobby the House of Representatives, the Senate, and several federal agencies, including the Federal Bureau of Prisons (which incarcerates over 200,000 prisoners at any given time) and the Department of Homeland Security (which detains over 30,000 immigrants at any given time).238 According to nonprofit groups, CCA alone spent over $18 million on federal lobbying between 1999 and 2009, “often employing five or six firms at the same time,”239 and in 2010, CCA spent another $970,000 lobbying the federal government.240
+
+These figures capture only federal government lobbying—but private prison companies also lobby heavily in statehouses across the country. While total expenditures on state lobbying are impossible to calculate because lobbying disclosure requirements vary from state to state,241 what is clear is that lobbyists for private prisons have fanned out from coast to coast. For example, the Justice Policy Institute recently reported that “[i]n Florida alone, [the three largest private prison companies] utilized 30 lobbyists to advocate for private prison contracts and policies to promote the use of [private] prisons.”242
+
+Between 2003 and 2011, according to the National Institute on Money in State Politics, CCA hired 199 lobbyists in 32 states: Alabama, Alaska, Arizona, California, Colorado, Connecticut, Florida, Georgia, Hawaii, Idaho, Indiana, Kansas, Kentucky, Louisiana, Maine, Minnesota, Mississippi, Missouri, Montana, Nevada, New Hampshire, New Mexico, Oklahoma, Pennsylvania, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, and Wisconsin.243 During the same period, GEO hired 72 lobbyists in 17 states.244
+
+AMERICAN CIVIL LIBERTIES UNION | 38
+
+States Lobbied by CCA and GEO, 2003-2011
+
+KEY:
+
+States lobbied by both
+
+States lobbied by CCA
+
+States lobbied by neither
+
+States lobbied by GEO
+
+AK
+
+HI
+
+SOURCE: National Institute on Money in State Politics
+
+Campaign Contributions
+
+In addition to lobbying, for-profit prison companies also spend vast sums of money on campaign contributions. Since 2000, the leading private prison companies—CCA, GEO, and Cornell (which has since been absorbed by GEO in a merger)—have contributed over six million dollars to candidates for state office and over $800,000 to candidates for federal office, according to the Justice Policy Institute.245 The organization further reports that in 2010 alone, these companies contributed over two million dollars to state political campaigns, with a large fraction of the money funneled to state party committees.246
+
+Data maintained by the National Institute on Money in State Politics also reveal the following about private prison campaign contributions: Between 2003 and 2011, CCA contributed to over 600 state candidates, and GEO contributed to over 400.247 Both corporations have established their own Political Action Committees (PACs).248 These companies backed a high proportion of candidates who ultimately won elections, which may indicate a strategy of focusing contributions on candidates likely to wield power. GEO, for example, made 506 campaign donations to incumbents and only 12 donations to challengers between 2003 and 2011.249
+
+AMERICAN CIVIL LIBERTIES UNION | 39
+
+The following case study illustrates the combined effect that campaign contributions and the revolving door may have had on the expansion of privatized incarceration in Arizona.
+
+CASE STUDY More Prisons for Profit in Arizona
+
+Faced with fiscal crises, states across the country, including “tough on crime” jurisdictions such as Texas and South Carolina, have labored to reduce corrections spending.250 But Arizona’s Department of Corrections is the only large agency in that state not subject to a budget cut in fiscal year 2012—in fact, the Department’s budget increased by over ten million dollars.251 Despite a recent statement by the Arizona Auditor General that for-profit imprisonment in Arizona may cost more than incarceration in publicly-operated facilities,252 Arizona has announced plans to contract out an additional 5,000 prison “beds.” 253
+
+The 5,000 bed private prison expansion was included in Arizona Governor Jan Brewer’s 2010 executive budget. 254 CCA employees and executives reportedly contributed over $1,000 to Governor Brewer’s reelection campaign, and CCA’s Political Action Committee and lobbyists “contributed another $60,000 to Brewer’s top legislative priority, Proposition 100, a sales tax to help avoid budget cuts to education.”255 In late 2010, CBS 5 News in Arizona reported that Chuck Coughlin, Brewer’s campaign chairman and policy advisor, worked as a lobbyist for CCA; that Brewer’s communications director, Paul Senseman, used to lobby for CCA; and that Senseman’s wife continued to lobby for the corporation.256
+
+Control of Information
+
+For-profit prison companies go to great lengths, and apparently spend significant funds, to put forth a positive public image. Certain private prison companies offer the public well-manicured websites with extensive press releases and video footage touting their accomplishments, and the industry praises itself in publications such as Service, Security and Solutions (published by CCA) and GEOworld (published by GEO). Puff pieces on private prison websites cover such topics as the Paws in Prison program (which pairs prisoners with dogs), awards given to the industry, and a charity golf tournament hosted by CCA’s chairman.257
+
+Private prison companies also funnel money (which, of course, initially comes largely from taxpayers) into communications departments, which churn out positive stories about private prisons. CCA employs a Vice President for Communications, whose duties include “strategic marketing communications, media management, [and] brand positioning.”258 Management & Training Corporation likewise has a Vice President for Communications.259
+
+Meanwhile, private prison websites rarely report negative information: no one would know from CCA’s website that one of its employees sexually abused multiple female immigration detainees,
+
+AMERICAN CIVIL LIBERTIES UNION | 40
+
+or that one of its facilities is allegedly so violent that it has been dubbed the “gladiator school.”260 GEO unabashedly conditions the right to use its media materials on a reporter’s agreement to write positive stories about the company: “The following photographs have been pre-approved for media publication use. A license to reproduce and publish such photographs is hereby granted, provided, the use will not disparage GEO…”261
+
+“The following photographs have been pre-approved for media publication use. A license to reproduce and publish such photographs is hereby granted, provided, the use will not disparage GEO…”
+
+Meanwhile, according to journalist and policy analyst Tom Barry: “A near-total absence of committed oversight has al­ lowed the prison industry to flourish in the shadows. Requests for the most basic information about the functioning of these prisons and detention centers routinely lead nowhere.”262
+
+A private prison loophole in open records laws contributes to this lack of accountability. Under the Freedom of Information Act (FOIA), members of the public can request documents from federal prisons and immigration detention facilities—but when the federal government sends prisoners to a private prison, the private prison is exempt from FOIA requests.263 Under many state open records laws, the same asymmetry applies to state prisoners in state institutions and state prisoners in private prisons.
+
+—GEO Group Website
+
+“A near-total absence of committed oversight has allowed the prison industry to flourish in the shadows. Requests for the most basic information about the functioning of these prisons and detention centers routinely lead nowhere.”
+
+CCA has also blocked efforts by some of its own shareholders (specifically, a coalition of religious groups that own stock, including the Sisters of Charity of the Blessed Virgin Mary and the Mercy Investment Program) to bring greater transparency to the corporation’s political contributions. A 2007 stockholder proposal put forward by these groups would have required “an accounting of our Company’s funds that are used for political contributions or expenditures” and disclosure of “the internal guidelines or policies, if any, governing our company’s political contributions and expenditures.”264 CCA’s Board of Directors unanimously recommended that stockholders reject the proposal,265 and the measure was voted down.266 More recently, according to a news report, CCA’s Board has continued to oppose similar proposals for corporate transparency brought by religious groups that own stock in the company.267
+
+—Journalist Tom Barry
+
+****
+
+A range of aggressive and shrewd tactics drive the expansion of private incarceration. The private prison industry thrives in part by employing effective marketing strategies, rather than offering effective solutions.
+
+AMERICAN CIVIL LIBERTIES UNION | 41
+
+CONCLUSION
+
+In America, our criminal justice system should keep us safe, operate fairly, and be cost-effective. Mass incarceration, however, deprives record numbers of individuals of their liberty, has at best a minimal effect on public safety, and cripples state budgets. Meanwhile, the private prison industry rakes in profits by obtaining government money in increasing amounts, by depriving Americans of liberty in ever greater numbers, and potentially by cutting corners at the expense of public safety and prison security.
+
+For-profit prisons are a major contributor to bloated state budgets and mass incarceration—not a part of any viable solution to these urgent problems. In order to reduce corrections spending and mitigate mass incarceration, governments must focus on the hard work of criminal justice reform, and not the false promise of for-profit imprisonment.
+
+AMERICAN CIVIL LIBERTIES UNION | 42
+
+ENDNOTES
+
+1 The Pew Center on the States, One in 100: Behind Bars in America 2008 5, 35 (2008); Rough Justice in America: Too Many Laws, Too Many Prisoners, The Economist, July 22, 2010; Adam Liptak, U.S. Prison Population Dwarfs That of Other Nations, N.Y. Times, Apr. 23, 2008.
+
+2 See Rough Justice in America; Too Many Laws, Too Many Prisoners, The Economist, July 22, 2010. Currently, the United States incarcerates over 2.3 million people, approximately one out of every 100 adults. Id.
+
+3 Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of Colorblindness 6-7 (2010); The Pew Center on the States, One in 100: Behind Bars in America 2008 35 (2008); Todd R. Clear, Imprisoning Communities: How Mass Incarceration Makes Disadvantaged Neighborhoods Worse 6-7, 9-10 (2007).
+
+4 See, e.g., Greg Bluestein, Associated Press, State Budget Crises Push Sentencing Reforms, Boston Globe, Apr. 2, 2011; Judith Greene & Marc Mauer, The Sentencing Project, Downscaling Prisons: Lessons from Four States 1-2 (2010); American Civil Liberties Union, Smart Reform Is Possible: States Reducing Incarceration Rates and Costs While Protecting Communities 5-7 (2011).
+
+5 Corrections Corporation of America, 2010 Annual Report on Form 10-K 19 (2010). The full paragraph stated: “Our ability to secure new contracts to develop and manage correctional and detention facilities depends on many factors outside our control. Our growth is generally dependent upon our ability to obtain new contracts to develop and manage new correctional and detention facilities. This possible growth depends on a number of factors we cannot control, including crime rates and sentencing patterns in various jurisdictions and acceptance of privatization. The demand for our facilities and services could be adversely affected by the relaxation of enforcement efforts, leniency in conviction or parole standards and sentencing practices or through the decriminalization of certain activities that are currently proscribed by our criminal laws. For instance, any changes with respect to drugs and controlled substances or illegal immigration could affect the number of persons arrested, convicted, and sentenced, thereby potentially reducing demand for correctional facilities to house them. Legislation has been proposed in numerous jurisdictions that could lower minimum sentences for some non-violent crimes and make more inmates eligible for early release based on good behavior. Also, sentencing alternatives under consideration could put some offenders on probation with electronic monitoring who would otherwise be incarcerated. Similarly, reductions in crime rates or resources dedicated to prevent and enforce crime could lead to reductions in arrests, convictions and sentences requiring incarceration at correctional facilities.” Id. at 19-20.
+
+6 From 1990 to 2009, the number of people incarcerated in private prisons grew from approximately 7,000 to approximately 129,000 inmates. United States Department of Justice, Bureau of Justice Statistics, Census of State and Federal Correctional Facilities, 1995 iv (1997); Heather C. West, Et Al., United States Department of Justice, Bureau of Justice Statistics, Prisoners in 2009, 33 App. Table 19 (2010).
+
+7 Heather C. West, Et Al., United States Department of Justice, Bureau of Justice Statistics, Prisoners in 2009, 34 App. Table 20 (2010) (6.8% of adult state prisoners and 16.4% of adult federal prisoners in private prisons in 2009); Detention Watch Network, The Influence of the Private Prison Industry in Immigration Detention, www.detentionwatchnetwork.org/ privateprisons (49% of immigration detainees in private facilities in 2009) (last visited Oct. 4, 2011).
+
+8 Corrections Corporation of America, 2010 Letter to Shareholders 1 (2010) (($1.7 billion in 2010 CCA revenue); The GEO Group, Inc., 2010 Annual Report 3, 20 (2010) ($1.27 billion in 2009 GEO revenue); Morningstar, Corrections Corporation
+
+of America, Key Executive Compensation, http://insiders.morningstar.com (under “search insiders by ticker,” search for “CXW”) (CCA executive compensation); Morningstar, The GEO Group, Inc., Key Executive Compensation, http://insiders. morningstar.com (under “search insiders by ticker,” search for “GEO”) (GEO executive compensation).
+
+9 For a discussion of the conflicting evidence regarding cost savings, see infra at 19-20 and nn. 100-109.
+
+10 Bob Ortega, Arizona To Expand Private Prisons, Arizona Republic, Jul. 3, 2011.
+
+11 State of Arizona, Office of the Auditor General, Report No. 10-08, Department of Corrections-Prison Population Growth 19, 21 (2010) (citing Arizona Department of Corrections, FY 2009 Operating Per Capita Cost Report: Cost Identification and Comparison of State and Private Contract Beds (2010)).
+
+12 Bob Ortega, Arizona To Expand Private Prisons, Arizona Republic, Jul. 3, 2011.
+
+AMERICAN CIVIL LIBERTIES UNION | 43
+
+13 Morgan Loew, Brewer Linked to Private Prisons Housing Illegal Immigrants, KPHO.com, (Sept. 1, 2010), http://www.kpho. com/story/14791252/brewer-linked-to-private-prisons-housing-illegal-immigrants-9-01-2010.
+
+14 Real Savings Needed for Private Prisons, Florida Times-Union, June 22, 2010; see also Richard A. Oppel, Jr., Private Prisons Found To Offer Little in Savings, N.Y. Times, May 18, 2011; Tom Brown, Private Prison Business Eyes Big Florida Prize, Reuters, May 12, 2011.
+
+15 Scott Hiaasen, Effort to Privatize Florida Prisons Raises Questions of Cost, Miami Herald, Apr. 22, 2011; see also David Royse, News Service of Florida, Florida State Senator Wants Answers on $25 Million Prison Privatization Costs, Florida Courier, Aug. 16, 2011; Teamster Nation, Florida Prison Privatization Already Open for Bids, July 26, 2011, http:// teamsternation.blogspot.com/2011/07/florida-prison-privatization-already.html (last visited Sept. 30, 2011).
+
+16 Seek Savings Beyond Privatizing Prisons, Orlando Sentinel, Aug. 23, 2011.
+
+17 Final Declaratory and Injunctive Judgment at 6, Baiardi v. Tucker, No. 2011 CA 1838 (Fla. Cir. Ct. Sept. 30, 2011).
+
+18 Id. at 5. As this report went to press, Governor Rick Scott reportedly had not decided whether to appeal the ruling. Mary Ellen Klas, Grand Jury Probes Panhandle Private Prison Deal, Miami Herald, Oct. 9, 2011.
+
+19 Julie Carr Smyth, Associated Press, Ohio 1st in US To Sell Prison to Private Company, SF Gate, Sept. 1, 2011; Press Release, ACLU of Ohio, State’s Decision To Sell Only One Prison Underscores Problems for Taxpayers, Says ACLU, Sept. 1, 2011 (on file with author).
+
+20 Joe Guillen, Gov-elect John Kasich Picks Private Corrections Consultant and Former Warden To Run Ohio’s Prisons System, Plain Dealer, Jan. 4, 2011; Chillicothe’s Gary Mohr Named Ohio Prisons Chief, Chillicothe Gazette, Jan. 4, 2011.
+
+21 ACLU of Ohio, Prisons for Profit: A Look at Prison Privatization 1, 18-20 (2011); American Civil Liberties Union, Smart Reform Is Possible: States Reducing Incarceration Rates and Costs While Protecting Communities 50-51 (2011).
+
+22 Jan Moller, Gov. Jindal’s Plan To Sell State Prisons Is Killed by House Committee, Times-Picayune, June 6, 2011; Julie Carr Smyth, Associated Press, Ohio 1st in US To Sell Prison to Private Company, SF Gate, Sept. 1, 2011.
+
+23 Jan Moller, Gov. Jindal’s Plan To Sell State Prisons Is Killed by House Committee, Times-Picayune, June 6, 2011; see also generally American Civil Liberties Union, Smart Reform Is Possible: States Reducing Incarceration Rates and Costs While Protecting Communities 54-55 (2011).
+
+24 U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement Salaries and Expenses Fiscal Year 2012 Congressional Justification 57 (2011); Susan Carroll, ICE Upgrades Standards for Detention Facilities, Houston Chron., Sept. 28, 2010.
+
+25 La Opinión, ICE Builds More Immigration Detention Centers, New America Media, June 28, 2011; Jason Buch, New Detention Center in Karnes County, San Antonio Express-News, Dec. 9, 2010; Sam Dolnick, Reversing Course, Officials in New Jersey Cancel One-Bid Immigrant Jail Deal, N.Y. Times, Aug. 15, 2011; Travis Pillow, Corrections Corporation Partnering with Broward Town To Compete For Immigration Detention Facility, Florida Independent, May 27, 2011.
+
+26 Sam Dolnick, Reversing Course, Officials in New Jersey Cancel One-Bid Immigrant Jail Deal, N.Y. Times, Aug. 15, 2011.
+
+27 See infra at 23-28.
+
+28 Security Assessment, ASP-Kingman August 4-6, 2010, Memorandum from Therese Schroeder, Security Operations Administrator, to Charles L. Ryan, Director, Arizona Department of Corrections 3, 9 (Aug. 18, 2010) (on file with author).
+
+29 Texas Youth Commission, Coke County Juvenile Justice Center Audit 7 (2007).
+
+30 Henry K. Lee, California Convicts Brawl in Oklahoma Prison, San Francisco Chron., Oct. 13, 2011.
+
+31 Pollard v. The GEO Group, Inc., 629 F.3d 843 (9th Cir. 2010), cert. granted, 131 S.Ct. 2449 (May 16, 2011) (No. 10-1104).
+
+32 Mixed Verdict for Disgraced Judge, N.Y. Times, Feb. 18, 2011; Press Release, U.S. Attorney’s Office for the Middle District of Pennsylvania, Former Pennsylvania County President Judge and Juvenile Judge Mark Ciavarella Sentenced to 28 Years in Prison (Aug. 11, 2011) (on file with author). Ciavarella has appealed the convictions. Dave Janoski, Ciavarella Moved to Federal Prison in Illinois, Times-Tribune, Sept. 13, 2011.
+
+33 Of course, not every private prison company has been found to engage in each of these tactics.
+
+AMERICAN CIVIL LIBERTIES UNION | 44
+
+34 Heather C. West, et al., United States Department of Justice, Bureau of Justice Statistics, Prisoners in 2009, 34 App. Table 20 (2010). This figure refers to convicted prisoners serving sentences and generally excludes pretrial detainees held in jails.
+
+35 Detention Watch Network, The Influence of the Private Prison Industry in Immigration Detention, www. detentionwatchnetwork.org/privateprisons.
+
+36 Corrections Corporation of America, 2010 Letter to Shareholders 1 (2010) ($1.7 billion in 2010 CCA revenue); The GEO Group, Inc., 2010 Annual Report 3, 20 (2010) ($1.27 billion in 2009 GEO revenue).
+
+37 Michael Ignatieff, A Just Measure of Pain: The Penitentiary in the Industrial Revolution, 1750-1850, 30 (1978).
+
+38 Id. at 52.
+
+39 John W. Roberts, Reform and Retribution: An Illustrated History of American Prisons 17 (1997).
+
+40 Id.
+
+41 Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of Colorblindness 31 (2010); see also Brigette Sarabi & Edwin Bender, Western Prison Project and Western States Center, The Prison Payoff: The Role of Politics and Private Prisons
+
+in the Incarceration Boom 1 (2000).
+
+42 Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of Colorblindness 31 (2010).
+
+43 John W. Roberts, Reform and Retribution: An Illustrated History of American Prisons 82 (1997).
+
+44 Abt Associates Inc., Private Prisons in the United States: An Assessment of Current Practice 4 (1998).
+
+45 Id. at 5 (stating that the federal government began contracting out immigration detention facilities to private firms in 1979, which “provided the seedbed for the contemporary private imprisonment industry in the United States”); Alex Friedmann, The Societal Impact of the Prison Industrial Complex, or Incarceration for Fun and Profit … Mostly Profit (forthcoming chapter in And the Criminals With Him: Essays in Honor of Will D. Campbell and All the Reconciled (Ed. Richard C. Goode)).
+
+46 See Ewing v. California, 538 U.S. 11 (2003).
+
+47 See Todd R. Clear, Imprisoning Communities: How Mass Incarceration Makes Disadvantaged Neighborhoods Worse 7 (2007).
+
+48 Id. at 6-7.
+
+49 Public Safety Performance, Public Safety, Public Spending: Forecasting America’s Prison Population 2007-2011, 11 (revised June 2007).
+
+50 Bureau of Justice Statistics, Prison Population Counts, http://bjs.ojp.usdoj.gov/index.cfm?ty=tp&tid=131 (last viewed Jul. 24, 2011).
+
+51 Suzanne M. Kirchhoff, Congressional Research Service, Economic Impacts of Prison Growth (2010).
+
+52 United States Department of Justice, Bureau of Justice Statistics, Census of State and Federal Correctional Facilities, 1995 iv (1997). The figures in this paragraph include prisons that hold people who have been convicted. The figures generally do not include pre-trial detainees held in jails or immigration detainees held in immigration detention facilities.
+
+53 United States Department of Justice, Bureau of Justice Statistics, Census of State and Federal Correctional Facilities, 1995 iv (1997); Heather C. West, et al., United States Department of Justice, Bureau of Justice Statistics, Prisoners in 2009, 33 App. Table 19 (2010).
+
+54 Corrections Corporation of America, 2010 Annual Report on Form 10-K 19-20 (2010) (emphasis removed); see also Judith Greene, Banking on the Prison Boom, in Prison Profiteers: Who Makes Money From Mass Incarceration 3 (Tara Herivel & Paul Wright ed. 2007).
+
+55 The Geo Group, Inc., Form 10-K Annual Report For the Fiscal Year Ended January 2, 2011, 33 (emphasis removed). The private prison industry has denied claims that it is “motivated to take proactive steps in pursuing legislation to keep their private facilities filled.” The Sentencing Project, Prison Privatization and the Use of Incarceration 4 (January 2002; updated September 2004).
+
+56 Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of Colorblindness 6-7 (2010); The Pew Center on the States, One in 100: Behind Bars in America 2008, 35 (2008); Todd R. Clear, Imprisoning Communities: How Mass Incarceration
+
+AMERICAN CIVIL LIBERTIES UNION | 45
+
+Makes Disadvantaged Neighborhoods Worse 6-7, 9-10 (2007); Greg Bluestein, Associated Press, State Budget Crises Push Sentencing Reforms, Boston Globe, Apr. 2, 2011; Judith Greene & Marc Mauer, The Sentencing Project, Downscaling Prisons: Lessons from Four States 1-2 (2010); American Civil Liberties Union, Smart Reform Is Possible: States Reducing Incarceration Rates and Costs While Protecting Communities (2011).
+
+57 The GEO Group Inc., Historic Milestones, http://www.thegeogroupinc.com/history.asp (last viewed Oct. 11, 2011); Abt Associates Inc, Private Prisons in the United States: An Assessment of Current Practice 5 (1998).
+
+58 Corrections Corporation of America, 2010 Letter to Shareholders 1 (2010) (($1.7 billion in 2010 CCA revenue); The GEO Group, Inc., 2010 Annual Report 3, 20 (2010) ($1.27 billion in 2009 GEO revenue).
+
+59 Meredith Kolodner, Private Prisons Expect a Boom; Immigration Enforcement to Benefit Detention Companies, N.Y. Times, Jul. 19, 2006.
+
+60 The vast majority of this taxpayer money no doubt came from taxpayers in the United States. CCA does not operate prisons outside of the United States; GEO operates a limited number of prisons in South Africa, the United Kingdom, and Australia, but a far greater number in the United States. Corrections Corporation of America, CCA Facility Locations, http://www.cca.com/facilities (last visited Oct. 6, 2011); The GEO Group, Global Operations, http://www.thegeogroupinc. com/locations.asp (last visited Oct. 6, 2011).
+
+61 Morningstar, Corrections Corporation of America, Key Executive Compensation, http://insiders.morningstar.com (under “search insiders by ticker,” search for “CXW”); Morningstar, The GEO Group, Inc., Key Executive Compensation, http:// insiders.morningstar.com (under “search insiders by ticker,” search for “GEO”).
+
+62 American Legislative Exchange Council, History, http://www.alec.org/AM/Template.cfm?Section=History&Template=/CM/ HTMLDisplay.cfm&ContentID=1364 (last viewed July 8, 2011).
+
+63 Laura Sullivan, Shaping State Laws With Little Scrutiny, National Public Radio, Oct. 29, 2010 (“Videos and photos from one recent ALEC conference show banquets, open bar parties and baseball games – all hosted by corporations. Tax records show the group spent $138,000 to keep legislators’ children entertained for the week.”). See also American Association for Justice, ALEC: Ghostwriting the Law for Corporate America 4 (2010).
+
+64 American Legislative Exchange Council, Legislative Membership, (last viewed Jul. 7, 2011), http://www.alec.org/AM/ Template.cfm?Section=Legislative_Membership&Template=/CM/HTMLDisplay.cfm&ContentID=15995.
+
+65 Laura Sullivan, Shaping State Laws With Little Scrutiny, National Public Radio, Oct. 29, 2010.
+
+66 Id. (“Here’s how it works: ALEC is a membership organization. State legislators pay $50 a year to belong. Private corporations can join, too … [Some] pay tens of thousands of dollars a year. Tax records show that corporations collectively pay as much as $6 million a year.”); American Association for Justice, ALEC: Ghostwriting the Law for Corporate America 5 (2010); Karen Olsson, Ghostwriting the Law: A Little-Known Corporate Lobby is Drafting Business-Friendly Bills for State Legislators Across the Country, Mother Jones, Sept.-Oct. 2002.
+
+67 Dennis Bartlett, American Legislative Exchange Council, 1997, quoted in Defenders of Wildlife & Natural Resources Defense Council, Corporate America’s Trojan Horse in the States: The Story Behind the American Legislative Exchange Council 8 (2002).
+
+68 Karen Olsson, Ghostwriting the Law: A Little-Known Corporate Lobby is Drafting Business-Friendly Bills for State Legislators Across the Country, Mother Jones, Sept.-Oct. 2002; Laura Sullivan, Shaping State Laws With Little Scrutiny, National Public Radio, Oct. 29, 2010.
+
+69 Bob Ortega, Political Ties Give Leverage to CCA, Ariz. Republic, Sept. 4, 2011; Karen Olsson, Ghostwriting the Law: A Little-Known Corporate Lobby is Drafting Business-Friendly Bills for State Legislators Across the Country, Mother Jones, Sept.-Oct. 2002; Beau Hodai, Corporate Con Game: How the Private prison Industry Helped Shape Arizona’s Anti-Immigrant Law, In These Times, June 21, 2010; Justice Policy Institute, Gaming the System: How the Political Strategies of Private Prison Companies Promote Ineffective Incarceration Policies 29 (2011); In the Public Interest, Private Prisons vs. the Public Interest, (last viewed Oct. 7, 2011); http://org2.democracyinaction.org/o/6488/t/0/blastContent.jsp?email_ blast_KEY=1161818; see also generally Mike Elk & Bob Sloan, The Hidden History of ALEC and Prison Labor, The Nation, Aug. 1, 2011.
+
+70 Brigette Sarabi & Edwin Bender, Western Prison Project &Western States Center, The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom 4 (2000).
+
+71 Michael Hotra, Getting Tough Works: Old Strategies Are the Weapons in the New War on Crime, American Legislative Exchange Council, Oct. 9, 1996, at 8.
+
+AMERICAN CIVIL LIBERTIES UNION | 46
+
+72 The Sentencing Project, Prison Privatization and the Use of Incarceration 4 (2004).
+
+73 Bob Ortega, Political Ties Give Leverage to CCA, Ariz. Republic, Sept. 4, 2011.
+
+74 Id.; see also Karen Olsson, Ghostwriting the Law: A Little-Known Corporate Lobby is Drafting Business-Friendly Bills for State Legislators Across the Country, Mother Jones, Sept.-Oct. 2002.
+
+75 The Sentencing Project, Prison Privatization and the Use of Incarceration 5 (2004).
+
+76 American Legislative Exchange Council, History, http://www.alec.org/AM/Template.cfm?Section=History&Template=/CM/ HTMLDisplay.cfm&ContentID=1364 (last viewed July 8, 2011) (emphasis added).
+
+77 American Legislative Exchange Council, Volume I: Sourcebook of American State Legislation 1995, at 144 (1995) (emphasis added).
+
+78 Id. at 145.
+
+79 Brigette Sarabi & Edwin Bender, Western Prison Project &Western States Center, The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom 4 (2000).
+
+80 Bob Ortega, Political Ties Give Leverage to CCA, Ariz. Republic, Sept. 4, 2011.
+
+81 Detention Watch Network, The Influence of the Private Prison Industry in Immigration Detention, (last visited Oct. 7, 2011), http://www.detentionwatchnetwork.org/privateprisons).
+
+82 Chad C. Haddal & Alison Siskin, Congressional Research Service, Immigration-Related Detention: Current Legislative Issues 12 (2010).
+
+83 Id. at 11.
+
+84 Id. at 12.
+
+85 Judy Greene & Sunita Patel, The Immigrant Gold Rush: The Profit Motive Behind Immigration Detention (submitted to the U.N. Special Rapporteur on the Human Rights of Migrants). In another account of what appears to be the same telephone call, the head of the company is reported as instead saying: “I think it’s clear that with the events of September 11 there’s a heightened focus on detention, both on the borders and within the US. … So I would say the events of September 11, um, let me back up. The federal business is the best business for us. It’s the most consistent business for us, and the events of September 11 is increasing that level of business.” Prison Privitisation Report International, No. 44, Nov. 2011, at 5-6 (on file with author).
+
+86 Chad C. Haddal & Alison Siskin, Congressional Research Service, Immigration-Related Detention: Current Legislative Issues 12 (2010).
+
+87 American Civil Liberties Union, What Happens in Arizona Stays in Arizona, http://www.aclu.org/what-happens-arizonastops-arizona (last visited Oct. 7, 2011); see also Daniel Gonzalez, Senate Bill 1070: One Year Later, Ariz. Republic, Apr. 23, 2011. A federal court in Arizona later ruled that much of SB 1070 is unconstitutional and enjoined enforcement of the law, and the Ninth Circuit affirmed the ruling. American Civil Liberties Union, Frequently Asked Questions – Update
+
+on Legal Challenges to Arizona’s Racial Profiling Law (SB 1070), http://www.aclu.org/immigrants-rights-racial-justice/ frequently-asked-questions-update-legal-challenges-arizonas-racial-. (last viewed Oct. 3, 2011).
+
+88 Seth Freed Wessler, Bills Modeled After Arizona’s SB 1070 Spread Through States, Colorlines, Mar. 2, 2011.
+
+89 Beau Hodai, Corporate Con Game: How the Private Prison Industry Helped Shape Arizona’s Anti-Immigrant Law, In These Times, June 21, 2010; see also Daniel Gonzalez, Senate Bill 1070: One Year Later, Ariz. Republic, Apr. 23, 2011.
+
+90 Alia Beard Rau & Casey Newton, Sen. Russell Pearce: SB 1070 Story ‘A Lie,’ Ariz. Republic, Oct. 29, 2010.
+
+91 Laura Sullivan, Prison Economics Help Drive Ariz. Immigration Law, National Public Radio, Oct. 28, 2010; Nate Rau, Ariz. Immigration Law Pushed for TN, The Tennessean, Dec. 5, 2010. But see Alia Beard Rau & Casey Newton, Sen. Russell Pearce: SB 1070 Story ‘A Lie,’ Ariz. Republic, Oct. 29, 2010.
+
+92 Richard A. Oppel, Jr., Private Prisons Found To Offer Little in Savings, N.Y. Times, May 18, 2011 (“The conviction that private prisons save money helped drive more than 30 states to turn to them for housing inmates … [M]any politicians have promised to ease budget problems by trimming state agencies. Florida and Ohio are planning major shifts toward private prisons, and Arizona is expected to sign deals doubling its private-inmate population”); D.M. Levine, What’s Costlier Than A Government Run Prison? A Private One, CNN, Aug. 18, 2010 (“In recent years, the trend toward
+
+AMERICAN CIVIL LIBERTIES UNION | 47
+
+privatization, both among state governments and at the federal level has been part of an attempt to address serious budget troubles and crisis-level prison overcrowding by outsourcing more and more corrections operations to private companies. The move has translated into big business for industry leaders like Corrections Corporation of America … [and] The Geo Group …”); Scott Hiaasen, Effort to Privatize Florida Prisons Raises Questions of Cost, Miami Herald, Apr. 24, 2011 (stating that further prison privatization in Florida “is needed, backers say, to rein in the prison system’s budget – which totaled $2.3 billion last year – at a time of mammoth deficits.”).
+
+93 Corrections Corporation of America, Partnering with CCA, http://www.cca.com/partnering-with-cca/ (last viewed Sept. 13, 2011).
+
+94 The GEO Group, GEO Advantages, http://www.geogroup.com/benefitsAdvantages.asp (last viewed Sept. 13, 2011); see also Emerald Companies, Correctional Management, http://www.emeraldcompanies.com/divisions/corr_mgmt. htm (last viewed Oct. 13, 2011) (“Emerald Correctional Management … is dedicated to meeting the collective needs of governmental public safety and criminal justice agencies (U.S. Marshal, ICE, BOP, state and county) in their endeavors to deliver competent, cost-effective and secure correctional facilities management and financing.”) (emphasis added); Management & Training Corporation, Corrections Overview, http://www.mtctrains.com/ corrections/corrections-overview (last viewed Oct. 13, 2011) (“MTC’s proven performance and high integrity provide delivery of quality services to customers through innovation, adaptability and cost effectiveness.”) (emphasis added); Bob Ortega, Arizona Prison Businesses Are Big Political Contributors, Ariz. Republic, Sept. 4, 2011; James Austin & Garry Coventry, United States Department of Justice, Emerging Issues on Privatized Prisons 15 (2001) (“Representatives of privatesector firms assert that they can save taxpayers money by providing correctional services traditionally supplied by government at less cost.”).
+
+95 See infra at 23-31.
+
+96 See, e.g., Judith Greene & Marc Mauer, Downscaling Prisons: Lessons from Four States 1-2 (2010); American Civil Liberties Union, Smart Reform Is Possible: States Reducing Incarceration Rates and Costs While Protecting Communities 5-7 (2011).
+
+97 Corrections Corporation of America, 2010 Annual Report on Form 10-K 18, 20 (2010). For the full text of this paragraph, which is excerpted above, see supra n.5.
+
+98 State of Arizona, Office of the Auditor General, Report No. 10-08, Department of Corrections-Prison Population Growth 19-20 (2010) (citing Arizona Department of Corrections, FY 2009 Operating Per Capita Cost Report: Cost Identification and Comparison of State and Private Contract Beds (2010)).
+
+99 Bob Ortega, Arizona To Expand Private Prisons, Ariz. Republic, Jul. 3, 2011.
+
+100 See, e.g., Leonard C. Gilroy et al., Reason Found. & Howard Jarvis Taxpayers Found., Public-Private Partnerships for Corrections in California: Bridging the Gap Between Crisis and Reform (2010); see also Dina Perrone & Travis C. Pratt, Comparing the Quality of Confinement and Cost-Effectiveness of Public Versus Private Prisons: What We Know, Why We Do Not Know More, and Where To Go from Here, 83 Prison J. 301, 315-16 (2003) (reviewing cost studies and stating, “neither side of the correctional privatization debate should, at this time, be able to legitimately claim that the weight of the empirical evidence is on their side.”).
+
+101 State of Arizona, Office of the Auditor General, Report No. 10-08, Department of Corrections: Prison Population Growth 19-20 (2010).
+
+102 State of Hawaii, The Auditor General, Report No. 10-10, Management Audit of the Department of Public Safety’s Contracting
+
+for Prison Beds and Services: A Report to the Governor and the Legislature of the State of Hawai’i 16 (2010).
+
+103 Memorandum from the Legal Review Comm. to the Corr. Facility Evaluation Task Force (Nov. 3, 2010) (emphasis added) (on file with author).
+
+104 Gov’t Accountability Office, GAO-08-8, Cost of Prisons: Bureau of Prisons Needs Better Data to Assess Alternatives for Acquiring Low and Minimum Security Facilities 2, 4 (2007).
+
+105 Brad Lundahl et al., Utah Criminal Justice Center, Prison Privatization: A Meta-Analysis of Cost Effectiveness and Quality of Confinement Indicators 20 (2007).
+
+106 Final Declaratory and Injunctive Judgment at 6, Baiardi v. Tucker, No. 2011 CA 1838 (Fla. Cir. Ct. Sept. 30, 2011).
+
+107 Id. at 4-5.
+
+108 Mary Ellen Klas, Grand Jury Probes Panhandle Private Prison Deal, Miami Herald, Oct. 9, 2011. For further discussions of supposed cost savings, see Richard Culp, The Failed Promise of Prison Privatization, Prison Legal News, Oct. 2011, at
+
+AMERICAN CIVIL LIBERTIES UNION | 48
+
+1, 8 (“The big promises of prison privatization – less cost, higher quality – have simply not materialized …. If a quarter century of experience with prison privatization has not led to better quality and cost outcomes, it is time to take a more sane approach.”); Harley G. Lappin et al., United States Department of Justice, Evaluation of the Taft Demonstration Project: Performance of a Private-Sector Prison and the BOP 34 (2005) (“The evidence produced by the cost and quality studies for [a federal prison] suggest that the cost of operating [the prison] was comparable whether [a private prison company] operated the [the prison] or the BOP operated the prison.”); Richard A. Oppel, Jr., Private Prisons Found To Offer Little in Savings, N.Y. Times, May 18, 2011.
+
+109 See supra n.100.
+
+110 Dara Kam, Ethics Board Fines UF Professor $20,000, Sarasota Herald-Trib., Oct. 22, 1999. See also Andrew L. Spivak & Susan F. Sharp, Inmate Recidivism as a Measure of Private Prison Performance, 54 Crime & Delinquency 482, 489 (2008); Judith Greene, Bailing Out Private Jails, Am. Prospect, Sept. 9, 2001; Kevin Pranis, Private Corr. Inst., Cost-Saving or Cost-Shifting: The Fiscal Impact of Prison Privatization in America 8 (n.d.); Philip Mattera et al., Grassroots Leadership, Corrections Corporation of America: A Critical Look at its First Twenty Years 3 (2003); Editorial, Private Prison Problems, St. Petersburg Times, Oct. 27, 2000.
+
+111 In re Charles W. Thomas, No. 99-21, (Fla. Ethics Comm. Oct. 21, 1999) (final order and pub. report).
+
+112 The GEO Group Inc., Community Involvement, http://www.thegeogroupinc.com/communityinvolvement.asp (last viewed Sept. 13, 2011).
+
+113 Corrections Corporation of America, Economic Development and Community Outreach with CCA, http://www.correctionscorp. com/economic-development (last viewed Sept. 13, 2011).
+
+114 Gregory Hooks et al., Revisiting the Impact of Prison Building on Job Growth: Education, Incarceration, and County-Level Employment, 1976-2004, 91 Social Science Q. 228, 240 (2010).
+
+115 Clayton Mosher, Gregory Hooks & Peter B. Wood, Don’t Build it Here: The Hype Versus the Reality of Prisons and Local Employment in Prison Profiteers: Who Makes Money From Mass Incarceration 90, 91-92 (Tara Herivel & Paul Wright eds., 2007).
+
+116 Ryan S. King, Marc Mauer & Tracy Huling, The Sentencing Project, Big Prisons, Small Towns: Prison Economics in Rural America 2 (2003).
+
+117 Philip Mattera & Mafruza Khan, Good Jobs First, Jail Breaks: Economic Development Subsidies Given To Private Prisons v (2001); see also Tom Barry, A Death in Texas: Profits, Poverty, and Immigration Converge, Boston Rev., Nov.-Dec. 2009.
+
+118 Philip Mattera & Mafruza Khan, Good Jobs First, Jail Breaks: Economic Development Subsidies Given To Private Prisons, v (2001).
+
+119 Tom Barry, A Death in Texas: Profits, Poverty, and Immigration Converge, Boston Rev., Nov.-Dec. 2009; Eric Schlosser, The Prison-Industrial Complex, The Atlantic, Dec. 1998.
+
+120 State of Arizona, Office of the Auditor General, Report No. 10-08, Department of Corrections: Prison Population Growth 20 (2010).
+
+121 Leslie Berestein, Detention Dollars: Tougher Immigration Laws Turn the Ailing Private Prison Sector into a Revenue Maker, San Diego Union-Trib., May 4, 2008.
+
+122 John Burnett, Private Prison Promises Leave Texas Towns in Trouble, National Public Radio, Mar. 28, 2011 (“The packages look sweet. A town gets a new detention center without costing the taxpayers anything. The private operator finances, constructs and operates an oversized facility. The contract inmates pay off the debt and generate extra revenue. The economic model works fine until they can’t find inmates.”); Kyle Pope, Executives Dropped from Prison Project/ Pair Connected to Scandal in Texas, Houston Chron. Mar. 6, 1992; Kevin Pranis, Doing Borrowed Time: The High Cost of Backdoor Prison Finance, in Prison Profiteers: Who Makes Money from Mass Incarceration 36, 50-51 (Tara Herivel & Paul Wright ed., 2007); Matthew Reichbach, Private Prison Developer Behind Montana Fiasco Involved in Construction of NM Private Prisons, New Mexico Indep., Oct. 12, 2009; Will Swarts, Jail Bonds Can’t Bar Defaults, SmartMoney, Sept. 1, 2010.
+
+123 Mike Stark, Detention Facility Would Offer Hardin 150 Jobs, Billings Gazette, July 22, 2004; Ruffin Prevost, Bond Default Could Hinder Future Projects, Billings Gazette, Oct. 18, 2009.
+
+124 Jennifer McKee, Empty Hardin Jail Puts New Director in Tough Spot, The Missoulian, Jan. 11, 2010.
+
+125 Mike Stark, Detention Facility Would Offer Hardin 150 Jobs, Billings Gazette, July 22, 2004.
+
+AMERICAN CIVIL LIBERTIES UNION | 49
+
+126 Ruffin Prevost, Bond Default Could Hinder Future Projects, Billings Gazette, Oct. 18, 2009.
+
+127 Jennifer McKee, Empty Hardin Jail Puts New Director in Tough Spot, The Missoulian, Jan. 11, 2010.
+
+128 Matthew Brown, Montana Town Eager To Put Gitmo Inmates in Its Jail, Deseret News, May 31, 2009.
+
+129 Ruffin Prevost, Bond Default Could Hinder Future Projects, Billings Gazette, Oct. 18, 2009; Sarah Gravlee, Hardin Jail Then and Now – Financing, KULR-8 News, Nov. 18, 2009.
+
+130 Jennifer McKee, Empty Hardin Jail Puts New Director in Tough Spot, The Missoulian, Jan. 11, 2010.
+
+131 Becky Shay, Jail Backers Rally Business Community, Billings Gazette, Dec. 11, 2007.
+
+132 Jennifer McKee & Matthew Brown, Hardin Agency Fixing Pipes in Jail, Billings Gazette, June 24, 2010.
+
+133 Lorna Thackeray, Producers Eye Empty Hardin Jail for Reality TV Show, Billings Gazette, Jan. 13, 2011.
+
+134 Media accounts refer variously to this group as “American Police Force” and “American Private Police Force.” This report refers to the group as “American Police Force.”
+
+135 Jennifer McKee, Empty Hardin Jail Puts New Director in Tough Spot, The Missoulian, Jan. 11, 2010.
+
+136 Lorna Thackeray, Producers Eye Empty Hardin Jail for Reality TV Show, Billings Gazette, Jan. 13, 2011.
+
+137 Becky Shay, Hardin Agency’s Exec Put on Leave, Billings Gazette, Sept. 16, 2009.
+
+138 Jennifer McKee, Empty Hardin Jail Puts New Director in Tough Spot, The Missoulian, Jan. 11, 2010.
+
+139 Matthew Brown, Company Run by Ex-con Drops Montana Jail Plan, Seattle Times, Oct. 9, 2009.
+
+140 Matthew Brown, Security Firm’s Deal for Filling Empty Montana Jail Is Raising Questions, Deseret News, Sept. 13, 2009.
+
+141 Montana Town Wants Its Empty Jail to be the New Guantanamo Bay, Fox News, Apr. 23, 2009; Editorial, After Guantanamo, Bangor Daily News, July 9, 2009.
+
+142 Jennifer McKee, Two Rivers Board Considered Many Options for Hardin Jail, Billings Gazette, Oct. 9, 2009.
+
+143 Lorna Thackeray, Producers Eye Empty Hardin Jail for Reality TV Show, Billings Gazette, Jan. 13, 2011.
+
+144 Mike Stark, Detention Facility Would Offer Hardin 150 Jobs, Billings Gazette, July 22, 2004.
+
+145 Corplan Corrections, http://www.corplancorrections.com/ (last visited June 27, 2011).
+
+146 Management & Training Corporation, MTC Keys to Success, http://www.mtctrains.com/corrections/mtc-keys-tosuccess (last visited Oct. 6, 2011).
+
+147 The GEO Group, Culture, http://www.thegeogroupinc.com/culture.asp (last visited Oct. 6 2011).
+
+148 Corrections Corporation of America, Safety and Security with CCA, http://www.cca.com/facility-operations/security/ (last viewed Oct. 13, 2011).
+
+149 See, e.g., Scott D. Camp & Dawn M. Daggett, Quality of Operations at Private and Public Prisons: Using Trends in Inmate Misconduct To Compare Prisons 26 (2005) (“The results demonstrated that the private prison did not perform as well as the three comparison prisons in the public sector, on the whole. For certain measures, the performance of the private prison was exemplary, as was noted for violent misconduct and security-related misconduct. For the other forms of misconduct, the results were less favorable for the private prison.”); Dina Perrone & Travis C. Pratt, Comparing the Quality of Confinement and Cost-Effectiveness of Public Versus Private Prisons: What We Know, Why We Do Not Know More, and Where To Go from Here, 83 Prison J. 301, 309 (2003) (summarizing prior studies comparing private and governmental prisons and stating “[i]nconclusive results were also found in the domain of safety.”).
+
+150 Curtis R. Blakely & Vic W. Bumphus, Private and Public Sector Prisons – A Comparison of Select Characteristics, 68 Fed. Probation 27, 30 (2004).
+
+151 James Austin & Garry Coventry, U.S. Dep’t of Justice, Emerging Issues on Privatized Prisons 52 (2001). The study noted that “[t]hese differences may be related to other factors such as reporting standards or the fact that correctional facilities often experience management difficulties when they are newly opened,” but that “insufficient training for and lack of qualified staff in key positions may also be a valid explanation for these differences.” Id.
+
+AMERICAN CIVIL LIBERTIES UNION | 50
+
+152 Scott D. Camp and Gerald G. Gaes, Federal Bureau of Prisons, Growth and Quality of U.S. Private Prisons: Evidence from a National Survey 9 (2001).
+
+153 Harley G. Lappin et al., U.S. Dep’t of Justice, Evaluation of the Taft Demonstration Project: Performance of a Private-Sector Prison and the BOP 47, 48 (2005).
+
+154 Id at x.
+
+155 Henry K. Lee, California Convicts Brawl in Oklahoma Prison, San Francisco Chron., Oct. 13, 2011.
+
+156 Press Release, U.S. Dep’t of Justice, Former T. Don Hutto Correction Center Employee Pleads Guilty to Civil Rights Charges (Sept. 7, 2011) (on file with author).
+
+157 Shannon Wolfson & Erin Cargile, Former Guard Takes Plea Deal for Abuse, KXAN, Nov. 9, 2010.
+
+158 Complaint at 5, Doe v. Neveleff, No. 1:11-cv-00907 (W.D. Tex. Oct. 19, 2011).
+
+159 Press Release, U.S. Dep’t of Justice, Former Willacy Detention Contract Security Officer Pleads Guilty to Sexual Abuse of a Female Detainee in Texas (Aug. 4, 2011) (on file with author).
+
+160 Ian Urbina, Hawaii To Remove Inmates Over Abuse Charges, N.Y. Times, Aug. 25, 2009.
+
+161 Patsy R. Brumfield, Walnut Grove Called ‘The Depths of Hell,’ Nems360.com, May 17, 2011.
+
+162 John Burnett, Town Relies on Troubled Youth Prison for Profits, National Public Radio, Mar. 25, 2011.
+
+163 Id.
+
+164 Id.
+
+165 Complaint ¶ 2, C.B. v. Walnut Grove Correctional Authority, No. 3:10cv663 (S.D. Miss. Nov. 16, 2010).
+
+166 Tracey Dalzell Walsh, Brutal Youth Jail Called a Private Gold Mine, Courthouse News Service, Nov. 18, 2010.
+
+167 Bob Campbell, Dead Man’s Family Seeks Answers in Wake of Prison Riots, Midland Rep.-Telegram, June 17, 2009; Tom Barry, A Death in Texas: Profits, Poverty, and Immigration Converge, Boston Rev., Nov.-Dec. 2009; First Amended Complaint ¶¶ 1-2, Galindo v. Reeves County, No. 3:10-cv-00454 (W.D. Tex. Aug. 8, 2011).
+
+168 First Amended Complaint ¶ 5, Galindo v. Reeves County, No. 3:10-cv-00454 (W.D. Tex. Aug. 8, 2011).
+
+169 Tom Barry, A Death in Texas: Profits, Poverty, and Immigration Converge, Boston Rev., Nov.-Dec. 2009; First Amended Complaint ¶¶ 1-2, Galindo v. Reeves County, No. 3:10-cv-00454 (W.D. Tex. Aug. 8, 2011).
+
+170 First Amended Complaint ¶¶ 1, 136, 141, Galindo v. Reeves County, No. 3:10-cv-00454 (W.D. Tex. Aug. 8, 2011).
+
+171 Forest Wilder, The Pecos Insurrection: How a Private Prison Pushed Immigrant Inmates to the Brink, Tex. Observer, Oct. 7, 2009.
+
+172 Letter from Ralph F. Boyd, Jr., Assistant Attorney General, to Jack Sullivan, County Commission Chairman (Mar. 6,
+
+2003) (on file with author).
+
+173 Editorial, Our View: Another Lesson from “Gladiator School,” Idaho Statesman Oct. 11, 2011; Rebecca Boone, Idaho Inmates Settle Lawsuit Over Prison Violence, Omaha World Herald, Sept. 20, 2011.
+
+174 Letter from Randy Blades, Warden, Idaho Department of Correction, to Phillip Valdez, Warden, Idaho Correctional Center 1 (Aug. 28, 2008) (on file with author).
+
+175 Amended Class Action Complaint for Declaratory and Injunctive Relief ¶¶ 1-2, Riggs v. Valdez No. 1:09-cv-0010-BLW (D. Idaho Mar. 11, 2010).
+
+176 Rebecca Boone, Prison Violence: At ‘Gladiator School,’ Help Never Comes, Salt Lake Trib., Dec. 10, 2010. The video is available at http://blogs.seattleweekly.com/dailyweekly/2010/11/video_shows_idaho_prison_guard.php.
+
+177 Settlement Agreement ¶¶ 2, 4, Kelly v. CCA, No. 1:11-cv-00185 (Sept. 16, 2011), available at http://www.acluidaho.org/ images/Settlement_Agreement.pdf; Rebecca Boone, Idaho Inmates Settle Lawsuit Over Prison Violence, Omaha World Herald, Sept. 20, 2011.
+
+AMERICAN CIVIL LIBERTIES UNION | 51
+
+178 David Shichor, Punishment for Profit: Private Prisons/Public Concerns 187 (1995); see also James Austin & Garry Coventry, U.S. Dep’t of Justice, Emerging Issues on Privatized Prisons 17 (2001) (noting that “[c]ritics of prison privatization argue that firms will cut corners, from construction materials to hiring inexperienced personnel, forsaking security and quality of service in the process of making a profit … [O]ne of the central concerns raised by critics of correctional privatization is that firms motivated by financial gain might make decisions that enhance profits at the expense of the rights and well-being of inmates. History shows that privately operated prison facilities were plagued by problems associated with the quest for higher earnings. The profit motive produced such abominable conditions and exploitation of the inmates that public agencies were forced to assume responsibility.”) (citation omitted).
+
+179 Scott D. Camp and Gerald G. Gaes, Federal Bureau of Prisons, Growth and Quality of U.S. Private Prisons: Evidence from a National Survey 3, 9 (2001).
+
+180 Curtis R. Blakely & Vic W. Bumphus, Private and Public Sector Prisons – A Comparison of Select Characteristics, 68 Fed. Probation 27, 29 (2004).
+
+181 Id. at 30.
+
+182 Scott D. Camp & Gerald G. Gaes, Federal Bureau of Prisons, Growth and Quality of U.S. Private Prisons: Evidence from a National Survey 16 (2001).
+
+183 Id. at 18.
+
+184 JJ Hensley et al., Arizona Prisoners’ Risk Ratings in Question, Ariz. Republic, Aug. 23, 2010; Jim Robbins, Arizona Prison Escapee is Captured, N.Y. Times, Aug. 9, 2010.
+
+185 Jim Robbins, Arizona Prison Escapee is Captured, N.Y. Times, Aug. 9, 2010; JJ Hensley and Ginger Rough, Kingman Prison Still Under Scrutiny, Ariz. Republic, Jan. 30, 2011; Bob Ortega, Arizona Prison Oversight Lacking for Private Facilities, Ariz. Republic, Aug. 7, 2011.
+
+186 Jim Robbins, Arizona Prison Escapee is Captured, N.Y. Times, Aug. 9, 2010.
+
+187 JJ Hensley, Report Rips Private Ariz. Prison After Escape, U.S.A. Today, Aug. 20, 2010.
+
+188 See JJ Hensley & Ginger Rough, Kingman Prison Still Under Scrutiny, Ariz. Republic, Jan. 30, 2011; Bob Ortega, Security Lapses Found at All of Arizona’s Prisons, Ariz. Republic, Jun. 26, 2011.
+
+189 JJ Hensley et al., Arizona Prisoners’ Risk Ratings in Question, Ariz. Republic, Aug. 23, 2010.
+
+190 Security Assessment, ASP-Kingman August 4-6, 2010, Memorandum from Therese Schroeder, Security Operations Administrator, to Charles L. Ryan, Director, Arizona Department of Corrections 9 (Aug. 18, 2010) (on file with author).
+
+191 Id. at 8.
+
+192 Id. at 9.
+
+193 Id. at 20.
+
+194 Id. at 3.
+
+195 Id. at 4.
+
+196 Management & Training Corporation, At-a-Glance Corrections Facts (2011) (on file with author); Management & Training Corporation, Correctional Facilities, http://www.mtctrains.com/locations/correctional-facilities (last visited Oct. 7, 2011); Bob Ortega, Arizona Prison Oversight Lacking for Private Facilities: State Weighs Expansion Even as Costs Run High, Ariz. Republic, Aug. 7, 2011.
+
+197 David Shichor, Punishment for Profit: Private Prisons/Public Concerns 153 (1995).
+
+198 Statements compiled by the Private Corrections Working Group Website, www.privateci.org/religion.html (last viewed July 7, 2011) (source for all quotations from religious groups cited).
+
+199 Andrew L. Spivak & Susan F. Sharp, Inmate Recidivism as a Measure of Private Prison Performance, 54 Crime & Delinquency 503 (2008). Earlier studies of Florida prisons had found “some degree of support for a lower rate of recidivism among private prison inmates.” Id. at 488-89.
+
+200 Lindsey Davis et al., Pennsylvania Judge Convicted in Alleged ‘Kids for Cash’ Scheme, ABC News, Feb. 21, 2011. The jury acquitted Ciavarella of other counts, including bribery and extortion. Id.
+
+AMERICAN CIVIL LIBERTIES UNION | 52
+
+201 Id.
+
+202 Trish Wilson, Luzerne County ‘Cash for Kids’ Defendants Finding Wheels of Justice Spin Slowly, Philadelphia Inquirer, Jun. 27, 2010.
+
+203 Dave Janoski, Ciavarella Moved to Federal Prison in Illinois, Times-Tribune, Sept. 13, 2011.
+
+204 Lindsey Davis et al., Pennsylvania Judge Convicted in Alleged ‘Kids for Cash’ Scheme, ABC News, Feb. 21, 2011.
+
+205 Id.
+
+206 Id.
+
+207 Id.
+
+208 Id.
+
+209 Editorial, Shouldn’t Delay Justice, Philadelphia Inquirer, Aug. 11, 2010.
+
+210 Lindsey Davis et al., Pennsylvania Judge Convicted in Alleged ‘Kids for Cash’ Scheme, ABC News, Feb. 21, 2011.
+
+211 In re Expungement of Juvenile Records and Vacatur of Luzerne County Juvenile Court Consent Decrees or Adjudications from 2003-2008, No. 81 MM 2008, at *5-*6 (Pa. Oct. 29, 2009) (emphasis added).
+
+212 Lisa Demer, Legislators Weigh Cost of Contractor Operating New Prison, Anchorage Daily News, Feb. 10, 2010; Lisa Demer, Senator Remembers Corruption Fighter Dee Hubbard, Anchorage Daily News, Feb. 15, 2010.
+
+213 Plea Agreement at 3-4, United States v. Weimar, No. 3:08-cr-00089 (D. Alaska Aug. 11, 2008).
+
+214 Factual Basis for Plea at 3, United States v. Weimar, No. 3:08-cr-00089 (D. Alaska Aug. 11, 2008).
+
+215 Lisa Demer & Richard Mauer, Businessman Weimar Paid Candidate To Push Private Prison, Anchorage Daily News, Aug. 12, 2008.
+
+216 Lisa Demer, Weimar Goes to Prison; Montana Spread for Sale, Anchorage Daily News, Jan. 6, 2009.
+
+217 Tom Kizzia, Push for Private Prison Was Downfall, Anchorage Daily News, Aug. 12, 2008.
+
+218 Id.
+
+219 Factual Basis for Plea at 2, United States v. Weimar, No. 3:08-cr-00089 (D. Alaska Aug. 11, 2008).
+
+220 Lisa Demer & Richard Mauer, Businessman Weimar Paid Candidate To Push Private Prison, Anchorage Daily News, Aug. 12, 2008; Lisa Demer, Weimar Goes to Prison: Montana Spread for Sale, Anchorage Daily News, Jan. 7, 2009; Richard Mauer, Judge Calls Hearing for Flip-Flopping Stevens Trial Witness, Anchorage Daily News, Nov. 26, 2008.
+
+221 Lisa Demer, Weimar Sentenced to Six Months, Anchorage Daily News, Nov. 13, 2008.
+
+222 Lisa Demer & Richard Mauer, Businessman Weimar Paid Candidate To Push Private Prison, Anchorage Daily News, Aug. 12, 2008.
+
+223 Factual Basis for Plea at 3, United States v. Weimar, No. 3:08-cr-00089 (D. Alaska Aug. 11, 2008).
+
+224 Sean Cockerham, Prison Costs Raise Concern, Anchorage Daily News, Mar. 15, 2009.
+
+225 Bill Weimar Begins Six-Month Sentence, Juneau Empire, Jan. 8, 2009.
+
+226 State of New Mexico Legislative Finance Committee, Review of Private Prison Contracts Penalty Assessment (2010); Trip Jennings, Sen. Smith: Williams’ Work for GEO Casts ‘Cloud’ over Decision Not to Fine Firms, New Mexico Independent, Sept. 21, 2010.
+
+227 Terry Frieden, Retiring Head of Federal Bureau of Prisons Apologizes for DUI Arrest, CNN, Mar. 30, 2011.
+
+228 Corrections Corporation of America, CCA Welcomes New CCO, Harley G. Lappin, available at www.insidecca.com/ inside-cca/cca-welcomes-new-cco-harley-g-lappin (last viewed July 6, 2011).
+
+229 Corrections Corporation of America, CCA Officers, http://www.cca.com/about/management-team/cca-officers/ (last viewed Oct. 20, 2011).
+
+230 Letter from John Gage, National President, American Federation of Government Employees, to Honorable Patrick Leahy, Chairman, Senate Judiciary Committee (Nov. 16, 2010) (on file with author).
+
+AMERICAN CIVIL LIBERTIES UNION | 53
+
+231 U.S. Marshals Service, Stacia A. Hylton, Director, http://www.usmarshals.gov/contacts/bio/hylton.htm (last viewed Oct. 21, 2011).
+
+232 Steve McGonigle, Fired TYC Monitors Had Worked for Facility’s Operator, Dallas Morning News, Oct. 12, 2007.
+
+233 Doug J. Swanson & Steve McGonigle, Seven TYC Workers Fired After Inmates Found Living in Filth, Dallas Morning News, Oct. 3, 2007.
+
+234 Steve McGonigle, Fired TYC Monitors Had Worked for Facility’s Operator, Dallas Morning News, Oct. 12, 2007.
+
+235 Doug J. Swanson, TYC Investigates Staff for Ties to Jail Operator, Dallas Morning News, Oct. 6, 2007.
+
+236 Texas Youth Commission, Coke County Juvenile Justice Center Audit, at 4-7 (2007).
+
+237 Id. at 8-9.
+
+238 Chad C. Haddal & Alison Siskin, Congressional Research Service, Immigration-Related Detention: Current Legislative Issues 12 (2010) (immigration detainee numbers); Heather C. West, Et Al., United States Department of Justice, Bureau of Justice Statistics, Prisoners in 2009, at 2 (2010) (prisoner numbers); Detention Watch Network, The Influence of the Private Prison Industry in Immigration Detention (May 2011), available at http://www.detentionwatchnetwork.org/privateprisons (lobbying).
+
+239 Detention Watch Network, The Influence of the Private Prison Industry in Immigration Detention (May 2011), http://www. detentionwatchnetwork.org/privateprisons.
+
+240 Center for Responsive Politics, Annual Lobbying by Corrections Corporation of America, www.opensecrets.org/lobby/ firmsum.php?id=D000021940&year=2010 (last viewed Sept. 16, 2011).
+
+241 Justice Policy Institute, Gaming the System 26 (June 2011).
+
+242 Id. at 22.
+
+243 National Institute on Money In State Politics, Client Summary: Corrections Corporation of America, http://www. followthemoney.org/database/lobbyistclient.phtml?lc=100552&y=0 (last viewed July 6, 2011). Note that the number of lobbyists listed above “may include the same lobbyist working in multiple states.” Id.
+
+244 National Institute on Money In State Politics, Client Summary: GEO Group, http://www.followthemoney.org/database/ lobbyistclient.phtml?lc=100516&y=0 (last viewed Sept. 16, 2011). Note that the number of lobbyists listed above “may include the same lobbyist working in multiple states.” Id.
+
+245 Justice Policy Institute, Gaming the System 16 (June 2011).
+
+246 Id. at 20-21.
+
+247 National Institute on Money In State Politics, Noteworthy Contributor Summary: Corrections Corp. of America, http:// www.followthemoney.org/database/topcontributor.phtml?u=695&y=0 (last viewed Sept. 16, 2011); National Institute on Money In State Politics, Noteworthy Contributor Summary: GEO Group, http://www.followthemoney.org/database/ topcontributor.phtml?u=1096&y=0 (last viewed Sept. 16, 2011).
+
+248 National Institute on Money In State Politics, Noteworthy Contributor Summary: Corrections Corp. of America, http:// www.followthemoney.org/database/topcontributor.phtml?u=695&y=0 (last viewed Sept. 16, 2011); National Institute on Money In State Politics, Noteworthy Contributor Summary: GEO Group, http://www.followthemoney.org/database/ topcontributor.phtml?u=1096&y=0 (last viewed Sept. 16, 2011).
+
+249 National Institute on Money In State Politics, Noteworthy Contributor Summary: GEO Group, http://www. followthemoney.org/database/topcontributor.phtml?u=1096&y=0 (last viewed Sept. 16, 2011).
+
+250 Bob Ortega, Arizona To Expand Private Prisons, Arizona Republic, Jul. 3, 2011.
+
+251 Id.
+
+252 Office of the Arizona Auditor General, Prison Population Growth 19, 20 (2010) (citing Arizona Department of Corrections analysis).
+
+253 Bob Ortega, Arizona To Expand Private Prisons, Arizona Republic, Jul. 3, 2011.
+
+254 Id.
+
+AMERICAN CIVIL LIBERTIES UNION | 54
+
+255 Morgan Loew, Brewer Linked to Private Prisons Housing Illegal Immigrants, KPHO.com, Aug. 31, 2010 (updated Sept. 2, 2010).
+
+256 Id.
+
+257 E.g., Corrections Corporation of America, CCA’s 19th Annual Chairman’s Charity Golf Classic, Oct. 14, 2010, http:// www.correctionscorp.com/newsroom/news-releases/229/ (last viewed Sept. 21, 2011); Pen Pals: An Innovative Private Program Teaming Rescued Dogs with Texas Inmates, 13 GEO World No. 4, 2007, at 8 (reprinted from the Fort Worth Star-Telegram).
+
+258 Corrections Corporation of America, CCA Officers, www.correctionscorp.com/about/management-team/cca-officers/ (last viewed Sept. 21, 2011).
+
+259 Management & Training Corporation, Leaders, www.mtctrains.com/about-mtc/leaders (last viewed by author Sept. 21, 2011).
+
+260 Specifically, the author’s searches on CCA’s website for “gladiator,” “sexual abuse,” and “sexual assault” yielded no relevant results. For a discussion of the sexual assault incidents and the prison dubbed the “Gladiator School,” see supra at 24, 27.
+
+261 The GEO Group, Media Contacts, available at www.thegeogroupinc.com/InfoforMedia.asp (last viewed Sept. 21, 2011).
+
+262 Tom Barry, The Shadow Prison Industry and Its Government Enablers, available at www.cipamericas.org/archives/1995.
+
+263 Specifically, federal entities that incarcerate people, such as the Federal Bureau of Prisons and Department of Homeland Security, undoubtedly qualify as “agenc[ies]” under the FOIA; records in the custody of governmentally operated facilities are therefore subject to FOIA requests, enforceable through litigation in federal court. 5 U.S.C. § 552(a)(3)(A) (“[E]ach agency, upon any request for records … shall make the records promptly available to any person.”); Id. § 552(f)(1) (defining “agency” as “any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency…”); Berry v. U.S. Dep’t of Justice, 733 F.2d 1343, 1344 (9th Cir. 1984) (stating that documents in BOP’s possession are “agency records”). By contrast, private entities, such as for-profit prison companies, do not qualify as “agenc[ies]” under the FOIA, and therefore are exempt from the disclosure requirements of the statute. 5 U.S.C. § 552(f)(1).
+
+264 Corrections Corporation of America, Schedule 14A, Proxy Statement to Section 14(a) of the Securities and Exchange Act of 1934, at 29 (2007).
+
+265 Id at 31.
+
+266 Corrections Corporation of America, Form 10-Q for the Quarterly Period Ended June 30, 2007, at 40 (2007); see also Geert De Lombaerde, Persistent Sisters Still at CCA’s Heels, Nashville Post, Apr. 7, 2009.
+
+267 Geert De Lombaerde, Persistent Sisters Still at CCA’s Heels, Nashville Post, Apr. 7, 2009.
+
+AMERICAN CIVIL LIBERTIES UNION | 55
+
+www.aclu.org
+
+The imprisonment of human beings at record levels is both a moral failure and an economic one—especially at a time when more and more Americans are struggling to make ends meet and when state governments confront enormous fiscal crises. This report finds, however, that mass incarceration provides a gigantic windfall for one special interest group—the private prison industry— even as current incarceration levels harm the country as a whole. While the nation’s unprecedented rate of imprisonment deprives individuals of freedom, wrests loved ones from their families, and drains the resources of governments, communities, and taxpayers, the private prison industry reaps lucrative rewards. As the public good suffers from mass incarceration, private prison companies obtain more and more government dollars, and private prison executives at the leading companies rake in enormous compensation packages, in some cases totaling millions of dollars.

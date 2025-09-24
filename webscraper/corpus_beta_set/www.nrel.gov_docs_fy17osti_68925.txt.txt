@@ -1,0 +1,1645 @@
+U.S. Solar Photovoltaic System Cost Benchmark: Q1 2017
+
+U.S. Solar Photovoltaic System Cost Benchmark: Q1 2017
+
+Ran Fu, David Feldman, Robert Margolis, Mike Woodhouse, and Kristen Ardani National Renewable Energy Laboratory
+
+NREL is a national laboratory of the U.S. Department of Energy Office of Energy Efficiency & Renewable Energy Operated by the Alliance for Sustainable Energy, LLC
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.
+
+Technical Report NREL/TP-6A20-68925 September 2017
+
+U.S. Solar Photovoltaic System Cost Benchmark: Q1 2017
+
+Ran Fu, David Feldman, Robert Margolis, Mike Woodhouse, and Kristen Ardani National Renewable Energy Laboratory
+
+Prepared under Task No. SETP.10308.03.01.10
+
+NREL is a national laboratory of the U.S. Department of Energy Office of Energy Efficiency & Renewable Energy Operated by the Alliance for Sustainable Energy, LLC
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.
+
+Technical Report NREL/TP-6A20-68925 August 2017
+
+National Renewable Energy Laboratory 15013 Denver West Parkway Golden, CO 80401 303-275-3000 • www.nrel.gov
+
+NOTICE
+
+This report was prepared as an account of work sponsored by an agency of the United States government. Neither the United States government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States government or any agency thereof. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States government or any agency thereof.
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.
+
+Available electronically at SciTech Connect http:/www.osti.gov/scitech
+
+Available for a processing fee to U.S. Department of Energy and its contractors, in paper, from:
+
+U.S. Department of Energy Office of Scientific and Technical Information P.O. Box 62 Oak Ridge, TN 37831-0062 OSTI http://www.osti.gov Phone: 865.576.8401 Fax: 865.576.5728 Email: reports@osti.gov
+
+Available for sale to the public, in paper, from:
+
+U.S. Department of Commerce National Technical Information Service 5301 Shawnee Road Alexandria, VA 22312 NTIS http://www.ntis.gov Phone: 800.553.6847 or 703.605.6000 Fax: 703.605.6900 Email: orders@ntis.gov
+
+Cover Photos by Dennis Schroeder: (left to right) NREL 26173, NREL 18302, NREL 19758, NREL 29642, NREL 19795.
+
+NREL prints on paper that contains recycled content.
+
+List of Acronyms AC alternating current BOS balance of system DC direct current EPC engineering, procurement, and construction FICA Federal Insurance Contributions Act GW gigawatt ILR inverter loading ratio ITC investment tax credit LCOE levelized cost of energy MACRS Modified Accelerated Cost Recovery System MLPE module-level power electronics NEC National Electric Code NEM net energy metering NREL National Renewable Energy Laboratory O&M operation and maintenance PERC passivated emitter and rear cells PII permitting, inspection, and interconnection PV photovoltaic(s) Q quarter R&D research and development SAM System Advisor Model SG&A sales, general, and administrative TPO third party ownership USD U.S. dollars Vdc volts direct current Wac watts alternating current Wdc watts direct current
+
+iii
+
+Executive Summary This report benchmarks U.S. solar photovoltaic (PV) system installed costs as of the first quarter of 2017 (Q1 2017). We use a bottom-up methodology, accounting for all system and projectdevelopment costs incurred during the installation to model the costs for residential, commercial, and utility-scale systems. In general, we attempt to model the typical installation techniques and business operations from an installed-cost perspective. Costs are represented from the perspective of the developer/installer; thus, all hardware costs represent the price at which components are purchased by the developer/installer, not accounting for preexisting supply agreements or other contracts. Importantly, the benchmark also represents the sales price paid to the installer; therefore, it includes profit in the cost of the hardware,1 along with the profit the installer/developer receives, as a separate cost category. However, it does not include any additional net profit, such as a developer fee or price gross-up, which is common in the marketplace. We adopt this approach owing to the wide variation in developer profits in all three sectors, where project pricing is highly dependent on region and project specifics such as local retail electricity rate structures, local rebate and incentive structures, competitive environment, and overall project or deal structures. Finally, our benchmarks are national averages weighted by state installed capacities. Table ES-1 summarizes the first order benchmark assumptions.
+
+Table ES-1. Benchmark Assumptions
+
+Unit Description
+
+Values 2017 U.S. dollars (USD)
+
+System Sizes In direct current (DC) terms; inverter prices are converted by DC-to-alternating current (AC) ratios.
+
+PV Sector Description Size Range
+
+Residential Residential rooftop systems 3–10 kW
+
+Commercial Commercial rooftop systems, ballasted racking 10 kW–2 MW
+
+Utility-Scale Ground-mounted systems, fixed-tilt and one-axis tracker >2 MW
+
+Based on our bottom-up modeling, the Q1 2017 PV cost benchmarks are:
+
+• $2.80 per watt DC (Wdc) (or $3.22 per watt AC [Wac]) for residential systems
+
+• $1.85/Wdc (or $2.13/Wac) for commercial systems
+
+• $1.03/Wdc (or $1.34/Wac) for fixed-tilt utility-scale systems
+
+• $1.11/Wdc (or $1.44/Wac) for one-axis-tracking utility-scale systems.2
+
+1 Profit is one of the differentiators between “cost” (aggregated expenses incurred by a developer/installer to build a system) and “price” (what the end user pays for a system). 2 This year, we use the same DC-to-AC ratio (1.3) for both fixed-tilt and one-axis-tracking utility-scale PV systems (see Section 2.5).
+
+iv
+
+Overall, modeled PV installed costs declined, year over year, in Q1 2017 for all three sectors, as they have done each year since we began modeling PV system costs.
+
+Figure ES-1 puts our Q1 2017 benchmark results in context with the results of previous NREL benchmarking analyses. When comparing the results across this period, it is important to note the following:
+
+1. Values are inflation adjusted using the Consumer Price Index. Thus, historical values from our models are adjusted and presented as real USD instead of nominal USD.
+
+2. Cost categories are aggregated for comparison purposes. “Soft Costs – Others” represents permitting, inspection, and interconnection (PII); land acquisition; sales tax; and engineering, procurement, and construction (EPC)/developer overhead and net profit.
+
+3. The “Utility-Scale PV, One-Axis Tracker (100 MW)” consists of our previous bottom-up results (2010 and 2013–2016) and interpolation estimates for 2009 and 2011–2012.
+
+4. A comparison of Q1 2016 and Q1 2017 is presented in Table ES-2.
+
+v
+
+Figure ES-1. NREL PV system cost benchmark summary (inflation adjusted), 2010–2017
+
+The inflation-adjusted system cost differences between Q1 2016 and Q1 2017 are $0.18/Wdc (residential), $0.32/Wdc (commercial), and $0.42/Wdc (fixed-tilt utility-scale). Table ES-2 shows the benchmarked values for all three sectors and drivers of cost decrease and increase.
+
+vi
+
+Table ES-2. Comparison of Q1 2016 and Q1 2017 PV System Cost Benchmarks
+
+Sector Residential PV Commercial PV Utility-Scale PV, Fixed-Tilt
+
+Q1 2016 Benchmarks in 2016 USD/Wdc $2.93 $2.13 $1.42
+
+Q1 2016 Benchmarks in 2017 USD/Wdc $2.98 $2.17 $1.45
+
+Q1 2017 Benchmarks in 2017 USD/Wdc $2.80 $1.85 $1.03
+
+• Lower module price
+
+• Lower module price
+
+• Lower module price
+
+• Lower inverter price
+
+• Lower inverter price
+
+• Lower inverter price
+
+• Higher module efficiency
+
+• Higher module efficiency
+
+• Higher module efficiency
+
+• Lower electrical BOS commodity price
+
+• Smaller developer team
+
+Drivers of Cost Decrease
+
+• Higher small installer market share
+
+• Lower sales & marketing costs
+
+• Lower overhead (general & administrative)
+
+• Higher labor
+
+• Higher labor
+
+• Higher labor wages
+
+wages
+
+wages
+
+• Higher net profit to
+
+EPC/developer
+
+• Higher advanced
+
+• Higher PII costs
+
+inverter adoption
+
+• Higher net profit
+
+Drivers of Cost Increase
+
+to EPC/developer
+
+• More BOS
+
+components for rapid shutdown
+
+• Higher supply-
+
+chain costs
+
+vii
+
+As Figure ES-1 shows, hardware costs—and module prices in particular—declined substantially in Q1 2017 owing to an imbalance in global module supply and demand. This has increased the importance of non-hardware, or “soft,” costs.3 Figure ES-2 shows the growing contribution from soft costs.4 Soft costs and hardware costs also interact with each other. For instance, module efficiency improvements have reduced the number of modules required to construct a system of a given size, thus reducing hardware costs. This trend has also reduced soft costs from direct labor and related installation overhead.
+
+Figure ES-2. Modeled trend of soft cost as a proportion of total cost by sector, 2010–2017
+
+Also, our bottom-up system cost models enable us to investigate regional variations, system configurations (such as MLPE vs. non-MLPE, fixed-tilt vs. one-axis tracker, and small vs. large system size), and business structures (such as installer vs. integrator, and EPC vs. developer). Different scenarios result in different costs, so consistent comparisons can only be made when cost scenarios are aligned.
+
+Finally, the reductions in installed cost, along with improvements in operation, system design, and technology have resulted in significant reduction in the cost of electricity, as shown in Figure ES-3. U.S. residential and commercial PV systems are 86% and 89% toward achieving SunShot’s 2020 electricity price targets, and U.S. utility-scale PV systems have achieved their 2020 SunShot target three years early.
+
+3 Soft cost = total cost - hardware (module, inverter, structural and electrical BOS) cost. 4 An increasing soft cost proportion in Figure ES-2 indicates soft costs declined more slowly than did hardware costs; it does not indicate soft costs increased on an absolute basis.
+
+viii
+
+Figure ES-3. NREL PV LCOE benchmark summary (inflation adjusted), 2010–2017
+
+ix
+
+Table of Contents
+
+1 Introduction ........................................................................................................................................... 1 2 Model Inputs and Sources ................................................................................................................... 3 2.1 California’s NEM Interconnection Applications Data Set ............................................................ 3 2.2 Module Power and Efficiency ....................................................................................................... 4 2.3 PV System Size ............................................................................................................................. 5 2.4 Module-Level Power Electronics .................................................................................................. 5 2.5 Inverter Price and DC-to-AC Ratios ........................................................................................... 10 2.6 Module Prices .............................................................................................................................. 12 2.7 Small Installers vs. National Integrators in the Residential PV Model ....................................... 16 3 Residential PV Model ......................................................................................................................... 18 3.1 Residential Model Structure, Inputs, and Assumptions .............................................................. 18 3.2 Residential Model Output ........................................................................................................... 20 3.3 Residential Model Output vs. Reported Costs ............................................................................ 22 3.4 Residential PV Price Benchmark Historical Trends ................................................................... 23 3.5 Residential PV Levelized Cost of Energy Historical Trends ...................................................... 24 4 Commercial PV Model ........................................................................................................................ 27 4.1 Commercial Model Structure, Inputs, and Assumptions............................................................. 27 4.2 Commercial Model Output .......................................................................................................... 29 4.3 Commercial PV Price Benchmark Historical Trends .................................................................. 31 4.4 Commercial PV Levelized Cost of Energy Historical Trends .................................................... 31 5 Utility-Scale PV Model ........................................................................................................................ 34 5.1 Utility-Scale Model Structure, Inputs, and Assumptions ............................................................ 34 5.2 Utility-Scale Model Output ......................................................................................................... 37 5.3 Utility-Scale PV Price Benchmark Historical Trends ................................................................. 40 5.4 Utility-Scale PV Levelized Cost of Energy Historical Trends .................................................... 41 6 Model Applications ............................................................................................................................. 44 6.1 System Cost Reduction from Economies of Scale ...................................................................... 44 6.2 Module Efficiency Impacts ......................................................................................................... 44 6.3 Regional LCOE ........................................................................................................................... 46 7 Conclusions ........................................................................................................................................ 48 References ................................................................................................................................................. 52 Appendix A. Historical PV System Benchmarks in 2010 USD ............................................................. 54 Appendix B. PV System LCOE Benchmarks in 2017 and 2010 USD ................................................... 57
+
+x
+
+List of Figures
+
+Figure ES-1. NREL PV system cost benchmark summary (inflation adjusted), 2010–2017 ...................... vi Figure ES-2. Modeled trend of soft cost as a proportion of total cost by sector, 2010–2017 .................... viii Figure ES-3. NREL PV LCOE benchmark summary (inflation adjusted), 2010–2017 .............................. ix Figure 1. U.S. PV market growth, 2004–2016, in gigawatts of direct-current (DC) capacity (Bloomberg 2017) .................................................................................................................... 1 Figure 2. Installed capacities of residential and commercial PV systems covered by the California NEM database (Go Solar CA 2017) compared with GTM data (GTM Research 2017), 2010–2016 ................................................................................................................................ 4 Figure 3. Module power and efficiency trends from the California NEM database (Go Solar CA 2017), 2010–2016 ................................................................................................................................ 4 Figure 4. PV system size trends from the California NEM database (Go Solar CA 2017), 2010–2016 ...... 5 Figure 5. Residential inverter market in California from the California NEM database (Go Solar CA 2017), 2010–2016 .................................................................................................................... 7 Figure 6. Commercial inverter market in California from the California NEM database (Go Solar CA 2017), 2010–2016 .............................................................................................................. 7 Figure 7. Non-MLPE inverter prices (USD/Wac) from PVinsights (2017), Q1 2017 ................................ 10 Figure 8. MLPE inverter shipments and prices (USD/Wac) from public corporate filings (Enphase 2017, SolarEdge 2017), Q1 2014–Q1 2017 ........................................................... 11 Figure 9. Ex-factory gate price (spot prices) for U.S. crystalline-silicon modules from Bloomberg (2017) data ............................................................................................................................. 12 Figure 10. Actual market module prices (2017 USD) ................................................................................ 13 Figure 11. Updated bottom-up manufacturing cost model results for the full crystalline-silicon module supply chain from 2014/15 to Q1 2017 .................................................................................. 15 Figure 12. Residential PV market share: integrator vs. installer, Q1 2014–Q1 2016 (GTM Research and SEIA 2017; Sunrun 2017; Vivint Solar 2017) ................................................................ 17 Figure 13. Residential PV: model structure ................................................................................................ 18 Figure 14. Q1 2017 U.S. benchmark: 5.7-kW residential system cost (2017 USD/Wdc) .......................... 21 Figure 15. Q1 2017 benchmark by location: 5.7-kW residential system cost (2017 USD/Wdc) ............... 21 Figure 16. Q1 2017 NREL modeled cost benchmark (2017 USD/Wdc) vs. Q4 2016 companyreported costs ......................................................................................................................... 22 Figure 17. NREL residential PV system cost benchmark summary (inflation adjusted), Q4 2009–Q1 2017 ........................................................................................................................................ 23 Figure 18. Levelized cost of energy for residential PV systems, by region and with and without ITC, 2010 –2017 ............................................................................................................................. 26 Figure 19. Commercial PV: model structure .............................................................................................. 27 Figure 20. Q1 2017 U.S. benchmark: commercial system cost (2017 USD/Wdc) ..................................... 29 Figure 21. Q1 2017 benchmark by location: 200-kW commercial system cost (2017 USD/Wdc) ............ 30 Figure 22. NREL commercial PV system cost benchmark summary (inflation adjusted), Q4 2009– Q1 2017 .................................................................................................................................. 31 Figure 23. Levelized cost of energy for commercial PV systems, by region and with and without ITC, 2010 –2017 ............................................................................................................................. 33 Figure 24. Utility-scale PV: model structure .............................................................................................. 34 Figure 25. Percentage of U.S. utility-scale PV systems using tracking systems, 2007–2016 (Bolinger and Seel 2017) ........................................................................................................................ 36 Figure 26. Utility-scale PV: 2016 capacity installed and percentage of unionized labor by state (BLS 2017; GTM Research and SEIA 2017) ........................................................................ 37 Figure 27. Q1 2017 benchmark by location: 100-MW utility-scale PV systems, EPC only (2017 USD/Wdc) .............................................................................................................................. 38 Figure 28. Q1 2017 U.S. benchmark: utility-scale PV total cost (EPC + developer), 2017 USD/Wdc ..... 39
+
+xi
+
+Figure 29. NREL utility-scale PV system cost benchmark summary (inflation adjusted), 2010–2017 ..... 40 Figure 30. Levelized cost of energy for utility-scale PV systems, by region and with and without ITC, 2010–2017 .............................................................................................................................. 43 Figure 31. Model application: U.S. utility-scale one-axis tracking PV system cost reduction from economies of scale (2017 USD/Wdc) .................................................................................... 44 Figure 32. Modeled impacts of module efficiency on total system costs, 2017 ......................................... 45 Figure 33. Modeled real LCOE (¢/kWh), ITC = 0%, for a 100-MWdc utility-scale PV system with fixed tilt and one-axis tracking in 2017 .................................................................................. 47 Figure 34. NREL PV system cost benchmark summary (inflation adjusted), 2010–2017 ......................... 49 Figure 35. Modeled trend of soft cost as a proportion of total cost by sector, 2010–2017 ......................... 51 Figure 36. NREL PV LCOE benchmark summary (inflation adjusted), 2010–2017 ................................. 51
+
+xii
+
+List of Tables
+
+Table ES-1. Benchmark Assumptions ......................................................................................................... iv Table ES-2. Comparison of Q1 2016 and Q1 2017 PV System Cost Benchmarks .................................... vii Table 1. Comparison of Inverter Solutions: String Inverter, DC Power Optimizer, and Microinverter ....... 6 Table 2. Rapid-Shutdown Codes—Progress by State ................................................................................... 8 Table 3. Rapid Shutdown—Different Inverter Solutions ............................................................................. 9 Table 4. Inverter Price Conversion (2017 USD) ......................................................................................... 11 Table 5. Installer and Integrator Cost Changes, Q1 2016–Q1 2017 ........................................................... 17 Table 6. Residential PV: Modeling Inputs and Assumptions ..................................................................... 19 Table 7. Residential PV LCOE Assumptions, 2010–2017 ......................................................................... 24 Table 8. Commercial PV: Modeling Inputs and Assumptions ................................................................... 28 Table 9. Commercial PV LCOE Assumptions, 2010–2017 ....................................................................... 32 Table 10. Utility-Scale PV: Modeling Inputs and Assumptions ................................................................. 35 Table 11. One-Axis Tracker and Fixed-Tilt Utility-Scale PV LCOE Assumptions, 2010–2017 ............... 42 Table 12. Comparison of Q1 2016 and Q1 2017 PV System Cost Benchmarks ........................................ 50 Table 13. NREL Residential PV Benchmark Summary (Inflation Adjusted), 2010–2017 ........................ 54 Table 14. NREL Commercial PV Benchmark Summary (Inflation Adjusted), 2010–2017 ....................... 55 Table 15. NREL Utility-Scale PV Benchmark Summary (Inflation Adjusted), 2010–2017 ...................... 56 Table 16. NREL LCOE Summary (2017 cents/kWh) ................................................................................ 57
+
+xiii
+
+1 Introduction Solar photovoltaic (PV) deployment has grown rapidly in the United States over the past several years. As Figure 1 shows, in 2016 new U.S. PV installations included 2.3 gigawatts (GW) in the residential sector, 1.1 GW in the commercial sector, and 10.2 GW in the utility-scale sector— totaling 13.7 GW across all sectors (Bloomberg 2017). At the same time, PV system costs have continued to decline. Previous modeling (Fu et al. 2016) by the National Renewable Energy Laboratory (NREL) shows system cost reductions of about 60%–80% across sectors between the fourth quarter of 2009 (Q4 2009) and Q1 2016.
+
+Figure 1. U.S. PV market growth, 2004–2016, in gigawatts of direct-current (DC) capacity (Bloomberg 2017)
+
+This report continues tracking cost reductions by benchmarking costs of U.S. PV for residential, commercial, and utility-scale systems built in Q1 2017. It was produced in conjunction with several related research activities at NREL and Lawrence Berkeley National Laboratory, which are documented in Barbose and Darghouth (2016), Bolinger and Seel (2016), Chung et al. (2015), Feldman et al. (2015), and Fu et al. (2016).
+
+Our methodology includes bottom-up accounting for all system and project-development costs incurred when installing residential, commercial, and utility-scale systems, and it models the Q1 2017 costs for such systems excluding any previous supply agreements or contracts. In general, we attempt to model the typical installation techniques and business operations from an installedcost perspective, and our benchmarks are national averages of installed capacities, weighted by state. The residential benchmark is further averaged across installer and integrator business models, weighted by market share. All benchmarks assume non-union construction labor, although union labor cases are estimated for utility-scale systems.
+
+Our modeled costs can be interpreted as the sales price an engineering, procurement, and construction (EPC) contractor/developer might charge for a system before any developer fee or price gross-up. We use this approach owing to the wide variation in developer profits in all three sectors, where project pricing is highly dependent on region and project specifics such as local retail electricity rate structures, local rebate and incentive structures, competitive environment, and overall project or deal structures.
+
+The remainder of this report is organized as follows. Section 2 describes our model inputs and sources. Sections 3, 4, and 5 show specific model inputs and outputs for the residential, commercial, and utility-scale PV sectors, including historical trends in system costs and the levelized costs of energy (LCOE). Section 6 includes three additional applications of our cost modeling: system cost reduction from economies of scale, module efficiency impacts, and regional LCOEs. Finally, Section 7 puts the results in context with each other and offers conclusions.
+
+2 Model Inputs and Sources This section describes our model inputs and sources. Section 2.1 describes our main data source, California’s Net Energy Metering (NEM) Interconnection Applications Data Set. Sections 2.2 through 2.6 detail the inputs for the various components affecting PV system cost, and Section 2.7 describes how we allocated installations to installers versus integrators in the residential PV model.
+
+2.1 California’s NEM Interconnection Applications Data Set Previous NREL analyses used the California Solar Initiative Data Set (CSI 2017), but, as that program has wound down, the number of new PV incentive applications—and consequently the data collection—has decreased substantially. As a result, in last year’s report, we began using the more robust California NEM Interconnection Applications Data Set instead (Go Solar CA 2017). This database is updated monthly and contains all interconnection applications in the service territories of the state’s three investor-owned utilities (Pacific Gas & Electric, Southern California Edison, and San Diego Gas & Electric). We use the database to benchmark generic system characteristics, such as system size, module power and efficiency, and choice of power electronics. Although there are other databases for other markets, such as Massachusetts and New York, we use only the California NEM database to inform these general benchmark characteristics because of its higher granularity and greater consistency. Notably, we do not use the California NEM database for regional cost analyses. Inputs and sources for regional analyses are described in subsequent sections of this report.
+
+As shown in Figure 2, the California NEM database captures most residential capacity in California (79% of installed capacity in 2015 and 80% in 2016) and a sizable portion of commercial capacity (91% of installed capacity in 2015 and 35% in 2016). Note that:
+
+• We analyze only rooftop systems in the database for the residential and commercial sectors. We exclude ground-mounted systems.
+
+• We exclude systems with only alternating-current (AC) power records.
+
+• We exclude systems that were still in the validation phase.
+
+• We use GTM (2017) data to represent total installed capacities.
+
+Figure 2. Installed capacities of residential and commercial PV systems covered by the California NEM database (Go Solar CA 2017) compared with GTM data (GTM Research 2017), 2010–2016
+
+2.2 Module Power and Efficiency Figure 3 displays module power and efficiency data from the California NEM database. Since 2010, module power and efficiency in both sectors have been steadily improving. We use the values of 16.2% (residential) and 17.5% (commercial and utility-scale) module efficiency in our models. Also note that since module selection may vary in different regions, the actual module efficiencies in other regions than CA may be different.
+
+Figure 3. Module power and efficiency trends from the California NEM database (Go Solar CA 2017), 2010–2016
+
+2.3 PV System Size Figure 4 displays average system sizes from the California NEM database. Average residential system sizes have not changed significantly over the past 6 years. We use the 2016 value of 5.7 kW as the baseline case in our residential cost model. Conversely, commercial system sizes have changed more frequently, likely reflecting the wide scope for “commercial customers,” which include schools, office buildings, malls, retail stores, and government projects. We use 200 kW as the baseline case in our commercial model.
+
+Figure 4. PV system size trends from the California NEM database (Go Solar CA 2017), 2010–2016
+
+2.4 Module-Level Power Electronics Microinverters and DC power optimizers are collectively referred to as module-level power electronics (MLPE). By allowing designs with different roof configurations (orientations and tilts) and constantly tracking the maximum power point for each module, MLPE provide an optimized design solution at the module level. Table 1 provides a brief comparison of traditional string inverters and MLPE.
+
+Table 1. Comparison of Inverter Solutions: String Inverter, DC Power Optimizer, and Microinverter
+
+String Inverter DC Power Optimizer Microinverter
+
+Each PV module has one power optimizer for DC-to-DC conversion, so the traditional junction box is replaced, and all modules are connected by string inverter for DC-to-AC conversion. Shading only impacts individual modules.
+
+PV modules are connected in parallel by one or multiple strings and then directly connected to the string inverter for DC-to-AC conversion. If one module is shaded, the whole string is impacted.
+
+Each PV module has one microinverter for DC-to-AC conversion, and thus no string inverter is used. Shading only impacts individual modules.
+
+Function
+
+Low (without rapid shutdown) Medium (with rapid shutdown)
+
+Relative product price
+
+Medium High
+
+Performance in shading Poor More efficient More efficient
+
+Performance in various directions or on irregular roofs
+
+Low Medium High
+
+Module-level monitoring and troubleshooting
+
+No Yes (e.g., SolarEdge Cellular Kit)
+
+Yes (e.g., Enphase “Envoy + Enlighten”)
+
+Improved energy yield from module mismatch reduction
+
+No Yes Yes
+
+Number of electronic components
+
+Normal Greater (thus may have some component risks)
+
+Greater (thus may have some component risks)
+
+Safest; use only AC cable with no high-voltage DC power
+
+According to the California NEM database, market uptake of MLPE has been growing rapidly since 2010 in California’s residential sector (Figure 5). This increasing market growth may be driven by decreasing MLPE costs and by the “rapid shutdown” of PV output from buildings required by Article 690.12 of the National Electric Code (NEC) since 2014—MLPE inherently meet rapid-shutdown requirements without the need to install additional electrical equipment.
+
+Safety for installation Normal Safer; easier wiring work
+
+In 2016, MLPE—represented by the combined share of Enphase and SolarEdge inverter solutions—reached 53% of the total California residential market share (Figure 5). Therefore, in our residential system cost model, string inverter, power optimizer, and microinverter options are modeled separately and their market shares (47%, 26%, and 27%) are used for the weighted average case. Conversely, MLPE growth (represented by Enphase and SolarEdge) has been slow
+
+in California’s commercial sector, reaching a share of only 12% in 2016 (Figure 6). Thus, we do not include MLPE inverter solutions into our commercial model.
+
+Figure 5. Residential inverter market in California from the California NEM database (Go Solar CA 2017), 2010–20165
+
+Figure 6. Commercial inverter market in California from the California NEM database (Go Solar CA 2017), 2010–2016
+
+For safety reasons, rapid-shutdown codes6 are prevalent in most of the top residential PV markets, and they typically include language from NEC 2014 (Article 690.12).7 As of January 1, 2017, the 2017 NEC rapid-shutdown code was in effect in one state, the 2014 NEC was in effect in 35 states, the 2011 NEC was in effect in five states, and the 2008 NEC was in effect in six states (Table 2). Our cost model uses the 2014 NEC, which is the most widely adopted version and includes the rapid-shutdown requirement. Table 3 presents the rapid-shutdown technical solutions and cost impacts for various inverter options. Because of the increase in rapid shutdown requirements, the cost difference between string inverter and power optimizer configurations became smaller this year.8 The model for our Q1 2016 benchmark did not include rapid shutdown.
+
+Table 2. Rapid-Shutdown Codes—Progress by State
+
+Code Rapid-Shutdown Requirement
+
+State
+
+2017 NEC Yes Massachusetts
+
+Alabama, Alaska, Arkansas, California, Colorado, Connecticut, Delaware, Georgia, Idaho, Iowa, Kentucky, Maine, Maryland, Michigan, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Washington, West Virginia, Wyoming
+
+2014 NEC Yes
+
+2011 NEC No Florida, Louisiana, Virginia, Wisconsin, Nevada
+
+2008 NEC No Hawaii, Illinois, Indiana, Kansas, Pennsylvania, Tennessee
+
+No statewide NEC adoption
+
+No Arizona, Mississippi, Missouri
+
+6 During a power shutdown (e.g., during a building fire or utility power loss), DC conductors in each PV array string are most dangerous to first responders such as fire fighters because the DC side can still be energized even if the inverter is shut down. Rapid-shutdown codes require a set distance between PV system conductors and PV arrays, so the conductors are de-energized to a safe level and risks to first responders are reduced. 7 For example, a segment of the NEC language that is used says, “Conductors more than 5 feet inside a building or more than 10 feet from an array will be limited to a maximum of 30 V and 240 VA within 10 seconds of shutdown.” This only applies to PV system circuits “on or in buildings,” thus ground-mounted systems are not required to have rapid-shutdown capability. 8 The costs were $2.78/W (string inverter) vs. $2.94/W (power optimizer) in Q1 2016 when rapid shutdown was not included in our cost models, compared with $2.90/W (string inverter) vs. $2.95/W (power optimizer) if rapid shutdown is included in Q1 2016 benchmark.
+
+Table 3. Rapid Shutdown—Different Inverter Solutions
+
+String Inverter DC Power Optimizer Microinverter
+
+A rapid-shutdown box must be mounted directly to the PV mounting rail and fit under the PV modules. A rapid-shutdown controller must be mounted so it is visible and freely accessible to first responders.
+
+Microinverters inherently meet rapid-shutdown requirements without any additional electrical equipment, because the DC side (which has low voltage) is deenergized as soon as the grid or power from the grid is interrupted.
+
+A rapid-shutdown cable must be installed in the inverter box. No additional roof-mounted devices are required.
+
+Solution for rapidshutdown requirement
+
+Rapid shutdown box Rapid shutdown controller Cable between box and controller Total BOS increase = $0.08/W
+
+Additional balance-ofsystem (BOS) costs
+
+One rapid shutdown cable in each inverter Total BOS increase = $0.01/W
+
+None
+
+Electrician for cabling between box and controller Common labor for racking box and controller Total labor increase = $0.01/W
+
+Electrician for setting up internal cable in each inverter Total labor increase = $0.01/W
+
+Additional direct labor costs
+
+None
+
+Q1 2016 – Benchmark (no rapid shutdown consideration)
+
+$2.78/W $2.94/W $3.28/W
+
+Q1 2016 – Benchmark (if rapid shutdown is considered)
+
+$2.90/W $2.95/W $3.28/W
+
+Cost change in 2016 models due to rapid shutdown only
+
+0.12/W = 0.08/W (electrical BOS) + 0.01/W (direct labor) + 0.03/W (other related costs)
+
+0.01/W = 0.01/W (electrical BOS and direct labor) No change
+
+2.5 Inverter Price and DC-to-AC Ratios As shown in Figure 7, we source non-MLPE inverter prices from the PVinsights (2017) database, which contains typical prices between Tier 1 suppliers and developers in the market. For MLPE inverter prices, we use data from public corporate filings, shown in Figure 8 (Enphase 2017; SolarEdge 2017).9 Enphase’s Q1 2017 revenue was $0.40/Wac, which represents the typical microinverter price. SolarEdge’s Q1 2017 revenue was $0.25/Wac, including sales from DC power optimizers, string inverters, and monitoring equipment, which are typically included in one product offering. GTM Research estimates a DC power optimizer cost of $0.08/Wac (GTM Research 2017), implying a string inverter and monitoring equipment price of $0.17/Wac. This is close to the Q1 2017 non-MLPE string inverter costs of $0.15/Wac shown in Figure 7 (assuming a $0.02–$0.03/Wac cost for monitoring equipment) (GTM Research and SEIA 2017).
+
+We convert the USD/Wac inverter prices from Figure 7 and Figure 8 to USD per watt DC (Wdc) using the DC-to-AC ratios shown in Table 4. In our benchmark, we use USD/Wdc for all costs, including inverter prices.
+
+Figure 7. Non-MLPE inverter prices (USD/Wac) from PVinsights (2017), Q1 2017
+
+Figure 8. MLPE inverter shipments and prices (USD/Wac) from public corporate filings (Enphase 2017, SolarEdge 2017), Q1 2014–Q1 2017
+
+Table 4. Inverter Price Conversion (2017 USD)
+
+Inverter Type Sector USD/Wac DC-to-AC Ratioa USD/Wdc
+
+Single-Phase String Inverter
+
+Residential PV (non-MLPE) 0.15 1.15 0.13
+
+Microinverter Residential PV (MLPE) 0.40 1.15 0.34
+
+DC Power Optimizer String Inverter
+
+Residential PV (MLPE) 0.17 1.15 0.15
+
+Three-Phase String Inverter
+
+Commercial PV (non-MLPE) 0.12 1.15 0.10
+
+Central Inverter Utility-scale PV (fixedtilt) 0.08 1.3 (oversized)b 0.06
+
+Central Inverter Utility-scale PV (1axis tracker) 0.08 1.3 (oversized) 0.06
+
+a We updated the central inverter DC-to-AC ratios using Lawrence Berkeley National Laboratory data (Bolinger and Seel 2017); for the other ratios, we use the estimates from our 2016 report (Fu et al. 2016) based on interview feedback (NREL 2017). b A DC-to-AC ratio larger than one means that the PV array’s DC rating is higher than the inverter’s AC rating. This increases inverter utilization, although it also results in some PV energy curtailment, or “clipping,” during the sunniest periods when PV output exceeds the inverter’s capacity. PV module prices
+
+have dropped more rapidly than inverter prices have, and many utility-scale PV developers have found it economical to oversize their PV arrays. The resulting AC-generation gains during periods of less-thanpeak PV production more than offset the losses from occasional peak-period clipping (Bolinger and Seel 2016).
+
+2.6 Module Prices We use $0.35/W—the spot price of U.S. crystalline-silicon modules in March 2017—to represent the ex-factory gate price between Tier 1 module suppliers and first buyers10 in all sectors, based on Bloomberg (2017) data (Figure 9). Because we model ex-factory gate price in Q1 2017, actual market pricing may vary owing to previously signed supply agreements or installer/distributor inventory lags.11 In addition, the actual market price may vary by market segment because of increased supply-chain costs as well as the price premium for small-scale procurement. Compared with module spot prices in 2016, module spot prices in 2017 have also been influenced by changes in currency exchange rates. The USD appreciated against the Chinese Yuan by approximately 6% between Q1 2016 and Q1 2017 (XE Currency Charts 2017).
+
+Figure 9. Ex-factory gate price (spot prices) for U.S. crystalline-silicon modules from Bloomberg (2017) data
+
+Despite a $0.35/W factory gate module price, additional module costs increase national integrators’ total module costs to $0.65/W (86% price premium) and small installers’ total module costs to $0.73/W (109% price premium). These additional costs in Figure 10 consist of shipping and handling (a 15% price premium above factory gate pricing for national integrators and small installers, respectively [NREL 2017]), historical inventory (a 60% price premium
+
+10 The first buyers of modules ex-factory gate can be developers, EPC contractors, installers, distributors, retailers, or other end users. In our cost model, first buyer price—that is, ex-factory gate price—is used as the “module price” component of the total system cost in the residential, commercial, and utility-scale sectors. 11 The effect of inventory lags and previous supply agreements on system pricing in the latter half of 2016 and the first quarter of 2017 may be particularly high, because the actual market module price had not dropped so precipitously since 2011 and 2012.
+
+above factory gate pricing [NREL 2017]), a sales-tax of 6.7%, and, for small installers, a 20% price premium above factory gate pricing due to small-scale procurement (Bloomberg 2017).
+
+In Q1 2017 historical inventory represented the largest supply-chain cost for residential installers. While we do not include pre-existing supply agreements or other contracts into our benchmark, historical inventory is a necessary cost for residential installers. Because homeowners of residential rooftop PV systems have different preferences for module brand, both small installers and national integrators tend to diversify their module procurement. Furthermore, since rooftop PV system sizes are relatively small (5.7 kW in our benchmark), the various module brands procured may not be fully consumed and installed instantly. Thus, the historical inventory price creates a price lag (approximately six months) for the market module price in the residential sector when the modules from previous procurement are installed in today’s systems.
+
+From 2012 to mid-2016 this price lag did not create a large price premium because the average spot price of modules did not change dramatically. However, from mid-2016 to early-2017 module spot price dropped by approximately $0.25/W, or 41%, as shown in Figure 9. Thus, in the first quarter of 2017 residential installers must bear the costs of this $0.21/W historical inventory. It is likely that this price premium will be much smaller next year as analysts expect the spot price curve to become flatter. However, many things may change within the market (e.g., tariffs) and make it challenging for residential players to forecast module price. Without historical inventory, total module costs would be $0.43/W for national integrators and $0.52/W for small installers (potentially reducing total residential PV costs to $2.59/Wdc).
+
+Figure 10. Actual market module prices (2017 USD)
+
+Besides module spot price, actual module manufacturing cost is introduced here in order to demonstrate the technology improvement. We work across the spectrum of academic and national laboratory researchers, startup companies, and multinational corporations to understand the cost drivers and technology landscape of PV module production. Our bottom-up method entails an examination of each stage in the supply chain, including polysilicon, ingot, and wafer production, cell conversion, and module assembly. For each stage, we begin with the derivation
+
+of detailed technology-manufacturing process flows. Then we work with equipment and materials suppliers, as well as integrated manufacturers already engaged in production, to collect and verify the costs for each step of the process. Finally, we sum the individual process steps to generate total costs for the intermediate materials (polysilicon, ingots, wafers, and cells) and finished PV modules.
+
+Figure 11 shows our most recent module manufacturing cost analysis, for passivated emitter and rear cells (PERC) and modules manufactured in Southeast Asia. The dark blue bars show the Q1 2017 cost contributions for each step: about $0.05/W for polysilicon, $0.05/W for ingot and wafer production, $0.08/W for cell conversion, $0.13/W for module assembly, and $0.03/W for an industry-average budget for research and development (R&D) plus sales, general, and administrative (SG&A). The all-in module manufacturing cost is about $0.35/W.
+
+Figure 11 also illustrates the magnitude of cost reductions since our last detailed module manufacturing analysis in 2014 and the first half of 2015, when we calculated an all-in module manufacturing cost of about $0.63/W. This 45% reduction in costs over 2–3 years was enabled by improving silicon utilization (principally reducing kerf loss), converting from slurry-based wafer slicing to diamond-wire-based wafer slicing, and reducing costs for cell conversion and module assembly principally via improved efficiency and capital investment requirements (the depreciation expenses shown in the figure). In a forthcoming paper, we will detail additional technology-improvement opportunities that could lead to even lower costs in the future.
+
+Figure 11. Updated bottom-up manufacturing cost model results for the full crystalline-silicon module supply chain from 2014/15 to Q1 201712
+
+2.7 Small Installers vs. National Integrators in the Residential PV Model Our residential PV benchmark is based on two different business structures: “small installer” and “national integrator.” We define small installers as businesses that engage in lead generation, sales, and installation, but do not provide financing solutions. The national integrator performs all of the small installer’s functions, and provides financing and system monitoring for thirdparty-owned systems. In our models, the difference between small installers and national integrators is manifested in the overhead and sales and marketing cost categories, where the national integrator is modeled with higher expenses for customer acquisition, financial structuring, and asset management.
+
+To estimate the split in market share between small installers and national integrators, we use data compiled from corporate filings (Sunrun 2017; Vivint Solar 2017) and GTM Research and SEIA (2017). As shown in Figure 12, small installers gained more market share than national integrators did during 2016, in part because the direct ownership business model, led by installers, remained more popular than third-party ownership. We use the 41% integrator and 59% installer market shares in our Q1 2017 model to compute the national weighted-average case in our residential PV model.
+
+Table 5 summarizes overhead and sales and marketing costs for small installers and national integrators from our Q1 2016 and Q1 2017 reports. National integrators achieved lower per-watt sales and marketing and overhead costs in Q1 2017 compared with Q1 2016 because of lower reported total expenditures on those two categories. Small installers had higher total expenditures on sales and marketing and overhead as they prepared to grow their businesses in 2017, but they still achieved lower per-watt costs for sales and marketing in Q1 2017 compared with Q1 2016 because they installed more PV capacity in the later period.
+
+Figure 12. Residential PV market share: integrator vs. installer, Q1 2014–Q1 2016 (GTM Research and SEIA 2017; Sunrun 2017; Vivint Solar 2017)
+
+Table 5. Installer and Integrator Cost Changes, Q1 2016–Q1 2017
+
+Q1 2016 Report Q1 2017 Report
+
+Sales & marketing (customer acquisition)
+
+$0.31/Wdc (small installer) $0.43/Wdc (national integrator)
+
+$0.29/Wdc (small installer) $0.42/Wdc (national integrator)
+
+$0.28/Wdc (small installer) $0.38/Wdc (national integrator)
+
+$0.28/Wdc (small installer) $0.35/Wdc (national integrator)
+
+Overhead (general & administrative)
+
+3 Residential PV Model This section describes our residential model’s structure, inputs, and assumptions (Section 3.1), output (Section 3.2), and differences between modeled output and reported costs (Section 3.3).
+
+3.1 Residential Model Structure, Inputs, and Assumptions We model a 5.7-kW residential rooftop system using 60-cell, multicrystalline, 16.2%-efficient modules from a Tier 1 supplier and a standard flush mount, pitched-roof racking system. Figure 13 presents the cost drivers and assumptions, cost categories, inputs, and outputs of the model. Table 6 presents modeling inputs and assumptions in detail.
+
+Figure 13. Residential PV: model structure
+
+Table 6. Residential PV: Modeling Inputs and Assumptions
+
+Category Modeled Value Description Sources
+
+System size 5.7 kW Average installed size per system Go Solar CA (2017)
+
+Module efficiency 16.2% Average module efficiency Go Solar CA (2017)
+
+Module price $0.35/Wdc Ex-factory gate (first buyer) price, Tier 1 modules
+
+Bloomberg (2017), NREL (2017)
+
+Single-phase string inverter: $0.13/Wdc DC power optimizer string inverter: $0.15/Wdc Microinverter: $0.34/Wdc
+
+Go Solar CA (2017), NREL (2017), PVinsights (2017), corporate filings (Enphase 2017; SolarEdge 2017)
+
+Ex-factory gate (first buyer) prices, Tier 1 inverters
+
+Inverter price
+
+Structural BOS (racking) $0.11/Wdc Includes flashing for roof penetrations Model assumptions, NREL (2017)
+
+$0.20– $0.33/Wdc Varies by inverter option
+
+Conductors, switches, combiners and transition boxes, as well as conduit, grounding equipment, monitoring system or production meters, fuses, and breakers
+
+Model assumptions, NREL (2017), RSMeans (2016)
+
+Electrical BOS
+
+15% costs and fees associated with shipping and handling of equipment multiplied by the cost of doing business index (101%) Additional 80% (60% historical inventory + 20% small-scale procurement) for modulerelated supply chain costs for small installers and 60% (historical inventory) for national integrators Additional 20% for inverter-related supply chain costs for small installers and 10% for national integrators
+
+Supply chain costs (% of equipment costs)
+
+Varies by installer type
+
+NREL (2017), model assumptions (2017)
+
+Sales tax on the equipment; national benchmark applies an average (by state) weighted by 2016 installed capacities
+
+Sales tax Varies by location
+
+DSIRE (2017), RSMeans (2016)
+
+Electrician: $19.37–$38.22 per hour; Laborer: $12.64–$25.09 per hour; Varies by location and inverter option
+
+Direct installation labor
+
+Modeled labor rate depends on state; national benchmark uses weighted average of state rates
+
+BLS (2017), NREL (2017)
+
+Category Modeled Value Description Sources
+
+Workers compensation (state-weighted average), federal and state unemployment insurance, Federal Insurance Contributions Act (FICA), builders risk, public liability
+
+Burden rates (% of direct labor)
+
+Total nationwide average: 31.8%
+
+RSMeans (2016)
+
+Includes assumed building permitting fee of $400 and six office staff hours for building permit preparation and submission, and interconnection application preparation and submission
+
+Permitting, inspection, and interconnection (PII)
+
+NREL (2017), Vote Solar (2015), Vote Solar and IREC (2013)
+
+$0.10/Wdc
+
+Total cost of sales and marketing activities over the last year—including marketing and advertising, sales calls, site visits, bid preparation, and contract negotiation; adjusted based on state “cost of doing business” index
+
+$0.29/Wdc (installer) $0.42/Wdc (integrator)
+
+Sales & marketing (customer acquisition)
+
+NREL (2017), Sunrun (2017), Vivint Solar (2017), Feldman et al. (2013)
+
+General and administrative expenses— including fixed overhead expenses covering payroll (excluding permitting payroll), facilities, administrative, finance, legal, information technology, and other corporate functions as well as office expenses; adjusted based on state “cost of doing business” index
+
+$0.28/Wdc (installer) $0.35/Wdc (integrator)
+
+Overhead (general & administrative)
+
+NREL (2017), Sunrun (2017), Vivint Solar (2017), Feldman et al. (2013)
+
+Applies a fixed percentage margin to all direct costs including hardware, installation labor, direct sales and marketing, design, installation, and permitting fees
+
+Profit (%) 17%
+
+Fu et al. (2016)
+
+3.2 Residential Model Output Figure 14 presents the U.S. national benchmark from our residential model. The national benchmark represents an average weighted by 2016 state installed capacities. Market shares of 59% for installers and 41% for integrators are used to compute the national weighted average. String inverter, power optimizer, and microinverter options are each modeled individually, and the “mixed” case applies their market shares (47%, 26%, and 27%)13 as weightings.
+
+Small installers have lower total costs than do large integrators; although small installers pay more for hardware, they have much lower overhead and sales and marketing costs. Notably, the cost difference between installer and integrator became smaller in Q1 2017 than in Q1 2016 (see Table 5). Because of rapid-shutdown requirements, the cost difference between string inverters and power optimizers also became smaller in Q1 2017 than in Q1 2016 (see Table 3).
+
+Figure 14. Q1 2017 U.S. benchmark: 5.7-kW residential system cost (2017 USD/Wdc)
+
+Figure 15 presents the benchmark in the top U.S. solar markets (by 2016 installations), reflecting differences in supply chain and labor costs, sales tax, and SG&A expenses—that is, the cost of doing business (Case 2012).
+
+Figure 15. Q1 2017 benchmark by location: 5.7-kW residential system cost (2017 USD/Wdc)
+
+3.3 Residential Model Output vs. Reported Costs As shown in Figure 16, our bottom-up modeling approach yields a different cost structure than those reported by public solar integrators in their corporate filings14 (Sunrun 2017; Vivint Solar 2017). Because integrators sell and lease PV systems, they practice a different method of reporting costs than do businesses that only sell goods. Many of the costs for leased systems are reported over the life of the lease rather than the period in which the system is sold; therefore, it is difficult to determine the actual costs at the time of the sale. Although there are the corporate filings from Sunrun and Vivint Solar report system costs on a quarterly basis, the limited transparency in the public filings makes it difficult to determine the underlying costs as well as the timing of those costs. As indicated in Figure 16, our total modeled costs for national integrators are $0.40–$0.46/W below company-reported values. Because of the lack of transparency in the reported company costs, it is difficult to explain these differences entirely. Part of the difference in installation costs could come from integrators having preexisting contracts or older inventory that they used in systems installed in Q1 2017; this is particularly relevant owing to the rapid decline in module price in the second half of 2016. In addition, our sales and marketing costs are $0.08–$0.23/W below company-reported values, indicating either a difference in how costs are classified or additional costs not included in our model—a deeper exploration of this topic may prove valuable.
+
+Figure 16. Q1 2017 NREL modeled cost benchmark (2017 USD/Wdc) vs. Q4 2016 companyreported costs
+
+3.4 Residential PV Price Benchmark Historical Trends NREL began benchmarking PV system costs in 2010 in order to track PV system energy costs against the U.S. Department of Energy’s (DOE) SunShot Initiative targets, as well as examine cost reduction opportunities for achieving these goals.15 Since that time NREL has produced seven additional benchmarks, including a historical Q4 2009 benchmark. Figure 17 summarizes the reduction in residential PV system cost benchmarks between 2010 and 2017.16
+
+Figure 17. NREL residential PV system cost benchmark summary (inflation adjusted), Q4 2009–Q1 2017
+
+As demonstrated in Figure 17, from 2010 to 2017 there was a 61% reduction in the residential PV system cost benchmark. Approximately 61% of that reduction can be attributed to total hardware costs (module, inverter, and hardware BOS), as module prices dropped 86% over that time period. An additional 18% can be attributed to labor, which dropped 73% over that time period, with the final 21% attributable to other soft costs, including PII, sales tax, overhead, and net profit.
+
+Looking at this past year, from 2016 to 2017 there was a 6% reduction in the residential PV system cost benchmark. The majority of that reduction can be attributed to the 46% reduction in module factory gate price, moderated by the increase in module supply chain costs discussed earlier (shown here in “soft costs – other”).
+
+15 The original overarching 2020 goal of the SunShot Initiative was for solar to reach cost parity with baseload energy rates, estimated to be 6 cents/kWh without subsidies, or a system installed cost of $1/W. Commercial PV and residential PV were later separated to have their own goals of costs below retail rates, estimated to be 7 cents/kWh and 9 cents/kWh respectively, or system installed costs of $1.25/W and $1.50/W respectively (note: all 2020 targets are quoted in nominal USD). In recognition of the transformative solar progress to date and the potential for further innovation, in 2016 the SunShot Initiative extended its goals to reduce the unsubsidized cost of energy by 2030 to 3¢/kWh, 4¢/kWh and 5¢/kWh for utility-scale PV, commercial PV, and residential PV (note: all 2030 targets are quoted in nominal USD). 16 Each year’s PV system cost benchmark corresponds to the NREL benchmark calculted in Q4 of the previous year or Q1 of the current year (e.g. 2010 = Q4 2009; 2017 = Q1 2017).
+
+3.5 Residential PV Levelized Cost of Energy Historical Trends While LCOE is not a perfect metric to measure the competiveness of PV within the energy marketplace, it incorporates many other PV metrics important to the energy costs beyond upfront installation costs. These benchmarks are summarized over time in Table 7, from Q4 2009 to Q1 2017 (aSunShot Vision Study 2010, bOn the Path to SunShot: The Role of Advancements in Solar Photovoltaic Efficiency, Reliability, and Costs; cOn the Path to SunShot: Emerging Opportunities and Challenges in Financing Solar (Feldman and Bolinger 2016); dTerms, Trends, and Insights PV Project Finance in the United States (Feldman, Lowder and Schwabe 2016), eU.S. Solar Photovoltaic System Cost Benchmark: Q1 2016).17
+
+Table 7. Residential PV LCOE Assumptions, 2010–2017
+
+2017 USD per Watt DC
+
+2010 2011 2012 2013 2014 2015 2016 2017
+
+Installed cost $7.24 $6.34 $4.48 $3.92 $3.44 $3.18 $2.98 $2.80
+
+1.00%a 0.95% 0.90% 0.85% 0.80% 0.75%c 0.75% 0.75%
+
+Annual degradation (%)
+
+$0.41a $0.36 $0.31 $0.26 $0.21 $0.15c $0.14e $0.13
+
+Inverter replacement price ($/W)
+
+10a 11 12 13 14 15c 15 15
+
+Inverter lifetime (years)
+
+$37a $33 $30 $27 $24 $21c $21 $21
+
+O&M expenses ($/kw-yr)
+
+90.0%a 90.10% 90.20% 90.30% 90.40% 90.5%c 90.5% 90.5%
+
+Pre-inverter derate (%)
+
+94.0%a 94.80% 95.60% 96.40% 97.20% 98.0%c 98.0% 98.0%
+
+Inverter efficiency (%)
+
+5.0a 5.0 5.1 5.1 5.2 5.2c 5.6e 5.7
+
+System size (kw-DC)
+
+1.1a 1.11 1.12 1.13 1.13 1.14 1.15e 1.15
+
+Inverter loading ratio
+
+9.0%c 8.6% 8.3% 7.9% 7.6% 7.3% 6.9%d 6.9%
+
+Equity discount rate (real)e
+
+Inflation rate 2.5%a 2.5% 2.5% 2.5% 2.5% 2.5% 2.5% 2.5%
+
+5.5%c 5.4% 5.3% 5.2% 5.0% 4.9% 4.8%d 4.8%
+
+Debt interest ratef
+
+Debt fraction 34.2%b 35.2% 36.1% 37.1% 38.1% 39.0% 40.0%d 40.0%
+
+Other important assumptions: residential PV system LCOE assume a 1) system lifetime of 30 yearsb, 2) federal tax rate of 35%b, 3) state tax rate of 7%b, 4) MACRS depreciation schedule, 5) no state or local subsidies, 6) a working capital and debt service reserve account for six months of operating costs and debt payments (earning an interest of 1.75%)b, 7) a three month construction loan, with an interest rate of 4% and a fee of 1% of the cost of the systemb, 8) a module tilt angle of 25 degrees, and an azimuth of 180 degrees, 9) debt with a term of 18 yearsb, and 10) $1.1MM of upfront financial transaction costs for a $100MM TPO transaction of a pool of residential projectsd. e In instances in which LCOE assumptions were not found from the selected literature in a given year, straight-line changes were assumed between any two values. f The historical financial structure for a residential TPO system assumed in 2010 from Feldman and Bolinger 2016 does not assume a debt raise; however, the financial structure in 2016 from Feldman, Lowder, and Schwabe does assume back-leveraged debt. To make these assumptions uniform, the “debt interest rate” and “debt fraction” are taken from the utility-scale historical financial structure in Feldman and Bolinger 2016 that uses back-leveraged debt.
+
+As demonstrated in Table 7, in addition to a 61% reduction in installed cost from 2010 to 2017, inverter replacement costs reduced 69%, O&M costs reduced 44%,annual degradation rates reduced 25%, the equity discount rate reduced 23%, the debt interest rate reducd 13%, and the debt fraction increased 17%.
+
+Using these assumptions we calculated the LCOE, with and without the 30% federal investment tax credit (ITC), in Phoenix, AZ, Kansas City, MO, and New York, NY, corresponding to higher, medium, and lower resource areas in the United States and the locations used to calculate LCOE in the SunShot Vision Study. The calculated values are summarized in Figure 18.18
+
+Figure 18. Levelized cost of energy for residential PV systems, by region and with and without ITC, 2010 –2017
+
+As demonstrated in Figure 18, from 2010 to 2017 there was a 70% reduction in the residential PV system electricity cost benchmark (a 5% to 6% reduction was achieved from Q1 2016 to Q1 2017), bringing the unsubsidized LCOE between $0.13/kWh to $0.17/kWh ($0.08/kWh to $0.11/kWh when including the federal ITC). This reduction is 86% toward achieving SunShot’s 2020 residential PV LCOE goal.19
+
+19 The SunShot 2020 target is adjusted from 2010 USD using the Consumer Price Index (CPI). A Summary of these values can be found in Appendix A and B. For LCOE Kansas City, MO, without ITC cases are $0.52/kWh in 2010 and $0.16/kWh in 2017 in 2017 USD from Appendix A and B. Thus, calculation is: (0.52 – 0.16)/(0.52 – 0.10) = 86%.
+
+4 Commercial PV Model This section describes our commercial model’s structure, inputs, and assumptions (Section 4.1) and output (Section 4.2).
+
+4.1 Commercial Model Structure, Inputs, and Assumptions We model a 200-kW, 1,000 volts DC (Vdc), commercial-scale flat-roof system using multicrystalline 17.5%-efficient modules from a Tier 1 supplier, three-phase string inverters, and a ballasted racking solution on a membrane roof. A penetrating PV mounting system can have higher energy yield (kWh per kW) owing to wider tilt-angle range allowance. However, we do not model this system type, because its market share has declined owing to additional required flashing and sealing work, roof warranty issues, and the relative difficulty of replacing such a system in the future. Figure 19 presents a schematic of our commercial-scale system cost model. Table 8 presents the detailed modeling inputs and assumptions. We separate our cost estimate into EPC and project-development functions. Although some firms engage in both activities in an integrated manner, and potentially achieve lower cost and pricing by reducing the total margin across functions, we believe the distinction can help separate and highlight the specific cost trends and drivers associated with each function.
+
+Figure 19. Commercial PV: model structure
+
+Table 8. Commercial PV: Modeling Inputs and Assumptions
+
+Category Modeled Value Description Sources
+
+System size 10 kW – 2 MW Average installed size per system Go Solar CA (2017)
+
+Module efficiency 17.5% Average module efficiency Go Solar CA (2017)
+
+Module price $0.35/Wdc Ex-factory gate (first buyer) price, Tier 1 modules
+
+Bloomberg (2017), NREL (2017)
+
+Three-phase string inverter: $0.10/Wdc
+
+Ex-factory gate prices (first buyer) price, Tier 1 inverters
+
+Bloomberg (2017), NREL (2017)
+
+Inverter price
+
+Structural components (racking)
+
+$0.13–$0.28/Wdc; varies by location and system size
+
+Flat-roof ballasted racking system ASCE (2006), model assumptions, NREL (2017)
+
+Electrical components
+
+Varies by location and system size
+
+Conductors, conduit and fittings, transition boxes, switchgear, panel boards, etc.
+
+Model assumptions, NREL (2017), RSMeans (2016)
+
+EPC overhead (% of equipment costs)
+
+Costs and fees associated with EPC overhead, inventory, shipping, and handling
+
+13%
+
+NREL (2017)
+
+Sales tax on equipment costs; national benchmark applies an average (by state) weighted by 2016 installed capacities
+
+DSIRE (2017), RSMeans (2016)
+
+Sales tax Varies by location
+
+Electrician: $19.37– $38.22 per hour Laborer: $12.64– $25.09 per hour Varies by location and inverter option
+
+Modeled labor rate assumes non-union labor and depends on state; national benchmark uses weighted average of state rates
+
+Direct installation labor
+
+BLS (2017), NREL (2017)
+
+Workers compensation (state-weighted average), federal and state unemployment insurance, FICA, builders risk, public liability
+
+Burden rates (% of direct labor)
+
+Total nationwide average: 31.8%
+
+RSMeans (2016)
+
+For construction permits fee, interconnection, testing, and commissioning
+
+PII $0.11–$0.16/Wdc
+
+NREL (2017)
+
+Assume 10-MW system development and installation per year for a typical developer
+
+Includes fixed overhead expenses such as payroll, facilities, travel, insurance, administrative, business development, finance, and other corporate functions; assumes 10 MW/year of system sales
+
+Developer overhead
+
+Model assumptions, NREL (2017)
+
+Estimated as markup on EPC price; value represents actual cost overruns above estimated price
+
+Contingency 4%
+
+NREL (2017)
+
+Applies a fixed percentage margin to all costs including hardware, installation labor, EPC overhead, developer overhead, etc.
+
+Profit 7%
+
+NREL (2017)
+
+4.2 Commercial Model Output Figure 20 presents the U.S. national benchmark from our commercial model. As in the residential model, the national benchmark represents an average weighted by 2016 state-installed capacities. We model different system sizes because of the wide scope of the “commercial” sector, which comprises a diverse customer base occupying a variety of building sizes. Economies of scale—driven by hardware, labor, and related markups—are evident here. As system sizes increase, the per-watt cost to build them decreases. This holds even as we assume that a typical developer has 10 MW of system development and installation per year, and therefore has overhead on this 10 MW total capacity that does not vary for different system sizes. When a developer installs more capacity annually, the developer’s overhead per watt in each system declines (shown in Figure 18 in our Q1 2015 benchmark report, Chung et al. 2015).
+
+Figure 20. Q1 2017 U.S. benchmark: commercial system cost (2017 USD/Wdc)
+
+The PII cost was higher in Q1 2017 than in Q1 2016, because the low-hanging fruit—such as ideal commercial building rooftops—have already been picked by Q1 2017. Thus, the associated PII time and fees were higher in Q1 2017 for commercial projects with more PII obstacles. Also, the higher net profit in Q1 2017—7%, compared with 2% in Q1 2016—indicates that the rapid module price reduction in 2016 enabled EPC firms and developers to retain a higher profit and still maintain a competitive project cost (NREL 2017).
+
+Figure 21 presents the benchmark from our commercial model by location in the top U.S. solar markets (by 2016 installations). The main cost drivers for different regions in the commercial PV market are the same as in the residential model (labor rates, sales tax, and cost of doing business index), but also include costs associated with wind or snow loading.
+
+Figure 21. Q1 2017 benchmark by location: 200-kW commercial system cost (2017 USD/Wdc)
+
+4.3 Commercial PV Price Benchmark Historical Trends Figure 22 summarizes the reduction in commercial PV system cost benchmarks between 2010 and 2017.20
+
+Figure 22. NREL commercial PV system cost benchmark summary (inflation adjusted), Q4 2009–Q1 2017
+
+As demonstrated in Figure 22, from 2010 to 2017 there was a 65% reduction in the commercial PV system cost benchmark. Approximately 82% of that reduction can be attributed to total hardware costs (module, inverter, and hardware BOS), as module prices dropped 86% over that time period. An additional 4% can be attributed to labor, which dropped 47% over that time period, with the final 14% attibitubal to other soft costs, including PII, sales tax, overhead, and net profit.
+
+Looking at this past year, from 2016 to 2017 there was a 15% reduction in the commercial PV system cost benchmark. The majority of that reduction can be attributed to the 46% reduction in module factory gate price, moderated by an increase in PII and installer profit.
+
+4.4 Commercial PV Levelized Cost of Energy Historical Trends While LCOE is not a perfect metric to measure the competiveness of PV within the energy marketplace, it incorporates many other PV metrics important to the energy costs beyond upfront installation costs. These benchmarks are summarized over time in Table 9, from 2010 to 2017 (aSunShot Vision Study 2010, bOn the Path to SunShot: The Role of Advancements in Solar Photovoltaic Efficiency, Reliability, and Costs; cOn the Path to SunShot: Emerging Opportunities and Challenges in Financing Solar (Feldman and Bolinger 2016); dTerms, Trends, and Insights PV Project Finance in the United States (Feldman, Lowder and Schwabe 2016), eU.S. Solar Photovoltaic System Cost Benchmark: Q1 2016).21
+
+20 Each year’s PV system cost benchmark corresponds to the NREL benchmark calculted in Q4 of the previous year or Q1 of the current year (e.g. 2010 = Q4 2009; 2017 = Q1 2017). 21 In instances in which LCOE assumptions were not found from the selected literature in a given year, straight-line changes were assumed between any two values.
+
+Table 9. Commercial PV LCOE Assumptions, 2010–2017
+
+2017 USD per Watt DC
+
+2010 2011 2012 2013 2014 2015 2016 2017
+
+Installed cost $5.36 $4.97 $3.42 $2.78 $2.76 $2.27 $2.17 $1.85
+
+1.00%a 0.95% 0.90% 0.85% 0.80% 0.75%b 0.75% 0.75%
+
+Annual degradation (%)
+
+$0.24a $0.22 $0.19 $0.17 $0.15 $0.12b $0.11e $0.10
+
+Inverter replacement price ($/W)
+
+$26a $24 $22 $20 $18 $15b $15 $15
+
+O&M expenses ($/kw-yr)
+
+90.5%a 90.50% 90.50% 90.50% 90.50% 90.5%b 90.5% 90.5%
+
+Pre-inverter derate (%)
+
+95.0%a 95.60% 96.20% 96.80% 97.40% 98.0%b 98.0% 98.0%
+
+Inverter efficiency (%)
+
+Inverter loading ratio 1.10a 1.11 1.12 1.13 1.13 1.14 1.15e 1.15
+
+Equity discount ratee (real)
+
+9.0%c 8.6% 8.3% 7.9% 7.6% 7.3% 6.9%d 6.9%
+
+Inflation rate 2.5%a 2.5% 2.5% 2.5% 2.5% 2.5% 2.5% 2.5%
+
+Debt interest ratef 5.5%c 5.4% 5.3% 5.2% 5.0% 4.9% 4.8%d 4.8%
+
+Debt fraction 34.2%c 35.2% 36.1% 37.1% 38.1% 39.0% 40.0%d 40.0%
+
+Other important assumptions: commercial PV system LCOE assume a 1) system lifetime of 30 yearsb, 2) federal tax rate of 35%b, 3) state tax rate of 7%b, 4) MACRS depreciation schedule, 5) no state or local subsidies, 6) a working capital and debt service reserve account for six months of operating costs and debt payments (earning an interest of 1.75%)b, 7) a six month construction loan, with an interest rate of 4% and a fee of 1% of the cost of the systemb, 8) a system size of 200 kWa, 9) an inverter lifetime of 15 yearsa, 10) a module tilt angle of 10 degrees, and an azimuth of 180 degrees, 11) debt with a term of 18 yearsb, and 12) $1.1MM of upfront financial transaction costs for a $100MM TPO transaction of a pool of commercial projectsd. e The financial assumptions in Table 7 assume a $100MM TPO transaction of a pool of commercial projects. f The historical financial structure for a residential TPO system, assumed in 2010 from Feldman and Bolinger 2016 does not assume a debt raise; however, the financial structure in 2016 from Feldman, Lowder, and Schwabe does assume back-leveraged debt. To make these assumptions uniform, the “debt interest rate” and “debt fraction” are taken from the utility-scale historical financial structure in Feldman and Bolinger 2016 that uses back-leveraged debt.
+
+As demonstrated in Table 9, in addition to a 65% reduction in installed cost from 2010 to 2017, inverter replacement costs reduced 58%, O&M costs reduced 41%, annual degradation rates reduced 25%, the equity discount rate reduced 23%, the debt interest rate reducd 13%, and the debt fraction increased 17%.
+
+Using these assumptions we calculated the LCOE, with and without the 30% federal investment tax credit (ITC), in Phoenix, AZ, Kansas City, MO, and New York, NY, corresponding to higher, medium, and lower resource areas in the United States and the locations used to calculate LCOE in the SunShot Vision Study. The calculated values are summarized in Figure 23.22
+
+Figure 23. Levelized cost of energy for commercial PV systems, by region and with and without ITC, 2010 –2017
+
+As demonstrated in Figure 23, from 2010 to 2017 there was a 71% - 72% reduction in the commercial PV system electricity cost benchmark (a 12% - 13% reduction was achieved from 2016 to 2017), bringing the unsubsidized LCOE between $0.09/kWh to $0.12/kWh ($0.06/kWh to $0.08/kWh when including the federal ITC). This reduction is 89% toward achieving SunShot’s 2020 commercial PV LCOE goal.23
+
+22 Because this analysis uses a more robust set of current and historical assumptions LCOE values may differ from previously reported benchmarked values. 23 The SunShot 2020 target is adjusted from 2010 USD using the CPI. A Summary of these values can be found in Appendix A and B. For LCOE Kansas City, MO, without ITC cases are $0.40/kWh in 2010 and $0.11/kWh in 2017 in 2017 USD from Appendix A and B. Thus, calculation is: (0.40 – 0.11)/(0.40 – 0.08) = 89%.
+
+5 Utility-Scale PV Model This section describes our utility-scale model’s structure, inputs, and assumptions (Section 5.1) and output (Section 5.2).
+
+5.1 Utility-Scale Model Structure, Inputs, and Assumptions We model a 100-MW, 1,000-Vdc utility-scale system using 72-cell, multicrystalline 17.5%efficient modules from a Tier 1 supplier and three-phase central inverters. We model both fixedtilt and one-axis tracking on ground-mounted racking systems using driven-pile foundations. In addition, we separate our cost estimate into EPC and project-development functions. Although some firms engage in both activities in an integrated manner, we believe the distinction can help separate and highlight the specific cost trends and drivers associated with each function.
+
+Figure 24 presents a schematic of our utility-scale system cost model, and Table 10 details its assumptions and inputs.
+
+Figure 24. Utility-scale PV: model structure
+
+Table 10. Utility-Scale PV: Modeling Inputs and Assumptions
+
+Category Modeled Value Description Sources
+
+System size >2 MW A large utility-scale system capacity Model assumption
+
+Module efficiency 17.5% Average module efficiency NREL (2017)
+
+Module price $0.35/Wdc Ex-factory gate (first buyer) price, Tier 1 modules Bloomberg (2017), NREL (2017)
+
+$0.06/Wdc (fixedtilt) $0.06/Wdc (oneaxis tracker)
+
+Ex-factory gate prices (first buyer) price, Tier 1 inverters DC-to-AC ratio = 1.3 for both fixed-tilt and one-axis tracker
+
+Bloomberg (2017), NREL (2017), Bolinger and Seel (2017)
+
+Inverter price
+
+$0.10–$0.21/Wdc for a 100-MW system; varies by location and system size
+
+Structural components (racking)
+
+Fixed-tilt racking or one-axis tracking system
+
+ASCE (2006), model assumptions, NREL (2017)
+
+Conductors, conduit and fittings, transition boxes, switchgear, panel boards, onsite transmission, etc.
+
+Electrical components
+
+Varies by location and system size
+
+Model assumptions, NREL (2017), RSMeans (2016)
+
+8.67%–13% for equipment and material (except for transmission line costs); 23%– 69% for labor costs; varies by system size, labor activity, and location
+
+EPC overhead (% of equipment costs)
+
+Costs associated with EPC SG&A, warehousing, shipping, and logistics
+
+NREL (2017)
+
+National benchmark applies an average (by state) weighted by 2016 installed capacities
+
+Sales tax Varies by location
+
+DSIRE (2017), RSMeans (2016)
+
+Electrician: $19.37–$38.22 per hour Laborer: $12.64– $25.09 per hour Varies by location and inverter option
+
+Modeled labor rate assumes non-union and union labor and depends on state; national benchmark uses weighted average of state rates
+
+Direct installation labor
+
+BLS (2017), NREL (2017)
+
+Workers compensation (stateweighted average), federal and state unemployment insurance, FICA, builders risk, public liability
+
+Burden rates (% of direct labor)
+
+Total nationwide average: 31.8%
+
+RSMeans (2016)
+
+Category Modeled Value Description Sources
+
+$0.03–$0.09/Wdc Varies by system size and location
+
+For construction permits fee, interconnection, testing, and commissioning
+
+PII
+
+NREL (2017)
+
+System size < 10 MW, use 0 miles for gen-tie line System size > 200 MW, use 5 miles for gen-tie line System size = 10–200 MW, use linear interpolation
+
+Transmission line (gen-tie line)
+
+$0.00–$0.02/Wdc Varies by system size
+
+Model assumptions, NREL (2017)
+
+Includes overhead expenses such as payroll, facilities, travel, legal fees, administrative, business development, finance, and other corporate functions
+
+3%–12% Varies by system size (100 MW uses 3%; 5 MW uses 12%)
+
+Developer overhead
+
+Model assumptions, NREL (2017)
+
+Contingency 3% Estimated as markup on EPC cost NREL (2017)
+
+5%–8% Varies by system size (100 MW uses 5%; 5 MW uses 8%)
+
+Applies a percentage margin to all costs including hardware, installation labor, EPC overhead, developer overhead, etc.
+
+Profit
+
+NREL (2017)
+
+Figure 25 shows the percentage of U.S. utility-scale PV systems using tracking systems for 2007–2016. Although the data include one-axis and dual-axis tracking systems in the same “tracking” category, there are many more one-axis trackers than dual-axis trackers (Bolinger and Seel 2017). Cumulative tracking system installation reached 64% in 2016.
+
+Figure 25. Percentage of U.S. utility-scale PV systems using tracking systems, 2007–2016 (Bolinger and Seel 2017)
+
+Although EPC contractors and developers tend to employ low-cost, non-union labor (based on data from BLS 2017) for PV system construction when possible, union labor is sometimes mandated. Construction trade unions may negotiate with the local jurisdiction and EPC contractor/developer during the public review period of the permitting process. Figure 26 shows 2016 utility-scale PV capacity installed (GTM Research and SEIA 2017) and the proportion of unionized labor in each state (BLS 2017). The unionized labor number represents the percentage of employed workers in each state’s entire construction industry who are union members. In our utility-scale model, both non-union and union labor rates are considered (Figure 27).
+
+Figure 26. Utility-scale PV: 2016 capacity installed and percentage of unionized labor by state (BLS 2017; GTM Research and SEIA 2017)
+
+5.2 Utility-Scale Model Output Figure 27 presents the regional EPC benchmark from our utility-scale model, and Figure 28 presents the U.S. national benchmark (EPC + developer) for fixed-tilt and one-axis tracker systems, using non-union labor. In Figure 28, note the following:
+
+1. The national benchmark applies an average weighted by 2016 installed capacities.
+
+2. Non-union labor is used.
+
+3. Economies of scale—driven by BOS, labor, related markups, and development cost—are demonstrated.
+
+As in the commercial PV sector, the 7% net profit in Q1 2017 is higher than the 2% in Q1 2016, because the rapid module price reduction in 2016 enabled EPC firms and developers to retain a higher profit and still keep a competitive project cost bid.
+
+$0.70 $0.80 $0.90 $1.00 $1.10 $1.20 $1.30 $1.40
+
+Arkansas Oklahoma Alabama North Carolina South Dakota Georgia Texas Montana Louisiana Wyoming Arizona Oregon Utah New Mexico Tennessee Virginia Colorado Delaware Nebraska South Carolina Kansas New Hampshire Idaho Mississippi Vermont Kentucky Iowa Puerto Rico Maryland Florida West Virginia Ohio Maine Missouri Indiana Michigan North Dakota Pennsylvania Nevada DC Washington Wisconsin California Rhode Island New York Illinois Minnesota New Jersey Hawaii Connecticut Massachusetts Alaska
+
+Modeled EPC Costs For 100 MW Systems (2017$ / Wdc)
+
+(1) Fixed-tilt & Non-Union Labor
+
+(2) One-Axis Tracker & Non-Union Labor
+
+(3) One-Axis Tracker & Union Labor
+
+Figure 27. Q1 2017 benchmark by location: 100-MW utility-scale PV systems, EPC only (2017 USD/Wdc)24
+
+24 The fixed-tilt, non-union cost is always lowest, followed by the one-axis tracker, non-union cost and the one-axis tracker, union cost. Thus the bars are additive: the fixed-tilt, non-union cost is represented by the dark green bar alone; the one-axis tracker, non-union cost is the sum of the dark green and medium green bars; and the one-axis tracker, union cost is the sum of all three bars.
+
+Figure 28. Q1 2017 U.S. benchmark: utility-scale PV total cost (EPC + developer), 2017 USD/Wdc25
+
+25 Although four different system sizes are shown in this figure, the actual national average system size in 2015 was 29 MW for fixed-tilt systems and 37 MW for one-axis tracker systems. Our model estimates $1.17/W for 29-MW fixed-tilt systems and $1.25/W for 37-MW one-axis tracker systems.
+
+5.3 Utility-Scale PV Price Benchmark Historical Trends Figure 29 summarizes the reduction in utility-scale PV system cost benchmarks between 2010 and 2017.26
+
+Figure 29. NREL utility-scale PV system cost benchmark summary (inflation adjusted), 2010–2017
+
+As demonstrated in Figure 29, from 2010 to 2017 there was a 77% reduction in the utility-scale (fixed-tilt) PV system cost benchmark, and an 80% reduction in the utility-scale (one-axis) PV system cost benchmark. Approximately 71% and 64% of that reduction can be attributed to total hardware costs (for fixed-tilt and one-axis systems respectively), as module prices dropped 86% over that time period. An additional 10% / 11% can be attributed to labor, which dropped 74% / 78% over that time period, with the final 19% / 25% attribitubal to other soft costs, including PII, sales tax, overhead, and net profit (for fixed-tilt and one-axis systems respectively).
+
+Looking at this past year, from 2016 to 2017 there was a 29% reduction in the utility-scale (fixed-tilt) PV system cost benchmark, and an 28% reduction in the utility-scale (one-axis) PV system cost benchmark. The majority of that reduction can be attributed to the 46% reduction in module factory gate price, and a 45% / 41% reduction in inverter factory gate price.27
+
+26 Each year’s PV system cost benchmark corresponds to the NREL benchmark calculted in Q4 of the previous year or Q1 of the current year (e.g. 2010 = Q4 2009; 2017 = Q1 2017). 27 One-axis and fixed-tilt PV systems have different reductions in inverter factory gate price due to differing ILRs in 2016.
+
+5.4 Utility-Scale PV Levelized Cost of Energy Historical Trends While LCOE is not a perfect metric to measure the competiveness of PV within the energy marketplace, it incorporates many other PV metrics important to the energy costs beyond upfront installation costs. These benchmarks are summarized over time in Table 11 (next page), from Q4 2009 to Q1 2017 (aSunShot Vision Study 2010, bOn the Path to SunShot: The Role of Advancements in Solar Photovoltaic Efficiency, Reliability, and Costs; cOn the Path to SunShot: Emerging Opportunities and Challenges in Financing Solar (Feldman and Bolinger 2016); dTerms, Trends, and Insights PV Project Finance in the United States (Feldman, Lowder and Schwabe 2016), eU.S. Solar Photovoltaic System Cost Benchmark: Q1 2016).28
+
+As demonstrated in Table 11, in addition to a 80% reduction in installed cost of utility-scale (one-axis) systems from 2010 to 2017, inverter replacement costs reduced 68%, O&M costs reduced 17%, annual degradation rates reduced 25%, the equity discount rate reduced 14%, the debt interest rate reducd 18%, and the debt fraction increased 17%.
+
+Using these assumptions we calculated the LCOE, with and without the 30% federal investment tax credit (ITC), in Phoenix, AZ, Kansas City, MO, and New York, NY, corresponding to higher, medium, and lower resource areas in the United States and the locations used to calculate LCOE in the SunShot Vision Study. The calculated values are summarized in Figure 30.29
+
+28 In instances in which LCOE assumptions were not found from the selected literature in a given year, straight-line changes were assumed between any two values. 29 Because this analysis uses a more robust set of current and historical assumptions LCOE values may differ from previously reported benchmarked values.
+
+Table 11. One-Axis Tracker and Fixed-Tilt Utility-Scale PV LCOE Assumptions, 2010–2017
+
+2017 USD per Watt DC 2010 2011 2012 2013 2014 2015 2016 2017
+
+One-Axis Tracker
+
+Installed cost $5.44 $4.59 $3.15 $2.39 $2.15 $1.97 $1.54 $1.11
+
+Annual degradation (%) 1.00%a 0.95% 0.90% 0.85% 0.80% 0.75%b 0.75% 0.75%
+
+Inverter replacement price ($/W) $0.19a $0.17 $0.15 $0.14 $0.12 $0.10b $0.08e $0.06
+
+O&M expenses ($/kw-yr) $22.2a $21.5 $20.7 $20.0 $19.2 $18.5b $18.5 $18.5
+
+Pre-inverter derate (%) 90.5%a 90.50% 90.50% 90.50% 90.50% 90.5%b 90.5% 90.5%
+
+Inverter efficiency (%) 96.0%a 96.40% 96.80% 97.20% 97.60% 98.0%b 98.0% 98.0%
+
+Inverter loading ratio 1.10a 1.12 1.13 1.15 1.17 1.18 1.20e 1.30
+
+Equity discount rate (real) 7.4%c 7.2% 7.0% 6.9% 6.7% 6.5% 6.3%d 6.3%
+
+Inflation rate 2.5%a 2.5% 2.5% 2.5% 2.5% 2.5% 2.5% 2.5%
+
+Debt interest rate 5.5%c 5.3% 5.2% 5.0% 4.8% 4.7% 4.5%d 4.5%
+
+Debt fraction 34.2%c 35.2% 36.1% 37.1% 38.1% 39.0% 40.0%d 40.0%
+
+Fixed-Tilt
+
+Installed cost $4.57 $3.91 $2.66 $2.04 $1.89 $1.82 $1.45 $1.03
+
+Annual degradation (%) 1.00%a 0.95% 0.90% 0.85% 0.80% 0.75%b 0.75% 0.75%
+
+Inverter replacement price ($/W) $0.19a $0.17 $0.15 $0.14 $0.12 $0.10b $0.08e $0.06
+
+O&M expenses ($/kw-yr) $22.2a $20.9 $19.5 $18.1 $16.8 $15.4b $15.4 $15.4
+
+Pre-inverter derate (%) 90.5%a 90.50% 90.50% 90.50% 90.50% 90.5%b 90.5% 90.5%
+
+Inverter efficiency (%) 96.0%a 96.40% 96.80% 97.20% 97.60% 98.0%b 98.0% 98.0%
+
+Inverter loading ratio 1.10a 1.15 1.2 1.25 1.3 1.35 1.40e 1.3
+
+Equity discount rate (real) 7.4%c 7.2% 7.0% 6.9% 6.7% 6.5% 6.3%d 6.3%
+
+Inflation rate 2.5%a 2.5% 2.5% 2.5% 2.5% 2.5% 2.5% 2.5%
+
+Debt interest rate 5.5%c 5.3% 5.2% 5.0% 4.8% 4.7% 4.5%d 4.5%
+
+Debt fraction 34.2%c 35.2% 36.1% 37.1% 38.1% 39.0% 40.0%d 40.0%
+
+Other important assumptions: utility-scale PV system LCOE assume a 1) system lifetime of 30 yearsa, 2) federal tax rate of 35%b, 3) state tax rate of 7%b, 4) MACRS depreciation schedule, 5) no state or local subsidies, 6) a working capital and debt service reserve account for six months of operating costs and debt payments (earning an interest of 1.75%)b,
+
+7) a six month construction loan, with an interest rate of 4% and a fee of 1% of the cost of the systemb, 8) a system size of 100 MWb, 9) an inverter lifetime of 15 yearsa, 10) debt with a term of 18 yearsb, and 11) $1.1MM of upfront financial transaction costsd.
+
+Figure 30. Levelized cost of energy for utility-scale PV systems, by region and with and without ITC, 2010–2017
+
+We use the fixed-tilt systems for LCOE benchmarks from 2010 to 2015 and then switch to oneaxis tracking systems from 2016 to 2017 to reflect the market share change in Figure 31. All detailed LCOE values can be found in Appendix A and B. As demonstrated in Figure 30, from 2010 to 2017 there was a 78%–79% reduction in the utilityscale PV system electricity cost benchmark (a 20%– 23% reduction was achieved from 2016 to 2017), bringing the unsubsidized LCOE between $0.04/kWh to $0.06/kWh ($0.03/kWh to $0.04/kWh when including the federal ITC). This reduction signifies the achievement of SunShot’s 2020 utility-scale PV goal.30
+
+6 Model Applications This section includes three additional applications of our cost modeling: system cost reduction from economies of scale (Section 6.1), module efficiency impacts (Section 6.2), and regional LCOE (Section 6.3). The granularity of our bottom-up models enables us to determine the changes in particular cost drivers over time. Accordingly, the models can be used to predict future system cost-reduction opportunities based on particular market trends and technologies.
+
+6.1 System Cost Reduction from Economies of Scale Figure 31 demonstrates the cost savings from increased system size. Scaling up the system size from 10 MW to 100 MW reduces related costs in several ways: per-watt BOS costs because of bulk purchasing, labor costs that benefit from learning-related improvements for larger systems, and EPC overhead and developer costs that are spread over more installed capacity. Note that non-union labor is used in this figure.
+
+Figure 32. Model application: U.S. utility-scale one-axis tracking PV system cost reduction from economies of scale (2017 USD/Wdc)
+
+6.2 Module Efficiency Impacts Our system cost models can also assess the economic benefits of high module efficiency. Because higher module efficiency reduces the number of modules required to reach a certain system size, the related racking or mounting hardware, foundation, BOS, EPC/developer overhead, and labor hours are reduced accordingly. Figure 32 presents the relationship between module efficiency and installed cost (with module prices held equal for any given efficiency) and demonstrates the cost-reduction potential due to high module efficiency. Note that a fixed-tilt system is used in the utility-scale curve and a string inverter is used in the residential curve.
+
+Figure 33. Modeled impacts of module efficiency on total system costs, 2017
+
+6.3 Regional LCOE To estimate regional LCOEs across the United States, we combine modeled regional installed cost with localized solar irradiance and weather data, a PV performance model, and a pro forma financial analysis that models the revenue, operating expenses, taxes, incentives, debt structures, and cash flows for a representative PV system. We use NREL’s System Advisor Model (SAM), a performance and financial model,31 to estimate location-specific hourly energy output over the PV system’s lifetime and subsequently calculate the resulting real LCOEs (considering inflation) for each location. Figure 33 presents real LCOEs for a 100-MW utility-scale PV system with fixed tilt or one-axis tracking based on regional labor and material costs, wind speeds, snow loading, solar irradiance, weather data, and sales tax.32 We assume the following:
+
+• ITC = 0%, Real discount rate = 6.3%, IRR target = 6.46%, Inflation = Price escalator = 2.5%, Analysis period = 30-Yr, Degradation rate = 0.75% per year. System size = 100 MW utility-scale PV, Project debt = 40%, Debt interest rate = 4.5%.
+
+• Fixed-tilt: DC-to-AC ratio = 1.3 and Fixed O&M cost = $15/kW per year. One-axis tracker: DC-to-AC ratio = 1.3 and Fixed O&M cost = $18.5/kW per year.
+
+¢/kWh
+
+Real LCOE (Fixed-tilt)
+
+Real LCOE (One-axis tracker)
+
+Fixed-Tilt One-Axis Tracker One-Axis Tracker vs. Fixed-Tilt
+
+2017 USD
+
+Real LCOE Change (%) CA Bakersfield 1.09
+
+7.26
+
+5.68
+
+1.18
+
+6.44
+
+5.04
+
+8.26% -11.29% -11.27% CA Imperial 1.09
+
+6.64
+
+5.19
+
+1.18
+
+5.76
+
+4.50
+
+8.26% -13.25% -13.29% AZ Prescott 0.98
+
+6.20
+
+4.85
+
+1.06
+
+5.47
+
+4.27
+
+8.16% -11.77% -11.96% AZ Tucson 0.98
+
+6.01
+
+4.70
+
+1.06
+
+5.29
+
+4.14
+
+8.16% -11.98% -11.91% NV Las Vegas 1.05
+
+6.33
+
+4.95
+
+1.13
+
+5.54
+
+4.33
+
+7.62% -12.48% -12.53% NM Albuquerque 0.99
+
+6.05
+
+4.73
+
+1.06
+
+5.39
+
+4.21
+
+7.07% -10.91% -10.99% CO Alamosa 0.99
+
+6.05
+
+4.73
+
+1.07
+
+5.33
+
+4.16
+
+8.08% -11.90% -12.05% NC Jacksonville 0.96
+
+7.25
+
+5.67
+
+1.03
+
+6.56
+
+5.13
+
+7.29% -9.52% -9.52% TX San Antonio 0.97
+
+7.11
+
+5.56
+
+1.04
+
+6.55
+
+5.12
+
+7.22% -7.88% -7.91% NJ Newark 1.13
+
+9.15
+
+7.16
+
+1.22
+
+8.59
+
+6.71
+
+7.96% -6.12% -6.28% FL Orlando 1.02
+
+8.47
+
+6.63
+
+1.09
+
+7.51
+
+5.87
+
+6.86% -11.33% -11.46% HI Kona 1.14
+
+8.08
+
+6.32
+
+1.22
+
+7.41
+
+5.79
+
+7.02% -8.29% -8.39%
+
+Total Installed Costs ($/W)
+
+Nominal LCOE (cent per kWh)
+
+Real LCOE (cent per kWh)
+
+Total Installed Costs ($/W)
+
+Nominal LCOE (cent per kWh)
+
+Real LCOE (cent per kWh)
+
+Installed Costs Premium (%)
+
+Nominal LCOE Change (%)
+
+State Location
+
+Figure 34. Modeled real LCOE (¢/kWh), ITC = 0%, for a 100-MWdc utility-scale PV system with fixed-tilt and one-axis tracking in 201733
+
+7 Conclusions Based on our bottom-up modeling, the Q1 2017 PV cost benchmarks are $2.80/Wdc (or $3.22/Wac) for residential systems, $1.85/Wdc (or $2.13/Wac) for commercial systems, $1.03/Wdc (or $1.34/Wac) for fixed-tilt utility-scale systems, and $1.11/Wdc (or $1.44/Wac) for one-axis-tracking utility-scale systems. Overall, modeled PV installed costs continued to decline in Q1 2017 for all three sectors.
+
+Figure 34 puts our Q1 2017 benchmark results in context with the results of previous NREL benchmarking analyses. When comparing the results across this period, note the following:
+
+1. Values are inflation adjusted using the U.S. Bureau of Labor Statistics’ Consumer Price Index. Thus, historical values from our models are adjusted and presented as real USD instead of as nominal USD.
+
+2. Cost categories are aggregated for comparison purposes. “Soft Costs – Others” represents PII, land acquisition, sales tax, and EPC/developer overhead and profit.34
+
+3. The “Utility-Scale PV, One-Axis Tracker (100 MW)” consists of our previous bottom-up results (2010 and 2013–2016) and interpolation estimates for 2009 and 2011–2012.
+
+4. The comparison of Q1 2016 and Q1 2017 is presented in Table 12.
+
+The inflation-adjusted system cost differences between Q1 2016 and Q1 2017 are $0.18/Wdc (residential), $0.32/Wdc (commercial), and $0.42/Wdc (fixed-tilt utility-scale). Table 12 shows the benchmarked values for all three sectors and drivers of cost decrease and increase.
+
+As Figure 34 shows, hardware costs—and module prices in particular—declined substantially in Q1 2017 owing to an imbalance in global module supply and demand. This has increased the importance of non-hardware, or “soft,” costs.35 Figure 35 shows the growing contribution from soft costs.36 Soft costs and hardware costs also interact with each other. For instance, module efficiency improvements have reduced the number of modules required to construct a system of a given size, thus reducing hardware costs. This trend has also reduced soft costs from direct labor and related installation overhead.
+
+Also, our bottom-up system cost models enable us to investigate regional variations, system configurations (such as MLPE vs. non-MLPE, fixed-tilt vs. one-axis tracker, and small vs. large system size). And, business structures (such as installer vs. integrator, and EPC vs. developer) are considered. Different scenarios result in different costs, so consistent comparisons can only be made when cost scenarios are aligned.
+
+34 System cost categories in this report differ from previously published material, beyond inflation adjustments, to delineate profit from overhead for installers and integrators. Also, profit is added to the Q1 2015 commercial benchmark price; thus it is $0.06/W higher than in the 2015 publication ($0.05/W profit, $0.01/W inflation). 35 Soft cost = total cost - hardware (module, inverter, structural, and electrical BOS) cost. 36 An increasing soft cost proportion in Figure 35 indicates soft costs declined more slowly than did hardware costs; it does not indicate soft costs increased on an absolute basis.
+
+Finally, the reduction in installed cost, along with improvements in operation, system design, and technology have resulted in significant reduction in the cost of electricity, as shown in Figure 36. U.S. residential and commercial PV systems are 86% and 89% toward achieving SunShot’s 2020 electricity price targets, and U.S. utility-scale PV systems have achieved their 2020 SunShot target three years early.
+
+Figure 35. NREL PV system cost benchmark summary (inflation adjusted), 2010–2017
+
+Table 12. Comparison of Q1 2016 and Q1 2017 PV System Cost Benchmarks
+
+Sector Residential PV Commercial PV Utility-Scale PV, Fixed-Tilt
+
+Q1 2016 Benchmarks in 2016 USD/Wdc $2.93 $2.13 $1.42
+
+Q1 2016 Benchmarks in 2017 USD/Wdc $2.98 $2.17 $1.45
+
+Q1 2017 Benchmarks in 2017 USD/Wdc $2.80 $1.85 $1.03
+
+• Lower module price
+
+• Lower module price
+
+• Lower module price
+
+• Lower inverter price
+
+• Lower inverter price
+
+• Lower inverter price
+
+• Higher module efficiency
+
+• Higher module efficiency
+
+• Higher module efficiency
+
+• Lower electrical BOS commodity price
+
+• Smaller developer team
+
+Drivers of Cost Decrease
+
+• Higher small installer market share
+
+• Lower sales & marketing costs
+
+• Lower overhead (general & administrative)
+
+• Higher labor
+
+• Higher labor
+
+• Higher labor wages
+
+wages
+
+wages
+
+• Higher net profit
+
+• Higher advanced
+
+• Higher PII costs
+
+inverter adoption
+
+• Higher net profit
+
+Drivers of Cost Increase
+
+• More BOS
+
+components for rapid shutdown
+
+• Higher supply-
+
+chain costs
+
+Figure 36. Modeled trend of soft cost as a proportion of total cost by sector, 2010–2017
+
+Figure 37. NREL PV LCOE benchmark summary (inflation adjusted), 2010–2017
+
+References ASCE (American Society of Civil Engineers). 2006. Minimum Design Loads for Buildings and Other Structures (7-05). Reston, VA: American Society of Civil Engineers.
+
+Barbose, G., and N. Darghouth. 2016. Tracking the Sun IX: The Installed Price of Residential and Non-Residential Photovoltaic Systems in the United States. Berkeley, CA: Lawrence Berkeley National Laboratory. https://emp.lbl.gov/publications/tracking-sun-ix-installed-price.
+
+Bloomberg. 2017. Bloomberg Professional service. Accessed May 20, 2017.
+
+BLS (U.S. Bureau of Labor Statistics). 2017. “Occupational Employment Statistics.” Accessed May 8, 2017. http://www.bls.gov/oes/tables.htm.
+
+Bolinger, M., and J. Seel. 2017 (forthcoming). Utility-Scale Solar 2016: An Empirical Analysis of Project Cost, Performance, and Pricing Trends in the United States. Berkeley, CA: Lawrence Berkeley National Laboratory.
+
+———. 2016. Utility-Scale Solar 2015: An Empirical Analysis of Project Cost, Performance, and Pricing Trends in the United States. Berkeley, CA: Lawrence Berkeley National Laboratory. https://emp.lbl.gov/publications/utility-scale-solar-2015-empirical.
+
+Case, T. 2012. “US Cost of Doing Business: Costs Fall in 2010.” Moody’s Analytics Regional Financial Review, September 2012.
+
+Chung, D., C. Davidson, R. Fu, K. Ardani, and R. Margolis. 2015. U.S. Photovoltaic Prices and Cost Breakdowns: Q1 2015 Benchmarks for Residential, Commercial, and Utility-Scale Systems. NREL/TP-6A20-64746. Golden, CO: National Renewable Energy Laboratory. http://www.nrel.gov/docs/fy15osti/64746.pdf.
+
+CSI (California Solar Initiative). 2017. “CSI Working Data Set.” Accessed May 10, 2017. http://www.californiadgstats.ca.gov/downloads.
+
+DSIRE (Database of State Incentives for Renewables & Efficiency). 2017. Accessed May 10,
+
+2017. http://www.dsireusa.org/.
+
+Enphase. 2017. Enphase quarterly presentations. Accessed May 20, 2017. http://investor.enphase.com/events.cfm?Year=2017.
+
+Feldman, D., G. Barbose, R. Margolis, M. Bolinger, D. Chung, R. Fu, J. Seel, C. Davidson, N. Darghouth, and R. Wiser. 2015. Photovoltaic System Pricing Trends: Historical, Recent, and Near-Term Projections. NREL/PR-6A20-64898. Golden, CO: National Renewable Energy Laboratory. http://www.nrel.gov/docs/fy15osti/64898.pdf.
+
+Feldman, D., B. Friedman, and R. Margolis. 2013. Financing, Overhead, and Profit: An In-Depth Discussion of Costs Associated with Third-Party Financing of Residential and Commercial Photovoltaic Systems. NREL/TP-6A20-60401. Golden, CO: National Renewable Energy Laboratory. http://www.nrel.gov/docs/fy14osti/60401.pdf.
+
+Feldman, D., Lowder, T. Lowder, and P. Schwabe. 2016. Terms, Trends, and Insights PV Project Finance in the United States, 2016. NREL/BR-6A20-66991. Golden, CO: National Renewable Energy Laboratory. http://www.nrel.gov/docs/fy16osti/66991.pdf.
+
+Fu, R., D. Chung, T. Lowder, D. Feldman, K. Ardani, and R. Margolis. 2016. U.S. Solar Photovoltaic System Cost Benchmark: Q1 2016. NREL/TP-6A20-66532. Golden, CO: National Renewable Energy Laboratory. http://www.nrel.gov/docs/fy16osti/66532.pdf.
+
+Fu, R., T.L. James, D. Chung, D. Gagne, A. Lopez, and A. Dobos. 2015. “Economic Competitiveness of U.S. Utility-Scale Photovoltaic Systems in 2015: Regional Cost Modeling of Installed Cost ($/W) and LCOE ($/kWh).” Presented at the IEEE 42nd Photovoltaic Specialist Conference, New Orleans, LA. http://www.nrel.gov/analysis/pdfs/Economic_Competitiveness_of_US_Utility-Scale_Photovoltaics_System.pdf.
+
+Go Solar CA (Go Solar California). 2017. “Currently Interconnected Data Set.” Accessed May 10, 2017. http://www.californiadgstats.ca.gov/downloads.
+
+GTM Research. 2017. Q1 2017 Solar Executive Briefing. Boston: Greentech Media.
+
+GTM Research and SEIA (Solar Energy Industries Association). 2017. U.S. Solar Market Insight Report, Q1 2017. Washington, D.C.: Solar Energy Industries Association.
+
+NREL. 2017. NREL dialogues and interviews with solar industry collaborators. Golden, CO: National Renewable Energy Laboratory.
+
+PVinsights. 2017. PVinsights database. Accessed May 20, 2017.
+
+RSMeans, ed. 2016. RSMeans Building Construction Cost Data 2015, 73rd annual edition. Norwell, MA: RSMeans.
+
+SolarEdge. 2017. SolarEdge quarterly presentations. Accessed May 20, 2017. http://investors.solaredge.com/phoenix.zhtml?c=253935&p=irol-news&nyo=0.
+
+Sunrun. 2017. Sunrun quarterly presentations. Accessed May 20, 2017. http://investors.sunrun.com/phoenix.zhtml?c=254007&p=irol-calendar.
+
+Vivint Solar. 2017. Vivint Solar quarterly presentations. Accessed May 20, 2017. http://investors.vivintsolar.com/company/investors/events-andpresentations/presentations/default.aspx.
+
+Vote Solar. 2015. “Project Permit.” Accessed May 8, 2017. http://projectpermit.org/2013/02/06/best-practices/.
+
+Vote Solar and IREC (Interstate Renewable Energy Council). 2013. Project Permit: Best Practices in Residential Solar Permitting. San Francisco: Vote Solar Initiative.
+
+Woodhouse, M., R. Jones-Albertus, D. Feldman, R. Fu, K. Horowitz, D. Chung, D. Jordan, and S. Kurtz. 2016. On the Path to SunShot: The Role of Advancements in Solar Photovoltaic Efficiency, Reliability, and Costs. NREL/TP-6A20-65872. Golden, CO: National Renewable Energy Laboratory. http://www.nrel.gov/docs/fy16osti/65872.pdf.
+
+XE Currency Charts. 2017. Historical currency conversion. Accessed May 2, 2017. http://www.xe.com/currencycharts/.
+
+Appendix A. Historical PV System Benchmarks in 2010 USD
+
+Table 13. NREL Residential PV Benchmark Summary (Inflation Adjusted), 2010–2017
+
+2010 USD per Watt DC 2010 2011 2012 2013 2014 2015 2016 2017
+
+Module $2.26 $1.89 $0.98 $0.68 $0.65 $0.63 $0.57 $0.31
+
+Inverter $0.41 $0.60 $0.40 $0.38 $0.28 $0.26 $0.19 $0.17
+
+Hardware BOS - Structural and Electrical Components
+
+$0.49 $0.45 $0.42 $0.46 $0.42 $0.30 $0.33 $0.31
+
+Soft Costs - Install Labor $0.99 $0.62 $0.59 $0.73 $0.29 $0.30 $0.26 $0.27
+
+Soft Costs - Others (PII, Sales Tax, Overhead, and Net Profit)
+
+$2.22 $2.01 $1.54 $1.20 $1.37 $1.31 $1.26 $1.40
+
+Total $6.36 $5.58 $3.94 $3.44 $3.02 $2.80 $2.61 $2.45
+
+Total Inverter Replacement Price ($/W)
+
+$0.37 $0.32 $0.28 $0.23 $0.18 $0.14 $0.13 $0.12
+
+O&M Expenses ($/kW-yr) $33 $30 $27 $24 $21 $18 $18 $18
+
+LCOE Phoenix, AZ, no ITC $0.38 $0.32 $0.22 $0.19 $0.15 $0.13 $0.12 $0.12
+
+LCOE Kansas City, MO, no ITC $0.46 $0.39 $0.27 $0.23 $0.19 $0.16 $0.15 $0.14
+
+LCOE New York, NY, no ITC $0.49 $0.42 $0.29 $0.24 $0.20 $0.17 $0.16 $0.15
+
+LCOE Phoenix, AZ, ITC $0.24 $0.20 $0.14 $0.12 $0.10 $0.09 $0.08 $0.07
+
+LCOE Kansas City, MO, ITC $0.30 $0.25 $0.18 $0.15 $0.12 $0.10 $0.09 $0.09
+
+LCOE New York, NY, ITC $0.32 $0.27 $0.19 $0.16 $0.13 $0.11 $0.10 $0.10
+
+Table 13. NREL Commercial PV Benchmark Summary (Inflation Adjusted), 2010–2017
+
+2010 USD per Watt DC 2010 2011 2012 2013 2014 2015 2016 2017
+
+Module $2.23 $1.89 $0.98 $0.59 $0.64 $0.62 $0.57 $0.31
+
+Inverter $0.32 $0.37 $0.27 $0.24 $0.15 $0.12 $0.12 $0.09
+
+Hardware BOS - Structural and Electrical Components $0.63 $0.64 $0.60 $0.59 $0.38 $0.33 $0.29 $0.26
+
+Soft Costs - Install Labor $0.28 $0.28 $0.27 $0.26 $0.19 $0.17 $0.17 $0.15
+
+Soft Costs - Others (PII, Sales Tax, Overhead, and Net Profit) $1.25 $1.18 $0.88 $0.75 $1.06 $0.76 $0.76 $0.81
+
+Total $4.71 $4.36 $3.00 $2.44 $2.42 $1.99 $1.90 $1.62
+
+Total Inverter Replacement Price ($/W) $0.22 $0.19 $0.17 $0.15 $0.13 $0.11 $0.10 $0.09
+
+O&M Expenses ($/kW-yr) $24 $22 $20 $18 $16 $14 $14 $14
+
+LCOE Phoenix, AZ, no ITC $0.29 $0.26 $0.17 $0.14 $0.13 $0.10 $0.09 $0.08
+
+LCOE Kansas City, MO, no ITC $0.36 $0.32 $0.22 $0.17 $0.16 $0.12 $0.12 $0.10
+
+LCOE New York, NY, no ITC $0.38 $0.34 $0.23 $0.18 $0.17 $0.13 $0.12 $0.11
+
+LCOE Phoenix, AZ, ITC $0.18 $0.16 $0.11 $0.09 $0.08 $0.06 $0.06 $0.05
+
+LCOE Kansas City, MO, ITC $0.23 $0.20 $0.14 $0.11 $0.10 $0.08 $0.07 $0.07
+
+LCOE New York, NY, ITC $0.24 $0.21 $0.15 $0.12 $0.11 $0.08 $0.08 $0.07
+
+Table 14. NREL Utility-Scale PV Benchmark Summary (Inflation Adjusted), 2010–2017
+
+2010 USD per Watt DC
+
+2010 2011 2012 2013 2014 2015 2016 2017
+
+Module $2.12 $1.89 $0.98 $0.59 $0.60 $0.59 $0.57 $0.31
+
+Inverter $0.24 $0.28 $0.24 $0.16 $0.11 $0.10 $0.10 $0.05
+
+Hardware BOS -Structural and Electrical Components
+
+$0.66 $0.58 $0.50 $0.43 $0.37 $0.34 $0.22 $0.22
+
+Soft Costs -Install Labor
+
+$0.54 $0.48 $0.45 $0.44 $0.21 $0.18 $0.14 $0.12
+
+Soft Costs -Others (PII, Land Acquisition, Sales Tax, Overhead, and Net Profit)
+
+$1.22 $0.81 $0.59 $0.48 $0.59 $0.52 $0.31 $0.27
+
+Total $4.78 $4.03 $2.77 $2.10 $1.88 $1.73 $1.35 $0.97
+
+Total Inverter Replacement Price ($/W)
+
+$0.17 $0.15 $0.14 $0.12 $0.11 $0.09 $0.07 $0.05
+
+O&M Expenses ($/kW-yr)
+
+$20 $19 $19 $18 $17 $17 $17 $17
+
+LCOE Phoenix, AZ, no ITC
+
+$0.19 $0.16 $0.11 $0.08 $0.07 $0.06 $0.05 $0.04
+
+LCOE Kansas City, MO, no ITC
+
+$0.24 $0.20 $0.14 $0.10 $0.09 $0.08 $0.06 $0.05
+
+LCOE New York, NY, no ITC
+
+$0.26 $0.22 $0.15 $0.12 $0.10 $0.09 $0.07 $0.06
+
+LCOE Phoenix, AZ, ITC
+
+$0.12 $0.10 $0.07 $0.05 $0.05 $0.04 $0.03 $0.03
+
+LCOE Kansas City, MO, ITC
+
+$0.15 $0.12 $0.09 $0.07 $0.06 $0.05 $0.04 $0.03
+
+LCOE New York, NY, ITC
+
+$0.17 $0.14 $0.10 $0.08 $0.07 $0.06 $0.05 $0.04
+
+Appendix B. PV System LCOE Benchmarks in 2017 and 2010 USD
+
+Table 16. NREL LCOE Summary (2017 cents/kWh)
+
+202037 Goal
+
+2030 Goal
+
+Reporting Year 2010 2011 2012 2013 2014 2015 2016 2017
+
+Benchmark Date Q4 2009 Q4 2010 Q4 2011 Q4 2012 Q4 2013 Q1 2015 Q1 2016 Q1 2017
+
+Residential
+
+Phoenix, AZ, no ITC 42.1 35.7 24.9 20.7 17.3 15.0 13.6 12.9
+
+Kansas City, MO, no ITC 51.8 43.6 30.4 25.3 21.1 18.3 16.7 15.7 10.0 5.0
+
+New York, NY, no ITC 55.2 46.5 32.4 26.9 22.4 19.5 17.7 16.7
+
+Phoenix, AZ, ITC 26.9 22.8 16.1 13.4 11.1 9.5 8.7 8.2
+
+Kansas City, MO, ITC 33.1 27.9 19.7 16.3 13.5 11.6 10.6 10.0
+
+New York, NY, ITC 35.3 29.7 21.0 17.4 14.4 12.3 11.3 10.7
+
+Commercial
+
+Phoenix, AZ, no ITC 32.3 28.6 19.5 15.4 14.4 11.2 10.5 9.2
+
+Kansas City, MO, no ITC 40.0 35.3 24.1 19.0 17.8 13.9 13.0 11.3 7.8 4.0
+
+New York, NY, no ITC 42.4 37.5 25.6 20.2 18.9 14.8 13.8 12.0
+
+Phoenix, AZ, ITC 20.4 18.0 12.5 9.9 9.2 7.1 6.7 5.9
+
+Kansas City, MO, ITC 25.2 22.2 15.4 12.3 11.4 8.9 8.3 7.3
+
+New York, NY, ITC 26.8 23.6 16.4 13.0 12.0 9.4 8.8 7.7
+
+Utility-scale (one-axis tracking)
+
+Phoenix, AZ, no ITC 21.2 17.5 12.1 9.2 8.1 7.2 5.7 4.4
+
+Kansas City, MO, no ITC 26.8 22.1 15.3 11.7 10.2 9.1 7.2 5.6 6.0 3.0
+
+New York, NY, no ITC 29.5 24.3 16.8 12.9 11.3 10.0 7.9 6.1
+
+Phoenix, AZ, ITC 13.4 11.0 7.8 6.0 5.3 4.7 3.8 3.0
+
+Kansas City, MO, ITC 16.9 13.9 9.8 7.6 6.7 5.9 4.8 3.8
+
+New York, NY, ITC 18.6 15.4 10.8 8.4 7.4 6.5 5.3 4.2
+
+37 2020 Residential and commercial SunShot goals are adjusted for inflation using the Consumer Price Index; the 2020 utility-scale goal was left unchanged as wholesale prices have been relatively flat, and in some cases gone down, from 2010-2017.
+
+Utility-scale (fixed-tilt)
+
+Phoenix, AZ, no ITC 22.6 18.9 13.0 10.1 9.0 8.4 6.8 5.0
+
+Kansas City, MO, no ITC 27.7 23.1 15.9 12.3 11.0 10.2 8.3 6.1
+
+New York, NY, no ITC 29.6 24.7 17.0 13.2 11.8 10.9 8.8 6.6
+
+Phoenix, AZ, ITC 14.4 12.0 8.5 6.6 5.9 5.4 4.5 3.4
+
+Kansas City, MO, ITC 17.6 14.7 10.4 8.1 7.3 6.7 5.4 4.2
+
+New York, NY, ITC 18.9 15.8 11.1 8.7 7.8 7.1 5.8 4.4
+
+Residential
+
+Phoenix, AZ, no ITC 37.8 32.0 22.3 18.5 15.5 13.4 12.2 11.5
+
+Kansas City, MO, no ITC 46.4 39.1 27.3 22.7 18.9 16.4 14.9 14.1 9.0 5.0
+
+New York, NY, no ITC 49.5 41.6 29.0 24.1 20.1 17.4 15.9 15.0
+
+Phoenix, AZ, ITC 24.1 20.4 14.5 12.0 9.9 8.5 7.8 7.4
+
+Kansas City, MO, ITC 29.7 25.0 17.7 14.6 12.1 10.4 9.5 9.0
+
+New York, NY, ITC 31.6 26.6 18.8 15.6 12.9 11.1 10.1 9.6
+
+Commercial
+
+Phoenix, AZ, no ITC 29.0 25.6 17.5 13.8 12.9 10.1 9.4 8.2
+
+Kansas City, MO, no ITC 35.8 31.7 21.6 17.0 16.0 12.5 11.7 10.1 7.0 4.0
+
+New York, NY, no ITC 38.0 33.6 22.9 18.1 16.9 13.3 12.4 10.7
+
+Phoenix, AZ, ITC 18.3 16.1 11.2 8.9 8.2 6.4 6.0 5.3
+
+Kansas City, MO, ITC 22.6 19.9 13.8 11.0 10.2 8.0 7.4 6.5
+
+New York, NY, ITC 24.0 21.1 14.7 11.6 10.8 8.4 7.9 6.9
+
+Utility-scale (one-axis tracking)38
+
+Phoenix, AZ, no ITC 19.0 15.6 10.8 8.3 7.2 6.4 5.1 3.9
+
+Kansas City, MO, no ITC 24.0 19.8 13.7 10.5 9.2 8.1 6.4 5.0 6.0 3.0
+
+New York, NY, no ITC 26.4 21.8 15.1 11.5 10.1 9.0 7.1 5.5
+
+Phoenix, AZ, ITC 12.0 9.9 7.0 5.4 4.7 4.2 3.4 2.7
+
+Kansas City, MO, ITC 15.1 12.5 8.8 6.8 6.0 5.3 4.3 3.4
+
+38LCOE benchmarks are highlighted in bold. As noted previously, we use the fixed-tilt systems for LCOE benchmarks from 2010-2015 and then switch to one-axis tracking systems from 2016 to 2017
+
+New York, NY, ITC 16.7 13.8 9.7 7.6 6.6 5.9 4.7 3.7
+
+Utility-scale (fixed-tilt)
+
+Phoenix, AZ, no ITC 20.3 16.9 11.6 9.0 8.1 7.5 6.1 4.5
+
+Kansas City, MO, no ITC 24.8 20.7 14.3 11.1 9.9 9.2 7.4 5.5
+
+New York, NY, no ITC 26.5 22.1 15.3 11.8 10.6 9.8 7.9 5.9
+
+Phoenix, AZ, ITC 12.9 10.8 7.6 6.0 5.3 4.9 4.0 3.0
+
+Kansas City, MO, ITC 15.8 13.2 9.3 7.3 6.5 6.0 4.9 3.7
+
+New York, NY, ITC 16.9 14.1 9.9 7.8 7.0 6.4 5.2 4.0

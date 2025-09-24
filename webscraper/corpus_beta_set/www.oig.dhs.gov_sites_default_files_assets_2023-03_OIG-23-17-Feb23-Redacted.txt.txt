@@ -1,0 +1,451 @@
+OIG-23-17 - Secret Service and ICE Did Not Always Adhere to Statute and Policies Governing Use of Cell-Site Simulators - Law Enforcement Sensitive (REDACTED)
+
+/$:(1)25&(0(176(16,7,9(
+
+Secret Service and ICE Did Not Always Adhere to Statute and Policies Governing Use of Cell-Site Simulators (REDACTED)
+
+:DUQLQJ 7KLVGRFXPHQWLV/DZ(QIRUFHPHQW6HQVLWLYH /(6 'RQRWGLVWULEXWHRU FRS\WKLVUHSRUWZLWKRXWWKHH[SUHVVHGZULWWHQFRQVHQWRIWKH2IILFHRI,QVSHFWRU *HQHUDO
+
+February 23, 2023 /$:(1)25&(0(176(16,7,9( OIG-23-17
+
+Washington, DC 20528 / www.oig.dhs.gov
+
+)HEUXDU\
+
+MEMORANDUM FOR: The Honorable Alejandro Mayorkas Secretary Department of Homeland Security
+
+Kimberly A. Cheatle Director United States Secret Service
+
+Tae D. Johnson Acting Director U.S. Immigration and Customs Enforcement
+
+FROM: Joseph V. Cuffari, Ph.D. Digitally signed by JOSEPH V JOSEPH V CUFFARI Inspector General Date: 2023.02.16 CUFFARI 09:06:09 -07'00' SUBJECT: Secret Service and ICE Did Not Always Adhere to Statute and Policies Governing Use of Cell-Site Simulators – Law Enforcement Sensitive
+
+Attached for your action is our final report, Secret Service and ICE Did Not Always Adhere to Statute and Policies Governing Use of Cell-Site Simulators – Law Enforcement Sensitive. We incorporated the formal comments provided by your office.
+
+The report contains six recommendations aimed at ensuring compliance with statutes and policies governing the use of cell-site simulators and privacy requirements. Your office concurred with all six recommendations. Based on information provided in your response to the draft report, we consider recommendation 6 open and unresolved. As prescribed by the Department of Homeland Security Directive 077-01, Follow-Up and Resolutions for the Office of Inspector General Report Recommendations, within 90 days of the date of this memorandum, please provide our office with a written response that includes your (1) agreement or disagreement, (2) corrective action plan, and (3) target completion date for each recommendation. Also, please include responsible parties and any other supporting documentation necessary to inform us about the current status of the recommendation. Until your response is received and evaluated, recommendation 6 will be considered open and unresolved.
+
+Based on information provided in your response to the draft report, we consider recommendations 1 through 5 open and resolved. Once your office has fully implemented the recommendations, please submit a formal closeout letter to us within 30 days so that we may close the recommendations. The memorandum should be accompanied by evidence of completion of agreedupon corrective actions and of the disposition of any monetary amounts. Please send your response or closure request to OIGAuditsFollowup@oig.dhs.gov.
+
+Consistent with our responsibility under the Inspector General Act, we will provide copies of our report to congressional committees with oversight and appropriation responsibility over the Department of Homeland Security. We will post a redacted version of the report on our website.
+
+Please call me with any questions, or your staff may contact Bruce Miller, Deputy Inspector General of Audits, at (202) 981-6000.
+
+Attachment
+
+www.oig.dhs.gov 2
+
+LAW ENFORCEMENT SENSITIVE DHS OIG HIGHLIGHTS Secret Service and ICE Did Not Always Adhere to Statute and Policies Governing Use of Cell-Site Simulators
+
+What We Found
+
+February 2, 2023
+
+The United States Secret Service and U.S. Immigration and Customs Enforcement, Homeland Security Investigations (ICE HSI) did not always adhere to Federal statute and cellsite simulator (CSS) policies when using CSS during criminal investigations involving exigent circumstances. Separately, ICE HSI did not adhere to Department privacy policies and the applicable Federal privacy statute when using CSS. For the cases we reviewed, the Secret Service and ICE HSI obtained required search warrants for CSS uses, respectively. However, the Secret Service and ICE HSI did not always obtain court orders required by CSS policies and Federal statute when using CSS during investigations that included exigent circumstances.
+
+Why We Did This Audit
+
+Department of Homeland Security law enforcement components use CSS to provide real-time cellular device locations for investigative purposes. Our objective was to determine whether DHS and its components have developed, updated, and adhered to policies related to the use of CSS.
+
+This occurred for two reasons. First, CSS policies do not include sufficiently detailed guidance on working with external law enforcement agencies. Second, the Secret Service and ICE HSI did not correctly interpret CSS policies reflecting the statutory requirement to obtain court orders before using CSS or, in emergency situations, apply for court orders within 48 hours of installing, or beginning to install CSS.
+
+What We Recommend
+
+We recommended that the Secret Service and ICE HSI take corrective actions to ensure they use CSS in accordance with Federal statutes and DHS policies.
+
+Additionally, ICE HSI did not adhere to DHS’ privacy policy and the E-Government Act of 2002 that require CSS, as a privacy sensitive technology, to have an approved privacy impact assessment (PIA) before its use. According to ICE officials, resource limitations and changes in personnel resulted in a lengthy review and clearance process for a PIA. Although DHS approved an ICE HSI CSS-related PIA in January 2022, prior to this approval, DHS may not have identified and mitigated the privacy risks associated with CSS use.
+
+For Further Information: Contact our Office of Public Affairs at (202)981-6000, or email us at DHS-OIG.OfficePublicAffairs@oig.dhs.gov
+
+DHS Response
+
+DHS concurred with all six recommendations.
+
+www.oig.dhs.gov OIG-23-17 LAW ENFORCEMENT SENSITIVE
+
+Table of Contents
+
+Background .................................................................................................... 2
+
+Results of Audit .............................................................................................. 6
+
+Secret Service and ICE HSI Did Not Always Adhere to the Pen Register Statute and CSS Policies ........................................................................ 7
+
+ICE HSI Did Not Adhere to Department Privacy Policies and the E-Government Act of 2002 Before Using CSS ........................................... 13
+
+Recommendations ......................................................................................... 14
+
+Appendixes
+
+Appendix A: Objective, Scope, and Methodology ................................. 18 Appendix B: Component Comments to the Draft Report ....................... 22 Appendix C: Department Policy Regarding the Use of Cell-Site Simulator
+
+Technology, Policy Directive 047-02, October 19, 2015 ..... 27 Appendix D: 18 U.S.C. Chapter 206: Pen Registers and Trap and Trace Devices ........................................................................... 36 Appendix E: Report Distribution .......................................................... 44
+
+Abbreviations
+
+CSS cell-site simulator HSI Homeland Security Investigations ICE U.S. Immigration and Customs Enforcement IT information technology OGC DHS Office of the General Counsel PIA privacy impact assessment PII personally identifiable information PTA privacy threshold analysis U.S.C. United States Code
+
+www.oig.dhs.gov OIG-23-17
+
+Background
+
+The United States Secret Service and U.S. Immigration and Customs Enforcement (ICE) are two of the Department of Homeland Security’s law enforcement components. Collectively, these components’ law enforcement missions include investigating narcotics smuggling, human trafficking, gang activity, money laundering, counterfeiting, and other financial crimes. To help conduct their investigations, the Secret Service and ICE Homeland Security Investigations (HSI) leverage cell-site simulators (CSS) to locate, in real time, subjects of criminal investigations and victims based on their cellular device location. A CSS mimics a cellular phone tower by emitting a signal, which cellular devices within range of the CSS identify as the cellular phone tower in the area with the better-quality signal.
+
+Law enforcement
+
+Figure 1. Depiction of CSS Operation
+
+officers use CSS to
+
+identify both known and unknown cellular devices related to their investigations. First, CSS help officers locate cellular devices with unique identifiers already known to law enforcement. Once the CSS identifies the targeted cellular device, it obtains signaling information related to that specific device. Second, CSS help officers determine the unique identifiers of an unknown device by collecting limited signaling information from other devices in the vicinity. In this case, the CSS obtains signaling information at multiple locations from non-targeted devices in the target's vicinity for the limited purpose of identifying the target device by a process of elimination. The CSS provides relative signal strength and general direction of a subject device. See Figure 1 for a depiction of CSS operation.
+
+Source: DHS Office of Inspector General analysis of CSS operations
+
+The Secret Service and ICE HSI have used CSS to identify the locations of devices associated with suspects in homicides, financial crimes, and narcotics
+
+www.oig.dhs.gov 2 OIG-23-17
+
+cases. For example, the Secret Service used CSS to help locate a device used by an individual suspected of aggravated identity theft, bank, and wire fraud. In another example, ICE HSI used CSS to assist two Federal law enforcement agencies and a local police department, to locate a cellular phone in the possession of an individual with an active arrest warrant for conspiracy to commit murder. In both examples, the individuals were located and taken into custody.
+
+DHS Policy Governing CSS Use
+
+The Department Policy Regarding the Use of Cell-Site Simulator Technology, Policy Directive 047-02, October 19, 2015 (Policy Directive 047-02)1 establishes requirements to ensure DHS’ use of CSS inside the United States in furtherance of criminal investigations is consistent with the requirements and protections of the Constitution, including the Fourth Amendment, and applicable statutory authorities, including 18 United States Code (U.S.C.) 3121, et seq., Pen Registers and Trap and Trace Devices (Pen Register Statute).2 To ensure compliance with governing authorities, Policy Directive 047-02 incorporates internal controls and accountability requirements, including requirements for obtaining warrants and court orders, as well as data management requirements related to CSS.
+
+Policy Directive 047-02 includes steps to ensure compliance with Constitutional protections afforded by the Fourth Amendment.3 Specifically, before using CSS, Policy Directive 047-02 requires law enforcement components obtain a search warrant supported by probable cause and issued pursuant to Rule 41 of the Federal Rules of Criminal Procedure.4 Policy Directive 047-02 identifies two exceptions to the warrant requirement. In certain situations, warrants are not required when either “exigent” or “exceptional” circumstances exist. “Exigent circumstances” include the need to protect human life or avert serious injury; the prevention of the imminent destruction of evidence; the hot pursuit of a fleeing felon; or the prevention of escape by a suspect or convicted fugitive from justice. “Exceptional circumstances” allow for warrantless use of CSS technology when obtaining a
+
+1 See Appendix C for a copy of Department Policy Regarding the Use of Cell-Site Simulator Technology, Policy Directive 047-02, October 19, 2015. 2 See Appendix D for a copy of 18 U.S.C. 3121, et seq., Pen Registers and Trap and Trace Devices. 3 United States Constitution, 4th Amendment: “The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.” 4 18 U.S.C. Appendix, Federal Rules of Criminal Procedure, Rule 41. Search and Seizure.
+
+www.oig.dhs.gov 3 OIG-23-17
+
+search warrant is impracticable, for example when the use of the technology is in furtherance of Secret Service protective duties.5
+
+Policy Directive 047-02 mandates that law enforcement components seeking authorization to use cell-site simulator technology adhere to the Pen Register Statute, 18 U.S.C. § 3121, et seq. The Pen Register Statute prohibits installing or using a pen register6 or a trap and trace device7 without first obtaining a court order (pen register order). The statute permits using CSS without a pen register order in “emergency” situations if, with due diligence, a court order authorizing such use cannot be obtained beforehand. Examples of emergency situations include immediate danger of death or serious bodily injury to any person; conspiratorial activities characteristic of organized crime; an immediate threat to a national security interest; or an ongoing attack on a protected computer (as defined in Section 1030) that constitutes a crime punishable by a term of imprisonment greater than one year.8 In some cases, such as the immediate danger of death or serious injury, an “emergency situation” under the Pen Register Statute will also be an “exigent circumstance” under the CSS policies. In emergency situations, the Pen Register Statute requires application for a court order within 48 hours of installing, or beginning to install, CSS. Such emergency use must immediately terminate when the information sought is obtained, when the application for the order is denied, or within 48 hours have lapsed since the installation of the device, whichever is earlier.9 In emergency situations, the knowing use of a pen register under emergency authorization without applying for a court order within 48 hours is a criminal violation of the Pen Register Statute, pursuant to 18 U.S.C. § 3125(c).10
+
+There are, therefore, two separate and distinct considerations associated with obtaining authorization to use CSS. These considerations are (1) the requirements associated with obtaining search warrants, mandated by Policy Directive 047-02 and (2) court orders mandated by the Pen Register Statute and included in Policy Directive 047-02. When Policy Directive 047-02 permits
+
+5 18 U.S.C. § 3056; 18 U.S.C. § 3056A. 6 As defined by the Pen Register Statute, a pen register is a device or process “which records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication . . .” 18 U.S.C § 3127(3). 7 As defined by the Pen Register Statute, the term “trap and trace device” is a “device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication.” 18 U.S.C § 3127(4). 8 See Appendix D, 18 U.S.C. § 3125(a)(1). 9 See Appendix D, 18 U.S.C. § 3125(a)(2) and (b). 10 See Appendix D, 18 U.S.C. § 3125(c).
+
+www.oig.dhs.gov 4 OIG-23-17
+
+dispensing with the warrant requirements, the Pen Register Statue must still be followed. Under exigent or exceptional circumstances, defined by Policy Directive 047-02, use of a CSS still must comply with the Pen Register Statute, which ordinarily requires judicial authorization prior to using CSS, based on the government certifying that the information sought is relevant to an ongoing criminal investigation. The knowing installation or use of a pen register device without first obtaining a court order under 18 U.S.C. § 3123 is a criminal violation under 18 U.S.C. § 3121(d).
+
+The internal controls and accountability requirements articulated in Policy Directive 047-02 include first-level supervisor approval prior to deploying CSS technology and second-level supervisor approval for “emergency use” of CSS technology. Additionally, all data collected by the CSS technology during an investigation must be deleted upon mission completion.
+
+In 2017, both the Secret Service and ICE HSI developed component-specific CSS policies incorporating the requirements of Policy Directive 047-02.11 Given the Secret Service and ICE HSI policies largely mirror Policy Directive 047-02, unless otherwise cited, we refer to the three policies collectively as “CSS policies.”
+
+E-Government Act of 2002 and DHS Privacy Policies
+
+In addition to the Pen Register Statute, CSS technology is governed by requirements set forth in the E-Government Act of 2002.12 Congress passed the E-Government Act of 2002, among other reasons, to ensure sufficient protections for the privacy of personal information. Under Section 208 of the E-Government Act of 2002, agencies are required to conduct a privacy impact assessment (PIA) before developing or procuring information technology (IT) that collects, maintains, or disseminates information in an identifiable form.13
+
+The DHS Privacy Office (DHS Privacy) has issued policies that provide guidance for preparing a PIA. A PIA describes what information an agency is collecting and why the information is collected; how the information will be used, stored,
+
+11 Secret Service Mobile Wireless Investigations Cell-Site Simulator Manual, January 10, 2017; and ICE HSI Use of Cell-Site Simulator Technology, August 31, 2017. 12 Public Law 107–347. 13 Office of Management and Budget, M-03-22, OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002, defines information in identifiable form as “information in an IT system or online collection: (i) that directly identifies an individual (e.g., name, address, social security number or other identifying number or code, telephone number, email address, etc.) or (ii) by which an agency intends to identify specific individuals in conjunction with other data elements, i.e., indirect identification. (These data elements may include a combination of gender, race, birth date, geographic indicator, and other descriptors).”
+
+www.oig.dhs.gov 5 OIG-23-17
+
+and shared; how the information may be accessed; how the information will be protected from unauthorized use or disclosure; and how long it will be retained. A PIA also provides an analysis of the privacy considerations posed and the steps an agency has taken to mitigate any impact on privacy. DHS Privacy requires, reviews, and approves PIAs on technologies, rulemakings, programs, and activities, regardless of their type or classification, to ensure that privacy considerations and protections are incorporated into all activities of the Department under Section 208 of the E-Government Act of 2002, the Homeland Security Act of 2002, and other statutes, as applicable.
+
+DHS Privacy’s Privacy Policy and Compliance instruction and included references14 (DHS privacy policies) apply throughout DHS regarding the collection, use, maintenance, disclosure, deletion, and destruction of personally identifiable information (PII)15 and any other activity that impacts the privacy of individuals as determined by the DHS Chief Privacy Officer. DHS privacy policies describe the policies, procedures, and responsibilities to ensure PII is protected from unauthorized use or disclosure, including completion of the privacy threshold analysis (PTA) and PIA process, when required.
+
+DHS Privacy developed the PTA form to help identify when an IT system, technology, rulemaking, program, or pilot project involves PII and to determine whether additional privacy compliance documentation is necessary. A PTA includes a general description of the IT system, technology, rulemaking, program, pilot project, or other Department activity and describes what PII is collected (and from whom) and how that information is used. In completed PTAs, DHS Privacy generally indicates whether the technology is privacy sensitive, whether an existing PIA is sufficient, or a new PIA is required.
+
+Results of Audit
+
+The Secret Service and ICE HSI did not always adhere to Federal statute and CSS policies when using CSS during investigations involving exigent circumstances. Separately, ICE HSI did not adhere to Department privacy policies and the applicable Federal privacy statute when using CSS. For the cases we reviewed, the Secret Service and ICE HSI obtained required search warrants for CSS uses, respectively. However, the Secret Service and ICE HSI did not always obtain court orders as mandated by the Pen Register Statute when using CSS during investigations that included
+
+14 Privacy Policy and Compliance, Department of Homeland Security, DHS Directives System Instruction Number: 047-01-001, Revision Number: 00 Issue Date: 07/25/2011. 15 DHS Privacy Office defines PII as any information that permits the identity of an individual to be directly or indirectly inferred, including other information that is linked or linkable to an individual.
+
+www.oig.dhs.gov 6 OIG-23-17
+
+exigent circumstances.
+
+This occurred for two reasons. First, CSS policies do not include sufficiently detailed guidance on working with external law enforcement agencies. Second, the Secret Service and ICE HSI did not correctly interpret CSS policies (reflecting Pen Register Statue requirements) that require pen register orders before using CSS or, in emergency situations, applying for court orders within 48 hours of installing, or beginning to install, CSS. Additionally, ICE HSI did not adhere to DHS’ privacy policy and the E-Government Act of 2002 that require CSS, as a privacy sensitive technology, to have an approved PIA before its use. According to ICE officials, resource limitations and changes in personnel resulted in a lengthy review and clearance process for a PIA. Although DHS approved an ICE HSI CSS-related PIA in January 2022, prior to this, without a PIA, DHS may not have identified and mitigated the privacy risks associated with CSS use.
+
+Secret Service and ICE HSI Did Not Always Adhere to the Pen Register Statute and CSS Policies
+
+The Secret Service and ICE HSI did not always adhere to the Pen Register Statute incorporated into CSS policies. CSS policies establish requirements to ensure CSS use is consistent with the requirements and protections of the Constitution, including the Fourth Amendment, and applicable statutory authorities, including the Pen Register Statute. However, based on our review of the Secret Service and ICE HSI investigations employing CSS in fiscal years 2020 and 2021, we determined that in exigent circumstances, the Secret Service and ICE HSI did not always obtain pen register court orders pursuant to the Pen Register Statute as incorporated into CSS policies. Finally, the Secret Service and ICE HSI did not always document CSS supervisory approval and data deletion to support compliance with CSS policies that require supervisory approval before CSS use and data deletion upon mission completion.
+
+Secret Service and ICE HSI Did Not Always Obtain Court Orders When Using CSS in Exigent Circumstances
+
+Under normal circumstances,16 CSS policies require the Secret Service and ICE HSI to obtain a search warrant supported by probable cause prior to using CSS. Secret Service and ICE HSI can either obtain a warrant that includes all information required for a pen register order pursuant to the Pen Register
+
+www.oig.dhs.gov 7 OIG-23-17
+
+Statute (or state equivalent)17 or seek a warrant and pen register order concurrently. Under exigent circumstances or emergency situations, Secret Service and ICE HSI must still obtain a court order pursuant to CSS policy incorporating the Pen Register Statute, even when no warrant was obtained.18 Specifically, during exigent circumstances CSS policies require that the Secret Service19 and ICE HSI obtain a court order pursuant to the Pen Register Statute, which ordinarily requires judicial authorization before use of the CSS.20 CSS may be used in an “emergency situation” as defined in the Pen Register Statute21 if, with due diligence, a court order authorizing such use cannot be obtained beforehand. In some cases, an “emergency situation” under the Pen Register Statute will also be an “exigent circumstance” under the CSS policies, for example when there is an immediate danger of death or serious injury. In emergency situations, the Pen Register Statute22 and CSS policies require the Secret Service and ICE HSI apply for court orders within 48 hours of installing or beginning to install CSS.23
+
+Secret Service CSS Use
+
+We reviewed Secret Service investigations from FYs 2020 through 2021, in which a CSS was used. We determined that investigations used CSS under normal circumstances for which the Secret Service obtained the required search warrant and complied with CSS policies. However, the Secret Service did not obtain pen register court orders for investigations using CSS under exigent circumstances, as required by policy and statute. For these
+
+investigations, the Secret Service’s investigative records defined the CSS use as “emergency/exigent.” The investigative records for investigations further defined exigent circumstances as the legal authority for using a CSS. In investigations, the Secret Service did not provide additional records clarifying the legal authority for using CSS, but according to the Secret Service, the CSS was used for exigent circumstances.
+
+17 See Appendix D, 18 U.S.C. § 3123. 18 Generally, a court will issue an order authorizing the installation and use of a pen register device if the court finds that the attorney for the Government, state law enforcement, or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation. 19 Secret Service’s CSS policy does not explicitly reference 18 U.S.C. § 3121 but does indicate that the use of CSS under exigent circumstances must comply with the Pen Register Statute, which requires a court order before using CSS unless “emergency circumstances” exist. 20 See Appendix C, Policy Directive 047-02, page 4, Legal Process & Court Orders. 21 18 USC § 3125(a)(1). 22 See Appendix D, 18 U.S.C. § 3125 (a)(2). 23 See Appendix C, Policy Directive 047-02, page 4, Legal Process & Court Orders, Exigent Circumstances under the Fourth Amendment.
+
+www.oig.dhs.gov 8 OIG-23-17
+
+Of the exigent uses of CSS without warrant or court order, were conducted by a field office in support of a local law enforcement agency. In these instances, the Secret Service explained that, according to the county prosecutor’s office, the county judges did not understand why the prosecutor’s office sought to file an “emergency pen trap order” and believed it to be unnecessary. Therefore, moving forward, the county prosecutor’s office decided it “would not file” emergency pen trap orders following exigent missions. Although Secret Service explained that the prosecutor’s office sought to file an “emergency pen trap order” for these investigations, its investigative records did not indicate that the exigent circumstances were also emergencies as defined by the Pen Register Statute and included in CSS policies.
+
+The Pen Register Statute permits CSS use before obtaining a court order if, with due diligence, a court order authorizing such use cannot be obtained beforehand. The “emergency situation” must involve immediate danger of death or serious bodily injury to any person; conspiratorial activities characteristic of organized crime; an immediate threat to a national security interest; or an ongoing attack on a protected computer (as defined in 18 U.S.C. § 1030) that constitutes a crime punishable by a term of imprisonment greater than one year. If those conditions are met, the Pen Register Statute requires application for a court order within 48 hours of installing, or beginning to install, CSS. Yet, the Secret Service did not apply for court orders in these investigations. Since our review, the Secret Service has worked with the county prosecutor to develop a CSS application template for future use to ensure compliance with the Pen Register Statute as incorporated into CSS policies.
+
+In examples of exigent use of a CSS, the Secret Service used CSS to support its own operations.
+
+According to the Secret Service, the United States Attorney’s Office indicated it would not file the emergency pen trap order because the mission involved Secret Service property, was conducted with the Secret Service’s consent, and the Secret Service received no data from the carrier. The Secret Service indicated that the CSS use was under exigent circumstances, which, per CSS policies, dispenses with the warrant requirement. However, even if the Secret Service considered this to be an emergency situation as defined in the Pen Register Statute, if a court order cannot be obtained before use, the Pen Register Statute requires that the order issue within 48 hours of installing, or beginning to install, the device. The Secret Service did not obtain or apply for a court order for this investigation.
+
+www.oig.dhs.gov 9 OIG-23-17
+
+ICE HSI CSS Use
+
+We reviewed ICE HSI investigations from FYs 2020 through 2021, in which a CSS was used. We determined that ICE HSI obtained required search warrants for investigations using CSS. Specifically, investigations used CSS under normal circumstances for which ICE HSI obtained the required search warrant. ICE HSI records indicated that investigations with CSS deployments were for exigent circumstances in support of other Federal or local law enforcement. For investigations, ICE HSI obtained search warrants authorizing CSS use. In the other , ICE HSI did not obtain warrants and was unable to provide evidence it applied for or obtained pen register court orders.
+
+If these were “emergency situations” and ICE HSI could not obtain a court order prior to using CSS, ICE HSI should have applied for court orders within 48 hours of installing, or beginning to install, CSS, as required by CSS policies reflecting Pen Register Statute requirements. Yet, ICE HSI did not apply for court orders in these investigations.24
+
+Table 1 summarizes the number of Secret Service and ICE HSI investigations using CSS and number of investigations with and without warrants, court orders, or applications for court orders for deployments in FYs 2020 and 2021.
+
+www.oig.dhs.gov 10 OIG-23-17
+
+Table 1. Secret Service and ICE HSI Investigations Using a CSS With or Without Associated Warrants, Court Orders, or Applications for Court Orders FYs 2020 and 2021
+
+Component Secret Service ICE HSI Total Investigations Using CSS Investigations Using CSS Under Normal Circumstances
+
+CSS Use with Warrants, Court Orders, or Applications for Orders Within 24 Hours
+
+Investigations with warrant authorizing CSS use Investigations without warrant authorizing CSS use Investigations Using CSS Under Exigent Circumstances
+
+Investigations with warrant or court order authorizing CSS use Investigations without court order authorizing CSS use Total Investigations Using CSS Without a Warrant, Court Order, or Application for Court Order
+
+CSS used to support component CSS used to support other Federal, state, or local law enforcement Source: DHS OIG analysis of Secret Service and ICE HSI investigative records
+
+CSS Policies are Missing Guidance and Secret Service and ICE HSI Incorrectly Interpreted the CSS Policies, as well as the Pen Register Statute
+
+The Secret Service and ICE HSI did not always obtain court orders for two reasons. First, CSS policies mandate that all applicable requirements, namely obtaining court orders, apply to all instances of CSS use — whether in support of component or external law enforcement investigations. However, the policies do not provide sufficiently detailed guidance for how to comply with requirements when other entities, such as local law enforcement, are responsible for obtaining the required CSS judicial authorizations. According to Secret Service and ICE HSI officials, when providing CSS support to other agencies, they rely on other Federal, state, and local law enforcement agencies to obtain required court authorizations.
+
+Second, the Secret Service and ICE HSI did not correctly interpret the terms of, or meet requirements, in CSS policies, which reflect the Pen Register Statute’s mandate. Specifically, the Secret Service and ICE HSI investigative records provided did not distinguish between “exigent circumstance” and “emergency situations” as necessary to show compliance with CSS policies reflecting the Pen Register Statute’s requirements. Identifying whether “exigent circumstances” and “emergency situations” exist are two distinct fact-specific decisions, which must be evaluated to determine the necessary legal process to authorize the use of the CSS. During “exigent circumstances” CSS policies require that the Secret Service and ICE HSI obtain a court order pursuant to the Pen Register Statute, which ordinarily requires judicial authorization before
+
+www.oig.dhs.gov 11 OIG-23-17
+
+use of CSS. CSS may be used in an “emergency situation” if, with due diligence, a court order authorizing such use cannot be obtained beforehand and the facts meet the definition of “emergency.” In some cases, such as the immediate danger of death or serious injury, an “emergency situation” under the Pen Register Statute will also be an “exigent circumstance” under the CSS policies. If the Secret Service and ICE HSI considered the exigent circumstances equated to emergency situations under CSS policies and the Pen Register Statute, they were required to apply for a pen register order within 48 hours of installing, or beginning to install, CSS but failed to do so.
+
+Additionally, ICE HSI did not believe court authorization was required for CSS uses. ICE HSI noted in that court authorization was not required because the family provided consent and there was no reasonable expectation of privacy.25 In , ICE HSI indicated that due to the exigent nature of , court authorization was not required. Despite ICE HSI’s belief that court authorization was not required for these , ICE HSI should have either obtained a court order before using CSS; or if the exigent circumstance met the definition of an “emergency” under the Pen Register Statute, applied for a court order within 48 hours of installing, or beginning to install, CSS.
+
+Secret Service and ICE HSI Did Not Document CSS Supervisory Approval and Data Deletion
+
+CSS policies also require supervisory approval before CSS use and data deletion upon mission completion. However, in reviewing Secret Service and ICE HSI investigations using CSS we determined that the components did not always have documented support of supervisory approval and data deletion. Documented supervisory approval and data deletion would better ensure compliance with CSS policy and improve monitoring consistent with the U.S. Government Accountability Office’s Standards for Internal Control in the Federal Government, September 2014.
+
+Neither DHS’ nor the Secret Service’s CSS policy requires personnel to document supervisory approval and data deletion. According to the Secret Service, supervisors verbally approved each instance of CSS use and Secret Service’s Mobile Wireless Investigations office sends monthly reminders to CSS operators to ensure data is deleted according to policy. The Secret Service has
+
+25 The only exception to the requirement to obtain a court order under the Pen Register Statute applies to electronic or wire communication service providers who may install or use a Pen Register for purposes such as operations, maintenance, and testing of wire or electronic communication service, or with the consent of the user of that service has been obtained. 18 U.S.C. § 3121(b)(1) and (2).
+
+www.oig.dhs.gov 12 OIG-23-17
+
+taken corrective action to increase accountability by adding fields to its investigative reporting system to ensure evidence of supervisory approval and data deletion are documented.
+
+ICE HSI’s CSS policy states that supervisory approval should be documented if circumstances permit and requires data deletion following each mission. We identified instances in which ICE HSI did not document supervisory approval and instances in which ICE HSI did not document data deletion. ICE HSI addressed the supervisory approval issue with an update to its reporting system to ensure CSS approvals are documented. According to ICE HSI, the data associated with employment of CSS was deleted but the documentation was not completed correctly. ICE HSI indicated it would address the data deletion issue in a future policy update.
+
+ICE HSI Did Not Adhere to Department Privacy Policies and the E-Government Act of 2002 Before Using CSS
+
+ICE HSI did not adhere to DHS privacy policies and the Federal statute that requires CSS, as a privacy sensitive technology, to have an approved PIA before it is used. DHS privacy policies require components acquiring new or substantially changed technology to complete a PTA to determine whether additional compliance documents, such as a PIA, are required to comply with Section 208 of the E-Government Act of 2002.
+
+The first step of the PIA process is to submit a PTA to determine if a system, project, or program is privacy sensitive and currently in compliance with relevant privacy documentation. DHS Privacy approves the PTA, provides the expiration date for the PTA, and indicates whether, among other things, a new or updated PIA is required. DHS Privacy stated that in the event a new or updated PIA is required, components cannot use the technology or system until such a PIA is approved. The PIA should include an overview of the project’s purpose, mission, and justification for operating a privacy sensitive project. It should also include legal authorities for collecting the information, characterization and uses of the information, additional notice requirements and data retention, information sharing, redress and correction actions, and auditing and accountability processes and procedures. Additionally, any privacy risks and mitigation strategies should be identified. Although DHS approved an ICE HSI CSS-related PIA in January 2022, prior to this approval, DHS may not have identified and mitigated the privacy risks associated with CSS use. In addition, individuals were not informed about the collection and use of PII and steps to mitigate privacy risks.
+
+We reviewed ICE HSI’s CSS-related PIAs and determined that, although ICE
+
+www.oig.dhs.gov 13 OIG-23-17
+
+HSI had an approved PTA, it did not have an approved PIA during the FYs 2020 and 2021 investigations using CSS, despite DHS Privacy requiring ICE HSI to submit a new PIA. DHS Privacy approved ICE HSI’s CSS-related PTA on April 3, 2015 and determined that the CSS technology was privacy sensitive and required a new PIA. According to an ICE Office of Information Governance and Privacy official, ICE began drafting the PIA shortly after the PTA was adjudicated. However, resource limitations and changes in personnel resulted in a lengthy review and clearance process. ICE could not provide evidence the new PIA was submitted to DHS Privacy for approval prior to the FYs 2020 and 2021 investigations.
+
+On July 18, 2019, DHS Privacy approved a different ICE HSI CSS-related PTA and determined that, once again, the technology was privacy sensitive and required a new PIA. Thereafter, ICE HSI drafted and submitted a PIA for DHS Privacy review and approval. DHS Privacy approved ICE HSI’s CSS-related PIA on January 24, 2022.
+
+Relatedly, we determined that the Secret Service had an approved CSS-related PIA for the period of relevant investigations covered by our audit.
+
+Recommendations
+
+Recommendation 1: We recommend that the Assistant Director, Office of Investigations, United States Secret Service develop and implement internal controls to ensure compliance with 18 U.S.C. 3121, et seq., Pen Registers and Trap and Trace Devices, particularly when assisting other Federal, state, and local law enforcement agencies.
+
+Recommendation 2: We recommend that the Assistant Director, Office of Investigations, United States Secret Service develop and implement internal controls to ensure cell-site simulator users differentiate between cell-site simulator-policy defined exigent circumstances and 18 U.S.C. 3125-defined emergency situations to comply with 18 U.S.C. 3121, et seq., Pen Registers and Trap and Trace Devices.
+
+Recommendation 3: We recommend that the Assistant Director, Cyber and Operational Technology, U.S. Immigration and Customs Enforcement develop and implement internal controls to ensure compliance with 18 U.S.C. 3121, et seq., Pen Registers and Trap and Trace Devices, particularly when assisting other Federal, state, and local law enforcement agencies.
+
+Recommendation 4: We recommend that the Assistant Director, Cyber and Operational Technology, U.S. Immigration and Customs Enforcement develop
+
+www.oig.dhs.gov 14 OIG-23-17
+
+and implement internal controls to ensure cell-site simulator users differentiate between cell-site simulator policy-defined exigent situations and 18 U.S.C. 3125-defined emergency circumstances to comply with 18 U.S.C. 3121, et seq., Pen Registers and Trap and Trace Devices.
+
+Recommendation 5: We recommend that the Assistant Director, Cyber and Operational Technology, U.S. Immigration and Customs Enforcement develop and implement internal controls to ensure cell-site simulator data deletion is accurately documented in the Incident Case Management system.
+
+Recommendation 6: We recommend that the Assistant Director, Cyber and Operational Technology, U.S. Immigration and Customs Enforcement develop and implement internal controls to ensure privacy compliance documentation is completed and approved before developing or procuring information technology that collects, maintains, or disseminates information in identifiable form.
+
+Management Comments and OIG Analysis
+
+DHS concurred with all six recommendations. Appendix B contains a copy of DHS’ management response in its entirety. We also received technical comments to our draft report, and we revised the report as appropriate. A summary of DHS’ response to each recommendation with our analysis follows.
+
+DHS Response to Recommendation 1: Concur. To ensure compliance with 18 U.S.C. 3121, the Secret Service Office of Investigations has begun implementing internal controls, which will require CSS operators to document the legal process followed when conducting CSS investigations. Once complete, the Secret Service Office of Investigations will communicate these new controls via a training session for all active personnel. Further, the Office of Investigations, in partnership with the Secret Service Office of Chief Counsel, will continue to provide training to current and new operators on statutory and policy requirements, to include when assisting other law enforcement agencies. Current and future CSS operators will also be instructed to articulate these requirements to the Federal, state, local, tribal, and territorial law enforcement agencies that request CSS assistance. Estimated Completion Date (ECD): June 30, 2023.
+
+OIG Analysis of DHS Comments: DHS’ corrective action plan is responsive to the recommendation. This recommendation will remain open and resolved until DHS provides documentation showing the new processes, training, and training rosters.
+
+www.oig.dhs.gov 15 OIG-23-17
+
+DHS Response to Recommendation 2: Concur. The Secret Service Office of Investigations has already begun implementing controls to require operators to distinguish between exigent circumstances (as recognized by the Fourth Amendment of the Constitution) and emergency situations (as recognized by the Pen Register Statute). Specifically, operators will first determine whether a recognized exigency exists, then separately determine if an emergency situation exists, as well. Depending on the operator’s determination, the application will indicate what type of legal process is likely required. Once these internal controls are complete, the Secret Service Office of Investigations will also communicate these updates via a training session for all active personnel, and the updates will be incorporated into all future training courses and procedures. In addition, the Office of Investigations, in partnership with the Office of Chief Counsel, will continue to provide training to current and new operators on statute and policy requirements, to include differentiating between emergency situations and exigent circumstances. ECD: June 30, 2023.
+
+OIG Analysis of DHS Comments: DHS’ corrective action plan is responsive to the recommendation. This recommendation will remain open and resolved until DHS provides documentation showing its updated guidance, training, and training rosters.
+
+DHS Response to Recommendation 3: Concur. To ensure compliance with 18 U.S.C. 3121, ICE HSI will update its CSS policy to clarify the requirements when assisting other Federal, state, local, tribal, and territorial law enforcement agencies. The policy will be updated to include language on complying with requirements when other entities, such as local law enforcement, are responsible for obtaining the required CSS judicial authorizations. ECD: June 30, 2023.
+
+OIG Analysis of DHS Comments: DHS’ corrective action plan is responsive to the recommendation. This recommendation will remain open and resolved until DHS provides documentation showing its updated policy and distribution of the policy to end users.
+
+DHS Response to Recommendation 4: Concur. ICE HSI will update its “Use of Cell-Site Simulator Technology,” policy, dated August 31, 2017, to differentiate between exigent circumstances and emergency situations, including the respective legal processes that must be followed for compliance and use of CSS. Specifically, the policy will clarify that, during an exigent circumstance, ICE will obtain a court order pursuant to 18 U.S.C. 3121. During an emergency situation, with due diligence, if a court order authorizing such use cannot be obtained beforehand and the facts meet the definition of
+
+www.oig.dhs.gov 16 OIG-23-17
+
+“emergency;” then, a Pen Register order will be obtained within 48 hours of installation or beginning of install. ECD: June 30, 2023.
+
+OIG Analysis of DHS Comments: DHS’ corrective action plan is responsive to the recommendation. This recommendation will remain open and resolved until DHS provides documentation showing its updated policy and distribution of the policy to end users.
+
+DHS Response to Recommendation 5: Concur. As the OIG noted in the draft report, ICE HSI has addressed the supervisory approval requirement during the course of the audit with an update to its reporting system to ensure CSS approvals are properly documented. However, HSI will also revise its policy to add language ensuring CSS data deletion is accurately documented in its case management system. The policy update will also remind, and guide, users through this policy requirement. ECD: June 30, 2023.
+
+OIG Analysis of DHS Comments: DHS’ corrective action plan is responsive to the recommendation. This recommendation will remain open and resolved until DHS provides documentation showing its updated policy and distribution of the policy to end users.
+
+DHS Response to Recommendation 6: Concur. DHS Privacy Office approved the ICE HSI Surveillance Technologies PIA on January 24, 2022. If ICE HSI seeks to use any technology outlined in this PIA for a new purpose, it will confer with the ICE Office of the Principal Legal Advisor for legal advice and guidance to ensure adherence to Federal statutes. If the technologies are updated or further developed for any purposes not contemplated by the ICE CSS PIA, then HSI will coordinate with the DHS and ICE Privacy Offices to update the PIA, as appropriate. We request that the OIG consider this recommendation resolved and closed, as implemented.
+
+OIG Analysis of DHS Comments: DHS’ actions are partially responsive to this recommendation, which we consider unresolved and open. Although ICE HSI is ensuring required CSS privacy documentation is current, ICE HSI used the CSS for several years without an approved PIA. Additionally, ICE HSI needs internal controls to ensure privacy compliance documentation is completed and approved before developing or procuring any technology that collects, maintains, or disseminates information in identifiable form, not just for CSS. This recommendation will remain open and unresolved until DHS provides a plan to address the recommendation and evidence showing controls are in place to meet privacy requirements.
+
+www.oig.dhs.gov 17 OIG-23-17
+
+Appendix A Objective, Scope, and Methodology
+
+The Department of Homeland Security Office of Inspector General was established by the Homeland Security Act of 2002 3XEOLF/DZï  E\ amendment to the Inspector General Act of 1978.
+
+Our original audit objective was to determine whether DHS and its components have developed, updated, and adhered to policies related to the use of cell­ phone surveillance devices and commercial location-sharing databases. Our objective referenced two separate technologies: cell phone surveillance devices and commercial location-sharing databases. We have decided to report our audit results separately based on the type of technology. For this report, we sought to determine whether DHS and its components have developed, updated, and adhered to policies related to the use of CSS. DHS and component development, updates, and adherence to policies for the use of commercial telemetry data will be reported separately.
+
+The scope of this audit included investigations using CSS devices during FYs 2020 and 2021. To accomplish our objective, we surveyed 22 DHS headquarters offices and components and reviewed CSS procurement documents. Based on our survey, we determined that only the Secret Service and ICE HSI used CSS within our scope period.
+
+We evaluated relevant Federal laws, as well as DHS guidance, policies, and procedures related to its CSS programs, privacy requirements, and legal analysis. Specifically, we reviewed:
+
+x 18 U.S.C. Ch. 206: Pen Registers and Trap and Trace Devices x E-Government Act of 2002, Section 208 x U.S. Government Accountability Office, Standards for Internal Control in
+
+the Federal Government, September 2014 x Department Policy Regarding the Use of Cell-Site Simulator Technology,
+
+Policy Directive 047-02, October 19, 2015 x DHS Privacy Office, Privacy Policy Guidance Memorandum, Memorandum
+
+Number: 2008-02, December 30, 2008 x Privacy Policy and Compliance, Department of Homeland Security, DHS
+
+Directives System Instruction Number: 047-01-001, Revision Number: 00 Issue Date: 07/25/2011 x DHS Privacy Impact Assessments, The Privacy Office Official Guidance, June 2010 x ICE Use of Cell-Site Simulator Technology, August 31, 2017
+
+www.oig.dhs.gov 18 OIG-23-17
+
+x
+
+Secret Service Mobile Wireless Investigations Cell-Site Simulator Manual, January 10, 2017
+
+Due to COVID-19-related travel restrictions, we were limited to three site visits for CSS demonstrations to observe the capabilities and limitations of the devices. We visited ICE locations in Maryland and Virginia and a Secret Service location in Maryland. Although travel was limited, we were able to accomplish our objective through review of CSS investigation case files, interviewing Secret Service and ICE officials, and corroborating evidence to support our findings.
+
+We worked with the DHS OIG Office of Counsel, DHS Office of the General Counsel, Department of Justice, and DHS and component officials to verify our interpretation of the Pen Register Statute and CSS policy.
+
+To understand how DHS and components used the CSS and adhered to Federal laws and DHS policy, we interviewed officials from DHS Offices of Strategy, Policy, and Plans; Privacy; Civil Rights and Civil Liberties; Chief Security Officer; and General Counsel. We also interviewed officials from the following operational components: Secret Service Criminal Investigative Division and Office of Intergovernmental and Legislative Affairs; and ICE Homeland Security Investigations Cyber and Operational Technology and Office of Information Governance and Privacy.
+
+We selected a sample of Secret Service’s and ICE HSI’s CSS investigations to assess their compliance with laws and regulations. We requested closed cases to avoid interfering with ongoing investigations. Secret Service’s investigative records differentiate between CSS use to support Secret Service operations and when Secret Service provides CSS support to other Federal, state, or local law enforcement. When providing CSS support to other Federal, state, or local law enforcement, Secret Service’s investigative records generally indicate when the CSS support mission is complete; however, the Federal, state, or local law enforcement investigation may be ongoing. Each Secret Service case file contained a single investigative record. Of the Secret Service CSS operations, we selected a non-generalizable sample of investigative records to avoid potentially ongoing investigations. of the case files selected were misclassified and did not involve deployment of the CSS, therefore the analysis considered investigative cases. of the CSS uses were identified as being used to support Secret Service operations; however, the CSS were used to support other Federal, state, and local law enforcement. Secret Service did not indicate that the cases were open or active and provided the requested records.
+
+www.oig.dhs.gov 19 OIG-23-17
+
+Of the ICE HSI CSS case files, we selected a non-generalizable sample of cases. ICE HSI field offices used different methods for documenting investigations using a CSS in its case files. Some field offices used a single case file to document each investigation. Other field offices used a single case file to document multiple investigations using a CSS. Although ICE HSI case files did not differentiate between ICE HSI operations and ICE HSI CSS support of other Federal, state, or local law enforcement, they did indicate if the cases were closed. The ICE HSI case files selected for review consisted of investigations using a CSS. We compared the investigative documentation to the Pen Register Statute and CSS policy requirements to determine if:
+
+x warrants or court orders were obtained or applied for, as appropriate; x warrants or the associated applications and supporting affidavits
+
+contained recommended disclosures; x supervisory approval was obtained prior to CSS use; x required training was completed by CSS users; and x components maintained a record for data deletion.
+
+In addition, to ensure compliance with Federal and DHS privacy requirements for privacy sensitive technology such as the CSS devices, we analyzed the requirements and applied them to approved Secret Service and ICE HSI privacy documents.
+
+In planning and performing our audit, we identified the internal control components and underlying internal control principles significant to our audit objective. Specifically, we assessed the design, implementation, and operating effectiveness of the following controls related to Secret Service and ICE HSI CSS operations: the control environment, risk assessment, control activities, and monitoring. We identified internal control deficiencies that could affect Secret Service and ICE HSI compliance with Federal laws and CSS policies.
+
+We assessed the reliability of the information we received pertaining to the Secret Service and ICE HSI CSS use. Specifically, we:
+
+x observed demonstrations of the CSS device by the Secret Service and ICE HSI, as well as a demonstration of ICE’s case management system; x analyzed the CSS investigation case files including reports of investigations and warrant and court order documents; x conducted multiple interviews and communicated with the components to ensure we had adequate information to clarify and corroborate the evidence; and
+
+www.oig.dhs.gov 20 OIG-23-17
+
+x
+
+verified analysis with the component officials to ensure our findings were accurate.
+
+We referred CSS use without a warrant or court order that did not comply with the Pen Register Statute to our Office of Investigations. Based on the procedures performed, we determined the data was sufficiently reliable for purposes of the audit.
+
+We conducted this performance audit between December 2020 and June 2022 pursuant to the Inspector General Act of 1978, as amended, and according to generally accepted government auditing standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions based upon our audit objectives. We believe that the evidence obtained provides a reasonable basis for our findings and conclusions based upon our audit objectives.
+
+www.oig.dhs.gov 21 OIG-23-17
+
+Appendix B Component Comments to the Draft Report
+
+www.oig.dhs.gov 22 OIG-23-17
+
+www.oig.dhs.gov 23 OIG-23-17
+
+www.oig.dhs.gov 24 OIG-23-17
+
+www.oig.dhs.gov 25 OIG-23-17
+
+www.oig.dhs.gov 26 OIG-23-17
+
+Appendix C Department Policy Regarding the Use of Cell-Site Simulator Technology, Policy Directive 047-02, October 19, 2015
+
+www.oig.dhs.gov 27 OIG-23-17
+
+www.oig.dhs.gov 28 OIG-23-17
+
+www.oig.dhs.gov 29 OIG-23-17
+
+www.oig.dhs.gov 30 OIG-23-17
+
+www.oig.dhs.gov 31 OIG-23-17
+
+www.oig.dhs.gov 32 OIG-23-17
+
+www.oig.dhs.gov 33 OIG-23-17
+
+www.oig.dhs.gov 34 OIG-23-17
+
+www.oig.dhs.gov 35 OIG-23-17
+
+Appendix D 18 U.S.C. Chapter 206: Pen Registers and Trap and Trace Devices
+
+www.oig.dhs.gov 36 OIG-23-17
+
+www.oig.dhs.gov 37 OIG-23-17
+
+www.oig.dhs.gov 38 OIG-23-17
+
+www.oig.dhs.gov 39 OIG-23-17
+
+www.oig.dhs.gov 40 OIG-23-17
+
+www.oig.dhs.gov 41 OIG-23-17
+
+www.oig.dhs.gov 42 OIG-23-17
+
+www.oig.dhs.gov 43 OIG-23-17
+
+Appendix E Report Distribution
+
+Secretary Deputy Secretary Chief of Staff Deputy Chiefs of Staff General Counsel Executive Secretary Director, GAO/OIG Liaison Office Under Secretary, Office of Strategy, Policy, and Plans Assistant Secretary for Office of Public Affairs Assistant Secretary for Office of Legislative Affairs Director, United States Secret Service Assistant Director, Office of Investigations, United States Secret Service Director, U.S. Immigration and Customs Enforcement Assistant Director, Cyber and Operational Technology, U.S. Immigration and Customs Enforcement United States Secret Service Audit Liaison U.S. Immigration and Customs Enforcement Audit Liaison
+
+Office of Management and Budget
+
+Chief, Homeland Security Branch DHS OIG Budget Examiner
+
+Congress
+
+Congressional Oversight and Appropriations Committees
+
+www.oig.dhs.gov 44 OIG-23-17
+
+ADDITIONAL INFORMATION AND COPIES
+
+To view this and any of our other reports, please visit our website at: www.oig.dhs.gov.
+
+For further information or questions, please contact Office of Inspector General Public Affairs at: DHS-OIG.OfficePublicAffairs@oig.dhs.gov. Follow us on Twitter at: @dhsoig.
+
+OIG HOTLINE
+
+To report fraud, waste, or abuse, visit our website at www.oig.dhs.gov and click on the red "Hotline" ER[. If you cannot access our website, call our hotline at (800)323-8603, Rr write to us at:
+
+Department of Homeland Security Office of Inspector General, Mail Stop 0305 Attention: Hotline 245 Murray Drive, SW Washington, DC 20528-0305
+
+LAW ENFORCEMENTSENSITIVE

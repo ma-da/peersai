@@ -1,0 +1,2303 @@
+no_title
+
+WHO-convened Global Study of Origins of SARS-CoV-2:
+
+China Part
+
+Joint WHO-China Study
+
+14 January-10 February 2021
+
+Joint Report - ANNEXES
+
+Contents
+
+ANNEX A: Background documents ....................................................................................................... 3
+
+Annex A1 - Joint WHO-China study on origins of SARS-CoV-2: China Part - Workplan for the working groups (relating to the ToRs) .......................................................................................... 3
+
+Annex A2 - Schedule of work .......................................................................................................... 18
+
+ANNEX B: Team members .................................................................................................................. 25
+
+Chinese team members ..................................................................................................................... 25
+
+International experts, observers and WHO team members .............................................................. 27
+
+ANNEX C: Presentations to the joint international team in January 2021 ........................................... 29
+
+Annex C1 - A Global Knowledge Hub for SARS-CoV-2: 2019nCoVR (Dr Song Shuhui) ............ 29
+
+Annex C2 - SARS-CoV-2 in Dutch mink farms (Prof Marion Koopmans) ..................................... 45
+
+Annex C3 – Analysis of geographic hotspots of viral disease emergence (Dr Peter Daszak) ......... 57
+
+Annex C4 - Progress in tracing and monitoring of SARS-CoV-2 in domestic animals (Drs. Ni Jianqiang, Li Dong, Wang Chuanbin& Xin Shengpeng) ................................................................. 72
+
+Annex C5 – Basic Information on the Hubei Provincial CDC laboratory (Dr Huo Xixiang) .......... 84
+
+Annex C6 - Surveillance of SARS-CoV-2 in wild animals (Dr He Hongxuan) .............................. 93
+
+Annex C7 - The infection risk in cats, dogs and pigs to SARS-CoV-2 (Dr Jin Meilin) ................. 105
+
+ANNEX D: reports on site visits ........................................................................................................ 116
+
+Annex D1 - Xinhua Hospital .......................................................................................................... 116
+
+Annex D3 - Baishazhou Market ..................................................................................................... 120
+
+Annex D4 - The Huanan Seafood Wholesale Market .................................................................... 122
+
+Annex D5 - Hubei CDC and Wuhan CDC ..................................................................................... 124
+
+Annex D6 - Hubei Animal CDC .................................................................................................... 128
+
+Annex D7 - Wuhan Institute of Virology ....................................................................................... 130
+
+Annex D8 - Jianxinyuan Community Centre ................................................................................. 134
+
+ANNEX E: EPIDEMIOLOGY WORKING GROUP ........................................................................ 136
+
+Annex E1 - ILI surveillance supplementary data ........................................................................... 136
+
+Annex E2 - A report on early cases ................................................................................................ 142
+
+Annex E3 - Case definitions: evolution over time .......................................................................... 161
+
+Annex E4- Analysis of market-related cases and the cluster outbreak in the Huanan Market ....... 174
+
+ANNEX F: Animal and environment ................................................................................................. 186
+
+ANNEX A: Background documents
+
+Annex A1 - Joint WHO-China study on origins of SARS-CoV-2: China Part -
+
+Workplan for the working groups (relating to the ToRs)
+
+Section I: Workplan specific outlines
+
+A: Cross-cutting workplan
+
+A1: General overview
+
+A1.1: Outline of work process
+
+The proposed work will be done by a combination of meetings and discussions in working groups, and plenary meetings. The composition of the working groups may change depending on the need for specific input.
+
+The three working groups are:
+
+• Working group 1: Epidemiology • Working group 2: Animal and environmental • Working group 3: Molecular epidemiology and bioinformatics
+
+The starting point across working groups will be an in-depth review of the initial cluster of cases in Wuhan, and all associated studies, sampling, data analysis, as specified below. Working group-specific discussions will focus on methodological aspects of the initial cluster analysis, and on the list of defined retrospective studies for which the China team has provided updates. All work will be regularly reviewed in plenary meetings to discuss findings, provide input for conclusions, and identify potential synergies. All outputs will be reviewed and endorsed by the entire team for integration in the joint study report.
+
+A1.2: Planned output for the first study
+
+The working groups will compile a synthesis of all data and analyses as input for the joint evidence synthesis report describing the current knowledge on the early stages of the COVID-19 pandemic, starting from the initial observations of the Wuhan cluster that lead to the identification of SARS-CoV-2. This will include a discussion of methodological aspects specific to epidemiological approaches, molecular epidemiological analyses, and analyses of the role of animals in the emergence of the virus and the environmental and animal surveillance systems. The workplans will include an inventory of all available sources of information, a scientific quality assessment and systematic review of the existing data, a discussion of methodological aspects specific to the epidemiological analyses, a review of key hypotheses for the early chain of events, and identification of knowledge gaps and proposed future studies for these.
+
+A1.3: Detailed workplan for the Phase 1 studies
+
+A1.3.1: Prepare for systematic review of the data for this work-package, by customizing the generic template for assessment of data quality based on PRISMA or related criteria
+
+Output: template details for review for each workplan
+
+Timeline: Wednesday 20-1-2021
+
+Overall aim: to provide a systematic way to scientifically assess all available evidence from published and unpublished reports and studies
+
+A1.3.2: Detailed reconstruction of current knowledge starting with the initial cluster of cases, starting at the earliest recognized cases, and including the study related to the Huanan market cluster
+
+Output: Input for the joint study report
+
+Timeline: First draft by Monday 01-02-2021
+
+Overall Aim: To collect and analyse all possible sources of information as well as data from observational and analytical studies that can be used to create a detailed map of the events involving the first reported COVID-19 cases in Wuhan (identified before and in December 2019), and anywhere else if necessary, in order to:
+
+1. Understand the epidemiology of the earliest human cases and associated potential risk factors for
+
+infection
+
+2. Understand the potential role of the Huanan market/spillover event at the market
+
+3. Explore possible sources and transmission modes that may have led to the introduction and
+
+amplification of SARS-CoV-2 in humans
+
+4. To provide demographic, epidemiological, trade and ecological background data that may help to
+
+inform the choice of follow-up studies
+
+5. Answer overall questions for first study:
+
+a. What is the current state of knowledge on the initial notified outbreak based on published
+
+literature (including reports, pre-prints and Chinese language articles)? b. What information is available on the earliest human cases (including interviews in
+
+December 2019 (e.g. list of all variables available)? c. What unpublished data are available (e.g. data from completed/preliminary data from
+
+ongoing studies)?
+
+6. Review of the above in light of possible hypotheses for disease emergence
+
+7. Description of follow-up plans and timelines.
+
+Methods:
+
+1. Prepare a detailed timeline (including information on epidemiological and laboratory data
+
+available) of the initial cases and events until 31 December 2019.
+
+2. Specify case definitions, laboratory methods, etc. and indicate changes therein in the course of the
+
+initial studies.
+
+3. Overview of currently published and unpublished reports. This includes clinical, epidemiological,
+
+virological, immunological, and imaging data, and data from additional surveys including animals and environmental (including sewage) swabs.
+
+4. Review of raw interview data from early cases associated with Huanan market, and those with no
+
+relation to market.
+
+5. Review of the Analytical Epidemiology Study agreed during the previous China-WHO study1.
+
+6. Detailed discussion in the individual working groups on specific parts of the work, as described in
+
+the specific workplans below.
+
+Output:
+
+1. Background literature reviews for the joint study report
+
+2. Detailed timeline (including information on epi and lab data available) of the early cases and
+
+events
+
+3. Summary of phase 1 studies, description of data and results of interim analyses
+
+4. Evaluation of the above in light of possible hypotheses for disease emergence
+
+5. Suggestions for next phase
+
+A1.3.3: Detailed review of retrospective studies, and design of additional studies based on in depth inventory of potential sources of information, related to the different hypotheses generated throughout the work
+
+Output: input for the joint study report
+
+Timeline: first draft by Monday 01-02-2021
+
+Overall aim: To review and develop retrospective studies capturing available data on human illness, animal, food products, cold chain and the environment among others, from December 2018 to December 2019 and, where relevant, control periods from previous years in order to investigate all possible sources of the origin of SARS-CoV-2.
+
+Topics to address (details in the individual workplans per working group):
+
+1. Review of primary data from the (ongoing) outbreak studies
+
+2. Mapping the supply chains for all relevant animals and products
+
+3. Retrospective studies
+
+a. Review of hospital data b. Review of respiratory disease surveillance/animal health surveillance c. Review of trends in mortality d. Serological studies e. Surveillance studies in animals and food products f. Surveillance studies involving environmental sampling (e.g. avian influenza program) g. Other studies and approaches, as appropriate
+
+Initial assessment of background information needs:
+
+1. The workplan specific background is given in the working group specific work plans however, a
+
+number of general and cross cutting information of interest to the work of the three working groups should be collected. These include:
+
+a. How is the healthcare and public health system organised in the region? What types of
+
+data and statistics are available that could provide information about disease trends in the region and its administrative entities (e.g. districts/communes?) and communities (e.g. urban and rural)? Which selected hospitals would cover severe illness observed in those populations?
+
+b. What genomes are available publicly? What data are available in the various national or
+
+regional databases? What is the list of metadata available from the collected genomes? Who is doing molecular epidemiology studies? Is sequencing capacity available in the China CDC system? The animal health system? If in academia: how is data governance arranged? c. What are the data storage and sequencing agreements? What is the metadata standard?
+
+(methods used, software used, metadata collected and stored). Is there an agreement with the agricultural side? d. For the priority studies identified in the epidemiology and animal and environmental
+
+working groups: what types of data and sample collections are available (for instance from other surveillance programs) that could be included for sequencing? e. What is the role of the agricultural and environmental sectors in surveillance of diseases
+
+linked to wildlife; what do we know about wildlife and farmed wildlife value chains? f. What other relevant studies in the world are ongoing that may provide data to inform this
+
+part of the work?
+
+A2: Specific locations to visit and individuals to interview
+
+During the first week of joint work, the detailed plans on locations to visit and individuals to interview will be finalised.
+
+A3: Final outputs
+
+The joint study report will include the following points:
+
+1. Background (literature reviews)
+
+2. Study methods (process, components, objectives)
+
+3. Study results (major findings, major conclusions, analyses of available data etc.)
+
+4. Generate and discuss virus emergence pathways
+
+5. Suggestions for next steps
+
+Section II: Workplan specific outlines
+
+B: Epidemiology working group
+
+Output: input for the joint study report Timeline: first draft by Monday 01-02-2021
+
+Colour-code for in yellow has been added indicating that the task is not considered urgent.
+
+B1: Detailed reconstruction of current knowledge starting with the initial cluster of cases, starting at the earliest cases (prior to 31 December 2019), and including the study related to the Huanan market cluster
+
+Discuss, analyse and review working group specific aspects of the cross-working group study of the initial cluster.
+
+B2: Review of primary data from the (ongoing) joint outbreak studies
+
+In-depth interviews and reviews of currently and jointly agreed identified early cases, suspected cases and potential earlier cases (prior to December 2019) identified through the above-described studies regarding to their exposure history. All potential exposure factors will be considered, including place of residence, travel history, occupational (including healthcare workers) exposure, market exposure, animal contact, consumption of raw/exotic animal meat/products (milk)/medicine with raw ingredients, intake and/or handling of wild/exotic animal meat at restaurants or at home, characteristics of their social contacts at the time and others.
+
+B3: Retrospective studies
+
+Thorough review of existing data from surveillance systems, records of healthcare facilities, community clinics, sickness absenteeism data registries etc. looking for cases compatible with even mild COVID-19 from 1 October 2019 to 10 December 2019.
+
+B3.1: Hospital focus based on the above selection:
+
+In-depth reviews of hospital records for cases compatible with COVID-19 before December 2019. This will focus on Wuhan and anywhere else if necessary, but potentially needs to be expanded further, based on the preparatory analysis.
+
+Review of data from all type and location of hospitals (private and public) in Wuhan and suburban districts (n=233 healthcare facilities). This work is ongoing as of Jan 21, 2021.
+
+The descriptive epidemiology of the early cases needs to include information about how they were ascertained, and what definitions were used to identify further cases (applies to all sections where relevant).
+
+Surveillance systems and hospital records:
+
+1. Review of databases of hospitalised and outpatient clinic patients with the purpose to define the
+
+cohort of potential earlier COVID-19 cases.
+
+2. Kindly provide the method applied for the systematic review of 233 Wuhan-based healthcare
+
+facilities using the fever, ILI, ARI and unspecified pneumonia data that resulted in the identification of potential COVID-19 cases. Please provide a description of the resulting dataset from the surveillance system and the final dataset of potential COVID-19 cases including all variables available for analysis (e.g. transfer to ICU, mechanical ventilation, laboratory diagnostic outcomes etc. that are potentially compatible with COVID-19, availability of stored samples for potential future testing).
+
+Output will be:
+
+1. Weekly numbers of patients >15 years of age with fever, ILI, ARI, and/or unspecified
+
+pneumonia from 1 October to 10 December 2019 overall (only expanding if relevant results), and by home address (e.g. district), outcomes by cluster analysis, etc.
+
+2. A line-list of all the potential COVID-19 cases which can be populated in accordance with
+
+suggestions in Annex 1 (descriptive data already available). From a joint review of this this list, we can decide on the way forward for assessing the exposure history of the potential COVID-19 cases using relevant variables, including laboratory and radiology outcomes. This list will also be used to plan for face-to-face meetings post-quarantine with relevant experts (clinicians, hospital and provincial laboratory microbiologists, epidemiologists). Please find suggestions of exposure variables in Annex 2.
+
+B3.2. Focus on high-risk groups
+
+Searching for previously unidentified cases compatible with COVID-19 among high-risk groups such as healthcare workers and laboratory staff. Other groups of consideration include: veterinarians, traditional medicine providers, farmers/farm workers, food-value chain workers (market vendors, port workers, storage house works etc). In-depth reviews of routinely collected employee sickness absence data. Where such data are available.
+
+Routinely collected data e.g. sickness absenteeism, antibody (serology) or NAT screening, other?
+
+Clusters of illness (especially among high-risk groups) might be of high relevance for the detection of early cases (this work has high priority but can be done when time permits).
+
+Is information from months prior to outbreak (e.g. September – December 2019) on any relevant observations available from review of routinely collected data, e.g. sickness absenteeism of frontline hospital workers (e.g. infectious disease/ pulmonary disease/ICU departments) and of laboratory personnel at the major Wuhan research, public health and diagnostic laboratories.
+
+If this information is not currently available, are there other ways to obtain it?
+
+a. Are there any data about sickness absenteeism, or occurrence of respiratory disease, or deaths
+
+in health care workers (HCWs) and/or laboratory workers during 2019 to January 2020? b. If any signal detected, kindly provide detailed information such as clustering.
+
+c. Is NAT/antibody results available from screening/testing of any of the above listed high-risk
+
+groups from 2019?
+
+B3.3: Focus on mild respiratory disease surveillance and community cases
+
+Review of surveillance trends for disease in the months preceding the outbreak to compare to baseline levels of similar months in previous years to identify any departure from expected trend through appropriate statistical analyses. For example, identify departure from trends of pneumonia of unknown origin, or review of syndromic surveillance trends for ILI and SARI, by comparing trends in the second half of 2019 to that of similar periods in previous years.
+
+1. Are there any surveillance systems available for respiratory disease (including pneumonia) at
+
+community level?
+
+a. Weekly numbers of patients >15 years of age with community-level records of ILI,
+
+SARI, and/or PUE (pneumonia of unknown etiology) from September to December 2016-2019 overall (only expanding if relevant results), and by home address (e.g. district), outcomes by cluster analysis, etc.
+
+2. What type of respiratory surveillance data reviews have been conducted in and around Wuhan
+
+and in other provinces? (it would be interesting to look at the trends elsewhere in China outside Hubei Province)?
+
+3. Overview of geographic clusters identified in the surveillance data analysed so far.
+
+4. Overview of the viral pathogen testing and results (e.g. influenza virus, respiratory syncytial virus
+
+etc.) in the surveillance data that could explain any changes seen in syndromic surveillance during the relevant periods?
+
+B3.4: Review of trends of all-cause mortality at provincial level, and review death registers for specific causes of death compatible with COVID-19
+
+1. Numbers of all-cause mortality for 2016, 2017 and 2018 in individuals >15 years of age by week
+
+to allow direct comparison with 2019 (specifically for Wuhan, Hubei)?
+
+2. Numbers for specific causes of death compatible with COVID-19 from the second half of 2016,
+
+2017 and 2018 to allow direct comparison with the second half of 2019? (Our understanding is that identification of cases is based on ICD-10 codes: J.12-18 and J.98.4).
+
+3. Type and method used for reviews conducted in and around Wuhan and in other provinces?
+
+4. Identification of temporo-spatial clusters where possible.
+
+B4: Serological studies based on specific studies and/or stored blood/serum samples collected in weeks and months before December 2019
+
+Consideration should be given to high-risk groups/workers as defined in section B3.2. Additionally, the work may include targeted serological testing on stored serum samples of suspect COVID-19 patients and contacts, cases of unexplained pneumonia, and suspect deaths identified through retrospective reviews.
+
+1. Overview of serological study on stored blood (e.g. serum, dried blood spot samples etc.,
+
+including from pregnant women and neonatal screening) to check for the presence of SARS-
+
+CoV-2-specific antibodies in the period leading up to December 2019, including samples from early 2019 and the previous two years to exclude previous circulation of SARS-CoV-2?
+
+2. Are specimens from neighbouring parts of China available for serological testing?
+
+3. Are serological studies possible on identified possible early COVID-19 cases (B3.1, B3.2, B3.3).
+
+4. Overview of testing carried out on specimens from blood donors performed from 2019 and
+
+2020.
+
+5. What laboratory methods have been used for serological studies?
+
+6. What health monitoring is carried out on food handlers, animal handlers, healthcare workers and
+
+laboratory personnel.?
+
+B5. Other studies and approaches, as appropriate
+
+To be discussed during the coming weeks, if the search for early cases can be narrowed down to specific locations.
+
+Some examples of information of interest to increase potential case finding in districts indicated in B3.1:
+
+Laboratory-specific questions:
+
+The WHO Int team has some questions specifically related to the virology laboratory activities, as these listed below.
+
+1. What is the scope and capacity of virus detection work (NAT, serology, virus isolation,
+
+sequencing), including sample storage, for those cases identified in SARI and/or unexplained pneumonia surveillance, in the diagnostic hospital laboratories?
+
+2. What is the process for referral of samples for specialised virus testing within Wuhan, Hubei
+
+and other provinces? How does the WHO Influenza Centre interact with local hospital and public health laboratories? What virology research (sequencing, serology, isolation etc.) is carried out in the hospital laboratories? How are the clinical infectious diseases services linked to the diagnostic or regional laboratories?
+
+Other questions:
+
+1. Can you provide a listing of mass-gatherings (involving humans and humans/animals and food
+
+festivals) in Wuhan and other places if needed (type, number of participants, duration of the event, geographical location, known health issues among participants, increased influenza-like illness (ILI)/ severe acute respiratory infections (SARI)/ pneumonia of unknown etiology admission-rates to hospitals following a period of 2-3 weeks after the gathering) from September 2019 until December 2019.
+
+2. What kind of statistical information is available and can be provided on sales of pharmaceutical
+
+products indicative of respiratory syndromes (cough medicine, influenza medicines etc.) and other potential information sources? Have any of these data-sources already been reviewed?
+
+C. Animal and environmental working group
+
+Output: input for the joint study report Timeline: first draft by Monday 01-02-2021
+
+C1: Detailed reconstruction of current knowledge starting with the initial cluster of cases, starting at the earliest recognized cases, and including the study related to the Huanan market cluster
+
+Discuss, analyse and review working group specific aspects of the cross-working group study of the initial cluster.
+
+C2: Review of primary data from the (ongoing) outbreak studies
+
+To be covered in EPI group, but of relevance to Anim/Env. Group: In-depth interviews and reviews of currently identified early cases, suspected cases and potentially earlier cases identified through the abovedescribed studies regarding to their exposure history. All potential exposure factors will be considered, including travel history, occupational (including healthcare workers) exposure, market exposure, animal contact, consumption of raw meat/products (milk, cheese, organs, blood products) from farmed (including for food, fur and other products) and wild-caught animals, characteristics of their social contacts at the time and others. The process will likely be iterative and should include interviews of a few non-cases in order to easily identify susceptible patterns.
+
+C3: Review of studies focusing on animals, products and environmental contamination
+
+C3.1: A mapping of activities and items traded at the Huanan (and potentially other relevant) market(s) in late November and December 2019, including types of animals (captured wild, farmed wild and livestock and domestic animals) and stalls (for all types of goods) present at the Huanan market.
+
+To do this work with sufficient rigor, it will be necessary to review detailed datasets, and meet or interview members from key agencies, laboratories, and organizations. This will include:
+
+Data on the species and countries of origin for imported animals being sold at the market both alive and dead for the months of November and December 2019? If any seasonal animals or produce were present in period before this are these known also?
+
+• A full list of traders or stall holders, including the goods they are selling, available for the same period? • Information on wild animal and other mammal suppliers, traders and stall holders over the 12 months prior to the outbreak, to see if there were any changes over the period prior to the outbreak? • To understand what animals were sold in markets in Wuhan that might not be publicly disclosed (e.g. illegal species such as frozen or live pangolins), we need to speak with Market Regulation Authorities to ask if there were any seizures of illegal wildlife at the Huanan market (and other markets in the study) in the months prior to the outbreak (December 2018 to January 2020). If so, what species were found in the seizures? What triggered the seizures?
+
+• To understand the epidemiology of early spread, we need to review a list of local markets and professional customers (restaurants, large-scale customers, etc) to which the Huanan wholesale market was supplying, and, where relevant, similar information for nearby animal/food markets (work will be completed in later phase). • Data on the presence of pets, stray, wild feral and pest animals (cats, dogs, rodents, bats, etc) found in and around the Huanan market. • The map of the Huanan market will need to be populated with data on where animal and environmental samples were taken (with information on sample type, sampling time and test result), information on location of animal stalls (indicating species or type of animal where possible) and other product stalls, the drainage system (with direction of flow), exit/entry points, vehicle unloading point, organisation of the ventilation systems etc. • For positive environmental samples, we will need to review details (what type, from what surface, in what area/stall of the market, sequencing and phylogenetic analysis) and whether virus been cultured (and sequenced) from environmental samples. • Data on serological testing of meat juices from heart and diaphragm tissue (or other similar samples) of animal meats stocked in China before and around December 2019 • We would like to meet with the leaders of the animal study of the Huanan market that took place in December 2019/January 2020. We would like to discuss the rationale for the selection of the different animals from the market that were tested for SARS-CoV-2 and how was the testing done (sample collection, assay, etc.). There was an update of the PCRs in the course of January as initial assays were thought to be less sensitive. We need to look at details on the validation of the assays used. • Data on environmental samples taken at the market or other, similar markets in Wuhan prior to Dec 2019 and if these have been retrospectively tested? It was noted that there were no samples taken, so a retrospective study is not possible.
+
+Lower priority work to be considered for a later phase:
+
+• From discussion with Market authorities, we require information on what animal sanitation and food safety measures were in place. We need information on whether there were live animals traded on the market , and if yes, how long were they kept at the market (broken down by species) and if health checks performed, if there is a day when the market is emptied and thoroughly cleaned, and what pest control measures are in place, as well as other important details.
+
+C3.2: Mapping the supply chains for all relevant animals and products, including food products, sold at the Huanan market and other markets in Wuhan as informed by the results of the epidemiological studies. Supply chains could be local, national or international.
+
+Based on current knowledge about animal susceptibility, the team will develop a list of high-risk animals traded at the market, and their supply chains, to develop an animal sampling strategy. This mapping exercise may provide additional clues about possible geographic areas suitable for future animal and human serological surveys. Data and interviews with the key agencies, authorities and laboratories will be critical for a rigorous study, particularly on the following:
+
+• A breakdown of the percentage of animals and products (frozen and otherwise) traded at the market during late November and December 2019 by source, i.e., local, national and international. • Comprehensive information on cold-chain product supply chains during September to December 2019. • Recent images of the market in operation during September to December 2019 around the location where the cases occurred. • The proportion of live animal to dead animals sold in the market, and details on which species are usually killed at the market prior to sale, and which stalls would normally kill and butcher animals. • Vendors involved in trading of non-aquatic animals, especially mammals, in the Huanan market will be assessed to see if their suppliers or delivery workers have links to domesticated wildlife farms or farmers that are in contact with different farmed species, farming of animals for fur (e.g. mink, raccoon dogs fox etc.) or are from farms located close to fur farms (mink, raccoon dogs, fox etc.). The first step will involve vendors dealing with domesticated wild animals. Additional studies will be guided by risk assessment and our knowledge on the susceptibility of different species. • Learn about the source of cold-chain products on key stalls; sampling and test of cold-stored and cold-cain products linked to Huanan Market and Wuhan from September to December 2019. • Evaluate the possibility of the introduction of the virus via cold chain or animal supply chain and search for clues of cold-chain transmission or animal supply chain in Huanan market. • Description of an overview of production systems, statistics, and results of surveys of animals with known high susceptibility to SARS-CoV-2. I.e. mink, raccoon dogs, cats, etc.
+
+Work that will be completed in a later phase if possible:
+
+• Data on the movements of traders, workers and transporters and what other markets locally or regionally that they may have attended.
+
+C4: Retrospective studies
+
+C4.1: Surveillance studies in animals and food products and samples
+
+• Animal surveillance will be guided by the results of the human epidemiological work. We will need to conduct the following work:
+
+o Identification of livestock, domestic and wild animals of most interest. o Can we compile a list of organizations that have conducted animal surveillance, e.g.
+
+academia/researchers; local government; central government; wildlife groups? o Identification of what sampling and testing of the cold chain food products has been done
+
+and what more can be done. o What baseline information is there for animal surveillance (routine, disease study;
+
+research; import/export). o Information on sampling in mixed animal/domesticated wildlife markets and along the
+
+wild animal supply chain. o Are there samples from surveillance programs above and could the China team have
+
+access to them for testing if necessary? o Specific information on SARS-CoV-2 studies in animals to date (date of sampling
+
+species, number of samples, location, tests, results).
+
+o Surveillance results (from before December 2019 and separately after December 2019)
+
+from testing in mink, raccoon dog and other farmed wildlife and susceptible animal populations in China prior to and since the emergence of SARS-CoV-2. o A list of samples collected from mammals (including Rhinolophus and other relevant bat
+
+genera) and other relevant animals from Hubei Province, and from other provinces in Southern China, and what testing has been done for coronaviruses, as well as further samples that are not yet tested, if available.
+
+The following work is considered more of a longer-term effort. We will use published papers as a source of information in this phase of the work:
+
+• A list of laboratory groups, or research teams that have conducted sampling of bats in Yunnan or Hubei province since January 2020 • Data on all universities (including agricultural, ecological and environmental), research labs, other government agency and public health groups approved to conduct wildlife sampling across China in last 10 years • A list of data on all universities (including agricultural), research labs, other government agency and public health groups approved to conduct sampling of wildlife farms in last 10 years • Data on isolation of viruses, uncharacterised cytopathic effects (CPE) from cell cultures, sequencing from each of the labs/public health agencies working on wildlife and animal sampling
+
+C4.2: Surveillance studies involving environmental sampling (avian influenza program)
+
+This will assist in identifying presence of SARS-CoV-2 in other markets or sites at different times prior to and during the early outbreak:
+
+• Information on baseline environmental surveillance (routine, disease study; research) • Surveillance results from environmental sampling campaigns at markets and along the supply chains of interest; both domestic and wild (from before December 2019 and separately after December 2019) • Data on sites of environmental sampling for avian influenza, laboratories engaged in this work, and samples collected since January 2017
+
+C4.3: Other studies and approaches, as appropriate
+
+• Access to databases of virus holdings, genetic sequences and epidemiological information on provenance of specimens for the SARS-like coronavirus research program in China (Those existing are publicly available); including confirmation of the provenance and analytical processes undertaken in the key horseshoe bat and pangolin virus samples that are currently central to the origins of SARS-CoV-2.
+
+D. Molecular Epidemiology and bioinformatics working group
+
+Output: input for the joint study report Timeline: first draft by Monday 01-02-2021
+
+D1: Detailed reconstruction of current knowledge starting with the initial cluster of cases, starting at the early cases, and including the study related to the Huanan market cluster
+
+Discuss, analyse and review working group specific aspects of the cross-working group study of the initial cluster.
+
+D2: Assessment of the potential utility of other surveillance and research programmes in humans and animals for testing and genomic sequencing, including an overview of genomic surveillance programmes on respiratory and enteric diseases in humans and animals and review their biobanking and sequencing practices. In case of viral (meta) genomic sequencing up to 31 January 2020, map the availability of raw sequence data for re-analysis, relevant to gaining a full understanding of early cases
+
+Specifically address the following:
+
+For this work, it is important to develop an integrated database including genomic, epidemiological and clinical information. This includes cases and findings from the early study in Wuhan, supplemented with data from cases and studies outside of Wuhan, and outside of China.
+
+1. Various institutions have undertaken viral genomics in China. Can you provide an overview of
+
+how the data from these initiatives have been integrated to give an overall national approach to presenting sequencing results (from humans or animals, clinical-, public health-, research institutes), especially for sequences generated from early cases in Wuhan or elsewhere if necessary, or from environmental (e.g. cold-chain samples, sewage) or animal samples? Has the sequencing been standardized (e.g. platforms, workflows)?
+
+2. Current data have used fully curated quality controlled whole genome data, but partial genomic
+
+information may be relevant as well. Can you inventory the availability of any unpublished (whole and partial) genome sequences available from PCR-positive SARS-CoV-2 samples, especially early in the pandemic e.g. December 2019?
+
+3. In order to allow deeper analysis, it is critical to ensure a complete metadata set stratified by time
+
+of sampling, geography, interpersonal relationships, risk behaviour, occupation, relation to markets.
+
+4. This work includes integration of international genomic sequences with available epidemiological
+
+and clinical information
+
+D2.1: Develop a database of all available genomic data and metadata
+
+Develop a combined list of metadata and samples linked to the early confirmed and suspected cases, and from potential cases identified through the above-described studies. Add all available genomes for all of these and integrate additional pathogen genome information for all available bio-banked samples (human,
+
+animal-, environmental-, food samples, cell culture isolates) using standardized methods for data comparability. All potential exposure factors will be considered for the metadata set, including travel history, occupational (including healthcare workers) exposure, market exposure, animal contact, consumption of raw/exotic animal meat/products (milk, cheese), characteristics of their social contacts at the time and others.
+
+D2.2: Review of genomic data linked to the retrospective studies focusing on epidemiology in humans
+
+For the list of potential suspected cases identified in working group 1 from different studies, develop a list of samples that may still be accessible for sequencing, as well as possible available non-published genomic data. For the sequencing of samples from humans, the relevant studies are:
+
+• Hospital-based review of suspected cases • Samples from historic ILI, SARI and pneumonia of unknown aetiology surveillance
+
+The analysis can include sequencing of newly identified suspected cases from the retrospective studies.
+
+D2.3: Review of genomic data linked to the studies focusing on animals, products and environmental contamination
+
+For the list of animals and samples produced by working group 2, review potential sources of samples and sequence data.
+
+Retrospective studies
+
+• Surveillance studies in animals and food products • Surveillance studies involving environmental sampling (e.g. avian influenza programme) • Other studies and approaches as appropriate
+
+D2.4 retrieve international genomic data with available epidemiological and clinical information under coordination of WHO, if possible
+
+• Collection of international genomic sequences with available epidemiological and clinical information under coordination of WHO • Combination of all international available genomic sequences with available epidemiological
+
+D3. Methodological questions to address
+
+D3.1 Provide a re-analysis of all available initial sequences (complete or partial genomes, published or unpublished) from the early cases in Wuhan and elsewhere. Assess comparability of data. Assess the potential impact of technical issues on the result of clustering analyses.
+
+• How comparable are the data generated in the different institutes (e.g. were they produced on the same sequencing platforms, was the consensus calling standardized and comparable)? • What was the process for quality control of the sequence data?
+
+• How reliable is the base calling for the initial genomic sequence data? • Was the diversity observed in the initial genomic sequence data random or were specific mutations observed in residues that may have functional implications? • What was the prevalence and location of minor variants in early cases?
+
+D3.2 Provide an analysis of the resolution of genomic sequencing for source tracking, taking into account the coverage of international genomic sequencing as part of focus of the joint study. Assess possible effects of coverage gaps on conclusions regarding sources and potential solutions to improve the reliability of source tracking.
+
+• What proportion of cases was sequenced from the initial outbreak? • What proportion of cases in currently being sequenced from ongoing clusters? (if possible) • What is the protocol for background sampling and is there a national reference dataset reflecting regional differences in strains from imported cases and secondary cases resulting from local transmission?
+
+D3.3. If available, provide a review of sewage SARS-CoV-2 detection and sequencing studies (metagenomic or target-specific), and map potentially available frozen sewage samples that could be accessed to test for evidence of SARS-CoV-2 circulation prior to December 2019. This list needs to be guided by the outcomes of the back tracing of cases and animals in working groups 1 and 2. (WHO to provide relevant information)
+
+• Has the testing of frozen sewage samples from before December 2019 been carried out? Please provide a list of locations, sample collections, and time covered. • What protocol was used and how was that validated? • Given the well-known issues of presence of low levels of viruses in food microbiology, what is the quality control process around frozen food testing? • Has sewage testing been done in areas and premises where contamination of frozen food samples was detected? • What has been the geographic focus of these studies to date? Only surrounding Huanan market, only Wuhan, or other provinces as well? How does the selection of samples relate to the market chain analysis?
+
+D3.4. Other studies and approaches, as appropriate.
+
+To be defined by working group.
+
+E. Specific locations to visit and individuals to interview
+
+Timeline: prepare by 24-01-2021
+
+Annex A2 - Schedule of work
+
+Global study of the origins of SARS-CoV-2 China Part 14 January – 10 February 2021
+
+Timelines for tasks and milestones (Agenda)
+
+14/01/2021 International team arrived in Wuhan
+
+15/01/2021 First virtual meeting of international team and Chinese team
+
+Time frame Deliverables/objectives Tasks and activities Outputs
+
+15-27 January
+
+1. Overview of
+
+Detailed workplan for the Phase 1 studies
+
+• PPTs
+
+• Workplan
+
+information on background, work conducted, and ongoing
+
+document
+
+Develop draft outline of the joint study report workplan for the Phase 1 studies
+
+2. Develop workplan of
+
+1. Overview of study conducted /
+
+the phase 1 study
+
+ongoing by three Chinese teams
+
+3. Develop the outline
+
+• Epidemiology
+
+• Animal-human /environment
+
+of the joint study report
+
+Interface
+
+• Bioinformatics /Molecular
+
+epidemiology
+
+2. Experience sharing on relevant
+
+studies and work
+
+• The mink outbreak studies in
+
+Europe
+
+• How to identify worldwide
+
+hotspots for emerging zoonotic diseases
+
+• Wuhan Institute of Virology work
+
+on bats and coronaviruses
+
+• Study of the June 2020 outbreak
+
+in the Xinfadi market
+
+3. Develop and finalize workplan
+
+Develop the outline of the joint study report
+
+• Outline of the
+
+joint study report
+
+27 January -7 February
+
+Prepare input for and develop the draft joint study report
+
+Prepare for systematic review of the data for this work-package, by customizing the generic template for assessment of data quality based on PRISMA or related criteria
+
+• Summary of
+
+published literature
+
+Detailed reconstruction of current knowledge starting with the initial cluster of cases, and the earliest cases; and including the study related to the Huanan market cluster
+
+• PPTs
+
+• An inventory of
+
+all available sources of information
+
+• Detailed timeline
+
+(including information on the available epidemiological and laboratory data) of the early cases and events
+
+• Summary of
+
+1. Introduction of relevant China
+
+systems (market regulation and management, laboratory testing, agriculture, animal and wild animal surveillance and management, health system structure and operations)
+
+Phase 1 studies, description of data and results of interim analyses.
+
+2. Overview of currently published
+
+and unpublished reports. This includes clinical, epidemiological, virological, immunological, and imaging data, and data from additional surveys including animals and environmental (including sewage) swabs.
+
+3. Review of raw interview data from
+
+early cases associated with Huanan market, and those with no relation to market.
+
+• Prepare a detailed timeline
+
+(including information on available epidemiological and laboratory data) of the initial cases and events until 31 December 2019
+
+• Specify case definitions,
+
+laboratory methods etc. and indicate changes therein during the course of the initial studies
+
+• Interviews including list of all
+
+variables
+
+4. Review of the Analytical
+
+Epidemiology Study agreed during the previous China-WHO study
+
+Detailed review of retrospective studies, and design of additional studies based on in depth inventory of potential sources of information, related to the different hypotheses generated throughout the work
+
+• Evaluation of
+
+the above in light of possible pathways for disease emergence.
+
+• Workplan
+
+Suggestions for next phase.
+
+1. Review of primary data from the
+
+(ongoing) outbreak investigation(s)
+
+2. Mapping the supply chains for all
+
+relevant animals and products to Huanan market
+
+3. Retrospective studies
+
+• Review of hospital data • Review of respiratory disease surveillance/animal health surveillance • Review of trends in mortality • Serological studies • Surveillance studies in animals and food products • Surveillance studies involving environmental sampling (e.g. avian influenza programme) • Other studies and approaches, as appropriate
+
+Detailed reconstruction of current knowledge starting with the initial cluster of cases, starting at the earliest cases (before 31 December 2019), and including the study related to the Huanan market cluster
+
+• Weekly numbers
+
+of patients > 15 years of age with fever, ILI, ARI, and/or unspecified pneumonia from 1 October to 10 December 2019 overall (only expanding if relevant results), and by home address (e.g.
+
+Review of primary data from the (ongoing) joint outbreak study(s):
+
+Retrospective studies
+
+Hospital focus based on the above selection: In-depth reviews of hospital
+
+records for cases compatible with COVID-19 before December 2019. This will focus on Wuhan include Hubei and anywhere else if necessary, but potentially needs to be expanded further, based on the preparatory analysis. Review of data from all type and location of hospitals (private and public) in Wuhan and suburban districts (n=233 healthcare facilities). This work is ongoing as of 21 January 2021.
+
+district), outcomes by cluster analysis, etc.
+
+• A line-list of all
+
+the potential COVID-19 cases (descriptive data already available).
+
+Focus on high-risk groups: searching for previously unidentified cases compatible with COVID-19 among high-risk groups such as healthcare workers and laboratory staff. Other groups of consideration include: veterinarians, traditional medicine providers, farmers/farm workers, foodvalue chain workers (market vendors, port workers, storage house works etc). In-depth reviews of routinely collected employee sickness absence data where such data are available.
+
+• sickness absenteeism
+
+• antibody (serology) or NAT
+
+screening
+
+• other
+
+Focus on mild respiratory disease surveillance and community cases: Review of surveillance trends for disease in the months preceding the outbreak to compare to baseline levels of similar months in previous years to identify any departure from expected trend through appropriate statistical analyses. For example, identify departure from trends of pneumonia of unknown origin, or review of syndromic surveillance trends for ILI and SARI, by comparing trends in the second half of 2019 to that of similar periods in previous years.
+
+Review of trends of all-cause mortality at provincial level, and review death
+
+registers for specific causes of death compatible with COVID-19.
+
+Serological studies based on specific studies and/or stored blood/serum samples collected in weeks and months before December 2019. Consideration should be given to high-risk groups/workers as defined in section B3.2. Additionally, the work may include targeted serological testing on stored serum samples of suspect COVID-19 patients and contacts, cases of unexplained pneumonia, and suspect deaths identified through retrospective reviews.
+
+Specific locations to visit and individuals to interview: See annex Field visits
+
+Review of studies focusing on animals, products and environmental contamination.
+
+A mapping of activities and items traded at the Huanan (and potentially other relevant) market(s) in late November and December 2019, including types of animals (captured wild, farmed wild and livestock and domestic animals) and stalls (for all types of goods) present at the Huanan market.
+
+Mapping the supply chains for all relevant animals and products, including food products, sold at the Huanan market and other markets in Wuhan as informed by the results of the epidemiological studies. Supply chains could be local, national or international.
+
+Retrospective studies
+
+Surveillance studies in animals and food products and samples
+
+Surveillance studies involving environmental sampling (avian influenza programme)
+
+Other studies and approaches, as appropriate
+
+Assessment of the potential utility of other surveillance and research programmes in humans and animals for testing and genomic sequencing, including an overview of genomic surveillance programmes on respiratory and enteric diseases in humans and animals and review their biobanking and sequencing practices. In case of viral (meta) genomic sequencing up to January 31, 2020, map the availability of raw sequence data for re-analysis, relevant to gaining a full understanding of early cases.
+
+Develop a database of all available genomic data and metadata
+
+• Develop a combined list of metadata
+
+and samples linked to the early confirmed and suspected cases, and from potential cases identified through the above-described studies.
+
+Review of genomic data linked to the retrospective studies focusing on epidemiology in humans
+
+Review of genomic data linked to the studies focusing on animals, products and environmental contamination
+
+Retrieve international genomic data with available epidemiological and clinical information under coordination of WHO, if possible
+
+Methodological questions to address
+
+Provide a re-analysis of all available initial sequences (complete or partial genomes, published or unpublished) from early cases in Wuhan and elsewhere. Assess comparability of data. Assess the potential impact of technical issues on the result of clustering analyses.
+
+Provide an analysis of the resolution of genomic sequencing for source tracking, taking into account the coverage of international genomic sequencing as part of focus of the joint study. Assess possible effects of coverage gaps on conclusions regarding sources and potential solutions to improve the reliability of source tracking.
+
+If available, provide a review of sewage SARS-CoV-2 detection and sequencing studies (metagenomic or targetspecific), and map potentially available frozen sewage samples that could be accessed to test for evidence of SARS-CoV-2 circulation prior to December
+
+2019. This list needs to be guided by the outcomes of the backtracing of cases and animals in working groups 1 and 2. (WHO provides relevant information).
+
+8-10 February
+
+Develop the joint study report
+
+1. Develop the first draft of joint study
+
+• Joint study
+
+report
+
+2. Review the draft report
+
+3. Finalize the joint study report
+
+report
+
+ANNEX B: Team members
+
+COVID-19 Origins Study
+
+Chinese team members
+
+Team leader
+
+Liang Wannian Executive Vice-President, Vanke School of Public Health, Tsinghua University
+
+Epidemiology
+
+Feng Zijian* Deputy Director-General of China CDC
+
+Shi Guoqing Deputy Director of Public Health Emergency Center of China CDC
+
+Zhou Lei Professor, Public Health Emergency Center of China CDC
+
+Zhang Xianfeng Director-General of Hubei Provincial CDC
+
+Tong Yeqing Deputy Director of Institute of Infectious Diseases of Hubei Provincial CDC
+
+Chen Banghua Deputy Director of Office of Health Emergency of Wuhan CDC
+
+Molecular epidemiology
+
+Yang Yungui* Deputy Director, China National Center for Bioinformation
+
+Song Shuhui Associate Professor, China National Center for Bioinformation
+
+Wang Qihui Professor, Institute of Microbiology, Chinese Academy of Sciences
+
+Huo Xixiang Deputy Director of Institute of Health Inspection and Testing of Hubei
+
+Provincial CDC
+
+Peng Mingwei Technologist-in-charge, Institute of Pathogenic Biology of Wuhanv
+
+Animal and environment
+
+Tong Yigang* Director of Life Science and Technology College, Beijing University of Chemical Technology
+
+William Jun Liu Professor, Deputy director, Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, China CDC
+
+He Hongxuan Professor, Institute of Zoology, Chinese Academy of Sciences
+
+Yang Guoxiang Senior Engineer, Hubei Wildlife Epidemic Source and Disease Surveillance
+
+Center
+
+Gao Yanhong Deputy Director of Wuhan Zoo
+
+(*Subgroup lead)
+
+International experts, observers and WHO team members
+
+Team leader
+
+Peter Ben Embarek Scientist, Monitoring Nutritional Status & Food Safety Events, Nutrition and Food Safety, World Health Organization, Geneva, Switzerland
+
+Epidemiology
+
+Thea K Fischer* Director of Clinical Research, Nordsjællands University Hospital, Hillerød, Denmark
+
+Dominic Dwyer Director, NSWHP-Public Health Pathology State-wide Service and Director, New South Wales Health Pathology - Institute of Clinical Pathology and Medical Research, Westmead Hospital, Westmead, Australia
+
+Farag Elmoubasher Acting Head, Communicable Disease Control Programmes, Public Health Department, Ministry of Public Health, Qatar
+
+John Watson Adviser, Public Health England, London, United Kingdom and Northern Ireland
+
+Marion Koopmans Head, Department of Viroscience, Erasmus University Medical Centre, Rotterdam, The Netherlands
+
+Molecular epidemiology
+
+Marion Koopmans* Head, Department of Viroscience, Erasmus University Medical Centre, Rotterdam, The Netherlands
+
+Fabian Leendertz Robert Koch-Institute, Berlin, Germany
+
+David Hayman￼ Co-Director, Molecular Epidemiology and Public Health Laboratory, Massey University, Palmerston North, Manawatu, New Zealand (OIE Collaborating Centre)
+
+Animal and environment
+
+Peter Daszak* President and Chief Scientist, EcoHealth Alliance, New York, United States of America
+
+Vladimir Dedkov Deputy Director-General for Research, Head of Epidemiology Department, Institute Pasteur, St Petersburg, Russian Federation
+
+Ken Maeda￼ Director, Department of Veterinary Science, National Institute of Infectious Diseases, Toyama, Shinjuku-ku, Japan
+
+Hung Nguyen-Viet Co-Leader, Animal and Human Health Programme, International Livestock Research Institute (ILRI), Nairobi, Kenya
+
+Keith Hamilton Scientific and Technical Department, World Organisation for Animal Health (Office International des Epizooties, OIE), Paris, France
+
+Observer
+
+Sophie von Dobschuetz Animal Production and Health Division, Food and Agriculture Organization,
+
+Rome, Italy
+
+Junxia Song Animal Health Services, Food and Agriculture Organization, Rome, Italy
+
+WHO Team
+
+Pat Drury Deputy Incident Manager for COVID-19/Unit Head, Global Outbreak Alert and Response Network (GOARN) and Global Health Emergency Workforce, Emergency Response, World Health Organization, Geneva, Switzerland
+
+Li Jian Technical Officer, Emergency Operations Centre, Strategic Health Operations, Emergency Response, World Health Organization, Geneva, Switzerland
+
+Lisa Scheuermann Technical Officer, Human Animal Interface for IHR, Health Security Preparedness, Emergency Preparedness, World Health Organization, Geneva, Switzerland
+
+David FitzSimons Consultant (Rapporteur), Prévessin, France
+
+(*Subgroup lead)
+
+ANNEX C: Presentations to the joint international team in January 2021
+
+Disclaimer: Presentations were given as part of the process of informing the joint study team on on-going and recent studies. Data presented may change as the studies progress. No permission was granted to publicize some of the presentations in the report.
+
+Annex C1 - A Global Knowledge Hub for SARS-CoV-2: 2019nCoVR (Dr Song Shuhui)
+
+Annex C2 - SARS-CoV-2 in Dutch mink farms (Prof Marion Koopmans)
+
+Annex C3 – Analysis of geographic hotspots of viral disease emergence (Dr Peter
+
+Daszak)
+
+Annex C4 - Progress in tracing and monitoring of SARS-CoV-2 in domestic animals
+
+(Drs. Ni Jianqiang, Li Dong, Wang Chuanbin& Xin Shengpeng)
+
+Annex C5 – Basic Information on the Hubei Provincial CDC laboratory (Dr Huo
+
+Xixiang)
+
+Annex C6 - Surveillance of SARS-CoV-2 in wild animals (Dr He Hongxuan)
+
+Annex C7 - The infection risk in cats, dogs and pigs to SARS-CoV-2 (Dr Jin Meilin)
+
+ANNEX D: Reports on site visits
+
+Disclaimer: All records of site visits are based on notes taken by expert team members and went through language interpretation. Recording bias may exist. Personal statement and response by interviewees to questions from the expert teams are based on memories of events as long as 12 month prior, and it is possible that some biases in these memories affect their accuracy.
+
+Annex D1 - Xinhua Hospital
+
+29 January 2021, pm
+
+Participants from the Xinhua Hospital (also known as the Hubei Hospital of Traditional Chinese and Western Medicine):
+
+• Vice President • Zhang Jixian, Chief of Respiratory and Critical Care Medicine Department • Chief of Cross Infection Control Office • Health professionals from radiology department and clinical laboratory • Members of the joint study team
+
+The earliest cases and the hospital’s response to COVID-19
+
+• After an introduction to the hospital, Dr Zhang Jixian described the timeline and actions of the hospital’s response after the identification of the first case of pneumonia of unknown etiology on 27 December 2019. • On 27 December, after receiving three patients from one family with similar symptoms and test results, Dr Zhang reported to the hospital authorities. The hospital had a small group joint consultation, and then reported to the district level CDC, who sent staff for sampling and epidemiological surveillance in the afternoon. • At 2 pm on 29 December, a hospital-wide joint consultation meeting was held and it was decided to report the disease cluster to a higher-level authorities (Wuhan CDC, Hubei Provincial CDC, Hubei Provincial Health Commission). • On 30 December, Wuhan CDC came for sampling and epidemiological surveillance. All patients were sent to Jinyintan Hospital for treatment. No samples from the early cases remain. Because of national legislation for laboratory management, all samples have to be disposed after testing. No storage is allowed. • A retrospective study among patients from 1 September to 31 December 2019 revealed:
+
+o the earliest case identified was the one reported on 26 December with onset date of
+
+12 December • The number of outpatient visits at fever clinics in Xinhua Hospital was similar in January-November in 2018 and 2019, but the number increased by 40% in December 2019 in comparison with December 2018.
+
+• Since SARS, China has established a PUE surveillance system for pneumonia of unknown origin and each hospital has to report to its local CDC on every 5th and 20th of the month if there is any case pneumonia of unknown origin. No case had been reported for many years.
+
+Repurposing the hospital
+
+• 25 January 2020, Xinhua hospital was repurposed as one of the hospitals for COVID-19 patients only. All health professionals were involved in the COVID-19 response, and additional staff were seconded from Guangdong and Beijing on 27 January. A group of high-level experts on severe disease and respiratory diseases was formed to support the hospital. • 24 inpatient wards were established with 950 quarantine beds. For treatment, patients were categorized as: normal, severe, critically severe and in rehabilitation. The hospital treated 1133 patients and another 1011 patients from the shelter hospital that Xinhua hospital was responsible for. Both traditional and western medicine were used for treatment in this hospital. • A follow-up survey was done by Xinhua hospital among those who recovered from COVID-19. Among the findings 40% of respondents reported fatigue and 25% post-traumatic stress disorder. A further follow-up will be conducted in March 2021.
+
+Interview with patient recovered from COVID-19
+
+• The patient in the COVID-19 reporting system with the earliest date of onset date (8 December 2019) agreed to a face-to-face interview with the joint international study team. • The WHO team asked some questions about the patient’s history and family and were told that the person was an accountant by profession and worked for his family company. • While details of the interview are not disclosed here to protect the person’s privacy, the interview found no evidence for high-risk exposures (wild animals, mass gatherings, contacts with healthcare settings, contact with symptomatic individual, travel, etc.). The person mentioned one relative working in a healthcare setting, and one relative visiting a local market, but there were no illness reports related to these locations at that time. The person commuted to work by public transport, and had not travelled outside Wuhan. • The WHO team was told that earlier potential cases were given the opportunity to be interviewed, but were unwilling or unable to attend.
+
+Annex D2 - Jinyintan Hospital for Infectious Diseases
+
+30 January 2021
+
+• Participants from the Jinyintan Hospital include Dr Zhang Dingyu, the former President of Jinyintan Hospital who was in charge during COVID-19 (now promoted as the DDG of Hubei Provincial Health Commission), President of the hospital, and health professionals from departments including respiratory disease, ICU, radiology, and laboratory testing.
+
+• The WHO team expressed their great appreciation for the cooperation of so many staff from the world-renowned hospital. • The president of the hospital introduced staff concerned with COVID-19 and the hospital and its work dealing with public health-related diseases. Its work included:
+
+routine drills and rehearsals for public health emergencies training for responses to outbreaks of infectious diseases, including emerging diseases emergency response and training (such as for the military games in Wuhan in 2019) development of treatment protocols (as for example for MERS and Ebola virus disease) specialization in infectious diseases, most patients are referrals from other hospitals. • On 29 December 2019, the hospital staff learned of COVID-19 from Wuhan Health Commission and the Wuhan CDC. The first batch of patients with pneumonia of unknown etiology was transferred to Jinyintan Hospital for treatment. The Hubei Health Commission and the National Health Commission told the hospital to consult with Xinhua Hospital on cases of pneumonia of unknown etiology. A task force was organized and the infectious disease workforce and wards were reorganized. Multiple laboratory tests eliminated potential pathogens. The response was described as that of clinicians facing cases of viral pneumonia. • On 31 December 2019, the National Health Commission sent an expert team to help with treatment, guidance and training and internal coordination was increased. • By around 4 January 2020, the hospital had received about 40 referrals from several hospitals in Wuhan (the exact number is not sure). The diagnosis was based on clinical and imaging evidence, not pathogen identification. ICD-10 codes were used. PCR testing was introduced when commercial kits became available (around 20 January 2020). • It seems that no measures were in place by the hospital for discussion with or sampling from families of early cases. • The WHO team asked if there had been any medical histories towards the end of 2019 that had been unusual. None had been, but that was not unexpected as the hospital was not the first point of entry into the health system and it dealt mainly with referred severe cases. In October-November cases of influenza had been seen, but 99% were in children. • Retrospective analysis found no adult case of viral pneumonia that could be confused with COVID-19 before 29 December. • During the Military Games in October 2019 (held in Wuhan), emergency response plans had been prepared and temporary hospitals established with triage. Although five imported cases of malaria and dengue fever were detected (malaria and dengue fever are not endemic in Hubei Province) nothing resembling COVID-19 had been seen. • The only other recent mass international gathering in Wuhan had been a marathon in April 2019. • In the outbreak period (December 2019 - April 2020), 2800 COVID-19 patients were seen; the age range was 16-94 years and more than half were classified as severe or critical. (Jinyintan
+
+Hospital is a designated hospital for the treatment of severe cases, and severe cases from other hospitals would be transferred to Jinyintan Hospital) • With regard to samples: none was stored for longer than was laid down in statutory provisions and were destroyed after a week in early days, none was taken for pathology or at post-mortem (not a culturally accepted practice so was difficult to get agreement from the families) the laboratory of the hospital was not yet qualified to preserve samples (biobanking) and it was not known which hospitals in Wuhan might be qualified for this purpose further tests on samples cannot be conducted without informed consent the hospital does not engage in research projects that might be the source of clinical specimens, such as those on non-polio enteroviruses for which it is mandatory to collect samples and send them to reference laboratories to eliminate poliovirus system exists collating ethical approvals given to the use of patients’ samples. • The hospital acknowledged several useful suggestions made by the WHO team, such as collecting samples and biobanking; establishing a network of specialized, infectious disease hospitals; and increasing participation in research projects and would be followed up. • Asked about its ideas about the origins, staff referred to early cases in other countries, imported food product and contaminate packaging and possibility in cold chains.
+
+Annex D3 - Baishazhou Market
+
+31 January 2021, am
+
+Participants: All members of the Chinese and international teams. Market officer, representative of Hubei CDC, Market control officer of Hongshan district.
+
+The market
+
+• Baishazhou Market is the largest wholesale market in Wuhan, with 350 staff and 1200 merchants, provides 70% of frozen food for Wuhan, receiving frozen foodstuffs from abroad through points of entry and from domestic suppliers across the country. It is a regional distribution hub. Currently, trade sees the arrival of more than 10 000 customers and more than 7000 vehicles a day, but in high season this figure rises to 12 000-14 000 vehicles a day, including private vehicles. • For imported materials, strict controls are in place at points of entry, including sterilization and heath quality controls, all of which are certificated. Imports, ranging from cattle and sheep to seafood come from places as far apart as Argentina, Brazil, Ecuador and Oceania. • No live animals are sold; only frozen food, ingredients and kitchenware. No frozen products from domesticated wild animals are sold; only frozen packaged food like meat and animal organs. • Imported and domestic products are separated on arrival at the complex, which comprises nine warehouses and a capacity of 150 000 tons of storage. It is divided into several dedicated sections. At the international loading bay and warehouse (where material is stored at -18oC) pallets (which are not opened) are sampled, tested, sterilized and their traceability ensured. The cold-chain is ensured by liquid ammonia refrigeration; the machinery is housed in a separate building. • Other dedicated areas include frozen goods shops where samples are displayed in freezers and areas where spices and kitchen utensils are sold. The showrooms are no longer importing products and are exhausting their existing stocks of imported materials. • The entire market is closed on Sunday afternoons in order to allow complete disinfection. Merchants also must disinfect their products; the cost of that has been systematically lowered. • Personnel management is done on site and the market regulatory authorities have their offices in the market.
+
+Comparison with the Huanan market
+
+• Baishazhou market was a competitor to Huanan market when it was open in terms of wholesale frozen food products, but it was much bigger, and includes individuals and restaurants as customers. • Huanan market sold mainly frozen and fresh seafood.
+
+COVID-19 response
+
+• Testing for SARS-CoV-2 was introduced on 4 November 2020, since when no positive result has been found. Testing is done by a third-party certified commercial company to ensure openness and transparency. The local Government of Hongshan district subsidizes the cost of testing.
+
+-Employees are tested for SARS-CoV-2 nucleic acid every seven days, free of charge. Samples for the surface of some 200 000 packages have been tested. -Only the in-stock imported frozen products were tested. -Domestic products are not tested but only disinfected.
+
+• Since the outbreak, four positive cases have been detected among the employees but no package surface sample has been found to be positive. Most of the cases were detected in January 2020 after the Chinese New Year. • Nucleic acid testing is performed by a third-party commercial laboratory with testing qualifications. The Inspection Center is responsible for the quality audit and control of the third-party commercial laboratory. CDC carries out parallel sampling tests on market environment, goods and personnel. No information was provided on the quality control protocol and positive CT values for nucleic acid tests. Statistical data of nucleic acid testing shall be collected and archived by market management personnel and reported to CDC and the Market Supervision and Administration. Since November 2020 the market no longer imports frozen products, based on a policy issued by the district government.
+
+Annex D4 - The Huanan Seafood Wholesale Market
+
+31 January 2021, pm
+
+Participants
+
+The Huanan Seafood Wholesale Market manager, two vendors, two suppliers of frozen products, market regulators and two neighbourhood residents.
+
+Members of the Chinese and WHO teams.
+
+The market – layout and activities
+
+• Although the market was closed on 1 January 2020 and subsequently disinfected, it remains shuttered and closed to the public. The team visited the area of the west part which had most links with cases of COVID-19, with various stalls, the remnants of the ventilation system (which has been shut off since the prohibition of live poultry markets in China). • Layout and condition. Apart from the central street, the alleys of the market are very narrow, dark and poorly ventilated, with a roof covering the whole wing. The ventilation system had been closed since the live poultry trade had been stopped following the outbreak of avian influenza. The “sewerage” was an elaborate semi-open drainage system in poor condition running through the entire market. Storage areas above the stalls seemed to have partly served as (temporary) living quarters, but mostly as storage areas. • There was a mixed smell of animals and disinfection in some areas of the market, even a year since its closure. It was later clarified by the manager in a subsequent meeting that those were the smell of rotten meat since all stalls were closed suddenly without removal of their products. Those products were disposed of a few weeks later, so it could also be the smell of sewage. • Products sold. Most shops sold frozen food products including seafood and meat. Some shops sold live seafood or aquatic animals (the WHO international team was told live fish, amphibians e.g. salamanders, and turtles were sold. In Dr Liu’s presentation on the environmental sampling of the Huanan market he described sampling from live snakes). According to the manager, 10 shops had been found to be selling frozen domesticated wild animals like bamboo rats and snakes, and no live animals had been seen before the market was closed; only storage and fridges. It was further stated that no live animals were sold and no animals were butchered on the premises. • There was evidence of the sale of live aquatic animals in the presence of fish tanks and shallow tanks that would have been used for turtles or amphibians. • No evidence of the sale of live mammals was found in our visit – e.g. cages of the type used to house mammals like raccoon dogs, as seen in some of the photographs taken by Dr E.C. Holmes about seven years ago (Zhang YZ, Holmes EC. A genomic perspective on the origin and emergence of SARS-CoV-2. Cell, 2020.) or other unverified photographs and videos in media reports.
+
+Meeting with people related to the Huanan market
+
+• The joint study team had a face-to-face meeting with a large group of participants, and talked with two vendors of the Huanan market who sold frozen beef, and frozen seafood, two suppliers of frozen product, market regulators and the market manager, as well as two neighbourhood residents. • The manager informed the teams the market was cleaned twice a day, morning and evening. Pests and rats are sought out and killed; holes were closed. Rigorous cleaning was done once or twice a week. Even though there are rooms above some stalls, vendors were not allowed to live in the market. The rooms were only for storage. • The WHO team was told by the China team and the vendor that the market was not a purely wholesale market and that many ordinary people bought their food there. • The WHO team was told by Hubei CDC representative that around 10 000 people per day visited the market. • Employees ate in the canteen of the market. Vendors usually brought food from home or ate in neighbouring canteens, and most lived close to the market. • Health and other regulatory issues. Market regulations demand that vendors have a health certificate for work and a health check every year. If they fell ill, most vendors and employees would consult Wuhan No.11 Hospital nearby. If symptoms were mild, traditional Chinese medicine or western medicine practitioners of choice were consulted.
+
+-National regulation mandates double-random checking, and in October and December 2019 cross-sectoral joint inspections had taken place. All necessary certificates had to be displayed in the stall.
+
+Response during the outbreak
+
+• More than 20 cases occurred at the beginning of the outbreak, some but not all were in vendors. • The market was closed (1 January 2020) after being notified by public health department and the market regulators on 31 December 2019. Sterilization and disinfection measures were undertaken. • All the tools, machines and products were left in the market and could not be recovered by their owners. • Interviewees reported hearing no rumours of disease at the time and no “unusual” events came to mind. Vendors (mostly of beef and frozen seafood products (imported and domestic) and suppliers (frozen food products) confirmed these accounts. After the closure of the market, some vendors went to other markets and some others switched to other lines of work. • Imported foods were mostly from Australia, Ecuador, India, New Zealand, Thailand and Viet Nam. • Neighbourhood residents. Two citizens living close by had responded to a community invitation to participate in this meeting. The citizens have been shopping regularly in the market for 20 and 30 years. They provided very similar details: nothing out of the ordinary noticeable, all vendors had certificates and inspection certificates displayed in their stalls, they had never witnessed any live animals being sold, the market was kept clean and tidy and they had not noticed any stray cats or dogs, and there had been no confirmed cases in their residential block.
+
+Annex D5 - Hubei CDC and Wuhan CDC
+
+1 February 2021, am and pm respectively
+
+Participants: from the provincial and municipal CDCs include directors-general of the CDC, head of infectious disease prevention, head of inspection and testing and head of emergency response. The Deputy Director-General of China CDC and the Jianghan District CDC attended the meeting with Wuhan CDC.
+
+Members of the Chinese and WHO teams.
+
+Overview
+
+• The team visited Hubei CDC and Wuhan CDC and their laboratories, where colleagues from China CDC and Jianghan District CDC were also present. It was the first meeting with CDCs from all four levels together since the beginning of the pandemic. The meetings provided the WHO team with a full picture of the CDC system in China and the role of each during the early outbreak, contributing to a clearer timeline of the early outbreak and better understanding of the epidemiology surveillance done.
+
+The role of CDCs and laboratories at different levels during the early outbreak
+
+• Jianghan District CDC (one of 13 District CDCs in Wuhan): it received a report from Xinhua Hospital (also known as the Hubei Provincial Hospital of Integrated Traditional Chinese and Western Medicine Hospital), collected a sample for influenza testing, transferred it to the Municipal CDC, implemented epidemiology surveillance, searched for cases related to Huanan Market and reported to the Municipal CDC. • Wuhan Municipal CDC (with a BSL-2 laboratory): it collected a sample for respiratory pathogen testing, organized city-wide case screening and environment sample collection, PCR testing (from 24 January 2020), transferred the sample to the Provincial CDC, and retrospectively tested serologically samples from HIV/AIDS patients. • Hubei Provincial CDC (with several BSL-2 and one BSL-3 laboratory): it conducts antigen and antibody tests, virus isolation and culture, genome sequencing (from January 2020), PCR testing (from 16 January 2020), transfer samples to China CDC, collect environmental samples, provide training and provincial guidelines. • China CDC: the CDC conducted back-to-back sequencing for the earliest cases, together with the Chinese Academy of Medical Sciences and the Wuhan Institute of Virology, published results internationally, provided technical consultation, training and development of national guidelines • In total, there are around 90 CDCs in Hubei Province, including the Provincial CDC, several Municipal CDCs and District/County level CDCs. CDCs include Epidemiology departments and laboratories.
+
+Timeline
+
+Date What happened
+
+27 Dec 2019
+
+-Xinhua Hospital reported three viral pneumonia cases (a family: father, mother and child) to Jianghan District CDC. -Jianghan CDC together with Wuhan CDC went to the hospital for epi surveillance and sample collection. -Jianghan CDC did influenza tests, all negative
+
+28 Dec -The samples were transferred to Wuhan CDC for testing for 23 respiratory pathogens, all negative. -From 28 to 30 December, human and environment samples also went through FilmArray multi-respiratory pathogens testing.
+
+29 Dec -Xinhua Hospital reported another four viral pneumonia cases, all of which were workers at the Huanan Market. -Wuhan CDC and Jianghan CDC went to the hospital for throat swab sample collection. -Experts of Wuhan CDC, Jianghan CDC and two other doctors did joint consultation. -The samples were transferred directly to Wuhan CDC laboratory. -All seven cases were transferred to Jinyintan Hospital. -In the afternoon at 5 pm, the Hubei Health Commission received a call about the seven viral pneumonia cases. -Hubei CDC visited Jinyintan Hospital in the evening at 7 pm together with Wuhan CDC.
+
+30 Dec -A city-wide case screening was conducted targeting people with pneumonia of unknown origin, abnormal blood routine test (normal WBC, lymphocytopenia), and exposure history with Huanan market. More cases with similar symptoms were identified, traced and quarantined. -Wuhan CDC and Jianghan CDC went to Huanan market for environment sample collection. -Hubei CDC verified the pathogen testing for all samples; all negative. -Hubei CDC reported to China CDC. -A test report showing SARS-like testing results was circulating on social media in the afternoon.
+
+31 Dec -Continued epidemiology surveillance at several hospitals (close to Huanan market), Huanan market and the neighbourhood of Huanan market. -China CDC experts arrived to launch a three-level joint taskforce. It was agreed that the identified cases were pneumonia of unknown etiology. -Jianghan CDC together with a third-party organization disinfected Huanan market around midnight.
+
+1 Jan 2020
+
+-Huanan market was closed at 1 am.
+
+Epidemiological surveillance and its analysis for the early cases
+
+• Details were presented for first three reported cases (a family cluster) and the four cases reported on 29 December 2019 (all in workers at the Huanan market). • The findings of a retrospective study included the fact that almost one third of early cases had no exposure history to Huanan market or even any market, including before 10 December, some sporadic cases. The onset date of those with no exposure history to Huanan market is earlier than those had exposure history to the market (onset dates all after 10 December 2019). Among cases with onset date in December 2019, all cases from suburban areas of Wuhan had a history of exposure at the Huanan market. Starting from 20 December, the number of cases related to Huanan market increased sharply and spread widely. When the Hubei Provincial CDC was notified about the cases, there was already transmission in clusters. • Epidemiological information for sporadic cases has been stored in a database. Contact tracing were done for all cases identified, but the focus was hospitalized pneumonia cases, not cases with mild symptom or asymptomatic cases because of the limited understanding of the disease at the time. • The Head of the Infectious Disease Prevention Department of Hubei CDC concluded that it is likely the virus was introduced into Huanan market via an individual or animal. It is more likely from an individual given the sporadic cases prior to 10 December had no exposure to Huanan market. • There was no significant variation in the virus between January and May 2020.
+
+Findings from retrospective ILI surveillance
+
+• Hubei CDC tried to search ILI cases from October to December 2019 through surveillance system for SARS-CoV-2 testing. All results were negative. Testing was done by the sentinel hospitals, under supervision of Hubei CDC. A guideline was developed by China CDC. Every week, the sentinel hospitals submit around 20 samples to Hubei CDC. • SARS-CoV-2-positive cases were first identified by the ILI surveillance system in the first week of January 2020, demonstrating community transmission by that date.
+
+Environment samples collected from the Huanan market
+
+• The positive samples were mostly at stalls where the positive cases had worked – on the floor, walls, chopping boards, and cleaning tools. A working assumption was that the virus was likely being transmitted from people to surfaces.
+
+Other samples available for retrospective study
+
+• Issue. Although the WHO team highlighted the importance of serum samples from October to December 2019 for identifying earlier cases and origin tracing, the District CDC cannot store samples. • SARS-CoV-2 testing by Wuhan CDC on 381 HIV-positive serum samples collected in October-December 2019 and by China CDC on 2000 serum samples collected in the same period from Wuhan Tongji Hospital all tested negative. • Polio. Hubei CDC performs virus culture of stool samples for acute flaccid paralysis surveillance. If positive a sample will be sent to China CDC. If negative, the sample will normally be preserved for one year and then destroyed as it is too smelly. The cultures will be saved. It will review all the preserved early samples and check if any are available for retesting for SARS-CoV-2.
+
+Laboratories’ research and staff
+
+• Hubei CDC. All its laboratory staff have been tested for SARS-CoV-2-specific antibodies: all had negative IgM and IgG results. • Wuhan CDC. one of its staff was confirmed SARS-CoV-2 seropositive after infection due to family cluster transmission. All other staff have tested negative. A health check is mandatory for all BSL-2 laboratory workers, but no serum is preserved. • Jianghan CDC. All PCR tests for SARS-CoV-2 of all laboratory workers in June 2020 were negative.
+
+Sequencing
+
+• China CDC sequenced early samples, submitting the results to the China National Center for Bioinformation. • A sequencing kit was available on the market in the second-half of January 2020. Since then, Hubei CDC has sequenced material from imported cases, environment positive samples (mainly packaging of the imported cold-chain products, not from Huanan market). • Later samples were kept, but early samples were all sent to China CDC, Chinese Academy of Medical Sciences and Wuhan Institute of Virology for sequencing.
+
+Interview with media journalists
+
+• The journalists informed the teams of their activities. They went to Huanan market on 31 December before it was closed and had footage of the market, which could be provided to the WHO team. They did not hear anything about the disease or virus on social media prior to the report by the Government.
+
+Annex D6 - Hubei Animal CDC
+
+2 February 2021, am
+
+Participants
+
+• Government Official of Hubei Province Agricultural and Rural Bureau. • Director-General of Hubei Animal CDC and the chief of laboratory, general office, pathogenic laboratory, and serological laboratory. • Director-General of Hubei Province Wild Animal Surveillance Centre. • Director of Hubei CDC. • Chinese team and WHO team (except the Epidemiology working group).
+
+Introduction of Hubei Animal CDC
+
+• The Provincial Animal CDC is in charge of diagnostics for animal diseases, serology and pathogenic surveillance and epidemiology surveillance, laboratory management, guideline development and providing training to city, county and village level animal CDCs. • In total there are 27 staff members, of whom 18 are veterinarians.
+
+The prevention and control system for animal-related diseases
+
+• Agricultural authorities are in charge of disease prevention and control for bred animals. • The Grassland and Forestry authorities are in charge of disease prevention and control for wild animals. • A joint prevention and control committee for animal-related diseases was established between the health authorities, agricultural authorities and the forestry and environmental protection authorities. The joint committee meets regularly to update the surveillance results. If anything abnormal occurs, one authority will report to the other two. They have experienced SARS, influenza A/H7N9 and African swine fever outbreaks. • There is a bottom-up reporting system within animal CDCs, from village to the State Council, depending on the seriousness of the disease (major disease: no more than two hours for reporting at each level). • A retrospective study was done among pig, cows, sheepand poultry. All tested negative. • The Hubei Wild Animal Surveillance Centre conducts regular surveillance among migratory birds, wild boar and fur animals. • During COVID-19, the Hubei Wild Animal Surveillance Centre sampled wild animals and fur animals in 14 cities of Hubei Province for SARS-CoV-2 testing. All the results were negative.
+
+Legislation about animal trade and its enforcement
+
+• With effect from May 2020, Hubei Province issued legislation and banned consumption of all terrestrial wildlife (including domesticated wild animals), aquatic wild animals and other wild animals that are protected by law. • China has an office in charge of protecting endangered wildlife animals. • Wild animals were grouped into three level based on numbers of animals in China. The highest risk level (the smallest number) is level 1, including panda and elk. Any person found guilty of capturing or selling these animals will be sentenced for 10 years; levels 2 and 3 both carry jail sentences.
+
+• There is no regulatory authority in charge of animal trade activities conducted by small-scale breeders or individuals.
+
+Challenge in capacity-building for animal CDCs and possible solutions
+
+• The Provincial Animal CDC is short-staffed. • A BSL-3 laboratory was built in the compound of Hubei Animal CDC, but has not been used owing to lack of staff. • The WHO team suggested:
+
+more international collaboration with experts and academics from South-East Asia to build capacity and experience in laboratory research in order to apply for more funding and support from the Government starting to build capability for public health in veterinarian students and professionals as well as the veterinary medicine capability of public health students and professionals, in order to have capable professionals for sustainable animal disease prevention and control work in China connecting public health professionals, veterinary experts and socio-economic experts for joint studies and projects. • The Chinese team appreciated all above suggestions and welcomed more from WHO team regarding the human CDCs.
+
+Annex D7 - Wuhan Institute of Virology
+
+3 February 2021
+
+Participants: Professors Wang Yanyi, Yuan Zhiming, Xiao Gengfu, Shi Zhengli, Deng Fei, Zhou Peng, Chen Quanjiao, and Chen Jianjun.
+
+Members of the Chinese and international teams.
+
+• The Laboratory Director, Professor Yuan Zhiming, gave the joint team a tour of the BSL-4 facility and Professor Wang Yanyi introduced the staff and the work of the Institute. She concluded with a plea for endorsement of the application by the Wuhan Institute of Virology (WIV) to become a WHO Collaborating Centre and Reference Laboratory. • The Laboratory Director stated that WIV BSL4 laboratory was constructed in collaboration with France between 2014 and 2017, accredited in 2017, and became operational in 2018 (this information was featured on a poster in the laboratory and mentioned in the Director’s talk). • The animal room in the P4 facility can handle a variety of species, including primate work with SARS-CoV-2. • WIV has engaged in international collaborations with Insert, Merieux, Pasteur on Nipah virus; CAS Sino-Africa collaboration with Kenya; in the USA its collaborations are with EcoHealth Alliance and are funded by NIH and USAID. • WIV has been a member of the World Federation for Culture Collections since 1989. • The WIV laboratory director is a member of the ”Group of High-Containment Laboratory Directors”.
+
+The role of WIV during COVID-19 response
+
+• Rapid response: WIV received 7 samples from Jinyintan Hospital on 30 December 2019 and did sequencing and virus culture immediately. The results were conveyed to WHO, and the 5 genome sequences were published on 12 January 2020. Testing of various samples from Huanan market, wildlife markets, urban stray cats, domestic cats etc., revealed positive results in cats (not from Huanan market). • WIV worked with commercial companies to develop a nucleic acid testing kit for SARS-CoV-2. It also worked on animal models, drug and vaccine development, and providing inactivated virus; it also shared the virus strain. • WIV was heavily targeted by conspiracy theories. Staff talked to media and scientific journalists to dispel the myths.
+
+Bat coronaviruses
+
+• Professor Shi Zhengli gave an extensive scientific report on her team’s work on bat coronaviruses. She covered issues including the following:
+
+the team has collaborated internationally since 2004 about 19 000 samples had been collected, coronaviruses were detected in about 13% (2481 positive for CoV) of the tested samples by RdRp sequencing and triaged according to phylogeny. Clade 4 SARSr-CoVs only found in Yunnan all fieldwork is done with full PPE
+
+-One virus strain with high homology with SARS-CoV-2, was renamed as RaTG13, and the information published in Nature the low likelihood that RaTG13 was the precursor of SARS-CoV-2 the limited amount of live virus available for research her laboratory used recombinant viruses to test whether bat CoVs could use ACE2 to bind but used bat spike protein on a bat-CoV backbone, not human SARS. It is important to use this approach because it is difficult to isolate these viruses and envelope protein is most important part to understand function. For example, other researchers engineered SHC014 spike so did not need isolates for mouse experiments. WIV began recombinant work in 2015 with WIV-1. It received ACE2 mice in 2016 and started recombinant experiments with WIV +SHC014 in 2018 but did not finish them owing to the COVID outbreak. • She noted that viruses can be shared internationally but in compliance with Chinese laws and regulations. Her team collaborates with external partners, recently in Kenya, Thailand and Uganda. All samples are stored, but not all have been examined yet. Other collaborators in Huangzhou, Huazhong Agricultural University China, have worked on frozen samples and with stray cats.With regard to possible reservoirs of SARS-CoV-2, other species of animals than bats are sensitive hosts.
+
+Conspiracy theories
+
+• The WIV Director raised the issue of conspiracy theories, reiterating that the Institute had worked with the media to stress the need to respect science in the fight against COVID-19 and to rebut the theories. The international team’s visit could help to defuse some of the theories that were circulating. • Staff had to report any symptoms every day after the outbreak of COVID began. Serum samples were preserved annually for laboratory staff. There was extra testing during COVID outbreak according to the Yuang Zhiming (laboratory director). The Institute did not respond to conspiracy theories but understood why the WHO team needed to ask. There had been no reports of unusual diseases, none diagnosed, and all staff tested negative for SARS-CoV-2 antibodies. • Asked about positive influenza cases in October-November 2019, he replied that WIV performed retrospective research in collaboration with Wuhan Xiehe (Union) Hospital, testing ILI samples from that hospital. In total 1 001 samples were collected from patients in the hospital (the samples were not from staff of WIV). No SARS-CoV-2 NAT positive samples were found in the samples from December 2019 and four coinfections with influenza and SARS-CoV-2 were found in the 700 samples from January 2020. With regard to whether a laboratory audit had been done in response to conspiracy accusations, it was stated that annual external audits were conducted routinely. No problems had been identified. The four coinfection cases are not WIV staff. • With regard to the matter of morbidity and mortality in miners in a mine in Mojiang, Yunnan Province, where bats were present, Professor Shi said that the events had been clarified in an addendum to her Nature article. Doctors sent her the samples for testing after something like three months of illness. Miners had been to the cave 2-3 times and it was 1 meter thick with bat feces. Professor Shi’s team went there in 2012-15 about seven times to look for novel viruses. They found no viruses close to SARS-CoV but there was a rat henipa-like virus (Mojiang paramyxovirus), as reported by another group in China. Samples taken during subsequent visits to the cave were found to contain no viral sequence related to SARS-CoV-2 (like RaTG13). However, none of them has higher similarity to SARS-CoV-2 than the RaTG13 has. Therefore, none of them are the progenitor virus of SARS-CoV-2 (this would usually entail >99% in genome). None could be isolated. The reported illnesses associated with the miners, according to the WIV experts, were more likely explained by fungal infections acquired when removing a thick layer of guano. The WHO team suggested
+
+surveillance of the local population. More generally, global surveillance of bats, other animals and humans with close exposure was recommended. • With regards to questions about laboratory workers, all underwent a strict training regime that includes three levels with strict rules on number of hours training and in-laboratory experience prior to being allowed on own in lab, or to supervise others. P4 staff also undergo psychological evaluation before being allowed to work in the laboratory. Physical and mental health was monitored; no unusual respiratory infections had been noted in the previous year. Good compliance with mask use and hand hygiene was observed. Surveillance during the outbreak had been stringent; no suspected or confirmed case of COVID-19 was seen by PCR and antibody testing of all staff was negative. (If any worker had been infected, it would have been likely that close contacts would have shown signs of infection.) Sera were tested twice a year, and all had been negative. There had been no turnover of staff in the coronavirus team. • Some reports identified one former laboratory worker as “missing”. This person according the WIV staff was an alumnus who graduated in 2015 and was now working in a different province and did not accept to talk with media. The person had been contacted and tested and ascertained to be healthy. • The rumour about missing data was discussed. This related to an Excel spreadsheet that had been on the website for 10 years as part of a national databank of samples. It had been used for internal analyses and metadata. It had been planned to make this an interactive system with visualized data to fit in with the national system. They received attacks from hackers – more than 3000 cyber-attacks, so was kept offline. • The rumours of a leak from the laboratory were refuted categorically by the laboratory director for the following reasons:
+
+among the three SARS-like viruses cultured in the laboratory, none are closely related to SARS-CoV-2. The only SARS-CoV-2-like virus found by this group is RaTG13, which is neither a live (cultured) virus nor the progenitor of SARS-CoV-2 a paper by leading virologists in Nature rebutted the idea of a bioengineered source -WIV has a strong biosafety management system; the biosafety laboratory comes under different authorities, with independent assessments for the National Health Commission, for instance -The reserved sera in April 2019 and March 2020 from all the workers and students in research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies. -The laboratory director, responding to laboratory-leak theories, commented that from 2010, including the P3 laboratory, WIV has conducted experiments with more than 10,000 entries, and the P4 laboratory has conducted experiments with more than 3,000 entries in the last 3 years. No infection was ever reported. Close contacts would have been infected if there had been a laboratory leak. But serum samples from Professor Shi’s team were all negative.
+
+Origins of virus
+
+• Asked about this and the possible route into humans, WIV staff responded by noting:
+
+-A natural origin – close relatives of SARS-CoV-2 were found in bats and pangolins, and diverse genera of bats were distributed across the world and some bats could migrate. -Intermediate hosts may have an important role. -In the Wuhan outbreak the pathogen might not have been related to animals and transmission could have been from human to human. -Transmission from bats or pangolins directly to human is possible but of low probability; a more likely scenario is animal to farm animal to human to human.
+
+-The joint team’s study was the China part of the origins tracing work; attention should focus on other animals besides bats. • The recent confirmation of a closely related coronavirus in Cambodia supported the call for a large international, multidisciplinary collaborative project on all possible hosts and reservoirs and host sensitivities to these viruses. WIV would be willing to participate. The WHO team suggested that the location of the highest density farms of susceptible animals such as mink could be determined.
+
+Cold-chain
+
+• A link with frozen products had been established in the outbreak in the Xinfadi market in Beijing, but in the Hunan market frozen samples of wild animal products and other products collected in early January 2020 were all negative. Contamination of the environment in the Huanan market by infected humans could not be eliminated, and the positive human cases could not be conclusively linked with specific products. • More work on the cold chain and different types of products for possible contamination was needed.
+
+Annex D8 - Jianxinyuan Community Centre
+
+4 February 2021
+
+Participants: Director of the Jianxinyuan Community Centre, a member of the community whose spouse had died of COVID-19, survivors of COVID-19 and other members of the community.
+
+Members of the Chinese and WHO teams, including Professor Liang Wannian and Dr Peter Ben Embarek.
+
+• The joint team was welcomed at the gated community centre by its leader, who explained the functional organization of community centres in the country. The Jianxinyuan Community Centre serves a community of about 23 000 people in about 7200 families. Many were old; 480 lived alone and 90 were handicapped. The center provides services including those for senior citizens, health services, activities for children, employment and entrepreneurship services, sports and cultural activities and more. It had received an award for its anti-COVID-19 work. • News about the new coronavirus pneumonia filtered through the community in mid-January, causing some attention. Building and floor leaders went from door to door conveying epidemic prevention knowledge and emphasizing the need for public health measures to be taken – wearing masks, regular washing of hands, good ventilation, no crowding or use of lifts, and to stay indoors. Compliance was said to be “relatively high”. • During the outbreak and lockdown in early 2020, which started around 25-26 January, 19 cases of COVID-19 were recorded in the community. No obvious risk or exposure factor stood out.
+
+Functions and services during lockdown
+
+• The volunteers and block managers were divided into 13 teams that supplied food, vegetables and other necessary provisions, all free of charge; the longest interval between provision was four days undertook health promotion, healthcare and other services, including care for senior citizens, minors and single people, and people with chronic illnesses; they also contacted people who had left before the Chinese New Year, telling them that they should not return provision of medical supplies and other medical needs group buying through ecommerce was conducted by 13 teams provisions were delivered, announced with a knock on the door before the teams left, in order to eliminate face-to-face contact. • A public-access control team restricted movement into and out of the blocks. • Volunteers worked with families to reduce mental stress, encouraging calm acquiescence and taking activities such as practicing cooking, show talent, and building a healthy body. One public health message that succeeded was “As long as I stay indoors and respect prevention and control measures, that is my contribution”. • Like healthcare workers, volunteers and community workers were tested monthly by PCR free of charge. The community leader herself had been vaccinated (2 doses) already.
+
+The selected participants’ thoughts and views.
+
+• A married couple in their 70s, who both contracted COVID-19, recounted their fears and experiences. They expressed thanks to the Government for covering all their expenses and to the
+
+volunteers for smoothing their return to their apartment with practical and moral support. Of the joint team’s work on origin tracing, the husband welcomed experts to Wuhan and expressed that origin tracing should be extended to cover the whole world. • Another representative of the community who is also building director described their activities as a volunteer, urging everybody to stay indoors, delivering food and medicines, and frequently telephoning the old and lonely, concluding that quarantine brought people together as one big family. • The final witness lost their spouse due to COVID-19 and described how they were unable to see them during the final two weeks of their life due to their isolation. They acknowledged the continuing support of colleagues and was grateful to the State for psychological support and counselling. Their suffering was still very evident.
+
+Both teams acknowledged the poignant and powerful testimonies, and the strength and organization of the community.
+
+ANNEX E: Epidemiology Working Group
+
+Annex E1 - ILI surveillance supplementary data
+
+To identify unusual changes during the months preceding the early epidemic weeks of December 2019, the weekly percentage of laboratory-confirmed influenza rates of ILI were plotted and compared to the same period of the previous three years 2016-2018:
+
+Trend comparisons of 2019 influenza-rates to previous influenza seasons 2016-2018
+
+Laboratory-confirmed influenza rate in children in Wuhan in 2019 was lower between weeks 25 and 46 but increased from week 47 in 2019 and exceeded that of the previous three years from week 50 and onwards (Fig. 1). The graphs were quite irregular reflecting a limited number of cases in the surveillance system.
+
+Fig. 1. Weekly distribution of laboratory-confirmed influenza rates in paediatric cases of ILI in Wuhan from 2016 to 2019.
+
+Compared with the same period in the previous three years, the laboratory-confirmed influenza rate in adults in Wuhan in 2019 varied, with low levels from weeks 27 to 46, increasing from week 47 and exceeding the levels in the previous three years from week 51 (Fig. 2).
+
+Fig. 2. Weekly percentage of laboratory-confirmed influenza rates in adult cases of ILI in Wuhan from 2016 to 2019.
+
+Fig. 3. Weekly distribution of the number of adult ILI cases in 2019 compared with the mean of the previous three years in Wuhan.
+
+In 2019, the trends of ILI% rates and laboratory-confirmed influenza rates in Wuhan were slightly different, with the ILI% keeping relatively steady compared with the laboratory-confirmed influenza rates. The laboratory-confirmed influenza rates were high in early 2019 but increased from week 47; with a time lag of two weeks the ILI% rate increased significantly from week 49 (Fig. 3).
+
+Fig. 4. Distribution of ILI% and laboratory-confirmed influenza rates in 2019 in Wuhan.
+
+In 2019, the overall ILI rate in Wuhan was at a lower level from weeks 1 to 48, increased from the 49th week. The laboratory-confirmed influenza rate fluctuated before the 27th week, and was at a low level from 27th week to 47th week, then increased from the 47th week (Fig. 4).
+
+In 2019, the ILI% rate for all ages in Wuhan was similar to or slightly lower than the mean of the previous three years from weeks 1 to 49, but higher than the mean of the previous three years from week 49 (Fig. 5(A)).
+
+Fig. 5A. Weekly distribution of previous three years’ mean value of ILI% compared to 2019 in Wuhan.
+
+In 2019, the ILI% rate in children in Wuhan was similar to or slightly lower than the mean of the previous three years from weeks 1 to 49, but higher than the mean of the previous three years from week 49 (Fig. 5B).
+
+Fig. 5B. Weekly distribution of the previous three years’ mean value of ILI% in children compared with the rate in 2019 in Wuhan.
+
+In 2019, the ILI% rate in adults in Wuhan fluctuated, but was similar to or slightly lower than the mean of the previous three years over the whole year (Fig. 5C).
+
+Fig. 5C. Weekly distribution of the previous three years’ mean value of the ILI% rate in adults compared with that in 2019 in Wuhan.
+
+2. Analysis of ILI surveillance data in Hubei Province
+
+In 2019, most ILI cases in Hubei Province were in children (Fig. 6).
+
+Fig. 6. Population distribution of ILI cases in Hubei Province in 2019.
+
+In 2019, the ILI% rate remained relatively stable from week 33 to week 48 and began to increase from week 49. The laboratory-confirmed influenza rate fluctuated throughout the year, being relatively high from week 2 to week 6, gradually decreasing from week 7, and increasing again from week 47 (but the peak was lower than that in week 4) (Fig. 7).
+
+Fig. 7. Distribution of the ILI% rate and laboratory-confirmed influenza rate in Hubei Province in 2019.
+
+The trend of the weekly number of ILI cases in 2019 was similar to the mean of the previous three years and higher than the mean from week 48. The trend of the ILI% rate in 2019 was relatively stable, lower
+
+than that in the same period of the previous three years, and higher than that in the same period of the previous three years from week 49 (Fig. 8).
+
+Fig. 8. Distribution of the mean number of ILI cases in Hubei Province in 2019 compared to the previous three years.
+
+Fig. 9. Distribution of the average ILI% rate in Hubei Province in 2019 and the previous three years.
+
+In 2019, the weekly distribution trend of ILI cases and the ILI% rate in Hubei Province was similar to that in the six neighbouring provinces and municipalities, and the number of cases began to increase from week 48. From week 50, the ILI% rate in Hubei Province was higher than that in the six neighbouring provinces. The laboratory-confirmed influenza rate in Hubei and the six neighbouring provinces or municipalities began to rise from week 45, but in Hubei Province the rise was slightly higher than that in the other provinces from week 47 (Figs. 8 and 9).
+
+Annex E2 - A report on early cases
+
+1. COVID-19 Prevention and control
+
+1.1 Incorporating COVID-19 into Class B statutory infectious diseases in a timely manner.
+
+Since the COVID-19 outbreak began in the country, China has taken prevention and control measures in responding to the epidemic. After confirming that the SARS-CoV-2 has human-to-human transmissibility, on 20 January 2020, a decision was taken to classify COVID-19 as a Class B infectious disease in compliance with the Law of the People’s Republic of China on Prevention and Treatment of Infectious Diseases, but to apply to it the preventive and control measures for a Class A infectious disease. At the same time, China has brought COVID-19 under quarantinable infectious disease management in accordance with the Frontier Health and Quarantine Law of the People’s Republic of China. These policies mandate all detected COVID-19 cases shall be reported to the National Notifiable Infectious Disease Reporting System (NNDRS) within two hours. Before the inclusion into Class B infectious diseases, all COVID-19 cases found in Wuhan were reported to the infectious disease reporting system as unspecified pneumonia, which have been later revised as COVID-19 according to the requirements of the prevention and control protocols.
+
+1.2 Updating the prevention, control and treatment protocols continuously.
+
+With the deepening understanding of the clinical and epidemic characteristics of SARS-CoV-2, China has revised the relevant prevention and treatment protocols, updating the diagnosis and treatment protocols of COVID-19 in an average of four days, and updating the prevention and control protocols in an average of six days. On January 15, 2020, China unveiled the first version of Diagnosis and Treatment Protocol for COVID-19, and Protocol on Prevention and Control of COVID-19. Three days later on 18 January 2020, the General Office of National Health Commission (NHC) issued a Notice on the Issuance of Diagnosis and Treatment Protocol for COVID-19 (Second Trial Edition) and the Confirmation Procedure for the First COVID-19 Case in All Provinces (Districts and Municipalities) in China, which has clarified the reporting procedures for the first suspected and confirmed COVID-19 case in each province. On January 20, China included COVID-19 into the Protocol on Prevention and Control of COVID-19 (Second Edition) released on the same day, and two days later the Diagnosis and Treatment Protocols for COVID-19 (Third Edition) was released, as shown in Fig. 1.
+
+Fig. 1. Timeline of the release of COVID-19 Prevention, Control, Diagnosis and Treatment Protocols in China in 2020.
+
+Note: PPT is the protocol of diagnosis and treatment, and PPC is the protocol of prevention and control.
+
+The case definition, case reporting and management and other measures in each version of the prevention, control, diagnosis and treatment protocols were constantly revised based on findings regarding the transmissibility of SARS-CoV-2, domestic testing capacity and medical resources by then in China. Starting from the second version of prevention and control protocol, direct online reporting of cases within two hours and epidemiological study of cases within 24 hours were required. In addition, in view of the epidemiological characteristics and the actual situation of Hubei Province (when the nucleic acid testing capacity was relatively low at the early stage), the case definition for Hubei Province was formulated in the fourth version of the Protocol on Prevention and Control of COVID-19. Later, the case definition was revised as the testing capacity improved. With the deepening understanding of the COVID-19 diagnosis and treatment, immunity, vaccine research and development, virus mutation and relevant prevention and control measures, China is still revising the protocols to adapt to the current stage of prevention and control efforts by far.
+
+1.3 Adjusting the diagnostic criteria when necessary.
+
+On February 4, 2020, NHC released the Diagnosis and Treatment Protocol for COVID-19 (Trial Version 5), which stated that Hubei and other provinces should adopt different diagnostic criteria for COVID-19 cases, i.e., in provinces other than Hubei, the relevant cases were classified into “suspected cases” and “confirmed cases”, while in Hubei one more group of “clinical diagnostic cases” were added to the above two groups. This change was due to the limited nucleic acid testing capacity in Wuhan at that time, which meant that not all cases could be tested within a short period of time. To put all potential COVID-19 patients under the prevention and control process and proper treatment, “clinical diagnostic cases” were added so that all patients who should be treated could receive timely medical care, which would be conducive to lower the fatality rate.
+
+On February 18, 2020, NHC released the Diagnosis and Treatment Protocol for COVID-19 (Version 6), writing off the difference between Hubei Province and other provinces in terms of COVID-19 diagnostic criteria, and unifying them into “suspected cases” and “confirmed cases”. The main reason for this change was that the testing capacity in Hubei greatly increased. All suspected cases could be tested quickly, so the “clinical diagnostic cases” were removed from the criteria.
+
+2. Methodology
+
+2.1 Data Sources
+
+2.1.1 China’s National Notifiable Disease Reporting System (NNDRS) has been put into service nationwide since 2004. In accordance with the Law of the People's Republic of China on the Prevention and Treatment of Infectious Diseases, Center for Disease Control and Prevention (CDCs), medical institutions, blood collection and supply institutions and their staff shall report the cases of infectious diseases that they detect through the specialized network within the required time limit.
+
+2.1.2 Outpatient records and inpatient records of all medical institutions (including community health service centers and various clinics) in Wuhan from 1 October to 10 December 2019.
+
+2.2 Data collection
+
+2.2.1 Wuhan Center for Disease Control and Prevention (Wuhan CDC) searched the NNDRS for COVID-19 cases with the onset date in 2019, and clinical experts were organized to review and discuss the medical records of all cases. Moreover, Wuhan CDC conducted an in-depth epidemiological study of all the cases, mainly focusing on the travel history, occupational exposure, market exposure, animal contact and social contact and other exposure history. Taking into consideration the epidemiological study results and the opinions of clinical experts, 174 cases of COVID-19 were identified with onset date in 2019, including 100 laboratory-confirmed cases and 74 clinically diagnosed cases.
+
+2.2.2 The medical institutions searched and registered all the four categories of patients with fever, influenza-like illness, acute respiratory infection and unspecified pneumonia. Clinical physicians, laboratories and imaging experts investigated and verified the four categories of patients one by one, and to determine whether each case met the COVID-19 suspected case standard based on all available clinical manifestations, laboratory tests, imaging examinations and other information of the patients. For the patients identified as suspected cases, Wuhan Municipal Health Commission conducted epidemiological study and serum detection of coronavirus antibody.
+
+Suspected case evaluation criteria
+
+We should combine epidemiological history and clinical manifestations for a comprehensive analysis.
+
+Epidemiology history
+
+➢ A history of travel or residence in the community where COVID-19 was reported within 14 days prior to onset; ➢ A history of exposure to SARS-CoV-2 infection or asymptomatic COVID-19 infection within 14 days prior to onset. ➢ A person with fever or respiratory symptoms who had come into contact with the community where the case was reported within 14 days prior to onset of illness ➢ Cluster disease (2 or more cases of fever and/or respiratory symptoms within 2 weeks in a small area such as home, office, school, class, etc.)
+
+Clinical manifestations
+
+➢ Covid-19 related clinical manifestations such as fever and/or respiratory symptoms. ➢ COVID-19 imaging characteristics such as Subpleural lesions and/or patchy consolidation and ground-glass opacity. ➢ In the early stage of the disease, the total number of white blood cells is normal or decreased, and the lymphocyte count is normal or decreased.
+
+Evaluation criteria
+
+Any 1 epidemiological history + any 2 clinical manifestations = suspected
+
+0 epidemiological history + 3 clinical manifestations = suspected
+
+0 epidemiological history + 2 clinical manifestations + SARS-COV-2-IgM positive = suspected
+
+Evaluation procedure
+
+An expert group was formed including 2 radiological experts, 3 respiratory clinical experts, and 1 infectious disease clinical expert to evaluate each suspected case. The cases were selected by local clinical doctors from 233 hospitals in Wuhan. Each case was evaluated by the 6 experts from the perspective of clinical characteristics, disease process, CT image, laboratory tests, and treatment response. When there were different views on each case, a consensus would be decided. Finally, all the cases selected by the local health committee of Wuhan were regarded as not supportive for the diagnosis of COVID-19.
+
+2.3 Analytical Methods
+
+2.3.1 Through analyzing the temporal and spatial distribution of the incidence and the population characteristics, the study will address the trend of early COVID-19 epidemic, and preliminarily determine the outbreak process and transmission path.
+
+2.3.2 Through analyzing different exposure histories of confirmed cases, market, animal, and other relevant products, the study will figure out whether there was clusters of cases with different exposure histories, which could provide the direction for origin tracing.
+
+2.3.3 Through searching suspected cases from four types of patients and conducting epidemiological study on suspected cases, the study will identify possible early cases of COVID-19, which could provide the direction for origin tracing.
+
+2.3.4 Among the early cases, cluster cases were defined as those with two or more cases found within 14 days in a small area, such as the workplace or home.
+
+3. Findings
+
+3.1 Overview
+
+A total of 174 COVID-19 cases with onset date in 2019 in Wuhan were found in the NNDRS, including 100 laboratory-confirmed cases and 74 clinically diagnosed cases.
+
+A search was conducted on all the fever patients, influenza-like illness patients, acute respiratory tract infection patients and unspecified pneumonia patients in all medical institutions in Wuhan. No suspected COVID-19 cases were found.
+
+3.2 Epidemiological Characteristics
+
+3.2.1 Temporal distribution
+
+Among the 174 cases, the earliest onset was on December 8, followed by a gradual increase, clinically diagnosed cases appeared on December 16, and reached the peak on December 30 (a total of 30 cases), as shown in Fig. 2.
+
+Fig. 2. Epidemiological curve of the 174 COVID-19 cases.
+
+3.2.2 Spatial distribution
+
+All the 174 COVID-19 cases live in Hubei Province, including 164 in Wuhan City. 51 of the 174 cases were related to the Huanan Market while the other 113 were not. Besides, it was not clear for six cases whether they were related to the market. See Figs. 3 and 4 for the spatial distribution according to whether they were linked to the market.
+
+Fig. 3. Spatial distribution of the 174 cases by home address.
+
+Fig. 4. Spatial distribution of the 164 cases living in Wuhan by home address.
+
+3.2.3 Population distribution
+
+Among the 174 cases, 98 were male and 76 were female. The male-to-female ratio was 1:0.78, the median age was 56 years old, the oldest was 92 years old, the youngest was 22 years old, and the interquartile range was from 46 to 67 years old, as shown in Fig. 5.
+
+Compared with the entire population in Wuhan by age and gender (Fig. 6), the “40-”, “50-” and “60-” age groups accounted for a higher proportion among the 174 cases (70.7% vs 42.3%).
+
+Fig. 5. 174 COVID-19 cases - by age and gender.
+
+Fig. 6. Entire population in Wuhan - by age and gender in 2020 (ten thousand).
+
+Among the 174 cases, retirees and commercial services accounted for the largest proportion, 38.5% (67 cases) and 35.1% (61 cases), respectively. Among them, there were two cases of health care workers, as shown in Fig. 7. Fig. 8 shows the onset curve of the top four occupations.
+
+Fig. 7. Occupational distribution of 174 COVID-19 cases.
+
+A B
+
+C D
+
+Fig. 8. Onset curves of various occupations: A: retirees; B: commercial services; C: housework ; D: office clerk.
+
+Among the 174 COVID-19 cases, those with exposure history to the Huanan Market accounted for 32.7% (55 cases), the highest proportion of all exposure history. The proportion of cases with exposure history to dead animals was 26.4% (39 cases), the proportion of cases with exposure history to live animals was 11.8% (18 cases), the proportion of cases with exposure history to cold-chain products was 26.4% (29 cases), and the proportion of cases with a travel history was 8.9% (15 cases), as shown in Table 1.
+
+Table 1. Exposure history of 174 COVID-19 cases
+
+Yes No
+
+Type of exposure
+
+Total* n % n %
+
+Market 93 55.4 75 44.6 168
+
+Huanan Market only 47 28.0 121 72.0 168
+
+Others only 38 22.6 130 77.4 168
+
+Huanan Market and others 8 4.8 160 95.2 168
+
+Dead animals 39 26.4 109 73.6 148
+
+Live animals 18 11.8 134 88.2 152
+
+Cold-chain products 29 26.4 81 73.6 110
+
+Travel history 15 8.9 144 93.5 154
+
+* Excluding cases with unknown exposure history.
+
+1. Market exposure history
+
+Among the 168 cases, 93 cases had been to markets, 47 cases had only been to the Huanan Market, and 38 cases had only been to other markets. Among the 38 cases, 3 clusters (2 persons in each group) had been to the same market, the remaining 32 cases had been to different markets. Other 8 cases had been to both the Huanan Market and other markets. According to the onset date, the peak incidence of cases with market exposure history was earlier than cases without market exposure history, as shown in Figure 9.
+
+Fig. 9. onset curve of 168 cases breakdown by with or without market exposure history.
+
+According to an analysis of 168 COVID-19 cases with or without a history of exposure to the Huanan Market, the first case had no history of exposure to the Huanan Market, and the incidence of cases with and without history of exposure to the Huanan Market basically increased simultaneously. However, the cases with exposure history decreased after reaching the peak on 25 December, and the cases without exposure history reached the peak on 30 December, as shown in Fig. 10.
+
+Fig. 10. Morbidity curve of 168 COVID-19 cases with or without a history of exposure to Huanan Market.
+
+2. History of dead animals exposure
+
+Among 148 COVID-19 cases, 39 cases had a history of dead animals exposure. Both of the first and the second COVID-19 cases had a history of dead animals exposure, and the incidence rate of cases without a history of dead animals exposure was higher than that of cases with exposure history, as shown in Figure 11.
+
+Fig. 11. onset curve of 148 cases with or without a history of dead animals exposure.
+
+3. History of live animals exposure
+
+Among 152 COVID-19 cases, there were 18 cases with a history of live animal exposure, and the onset date was uniformly distributed, as shown in Fig. 12.
+
+Fig. 12. Onset curve of 152 cases with or without a history of live animals exposure.
+
+4. History of cold-chain exposure
+
+Among 110 COVID-19 cases, 29 cases had a history of cold-chain exposure. The onset of the first case was on 15 December. It showed an increasing trend before 25 December, and then gradually decreased, as shown in Fig. 13.
+
+Fig. 13. Onset curve of 110 cases with or without a history of cold-chain exposure.
+
+5. Travel history
+
+Among 154 COVID-19 cases, 15 cases had travel history, and the onset date of the first case was 15 December, with an irregular distribution, as shown in Fig. 14.
+
+Fig. 14. Incidence curve of 110 cases with or without travel or residence history.
+
+(IV) Analysis of cluster cases
+
+Among the 174 cases, as to whether there were two or more cases found within 14 days of onset in the same area, a total of seven cluster outbreaks were identified and 15 cases, including 13 laboratoryconfirmed cases and two clinically diagnosed cases were involved.
+
+1.Temporal distribution
+
+Among the 15 cluster cases, the earliest onset date was 15 December 2019, and the last onset date was 31 December 2019, as shown in Fig. 15.
+
+Fig. 15. Cluster outbreaks among the 174 cases.
+
+Among the seven clusters of cases (Fig. 16), there were two clusters with high possibility of market infection, four clusters with high possibility of family infection, and one cluster happened at home due to the introduction from market infection.
+
+Fig. 16. Seven cluster outbreaks.
+
+2. Spatial distribution
+
+The first stage of onset: 8-11 December 2019, cases were sporadic.
+
+The second stage of onset: 8-16 December 2019, the number of cases increased, and clusters of cases which were family-related emerged.
+
+The third stage of onset: 8-21 December 2019, more patients were infected. And clusters of cases were on the rise, among which the market-related clusters increased significantly.
+
+The fourth stage of onset: 8-26 December 2019, the number of cases continued to rise, and clusters of cases included market-related clusters and family-related ones.
+
+The fifth stage of onset: 8-31 December 2019, more and more patients were infected, clusters increased, and the cases spread to even larger areas, as shown in Fig. 17.
+
+th Dec.
+
+th Dec.
+
+th Dec.
+
+11
+
+16
+
+21
+
+th Dec.
+
+th Dec.
+
+26
+
+31
+
+Fig.17. Spatiotemporal distribution of cluster and sporadic cases.
+
+3. Population distribution
+
+Among the 15 cluster cases, 10 were male and 5 were female. The ratio of male to female was 2:1. The ages ranged from 32 to 70 years old, with a median age of 58 years.
+
+In terms of the occupations of cases, there were 6 cases of commercial service, 6 cases of retirees, 2 cases of housework, and 1 case of office clerk. Among the 15 cases, there were 6 cases related to the Huanan Market. Among them, there were 5 vendor cases at fixed stalls in the Huanan Market and 1 case of longterm purchasers in the Huanan Market.
+
+4. Analysis of the source of infection in cluster cases
+
+Personal details were available to the joint team, but are excluded here for protecting the privacy of the individuals.
+
+Cluster 1: Including two confirmed cases, living together as husband and wife. Both of them denied case contact history, as well as history of exposure to Huanan Market. Spouse one, 62 years old, fell ill on 15 December 2019, spouse two, 62 years old, fell ill on 26 December 2019.
+
+Source of infection: Spouse one had a travel history to Thailand in November 2019, so imported infection cannot be ruled out. The married couple had bought shrimps from a Supermarket at Yangchahu, so cold chain food contact history cannot be ruled out either. The couple denied history of exposure to Huanan Market, however they had purchased and contacted chickens slaughtered in a market at Yangchahu, they might have been exposed to infection in other markets. The onset interval between the two was 11 days, because the couple lived together, it cannot rule out the possibility that spouse one was infected by spouse two.
+
+Cluster 2: there were 3 confirmed cases, all of whom were traders of the same stall in Huanan Market. Stall employee one, 40 years old, fell ill on 17 December 2019; stall employee two, 32 years old, fell ill on 19 December 2019; stall employee three, 57 years old, fell ill on 25 December 2019. It was a fixed stall in Huanan Market, dealing in frozen products such as pastry and soy products. Employee two was purchasing goods from the Baishazhou market and Huanan Market back and forth. Employee three was delivering goods in Huanan Market.
+
+Possible sources of infection: employee one might be infected from environmental exposure in Huanan Market, employee two and employee three might be infected from market environmental exposure or human to human transmission.
+
+Cluster 3: there were two confirmed cases, living together as husband and wife, and both of them denied animal contact history and history of travel. Spouse one, 61 years old, fell ill on 20 December 2019; Spouse two, 57 years old, fell ill on 25 December 2019. Spouse one had been engaged in restaurant distribution for a long time, and often stocked up in Huanan Market. Spouse two denied a history of exposure to Huanan Market or other markets.
+
+Possible source of infection: Spouse one might be infected from environmental exposure in Huanan Market, and spouse two was likely to be infected from spouse one.
+
+Cluster 4: There were two confirmed cases, both of whom were employees of the same stall in Huanan Market, and both of them denied contact history of poultry and animals, as well as contact history of travel. Employee one, 56 years old, fell ill on 20 December 2019; employee two, 45 years old, fell ill on 26 December 2019. It was a fixed stall in the Huanan Market, dealing in aquatic products such as catfish and perch.
+
+Possible source of infection: Employee one might be infected from environmental exposure in Huanan Market, and employee two might be infected from environmental exposure in Huanan Market or humanto-human transmission.
+
+Cluster 5: there were two confirmed cases, living together as husband and wife. Both of them denied exposure to Huanan Market, confirmed exposure to Jinyinhu Farmers Market, denied contact history of poultry and animals, and denied history of travel. Spouse one, 57 years old, fell ill on 22 December 2019; spouse two, 58 years old, fell ill on 24 December 2019.
+
+Possible source of infection: Spouse one be infected from Jinyinhu market environmental exposure or community exposure; They might be infected from human-to-human transmission or Jinyinhu market environmental exposure or community exposure.
+
+Cluster 6: There were two clinically diagnosed cases, living together as husband and wife. Both of them denied exposure to the Huanan Market, confirmed exposure to Yangchahu market and the Gusaoshu market, denied animal contact history, and denied exposure history of travel. Spouse one, 70 years old, fell ill on 26 December 2019; Spouse two, 70 years old, fell ill on 28 December 2019.
+
+Possible source of infection: Spouse one might be infected from market environmental exposure or community exposure, and Spouse two might be infected from market environmental exposure or humanto-human transmission or community exposure.
+
+Cluster 7: There were two confirmed cases, living together as husband and wife. None of them had links with Huanan Market. Both of them denied animal contact history and travel history. Spouse one, 62 years old, fell ill on 30 December 2019; Min X, male, 70 years old, fell ill on 31 December 2019. Shen had visited a small supermarket near Huanan Market, and Min had visited a market at Changgang Road.
+
+Possible source of infection: might be infected from supermarket environmental exposure or community exposure, and spouse two might be infected from market environmental exposure or human-to-human transmission or community exposure.
+
+Annex E3 - Case definitions: evolution over time
+
+Version Issue Date
+
+severe case critical case V1 2020-01-15
+
+Epidemiological history
+
+Clinical manifestations
+
+Suspected case
+
+Clinically diagnosed case
+
+Confirmed case
+
+mild case common case
+
+(1) Travel history in Wuhan within 14 days before the onset of illness; (2) Direct and indirect exposure to related markets in Wuhan especially farmers market in Wuhan within 14 days before the onset of illness.
+
+(1) fever; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood cells is normal or decreases, or
+
+Observed case: Have any one of the epidemiol ogical history and have the clinical manifestati ons.
+
+NA Observed cases with whole genome sequence of virus isolated from respiratory specimens such as sputum and throat swab is highly homologo us to known 2019nCoV.
+
+NA NA NA Cases meeting any of the following criteria: (1) Respirato ry failure ； (2) Septic Shock; (3) With other concomit ant organ failure that requires ICU monitorin g and treatment .
+
+the lymphocyte count decreases in the early stage of disease. (4) After three days of standard antibiotic treatment, the disease had no significant improvement but had progressive aggravation.
+
+V2 2020-01-18
+
+(1) Travel history or residence history in Wuhan within 14 days before the onset of illness; (2) Contact history with patient who had fever and concomitant respiratory symptom from Wuhan within 14 days before the onset of illness; (3) Cluster.
+
+(1) Fever; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood cells is normal or decreases, or the lymphocyte count decreases in the early stage of disease
+
+Suspected cases (cases originally placed under observatio n): Have any one of the epidemiol ogical history and have the clinical manifestati ons.
+
+NA Suspected cases with one of the following pathogeni c evidence:
+
+1. 2019nCoV nucleic acid is tested positive in respiratory specimens such as sputum, throat swab, and lower respiratory secretion by realtime fluorescen t RT-PCR;
+
+2. Gene sequence of virus is highly homologo us to known 2019nCoV.
+
+NA NA Cases meeting any of the following criteria: (1) Increased respiratory rate (≧30 breaths/ min), difficulty in breathing, and cyanosis of lips; or When inhaling air, oxygen saturation is ≦ 95%; or Arterial partial pressure of oxygen (PaO2)/ fraction of inspired oxygen (FiO2)≦300 mmHg (1 mmHg=O. 133kPa); (2) Pulmonary imaging shows multilobular lesions or lesion progression exceeding
+
+Same with V1 Cases meeting any of the following criteria: (1) Respirato ry failure ； (2) Septic Shock; (3) With other concomit ant organ failure that requires ICU monitorin g and treatment .
+
+50% within 48 hours; (3) qSOFA score ≧ 2; (4) CURB-65 score ≧ 1; (5) With concomitant aerothorax; (6) Other clinical conditions that require hospitalizati on.
+
+V3 2020-01-22
+
+Same with V2 (1) Travel history or residence history in Wuhan within 14 days before the onset of illness; (2) Contact history with patient who had fever and concomitant respiratory symptom from Wuhan within 14 days before the onset of
+
+Same with V2 (1) Fever; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops
+
+Same with V2 Suspected cases (cases originally placed under observatio n): Have any one of the epidemiol ogical history and have the clinical manifestati ons.
+
+NA Same with V2 Suspected cases with one of the following pathogeni c evidence:
+
+1. 2019nCoV nucleic acid is tested positive in respiratory specimens such as sputum,
+
+NA NA Cases meeting any of the following criteria: (1) Increased respiratory rate (≧30 breaths/ min), difficulty in breathing, and cyanosis of lips; (2) When inhaling air, oxygen saturation is ≦ 93%
+
+Cases meeting any of the following criteria: (1) Respirato ry failure and requiring mechanic al ventilatio n; (2) Shock; (3) With other
+
+illness; (3) Cluster.
+
+multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood cells is normal or decreases, or the lymphocyte count decreases in the early stage of disease.
+
+throat swab, and lower respiratory secretion by realtime fluorescen t RT-PCR;
+
+2. Gene sequence of virus is highly homologo us to known 2019nCoV.
+
+(3) Arterial partial pressure of oxygen (PaO2)/ fraction of inspired oxygen (FiO2)≦300 mmHg (1 mmHg=O. 133kPa); (4) Pulmonary imaging shows multilobular lesions or lesion progression exceeding 50% within 48 hours; (5) With other concomitant clinical conditions that require hospitalizati on.
+
+concomit ant organ failure that requires ICU monitorin g and treatment .
+
+V4 2020-01-28
+
+(1) Travel history or residence history in Wuhan area or other areas with sustained local transmission within 14 days before the onset of illness; (2) Contact history with patient who had fever or respiratory symptom from Wuhan City or other areas with sustained local transmission within 14 days before the onset of illness; (3) Cluster or has epidemiological link to NCP infection person.
+
+Same with V2 (1) Fever; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood cells is normal or decreases, or the lymphocyte count decreases in the early stage of disease.
+
+Have any one of the epidemiol ogical history and have any two of the clinical manifestati ons.
+
+NA Suspected cases with one of the following pathogeni c evidence:
+
+1. 2019nCoV nucleic acid is tested positive in respiratory specimens or blood specimens by realtime fluorescen t RT-PCR;
+
+2. Gene sequence of virus isolated from respiratory specimens or blood specimens is highly homologo us to known 2019nCoV.
+
+NA Cases who have fever or respirator y symptom s, and imaging shows pneumon ia
+
+Cases meeting any of the following criteria: (1) Respiratory distress (RR ≧30 breaths/ min); (2) At rest, oxygen saturation is ≦ 93% (3) Arterial partial pressure of oxygen (PaO2)/ fraction of inspired oxygen (FiO2)≦300 mmHg (l mmHg=O. 133kPa).
+
+Same with V3 Cases meeting any of the following criteria: (1) Respirato ry failure and requiring mechanic al ventilatio n; (2) Shock; (3) With other concomit ant organ failure that requires ICU monitorin g and treatment .
+
+V5 2020-02-04
+
+(1) Travel history or residence history in Wuhan and surrounding areas or other community with reported NCP patient within 14 days before the onset of illness; (2) Contact history with NCP infection person (2019nCoV nucleic acid positive) within 14 days before the onset of illness; (3) Contact history with patient who had fever or respiratory symptom from Wuhan and surrounding areas or other community with reported NCP patient within 14 days before the onset of illness; (4) Cluster.
+
+Provinces other than Hubei Province: (1) Fever and/or respiratory symptom; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood cells is normal or decreases, or
+
+Provinces other than Hubei Province: Have any one of the epidemiol ogical history and have any two of the clinical manifestati ons. Or without obvious epidemiol ogical history, but have three of the clinical manifestati ons.
+
+Hubei Province: With any one of the epidemiol ogical history or without epidemiol ogical history, but have two of the clinical
+
+Hubei Province: Suspected case with imaging characteristics of pneumonia mentioned above ；
+
+Same with V4 Suspected cases with one of the following pathogeni c evidence:
+
+1. 2019nCoV nucleic acid is tested positive in respiratory specimens or blood specimens by realtime fluorescen t RT-PCR;
+
+2. Gene sequence of virus isolated from respiratory specimens or blood specimens is highly homologo us to known 2019nCoV.
+
+The clinical symptom s were mild, and there was no sign of pneumon ia on imaging
+
+Same with V4 Cases who have fever or respirator y symptom s, and imaging shows pneumon ia
+
+Same with V4 Cases meeting any of the following criteria: (1) Respiratory distress (RR ≧30 breaths/ min); (2) At rest, oxygen saturation is ≦ 93% (3) Arterial partial pressure of oxygen (PaO2)/ fraction of inspired oxygen (FiO2)≦300 mmHg (1 mmHg=O. 133kPa).
+
+Same with V3 Cases meeting any of the following criteria: (1) Respirato ry failure and requiring mechanic al ventilatio n; (2) Shock; (3) With other concomit ant organ failure that requires ICU monitorin g and treatment .
+
+the lymphocyte count decreases in the early stage of disease.
+
+Hubei Province: (1) Fever and/or respiratory symptom; (2) The total number of white blood cells is normal or decreases, or the lymphocyte count decreases in the early stage of disease.
+
+manifestati ons.
+
+2020-02-08
+
+Same with V5 Same with V5 Same with V5
+
+Same with V5 Same with V5
+
+Same with V5
+
+Same with V5
+
+Same with V5
+
+Same with V5
+
+V5 revisio
+
+n
+
+V6 2020-02-18
+
+Same with V5 (1) Travel history or residence history in Wuhan and surrounding areas or other community with reported NCP patient within 14 days before the onset of illness; (2) Contact history with NCP infection person (2019nCoV nucleic acid positive) within 14 days before the onset of illness; (3) Contact history with patient who had fever or respiratory symptom from Wuhan and surrounding areas or other community with reported NCP patient within 14 days before the onset of illness; (4) Cluster.
+
+Same with the part of provinces other than Hubei Province in V5: (1) Fever and/or respiratory symptom; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood
+
+Same with the part of provinces other than Hubei Province in V5: Have any one of the epidemiol ogical history and have any two of the clinical manifestati ons. Or without obvious epidemiol ogical history, but have three of the clinical manifestati ons.
+
+NA Suspected cases with one of the following pathogeni c evidence:
+
+1. 2019nCoV nucleic acid is tested positive by realtime fluorescen t RT-PCR;
+
+2. Gene sequence of virus is highly homologo us to known 2019nCoV.
+
+Same with V5 The clinical symptom s were mild, and there was no sign of pneumon ia on imaging
+
+Same with V4 Cases who have fever or respirator y symptom s, and imaging shows pneumon ia
+
+Cases meeting any of the following criteria: (1) Shortness of breath (RR ≧30 breaths/ min); (2) At rest, oxygen saturation is ≦ 93% (3) Arterial partial pressure of oxygen (PaO2)/ fraction of inspired oxygen (FiO2)≦300 mmHg (1 mmHg=O. 133kPa). PaO2/FiO2 should be corrected at high altitudes (over 1000 m) according to the following formula: PaO2/FiO2 × [Atmospheri c pressure (mmHg)/760
+
+Same with V3 Cases meeting any of the following criteria: (1) Respirato ry failure and requiring mechanic al ventilatio n; (2) Shock; (3) With other concomit ant organ failure that requires ICU monitorin g and treatment .
+
+cells is normal or decreases, or the lymphocyte count decreases in the early stage of disease.
+
+] (4) Pulmonary imaging showed significant lesion progression to > 50% within 24 to 48 hours
+
+V7 2020-03-03
+
+(1) Travel history or residence history in Wuhan and surrounding areas or other community with reported NCP patient within 14 days before the onset of illness; (2) Contact history with NCP infection person (2019nCoV nucleic acid positive) within 14 days before the onset of illness; (3) Contact history with patient who had fever or respiratory symptom from Wuhan and surrounding areas or other community with reported NCP patient within 14 days before the onset of illness; (4) Cluster (within two weeks, in a
+
+(1) Fever and/or respiratory symptom; (2) With the imaging characteristics of pneumonia mentioned above; (Multiple small patchy shadows and interstitial changes appeared early, and the extrapulmonary bands were obvious. Furthermore, it develops multiple ground glass infiltration and infiltrates in both lungs. In severe cases, pulmonary consolidation may occur, but pleural effusion are rare.) (3) The total number of white blood cells is normal or decreases, or the lymphocyte count is normal or decreases in
+
+Have any one of the epidemiol ogical history and have any two of the clinical manifestati ons. Or without obvious epidemiol ogical history, but have three of the clinical manifestati ons.
+
+NA Suspected cases with one of the following pathogeni c or serologica l evidence:
+
+1. 2019nCoV nucleic acid is tested positive by realtime fluorescen t RT-PCR;
+
+2. Gene sequence of virus is highly homologo us to known 2019nCoV. 3. COVID-19 IgM or IgG is positive in serum, or a significant (> 4-fold) rise in COVID-19 IgG concentrat
+
+Same with V5 The clinical symptom s were mild, and there was no sign of pneumon ia on imaging
+
+Same with V4 Cases who have fever or respirator y symptom s, and imaging shows pneumon ia
+
+Adult cases meeting any of the following criteria: (1) Shortness of breath (RR ≧30 breaths/ min); (2) At rest, oxygen saturation is ≦ 93% (3) Arterial partial pressure of oxygen (PaO2)/ fraction of inspired oxygen (FiO2)≦300 mmHg (1 mmHg=O. 133kPa). PaO2/FiO2 should be corrected at high altitudes (over 1000 m) according to the following formula: PaO2/FiO2 × [Atmospheri c pressure (mmHg)/760
+
+Same with V3 Cases meeting any of the following criteria: (1) Respirato ry failure and requiring mechanic al ventilatio n; (2) Shock; (3) With other concomit ant organ failure that requires ICU monitorin g and treatment .
+
+small range such as a family, an office, a classroom in school, 2 or more cases with fever and/or respiratory symptom were detected).
+
+the early stage of disease.
+
+ions between acute and convalesc ent sera.
+
+] (4) Pulmonary imaging showed significant lesion progression to > 50% within 24 to 48 hours
+
+Child cases meeting any of the following criteria: (1) Shortness of breath (RR ≧60 breaths/min for under 2month-old, RR ≧50 breaths/min for 2~12 month-old, RR ≧40 for 1~5 year-old, RR ≧30 for older than 5 year-old) except for effect from fever and crying; (2) At rest, oxygen saturation is ≦ 92%
+
+(3) Assisted breathing (groaning, wing flaps, triconcave sign), cyanosis, intermittent apnea; (4) Drowsiness and convulsions; (5) Refuse to feed or difficult to feed, with signs of dehydration.
+
+Annex E4- Analysis of market-related cases and the cluster outbreak in the Huanan
+
+Market
+
+Background
+
+The papers published show that 66% of the 41 confirmed cases in Wuhan before 2 January 2020 were once exposed to the Huanan Market (Huang et al. 2020). Therefore, investigating the possible source of the outbreak in the Huanan Market, the earliest reported epidemic site, is of great significance to the global origin tracing of SARS-CoV-2. This study will focus on the possible source of the Huanan Market epidemic and explore the SARS-CoV-2 transmission mechanism in the market, so as to provide clues for the origin tracing of SARS-CoV-2.
+
+Materials and methods
+
+(I) Data source
+
+i Infectious disease epidemic network and epidemiological study
+
+The information of cases is mainly collected through the direct reporting system of infectious disease information network and retrospective questionnaires done by the confirmed cases, including general information such as age, gender and home address, as well as the time of onset, market exposure history, exposure history with other patients, animal exposure history, and other onset and exposure related information.
+
+ⅱ Research on Huanan Market
+
+The information of business operators and vendors in Huanan Market was collected from the market administration authority, including:
+
+(a) The information of 678 operators, including the location of stalls, types of stores, types of goods, source of purchase (company name and address), whether the cold chain system and imported goods were involved;
+
+(b) Information on 1,162 vendors, including gender, age, stall locations, types of goods sold, contact history with cold chain system, animals and imported goods.
+
+(II) Analysis methods
+
+By describing the temporal and spatial distribution characteristics of epidemiology in different populations, comparing the possible association and joint exposure factors of the early cases, and analysing the characteristics of epidemic curve of populations with different market exposure history, the time points of community and market transmission and the possible sources of Huanan Market outbreak are explored; by comparing the morbidity risk of population under different exposures, the epidemic transmission mechanism in the Huanan Market is discussed.
+
+Results
+
+(I) Market exposure
+
+There were 174 diagnosed cases of COVID-19 with onset date prior to 31 December 2019 (including those retrospectively diagnosed) in Wuhan. 6 cases with unknown market exposure history, 55.4% (93/168) of the cases had a history of market exposure. Among them, 28.0% were only exposed to the Huanan Market, and 22.6% were only exposed to other markets. 26.4% of the early cases were exposed to cold-chain food in markets. The earliest cases had no history of exposure to the Huanan Market, but had a history of exposure to other markets, the history of cold-chain exposure was unknown.
+
+Table 1. Market exposure of early cases.
+
+Yes No
+
+Type
+
+Total n % n %
+
+All market 93 55.4 75 44.6 168
+
+Only Huanan 47 28 121 72 168
+
+Only Other 38 22.6 130 77.4 168
+
+Mixed 8 4.8
+
+160 95.2
+
+168
+
+Cold chain 29 26.4
+
+81 73.6
+
+110
+
+According to whether the cases had a history of market exposure, the epidemic curves are drawn respectively (Fig. 1). It is found that all the first four known cases had market exposure history; after late December, a large number of cases without market exposure history appeared.
+
+Fig. 1. Epidemic curve of people with and without market exposure history.
+
+Among the cases with market exposure history, 51% (47/93) of the cases were only exposed to the Huanan Market. Further analysis of the cases that were only exposed to other markets found that, except for 9 cases with unknown market exposure history, the remaining 29 cases were related to 27 markets, which were relatively scattered, and no early cases were exposed to the same market as the first case. Therefore, it is necessary to focus on the Huanan Market regarding the role of markets in the Wuhan outbreak.
+
+(II) Huanan Market exposure
+
+(ⅰ) About the Huanan Market
+
+The Huanan Market was located in Jianghan District, Wuhan City, with a total construction area of 50 000 square meters. It was divided into east area and west area by Xinhua Road. The west area mainly dealt in fresh aquatic products, frozen seafood, dried seafood, poultry meat and vegetables, while the east area mainly dealt in frozen livestock meat, fresh prawns and dried seasonings.
+
+There were 678 fixed business operators in the market, with some business operators selling multiple types of goods. In terms of the types of goods sold (Table 2), the market mainly dealt in fresh water aquatic products and seafood, followed by livestock meat and poultry meat; in addition, the market also dealt in vegetables and other goods (including cereals and oils, seasonings, dried fruits, prepackaged food, disposable tableware, hardware and daily necessities). There were 10 stalls selling animals, mainly dealing in meats of domesticated wild animals, such as snakes, bamboo rats and turtledoves.
+
+Table 2. The composition of the types of goods in the Huanan Market.
+
+Types of goods Number of stalls（N=678） Composition ratio （%）
+
+Freshwater aquatic products 300 44
+
+Seafood 267 39
+
+Livestock meat 160 24
+
+Poultry meat 115 17
+
+Vegetables 58 8.6
+
+Meat of domesticated animals 10 1.5
+
+Others 178 26
+
+Note: Those selling two or more types of goods at the same time were separately counted in different groups.
+
+(ⅱ) Demographic characteristics of the cases
+
+Most of the market-related cases are occupational population (Table 3), mainly male, mostly between 40 and 60 years old. 94% of the cases related to the Huanan Market were directly exposed. Among them, market vendors and purchasers accounted for 77% of all cases, which was significantly more than passers-by, buyers, deliverymen, visitors, and those who were indirectly exposed to the Huanan Market, indicating that the way and frequency of exposure in the market may be related to the morbidity risk.
+
+Table 3. General information of cases.
+
+Number of cases (N=55）
+
+Composition ratio (%）
+
+Gender
+
+male 37 67
+
+female 18 33
+
+Age
+
+20-3 5.5
+
+30-7 13
+
+40-20 36
+
+50-16 29
+
+60-7 13
+
+70-2 3.6
+
+Types of exposure
+
+Direct exposure Vendor a 30 55
+
+Purchaser b 12 22
+
+Passer-by c 5 9.1
+
+Buyer d 3 5.5
+
+Deliveryman e 2 3.6
+
+Visitors f 1 1.8
+
+Indirect exposure Contact of the Huanan Market exposed population 2 3.6
+
+a Owners who have fixed stalls in the market or their employees;
+
+b Purchasing food materials at different stalls for hotels, restaurants, etc.;
+
+c Passing by the market without making a purchase;
+
+d Community residents who purchase food for their families in the market;
+
+e Delivering certain goods to designated merchants;
+
+f Looking for someone in the market, without purchasing.
+
+(Ⅲ) Analysis of the time points of community transmission and Huanan Market transmission
+
+The cases are further classified according to their history of exposure to the Huanan Market, and the epidemic curve is shown in Figure 2. Among them, cases with a history of exposure to the Huanan Market account for 33% (55/168); the first known case (8 December) had no history of exposure to Huanan Market (none of the patient, family members and other contacts had history of exposure to Huanan Market). The market he visited was RT-Mart supermarket in Jiangxia District, which was more than 20km away from the Huanan Market. After the first case with history of exposure to Huanan Market appeared on December 11, Huanan Market-related cases increased rapidly, and reached a peak (nine cases) on 25 December 2019.
+
+Fig. 2. Epidemic curve of cases with and without history of exposure to Huanan Market
+
+According to the type of association, the cases associated with the Huanan Market are further classified into vendors and visitors. The epidemic curve is shown in Fig. 3. Among them, both of the first two cases were visitors (11 and 12 December); the first vendor case appeared on 13 December and reached a peak on 25 December (7 cases).
+
+Fig. 3. Epidemic curve of cases for vendor and visitors of Huanan Market.
+
+(Ⅳ) Analysis of the possibility of virus introduced into the market
+
+(ⅰ) Analysis of the possibility of virus introduced into the market by human
+
+Through the analysis of the onset date of vendors, purchasers and other people directly exposed to Huanan Market (Fig. 4), it was found that the onset of purchasers and vendors were the earliest, while the onset of cases exposed by other ways were later than 20 December, indicating that vendors and purchasers deserve more attention in the analysis of the source of the Huanan Market outbreak. The onset of purchasers (12 December) was earlier than that of vendors (13 December), but the difference was only one day, which was within a common incubation period. Therefore, it is impossible to judge whether the purchasers and vendors with the earliest onset are the same generation of cases caused by joint exposure, or the infection of vendors were caused by the virus introduced into the market by purchasers.
+
+Fig. 4. Epidemic curve of cases for directly exposed to Huanan Market.
+
+(ii) Analysis of the possibility of virus introduced into the market through joint exposure
+
+Through the analysis of the exposure information of 2 purchasers and 3 vendors with the earliest onset in the Huanan Market (Table 4), it was found that none of the 5 cases had similar exposure history. Both of the two purchasers were seafood purchasers, but there were no fixed purchasing stalls; 2 of the 3 vendors sold seafood, and further study on the source of their purchase found that no one in other stalls selling seafood from the same source in Huanan Market was infected, so the possibility of infection caused by the exposure of seafood sold in these two stalls was not high. The purchasers with the earliest onset may have had contact with some vendors, but it cannot be ruled out that they have been exposed to other common risk factors, such as asymptomatic infection or contaminated stall environment.
+
+Table 4. Exposure information of five cases with the earliest onset in Huanan Market
+
+History of contact with other animals
+
+Serial Number
+
+Way of exposure Date of onset Types of goods
+
+Travel history
+
+History of case contact
+
+Case 1 purchasing 2019/12/12 seafood No No No
+
+Case 2 vending 2019/12/13 seafood, aquatic products, livestock meat, and frozen poultry meat
+
+No No No
+
+Case 3 purchasing 2019/12/17 Seafood Yes (poultry meat)
+
+Yes No
+
+Case 4 vending 2019/12/17 Frozen products such as pastry and soy products
+
+No No No
+
+Case 5 vending 2019/12/18 Seafood No No No
+
+(V) The spread characteristics of the Huanan Market epidemic in early stage
+
+In order to further understand the spread characteristics of the Huanan Market epidemic in early stage, and to understand the impact of different goods exposures, cold chains and other market factors on the spread of the epidemic in the market, we have further analysed 30 vendor cases.
+
+(i) Temporal and spatial distribution of cases in the Huanan Market
+
+The spatial distribution of early cases in the Huanan Market was analysed weekly (Fig. 5). It was found that the cases before 20 December were all distributed in the west area. The first case occurred in the east area in the third week, and the total number of cases in east area was significantly less than those in the west area.
+
+Fig. 5. The spatial distribution of early cases in the market weekly.
+
+(ii) Types of goods sold by the cases
+
+Among the 30 cases (Fig. 6), 50% (15/30) of the patients dealt in aquatic products, followed by seafood 47% (14/30). This result was consistent with the overall composition of people dealing in different goods in the Huanan Market: 48% and 42% of the vendors in the Huanan Market were involved in aquatic products and seafood business respectively. There were no cases found to be domesticated animal vendors.
+
+Fig. 6. Distribution of vendor cases among stalls selling different food.
+
+Note: since the same vendor sells multiple types of goods at the same time, the same case may belong to different group of exposed goods at the same time.
+
+(iii) Morbidity rate of vendors
+
+The morbidity rate of vendors dealing in various types of goods is shown in Table 5. Among them, the morbidity rate of vegetable vendors is the highest, which is 4.6% (5/108), followed by poultry vendors, which is 3.5% (8/230).
+
+The spatial distribution of vegetable vendors and 5 cases in the market is shown in Fig. 7. It can be seen from the figure that these 5 cases had obvious spatial clustering characteristic.
+
+Table 5. Morbidity rate of vendors by type of sold goods
+
+Group Number of cases Total Morbidity (%)
+
+Vegetables 5 108 4.6
+
+Poultry meat 8 230 3.5
+
+Seafood 14 484 2.9
+
+Livestock meat 9 318 2.8
+
+Freshwater aquatic products 15 559 2.7
+
+Others 3 266 1.1
+
+Meat of domesticate animal 0 15 0.0
+
+Note: there were 1162 vendors and 30 confirmed cases in total, so the same case and vendor may belong to different group of sold goods.
+
+Fig.7. Distribution of vegetable stalls and vendor cases
+
+(iv) The impact of exposure to cold chain and imported goods on morbidity
+
+In view of previous studies, the cold chain environment is conducive to the survival and spread of the virus, therefore we have analysed the impact of the cold chain exposure history on the spread of virus in the Huanan Market. Table 6 shows the morbidity rates of vendors with different level of cold chain exposure, calculated with merchants and vendors as the analysis unit respectively. The results show that the morbidity rate of stalls with cold chain was significantly higher than stalls without cold chain (5.6% vs. 1.7%), and the morbidity rate of people with cold chain exposure was also higher than people without cold chain exposure (3.3% vs. 1.4%), and the morbidity rate of people exposed to non-imported cold chain are slightly higher than those exposed to imported goods with cold chain (3.4% vs. 1.7%). Figure 8 shows the epidemic curve of vendor cases with and without exposure to cold chains. Among them, the earliest 3 cases all had a history of exposure to cold chain.
+
+Table 6. Morbidity rate of vendors and stalls – by cold-chain.
+
+Cold chain Imported food Stalls Vendors With case Morbidity (%) Case Morbidity (%) Yes
+
+22 5.6 24 3.3
+
+Yes 1 3.2 1 1.7
+
+No 21 5.8 23 3.4 No
+
+5 1.7 6 1.4
+
+Fig. 8. Epidemic curve of vendor cases with and without exposure to cold-chain.
+
+Market environment
+
+Environmental samples were collected from 134 stalls in the Huanan Market for SARS-CoV-2 nucleic acid test (Table 7). It was found that 21 business environments tested positive in the SARS-CoV-2 nucleic acid test, and 7 of them appeared cases. Among the 113 stalls with negative environmental NATs results, 9 of them have confirmed cases. The relative risk of cases in stalls with positive nucleic acid testing results is 4.2 times that of stalls with negative results (RR=4.2, 95%CI: 1.8-10). It can also be seen from Figure 9 that the number of cases in areas with positive environmental nucleic acid testing results is relatively higher.
+
+Table 7. Morbidity rate of stalls – by environment (n =134).
+
+Environment samples With case Morbidity (%) Positive(n=21) 7 33 Negative(n=113) 9 8.0
+
+Fig. 9. Distribution of the stalls with cases and the results of SARS-CoV-2 environmental nucleic acid test.
+
+Discussion
+
+1. There are two possibilities where the epidemic first occurred, and neither the community nor the market could be ruled out.
+
+2. The Huanan Market may not be the first place where the epidemic occurred.
+
+3. There are two possibilities for the introduction of viruses into the Huanan Market, and neither human nor goods could be ruled out.
+
+4. The Huanan Market may act as an “amplifier” in the early stage of the epidemic, and the contaminated environment may be a joint exposure factor leading to the infection of market-related cases.
+
+Reference
+
+(1) Huang C, Wang Y, Li X et al. Clinical features of patients infected with 2019 novel coronavirus
+
+in Wuhan, China. The Lancet, 2020, 395(10223):497-506.
+
+ANNEX F: Animal and environment
+
+Further information on animals and environment
+
+Table 1. Reported cases of animals infected with SARS-CoV-2, from (1).
+
+Member Species affected Date of first report
+
+Hong Kong SAR Dog and cat 21/03/2020
+
+Belgium Cat 28/03/2020
+
+Feline (tiger, lion, cat),
+
+United States of America
+
+06/04/2020
+
+dog, mink
+
+Netherlands Mink 26/04/2020
+
+France Cat 02/05/2020
+
+Mink 25/11/2020
+
+Spain Cat 11/05/2020
+
+Mink 16/07/2020
+
+Germany Cat and dog 13/05/2020
+
+Russian Federation Cat 26/05/2020
+
+Denmark Mink 17/06/2020
+
+United Kingdom of Great Britain and Northern Ireland
+
+Cat 28/07/2020
+
+Japan Dog 07/08/2020
+
+Cat 06/11/2020
+
+South Africa Puma 11/08/2020
+
+Italy Mink 30/10/2020
+
+Cat 09/12/2020
+
+Sweden Mink 29/10/2020
+
+Chile Cat 22/10/2020
+
+Canada Dog 28/10/2020
+
+Mink 09/12/2020
+
+Brazil Cat 29/10/2020
+
+Greece Mink 16/11/2020
+
+Argentina Cat and dog 18/11/2020
+
+Lithuania Mink 30/11/2020
+
+Switzerland Cat 03/12/2020
+
+United States of America Gorilla 11/01/2021
+
+Table 2. Animal species infected in laboratory susceptibility studies.
+
+Species Susceptibility Symptom Transmission capacity
+
+Ferret High Yes, a few Horizontal transmission
+
+Rabbit High No No
+
+Racoon dog High No Horizontal transmission
+
+Livestock
+
+Cattle Very low No No
+
+Pig Very low No No
+
+Poultry (chicken, duck, turkey)
+
+No No No
+
+Cat High Yes, some Horizontal transmission
+
+Pets
+
+Dog Low No No
+
+Pangolin (Malay) High No Horizontal transmission
+
+Wild animals
+
+Fruit bat High No Horizontal transmission
+
+North American possums
+
+High No Horizontal transmission
+
+Golden hamster High Yes, various Horizontal transmission
+
+Monkeys (Rhesus monkeys, crab-eating monkeys, African green monkeys)
+
+High Yes, various Horizontal transmission
+
+Other animals
+
+Marmoset High No Horizontal transmission
+
+Tree shrew High No Unknown
+
+Fig. 1. Electron micrograph of negatively-stained SARS-CoV-2 virions from environmental samples of Huanan market
+
+Fig. 2 Transmission electron micrograph of SARS-CoV-2 cultured from environmental swabbing of Huanan market.
+
+Table 3: List of supplier type, location and animal products for all vendors selling wildlife products at Huanan Market.
+
+To protect private and commercial information, names of companies have in most cases been redacted. Source, Market Authorities.
+
+Serial number for Vendors Animal type Sources
+
+West 8-25 (1012) Snake Snake companies, Jingshan county, Hubei Yuchuan town, Wuxue city, Hubei
+
+Snake Special breeding garden, Junshan District, Yueyang city, Hunan
+
+Bamboo rat
+
+Bamboo rat breeding corporation, Nanzhang county, Xiangyang City, Hubei Porcupine
+
+West 9-38 (1102)
+
+Sika deer Sika deer farms, Shuangyang District, Changchun city, Jilin
+
+Porcupine Porcupine Farms, Suizhou city, Hubei
+
+West 9-34,36 (1104)
+
+Snake Snake farms, Jianli county, Hubei
+
+Bamboo rat Bamboo rat farms, Liucheng county, Guangxi,
+
+Bamboo rat Bamboo rat farms, Baojing town, Hunan
+
+rabbit Zhoukou city, Henan
+
+West 9-35,37 (1114)
+
+Badger Macheng City, Hubei province
+
+Snake Snake farms, Jianli county, Hubei Snake farms, Yueyang city, Hunan
+
+Giant salamander Giant salamander farms, Hanzhong city, Shaanxi
+
+Snake Shanyang county, Shaanxi
+
+Bamboo rat Bamboo farms, Yongde county, Yunnan
+
+West 8-36,38 (1122)
+
+Estuarine crocodile Huangsha market, Guangzhou city, Guangdong
+
+Siamese crocodile Huangsha, Guangzhou
+
+Pheasant Sanliqiao, Huangpi district, Wuhan city, Hubei
+
+Giant salamander Guangzhou city, Guangdong
+
+Snake Xiangyang city, Hubei
+
+West 6-29,31,33 (1134)
+
+Rabbit Zhoukou city, Henan
+
+Pheasant Yangxin county, Huangshi city, Hubei
+
+Hedgehog Unknown private breeder
+
+Dove Aquatic product market, Wuhan city, Hubei
+
+Duck Aquatic product market, Wuhan city, Hubei
+
+West 9-31,33 (1138)
+
+Checken Aquatic product market, Wuhan city, Hubei
+
+Goose Aquatic product market, Wuhan city, Hubei
+
+Rabbit Zhoukou city, Henan
+
+Snake West 6-29,31,33
+
+Frozen mutton Meat company， Daqing city, Heilongjiang
+
+Sika deer Sika deer farms, Shuangyang District, Changchun, Jilin
+
+Giant salamander Giant salamander farms, Tianmen city, Hubei
+
+East attached street 9-31,33 (1161)
+
+Duck Food company, Jinmen city, Hubei
+
+Sheep and goat taiping town, Zaoyang city, Xiangyang city, Hubei
+
+Beef Beef processing plant, Qiaokou District, Wuhan city, Hubei
+
+Siamese crocodile Crocodile Industries Inc. Guangdong
+
+Farms, Xiaogan city, Hubei Special breeding garden, Junshan District, Yueyang city, Hunan
+
+East attached street 6 (5148) Snake
+
+West 10-29,31 (5149) Snake Snake farms, Nanchang, Jiangxi
+
+Statement on presence of live mammals in Huanan Market in 2014.
+
+Statement from Professor EC Holmes delivered by email to Dr Peter Daszak on 26 February 2021 re. photographs from (2): “These photographs were taken by me on 29 October 2014 at Huanan Market, Wuhan. I was visiting Wuhan to meet with Prof. ZHANG Yong-Zhen and other collaborators at Wuhan and we all visited the market. We witnessed live animals for sale, including snakes, what I believe are raccoon dogs, and other unidentified rodents. I witnessed an animal that may have been raccoon dog being clubbed to death in front of me.”
+
+Table 4. Testing of fecal samples from 1856 Hubei province bats for coronaviruses. Above: Table to show number and species of bats sampled and tested for coronaviruses (family-level primers). Below: Details of the bat-CoV sequences identified.
+
+Family Genus Species The number of samples tested for CoVs
+
+--Unknown species（For feces） 1115
+
+Vespertilionidae Eptesicus Eptesicus.sp 1
+
+Myotis Myotis ricketti 10
+
+Myotis cf. davidii 12
+
+Myotis altarium 10
+
+Myotis daubentonii 11
+
+Myotis.sp 9
+
+Pipistrellus Pipistrellus abramus 32
+
+Pipistrellus pipistrellus 12
+
+Miniopterus Miniopterus schreibersi 6
+
+Miniopterus fuliginosus 4
+
+Hipposideridae.sp 2
+
+Rhinolophidae Hipposideros Hipposideridae pratti 86
+
+Hipposideros armiger 205
+
+Rhinolophus Rhinolophus affinis 28
+
+Rhinolophus pusillus 7
+
+Rhinolophus ferrumequinum 12
+
+Rhinolophus pearsonii 8
+
+Rhinolophus macrotis Blyth 3
+
+Rhinolophus sinicus 165
+
+Rhinolophus.sp 118
+
+Sequence identity to SARS coronavirus Tor2
+
+Number of samples tested
+
+Number positive for alpha- and beta-CoVs
+
+Number positive for SARSr-CoVs
+
+/SARS-COV-2 (nt,based on about 400bp RdRp sequences)
+
+SARS-related CoVs （36）/
+
+SARS coronavirus Tor2 (87%~97%)
+
+R. ferrumequinum，
+
+SARS-COV-2 isolate WIV04 (74%~90%)
+
+R. macrotis, R. sinicus， R.pusillus
+
+Beta-CoVs (119)
+
+1856
+
+Bat Hp-betacoronavirus Zhejiang2013 related CoVs（78）
+
+-
+
+Alpha-CoVs (76) --
+
+References
+
+(1) OIE. Infection with SARS-CoV-2 in animals. Paris: OIE; 2020. (2) Zhang YZ, Holmes EC. A genomic perspective on the origin and emergence of SARS-CoV-2. Cell, (2020). = = =

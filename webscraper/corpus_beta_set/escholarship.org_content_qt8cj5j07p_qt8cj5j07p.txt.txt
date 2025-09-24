@@ -1,0 +1,889 @@
+no_title
+
+UC Merced UC Merced Previously Published Works
+
+Title Energy and water co-benefits from covering canals with solar panels
+
+Permalink https://escholarship.org/uc/item/8cj5j07p
+
+Authors McKuin, Brandi L Zumkehr, Andrew Ta, Jenny et al.
+
+Publication Date 2021
+
+DOI 10.1038/s41893-021-00693-8
+
+Data Availability The data associated with this publication are available at: https://doi.org/10.6071/M32H30
+
+Peer reviewed
+
+eScholarship.org Powered by the California Digital Library
+
+University of California
+
+Energy and water co-benefits from covering canals with solar panels
+
+B. McKuina,b*, A. Zumkehra, J. Taa, R. Balesa, J. H. Viersa, T. Pathaka, J. E. Campbell b*
+
+a Sierra Nevada Research Institute, University of California, Merced b Environmental Studies Department, University of California, Santa Cruz
+
+* Corresponding authors: bmckuin@ucsc.edu and elliott.campbell@ucsc.edu
+
+Solar-power development over canals is an emerging response to the energy-water-food nexus that can result in multiple benefits for water and energy infrastructure. Case studies of over-canal solar photovoltaic (PV) arrays have demonstrated enhanced PV performance due to the cooler microclimate next to the canal. Further, shade from the PV panels has been shown to mitigate evaporation and could mitigate aquatic weed growth. However, the evaporation savings and financial co-benefits have not been quantified across major canal systems. Here we use regional hydrologic and techno-economic simulations of solar PV panels covering California’s 6350 km canal network, which is the world’s largest conveyance system and covers a wide range of climates, insolation rates, and water costs. We find that over-canal solar could reduce annual evaporation by an average of 39 ± 12 thousand m3 per kilometer of canals. Furthermore, the financial benefits from shading the canals outweigh the added costs of cable-support structures required to span canals. The net present value (NPV) of over-canal solar exceeds conventional over-ground solar by 20% to 50%, challenging the convention of leaving canals uncovered and calling into question our understanding of the most economic locations to locate solar power.
+
+California, where irrigated agriculture produces the majority of the food (by value) for the USA1, is an exemplar case study for the inextricable linkages in the energy-water-food nexus2. Water systems produce energy from hydropower but also use large amounts of energy for pumping, treatment, and heating, accounting for about 12% of statewide electricity usage3. On the other hand, energy systems use and pollute large volumes of water for extraction and processing of fuels, energy transformation, and end uses4. Food systems are critical users of energy and water, which are closely linked in agricultural systems due to pumping energy for irrigation and localized desalination of brackish tailwater from irrigation in water-stressed regions with soil salinity problems5. Many farms rely on diesel-powered irrigation pumps, resulting in greenhouse-gas emissions and air pollution in a region with some of the worst air quality in the country6. One approach to the challenges of the energywater-food nexus is the use of solar PV panels to cover water bodies (e.g. natural lakes, reservoirs, waste water treatment basins and canals), resulting in multiple benefits for water and energy infrastructure. Placing solar PV panels over water bodies (e.g. floating panels or water-body-spanning infrastructure) conserves water by reducing evaporation losses through effects on incident solar radiation and surface-wind speeds7-13. One emerging design, placement of solar PV panels over canals using canal-spanning infrastructure, has been shown to improve panel efficiency due to the cooler microclimate next to the canal when the semiconductor material is made of cadmium telluride
+
+(CdTe)14, 15. Further, the water savings and increased electricity production of over-canal solar arrays have financial benefits that can contribute to the competitiveness of solar with other energy sources16,
+
+17. Moreover, locating solar PV systems over canals offers environmental benefits by avoiding the need to disturb natural and working lands with solar-power development18-22. Despite the potential advantages of over-canal solar arrays, the overall economic, environmental, and social benefits at the scale of a major conveyance network are unknown. Previous research on overcanal solar PV arrays has primarily focused on smallscale experimental and simulation studies16, 17, 23-25. However, evaporation rates, insolation, and water costs can vary over the large distances and diverse climates covered by major water canals, making it challenging to directly evaluate the potential for overcanal solar PV at scale based on small-scale studies. To address this critical knowledge gap, we quantified the evaporation savings and financial performance of over-canal solar in comparison to over-ground solar on land adjacent to canals, using regional-scale hydrologic and cost simulations. Our spatially explicit hydrologic simulations focus on the 6350 km of canals in California (Fig. 1), which are the world’s largest water-conveyance system and cover a wide range of climates as well as water and energy resources. To determine the potential scale of water savings we conducted a regional hydrologic study using three alternative techniques for estimating the evaporation from a water surface: modified Penman-Monteith, pan evaporation, and California Irrigation Management Information
+
+System (CIMIS). While the modified Penman-Monteith approach estimates evaporation from an open water body directly, parameter conversions are required to convert pan evaporation and CIMIS landsurface evaporation into open-water-body evaporation. We examined the net effect on financial performance using the System Advisor Model (SAM) and a sensitivity analysis that included estimates of three different solar PV structures at eight different sites along the California network of canals (Fig. 1). In our main results we considered CdTe semiconductor technology but also considered multicrystalline silicon in the sensitivity analysis. The three solar PV structures included a ground-mounted system (Fig. 2a), a steel-truss canal-spanning design that has been deployed in Gujarat, India26 (Fig. 2b), and a suspension-cable canal-spanning design27 that has been deployed in Punjab, India28 (Fig. 2c). Our financial performance analysis includes NPV and levelized cost of energy (LCOE) comparisons of over-canal to ground-mounted designs. Our design comparisons considered enhanced PV performance due to evaporative cooling, and avoided costs for water and aquatic weed mitigation (Fig. 2d and 2e).
+
+Results Here, we present the results of our water savings, financial performance, and diesel engine retirement analysis.
+
+Water savings Evaporation rates extracted to the locations of the canals and averaged annually are 1716, 1497, and 1570 mm y-1 for the modified Penman, pan evaporation, and CIMIS approaches, respectively. As expected, these estimates of evaporation from canal water surfaces are higher than estimates of evaporation from land surfaces due to the availability of water and surface energy balance. Our surface water evaporation estimates are 11% to 59% higher than California statewide potential evaporation from land surfaces29, 30. Similarly, previous estimates of evaporation from water surfaces on lakes are generally larger than potential evaporation from land surfaces31.
+
+These baseline evaporation rates in California show considerable spatial variation due to the different hydrologic models used and the different regional climates (Fig. 3a and Supplementary Fig. 1). All three models show a north-south gradient in evaporation rates, with the strongest gradient in the modified Penman estimates. In light of the differences between methods, we use estimates for all three approaches to generate a range of possible
+
+estimates of the water savings of over-canal PV systems. Previous experiments point to reductions in evaporation for shading in the range of 44% to 90%7-
+
+10, 32. Applying these possible savings to our statewide canal-evaporation estimates results in an estimated annual water savings of (mean ± std. dev.) 0.24 ± 0.08 billion m3 yr-1 or 39 ± 12 thousand m3 per km of canal length covered (Supplementary Table 1). These water savings are based on the range of reductions in evaporation due to shading, evaporation models, and a canal width of 30 m (estimated as the water surface width for the California Aqueduct using Google Earth) for the entire 6350 km of California canals.
+
+Net present value The NPVs of the three different solar PV panelsupport designs including over-ground, and steeltruss and cable-suspension canal-spanning systems of eight sites (see Supplementary Methods for details on site selection) show considerable spatial variation due to the north-south gradient in insolation rates33 (Fig. 3b and Fig. 4a). These sites also have diverse climates, and water costs (Supplementary Table 2). The NPV of the over-canal solar array supported by tensioned cables was higher than conventional over-ground solar across a wide range of sites in the California canal network. The cost savings from water conservation, enhanced electricity production, avoided land costs, and reduced aquatic weed maintenance outweighed the added cost of the canalspanning system. The over-canal solar array supported by a steel truss generally had a lower NPV than over-ground solar due to the particularly high cost of the truss. The baseline component of the NPV (red bars in Fig. 4a) includes the solar energy revenues and core costs such as capital, installation, permitting, and land. Although the over-canal systems avoid land costs, the baseline NPV component is greater for over-ground than over-canal systems due to the cost of the support structures for spanning the canal. This is particularly relevant to the truss over-canal design, which has higher support-structure costs than the tensioned-cable over-canal design. The baseline NPV component varies from $325/kW for the over-ground system in the high-insolation southern region to as low as -$27/kW for the steel-truss over-canal system in the low-insolation northern region. While the baseline NPV component shows an advantage for the over-ground systems, the tensioned-cable over-canal system has the highest overall NPV when considering the benefits of the increased panel efficiency from cooling (green bars in Fig. 4a), water savings from shading (blue bars in
+
+Fig. 4a), and reduced aquatic weed maintenance (orange bars in Fig. 4a). The overall NPV (black circles in Fig. 4a) are 20% to 50% greater for the tensioned-cable over-canal system than the overground design (Supplementary Fig. 2). Owing to the lower insolation rates at the northern sites, the combined benefits of over-canal systems have a larger percent increase on the overall NPV at these sites. Although the truss over-canal system generally has the lowest NPV, at one site with the highest water costs, the steel-truss system has a higher NPV than the over-ground system.
+
+Levelized cost of energy The LCOE of the three different solar PV panelsupport designs also show considerable spatial variation due to the north-south gradient in insolation rates33 (Fig. 3b and Fig. 4b). However, we did not find a large difference in the LCOE between the over-ground and over-canal designs. This is due to the fact that, in the case of the over-canal designs, the increases in the annual costs were proportional to the increases in annual energy output due to evaporative cooling. Additionally, the larger differences in NPV across systems compared with the LCOE can be attributed to differences in how these metrics are calculated. For example, the NPV accounts for financing details and revenue streams whereas the LCOE only considers project costs34.
+
+Diesel engine retirement Although over-canal solar PV systems could produce renewable electricity to offset the energy demand of the grid-connected pumping plants at the sites we selected for our analysis, we separately considered a decentralized distributed-power scenario. The distributed power of solar PV systems on canals in agricultural areas has the potential to address critical air quality challenges associated with diesel-powered irrigation pumps. The largest concentration of dieselpowered irrigation pumps in California’s Central Valley is co-located with potential solar aqueduct sites and critical zones for air quality (Fig. 3c). We estimate that over-canal solar arrays could potentially retire between 15 to 20 diesel engines per MW of solar installation (Supplementary Fig. 3). Furthermore, the retirement of diesel engines could potentially reduce between 37 to 44 kg PM2.5 (particulate matter smaller than 2.5 microns), 1.5 to 1.8 x 103 kg nitrogen oxide emissions, and between 462 to 559 tons of CO2 per MW (see Supplementary Table 3 for emissions of other pollutants).
+
+Discussion Discussion is summarized below with extended material in the Supplementary Discussion.
+
+Land use These results provide insights into alternative land use solutions for solar-energy development. Challenges with siting impacts due to solar energy development can come at a cost to natural conservation and agriculture35. In response, alternative siting solutions have been explored including floating PV on reservoirs36, partial-shading of agriculture37, mounting solar on buildings, and siting on degraded lands38. Although limited to the available space on canals, the over-canal solar power explored in this study provides a new direction for land use decisions for solar energy that may also help mitigate impacts to natural conservation and agriculture.
+
+Assumptions and uncertainties We found that insolation is the main driver for the NPV and LCOE results. However, if our analysis of ground-mounted systems was extended in scope to a broader region (e.g. county-level) instead of only considering land adjacent to canals, then a comparison of ground-mounted to over-canal systems becomes most important. For instance, we assumed that existing infrastructure (such as electrical substations and power line corridors) and, in the case of ground-mounted installations, a large expanse of non-sloping (or gently sloping) vacant land39 would be available adjacent to the selected sites. In the case of ground-mounted systems, however, difficulty with securing enough land adjacent to the canals or optimally-sited locations could result in a discrete power source remote from the use area, which would incur additional infrastructure costs and line losses40. On the other hand, the distribution of solar panels over long narrow canals could result in greater distances between the site of generation and the electrical substations which could, in turn, incur greater line losses than optimally sited groundmounted systems. In contrast to utility-scale groundmounted solar projects, however, over-canal systems are highly compatible with distributed generation because renewable energy is produced at (or near) the site of both generation and use, and those generation points can be theoretically spread across the area where it would be used41. Furthermore, distributed generation that supplies power closer to points of demand may help defer or avoid the need to upgrade transmission and distribution lines that would be necessary for large-scale ground-mounted PV projects. Moreover, these distributed generation deployments could alleviate reliance on highly polluting energy sources such as diesel that power irrigation pumps in remote areas. Consequently, evaluations of alternatives to grid-connected systems
+
+(i.e. decentralized microgrids) will be essential for siting future field experiments and pilot-scale solar canals. Future studies should also consider multicriteria decision-making tools for comparisons of optimally sited ground-mounted systems and overcanal systems that incorporate geographic information system analysis of proximity of PV systems to the grid (and end-users), the availability of suitable land, and an analysis of California Public Utilities Commission policy relating to grid connections. When we considered alternatives to the utilityscale single-owner power purchase agreement (PPA) financial model, we found that the main findings of our study are robust to other financial models in SAM with one exception (Supplementary Table 4). Although the LCOE and developer NPV was better for the over-canal tensioned cable system, the investor NPV was better for the ground-mounted system for the utility-scale PPA partnership without debt model that includes a 22% Investment Tax Credit (ITC). On the other hand, when the federal subsidy is reduced (ITC of 10%), the over-canal tensioned-cable system performed better than the ground-mounted system for all of the financial metrics we considered. These results suggest that the combined co-benefits of the over-canal systems could soften the impact of declining federal subsidy for both investors and project developers. However, we only considered the suite of financial models available in SAM. Although SAM is a useful tool for comparisons between systems, more complex financial models will be needed to address dealspecific levels of risk and the perspectives of different stakeholders. Module-support costs and aquatic weed mitigation costs are based on information from related structures and canal managers. Our sensitivity analysis revealed the NPV estimates are sensitive to the avoided cost of aquatic weed mitigation and the module support costs (see Supplementary Fig. 4 and Supplementary Discussion for more details). We did not include the risk to the PV infrastructure due to high winds. Further, limitations on usable area due to canal maintenance requirements would lead to lower estimates (see Supplementary Discussion for more assumptions on layouts of solar panels). However, structural design will need to address site-specific conditions. Our assumptions regarding the enhanced performance (or conversely the decline in performance in the case of multi-crystalline silicon material that we considered in our sensitivity analysis) of the over-canal PV panels due to evaporative cooling are based on the results of a field experiment in a humid environment15. There are
+
+regional differences in evaporation rates that depend on the physical drivers of evaporation. The flux of water vapor from water bodies is largely governed by the magnitude of the vapor-pressure gradient between the water surface and the overlying air. This gradient is determined by the surface temperature of the water, the absolute humidity in the atmosphere (e.g. vapor pressure), and the amount of turbulent mixing of air, resulting in high evaporation rates when the water is warm and the air is cold, dry, windy, and unstable42. Further, we did not consider changing climate or weather, i.e. warmer temperatures, shifts in precipitation and cloud cover, or the decreasing number of winter fog days—all of which could increase evaporation rate43, 44. Because these meteorological variables are regionally dependent, our performance-ratio (measured output to expected output) assumptions are uncertain. The promising results from our techno-economic analysis, however, suggest that validation through field experiments to guide design and investments at selected sites could be worthwhile. Over-canal systems are more humid environments than ground-mounted systems, thus it is possible that the over-canal PV panels could have increased reliability problems45. In tropical conditions the water content in the encapsulant may exceed the solubility which can lead to the formation of droplets of water in the modules that sometimes causes corrosion or other problems46. Coyle (2013) modeled the degradation rate of thin-film solar modules at several benchmark climates and found that degradation scales with the temperature and relative humidity of the surroundings. However, field experiments have shown that CdTe semi-conductors can withstand hot and humid environments. Jordan and Kurtz (2013) reported degradation rates between 0-1%/year (over a two-year period) for a CdTe system installed in a tropical region (lower Morelos, Mexico)47. Kumar et al. (2020) reported that CdTe technologies may be suitable for deployment on water bodies in subtropical humid environments because, over a oneyear period, there was only a marginal increase in the degradation rate of PV panels over water tanks compared with ground-mounted systems. Although reliability problems are unlikely in California’s Central Valley because the relative humidity is lower during the warmest months of the year compared to Miami, FL, USA—a benchmark location for hot and humid conditions (Supplementary Fig. 5), suitable semi-conductor and encapsulation materials will be important considerations for over-canal PV deployments. Furthermore, longer-term degradation studies of over-canal PV systems across a range of climates will be needed to make accurate predictions of decreased power output over time.
+
+With the exception of the Devil’s Den site, the impact of cost savings from water conservation on the overall NPV was minor. The water rates we used to estimate the cost savings from water conservation are based on federal (Bureau of Reclamation) and state (California Depart of Water Resources) agency wholesale prices that are specified between the agencies and the irrigation delivery organizations under long-term (25-50 year) contracts (Supplementary Table 2). Our analysis does not capture the impact of drought conditions on water markets. Lund et al. (2018) report that during the 2012-2016 drought, irrigation districts and farmers lacking sufficient groundwater sought to purchase water from others, driving agricultural water prices as high as $1.7 m-3, which is over 3 times the highest water rate used in our analysis48. Thus, the cost savings of our water-conservation estimates are likely to be highly conservative. In addition to avoided water costs, the benefits of water conservation from over-canal solar arrays could add resilience to agricultural production. For instance, the conserved water could potentially reduce the amount of ground-water pumping and the practice of field fallowing in response to surfacewater deficits49-51. While we assume that the rights to the water saved by over-canal projects would follow the complex hierarchy administered by the California State Water Board52, it is unclear if these water savings would have an effect on agricultural producers most impacted by surface-water deficits (i.e. those with junior water rights)53. Future studies should compare over-canal PV water savings to other mitigation efforts for surface-water deficits and consider how the water savings would be allocated due to the structure of surface-water rights and water accounting methods54.
+
+Policy implications Over-canal solar PV systems could help California achieve its ambitious goals to reduce greenhouse-gas emissions (e.g. Assembly Bill 32) while improving irrigation management (e.g. State Water Efficiency and Enhancement Program). However, the success of over-canal solar PV systems could depend on policies that support public-private partnerships, appropriate renewable-energy siting, subsidies for renewableenergy projects in the form of tax incentives, and import tariffs (see Supplementary Discussion for additional information).
+
+Policies that focus on multiple dimensions of a problem can balance the needs of different sectors and increase the resiliency of energy-water-food systems. For example, California’s Central Valley is vulnerable to drought, urban sprawl, and air pollution—yet, it is a vitally important region for global food production55. Siting renewable energy projects in this region presents trade-offs for land used for the production of food and the conservation of ecosystems21. An example of a proposed policy that avoids the tradeoffs of siting renewable energy on productive farm land or natural lands, while improving drought resiliency, is the Drought Recovery and Resilience Act of 2015 (H.R. 2983 introduced in the 114th Congress). The Act would allow the Bureau of Reclamation to conduct lease sales for solar projects covering federal reservoirs, canals, and other infrastructure. The royalties paid by the private developers of the projects would be shared with states and localities, and could fund fish and wildlife restoration.
+
+Methods Methods are summarized below with additional details provided in the Supplementary Methods.
+
+Water savings We used regional hydrology simulations to assess evaporation savings from water surfaces on canals. The analysis was based on existing spatial data for the locations of California canals and aqueducts provided by the National Hydrography Dataset that are classified as open canals, excluding underground conduit, pipelines, streams and rivers56.
+
+Our approach uses a spatially and temporally explicit integration of environmental data based on the location of canals. We conducted a regional hydrologic study using three alternative methods for estimating evaporation from water surfaces: modified Penman-Monteith, pan evaporation, and CIMIS. The modified Penman-Monteith approach estimates evaporation from an open water body directly. However, parameter conversions are required to
+
+convert pan evaporation and CIMIS land surface evaporation into open water body evaporation as described below. Our estimates of evaporation from a water surface were compared with estimate from land surfaces (e.g. potential evaporation, actual evaporation). While the Penman-Monteith equation suffers from a data scarcity limitation due to the high number of input parameters, a modified version of the standard Penman equation overcomes this obstacle for calculating evaporation rates over large spatial scales57. This modified Penman method is particularly appealing because it employs data collected at widely dispersed weather stations, yields similar results to the standard Penman-Monteith equation, and quantifies evaporation directly as opposed to evapotranspiration. We used this approach with weather station data from the National Solar Radiation Database to calculate evaporation at weather stations58. We interpolated the point data based on a thin plate spline technique and co-variables including NASA Earth Observation derived solar insolation and Community Climate System Model (CCSM3) relative humidity data as
+
+co-variables59, 60. Thin plate spline interpolation was selected because it is a standard method used to interpolate high resolution climate dependent data61. Thin plate spline interpolation predicts the values between two points by producing a spline that passes nearest to the interpolated points in the least extreme curvature gradients possible. The second method used pan evaporation data to estimate canal evaporation rates. We obtained pan evaporation estimates at point locations from the Western Regional Climate Center (WRCC) for standard four-foot diameter Class A evaporation pans62. We used a pan evaporation coefficient of 0.8 to correct pan evaporation estimates from standardized pans to better represent evaporation rates of canals63, 64. We interpolated between the point estimates using the same interpolation technique described above. Our third evaporation estimate was based on data from CIMIS. CIMIS publishes evapotranspiration estimates based on the application of the full Penman-Monteith equation to data from GOES satellite images and a network of over 145 automated weather stations65. We applied a correction coefficient of 1.1 to convert these evapotranspiration values to evaporation estimates over open, shallow water64. These evaporation data are spatially coarse as they are only made available for 18 reference zones66. We estimated evaporation savings based on empirical relationships between shading and evaporation. Previous experiments of shading suggest water evaporation rates that are approximately 44% to 90% of unshaded evaporation rates7-10, 32. We used this range to provide an upper and lower estimate of potential evaporation reductions due to canal shading.
+
+Techno-economic assessment We estimated the financial metrics, NPV and the LCOE, of a conventional 1 MW installation on land and multiple energy canal configurations for eight different sites spanning several different hydrologic regions in California (see Supplementary Methods for details on site selection). For the over-canal systems, we calculated the impacts of evaporative cooling, water cost offsets, and aquatic weed mitigation cost offsets. We used the National Renewable Energy Laboratory SAM software (v. 2017.9.5) to calculate the financial metrics of a utility-scale single-owner PPA financial model. We used built-in data as inputs including the solar resources of each site (Supplementary Table 5) and the PV module and inverter (Supplementary Table 6). We used the default system design with a direct current to alternating current ratio of 1.2, and a fixed tracking and orientation. We used the default PV system losses for the groundmounted and baseline cases (Supplementary Table 7). We used the default annual degradation rate of 0.5%. Our direct and indirect capital costs input assumptions were based on cost benchmarks for commercial PV models67, 68 (Supplementary Table 8). Our capital cost assumptions for the over-canal module support systems (tensioned cable and steel truss) were based on a previous estimate69. We specified financial parameters including the internal rate of return target as a solution mode for the LCOE and the PPA price as a solution mode for the NPV (Supplementary
+
+Table 9). Our PPA price input assumptions were based on the weighted averages of Renewable Portfolio Standard program procurement cost data for PV projects between 0-3 MW70. We selected the “PG&E 2016 Full Capacity Deliverability” time of delivery factor. We applied a 30% ITC and a 100% bonus depreciation. We applied performance ratio results from a recent field experiment15 to model the enhanced PV performance of the over-canal systems in SAM. We used International Electrotechnical Commission standards (series 61724) for definitions and equations to calculate PV performance71. We made downward adjustments in the irradiance losses in SAM from 5% to the values given in Supplementary Table 10 so that the output in SAM would be equivalent to the calculated enhanced final system yield. The enhanced final system yield is defined as the ratio of the alternating current output of the array in kWh to the direct current power rating in kW-1. We calculated the enhanced final system yield as71: 𝑌𝑓,𝑒𝑛ℎ𝑎𝑛𝑐𝑒𝑑= 𝑌𝑟𝑒𝑓,𝑏𝑎𝑠𝑒∙𝑃𝑅𝑒𝑛ℎ𝑎𝑛𝑐𝑒𝑑 (1)
+
+where the baseline reference yield, Yref,base (kWh kW-1), is the ratio of the in-plane radiation (kWh m-2) to the plane of array irradiance (sum of the direct, diffuse, and ground reflected irradiance in W m-2)71, and the performance ratio enhanced by evaporative cooling, PRenhanced (dimensionless), is the ratio of the final system yield or expected output (kWh kW-1) to the reference yield (kWh kW-1) for a given reporting period based on the system name-plate rating. We calculated the enhanced performance ratio as the sum of the baseline performance ratio and the increase in the performance ratio of CdTe PV panels from a recent over-canal field experiment, 0.0273 ± 0.002 (mean and range of values)15. The enhanced final system yields and enhanced performance ratio results are given in Supplementary Table 11. We calculated the baseline reference yield as71: 𝑌𝑟𝑒𝑓,𝑏𝑎𝑠𝑒=
+
+𝑌𝑓,𝑏𝑎𝑠𝑒 𝑃𝑅𝑏𝑎𝑠𝑒 (2)
+
+where Yf,base (kWh kW-1) is the baseline final system yield, and PRbase (dimensionless) is the baseline performance ratio. The baseline final system yields and the baseline performance ratio results were outputs of SAM. The baseline final system yields, baseline performance ratios and calculated reference yields results are given in Supplementary Table 12. We estimated the water cost savings associated with avoided evaporation for a 1 MW installation: 𝑐𝑜𝑓𝑓𝑠𝑒𝑡,𝑒𝑣𝑎𝑝= 𝑗𝑒𝑣𝑎𝑝∙𝐴𝑎𝑟𝑟𝑎𝑦∙𝑐𝑤𝑎𝑡𝑒𝑟 (3) where jevap (m3 m-2 y-1), is the annual avoided evaporation flux, Aarray (m2), is the area of the array and cwater ($ m-3), is the site-specific water cost. We calculated the annual avoided evaporation flux using the Penman annual mean evaporation estimates (Fig. 3a) and assumed that shading the canals with solar PV panels would reduce evaporation losses by 78.5 (± 11.5) %. We assumed the shaded area was equivalent to the total module area of 6126.6 m2 for a 1 MW installation. The estimated water savings results are given in Supplementary Table 13. We used scheduled water cost rates from a local municipality (e.g. Merced Irrigation District for the UC Merced site), and the U.S. Department of the Interior and the California Department
+
+of Water Resources to estimate the site-specific water costs (Supplementary Table 2). We estimated the cost savings associated with avoided aquatic weed mitigation for a 1 MW installation: 𝑐𝑜𝑓𝑓,𝐴𝑊= 𝑐𝐴𝑊∙𝐴𝑎𝑟𝑟𝑎𝑦 (4) where cAW ($ m-2), is the cost of aquatic weed mitigation per unit area. We used literature values to estimate the cost of aquatic weed mitigation per unit area. As our low estimate, we used an estimate for an extended reach backhoe fitted with a modified bucket capable of collecting emergent and submersed macrophytes and allowing water to pass through, reported to cost $0.2142 m-2 72. We also added the cost of a streambed alteration permit, $59673. We used an estimate of algae and aquatic weed mitigation, reported to cost $0.7143 m-2, as our best estimate74. We used the values from a report on ecosystem management costs to directly control invasive aquatic weed mitigation as our high estimate, $1.689 m-2 75. We used the Consumer Price Index to update the costs to 2019 values. Furthermore, we applied the standard deviation of the three values to the median value for the low and high estimates. The resulting cost was 1709, 5316, and 8923 $USD2019 MW-1 for the low, best, and high estimates, respectively.
+
+evaporation effects, we used equation (1). As inputs to equation (1), we used the calculated reference energy yield (2390 kWh kW-1), and the decline in performance ratio (1.15). We calculated the reference energy yield (kWh kW-
+
+1) using equation (2). We made an upward adjustment to the irradiance losses in SAM (from the default of 5% to 6.54%) to estimate the decline in the final system yield. The inputs to equation (2) include the baseline reference yield (1960 kWh kW-1) and the baseline performance ratio (0.83). As an alternative to the Penman method, we estimated the evaporation rates using the WRCC pan evaporation and CIMIS evaporation methods (Supplementary Fig. 1). In addition to alternative evaporation rate methods, we also considered alternative evaporation reduction rates. In this case, we considered the evaporation reduction rates reported in Kumar and Kumar (2019)15 which is roughly 30%. The alternative financial parameters we considered were the analysis period and the tenor of the project term debt, and the project term debt percentage. We adjusted the analysis period and tenor of the project term debt (from 30 y to 25 y) and the project term debt percentage (from 40% to 30%). We also considered alternative incentive and depreciation scenarios. We considered scenarios without the 30% ITC and without the 100% bonus modified accelerated cost system depreciation. Lastly, we compared the results of the ground-mounted system to the tensioned-cable system for the Edmonston Pumping Plant considering alternative financing approaches available in SAM and two federal subsidy rates (ITC of 22% and 10%). The alternative financing approaches include commercial, utility-scale PPA partnership flip with debt, utility-scale PPA partnership flip with without debt, and utility-scale PPA sale leaseback (see Supplementary Methods).
+
+Uncertainty analysis of financial metric results We varied input parameters in SAM to create a distribution of outputs for a stochastic analysis76 (see Supplementary Methods and Supplementary Table 14 for more details). We conducted a stochastic analysis of the key financial outputs from SAM (NPV and LCOE) using established methods for uncertainty in greenhouse gas accounting77. We fitted the distributions of our outputs from SAM with EasyFit Professional software (v. 5.6)76. Using the best fit distribution, determined with Kolmogorov-Smirnoff statistics, we ran Monte Carlo simulations of 10000 samples (see Supplementary Tables 15 and 16 for distribution summaries of the net values of the NPV and the LCOE). We ran a percentile bootstrap analysis of 1000 replicates of the sample medians to estimate the 95% confidence intervals using the boot package in R76, 78.
+
+Sensitivity analysis of financial metric results We conducted a sensitivity analyses of the NPV of the suspension-cable design at the Edmonston Pumping Plant location. We considered the parameters that contributed most to the variance in the standard deviations of our main results (Supplementary Table 17), and the impact of alternative parameters that were not included in our main results (Supplementary Table 18). Here, we describe the alternative parameters that were not included in our main results. As alternative parameters, we selected PV materials, evaporation rate estimates, evaporation reduction estimates from shading the canals, financial parameters, incentives, and depreciation. We selected multi-crystalline silicon PV as an alternative to CdTe because it was the material of choice in a recent demonstration project in Gujarat, India15. However, unlike the field experiment results for the CdTe material, the multi-crystalline silicon material showed an average decline in the performance ratio15. We selected the PV module and inverter from built-in data available in SAM (Supplementary Table 19). To calculate the
+
+County-level estimate of diesel-powered irrigation pumps We estimated the number of diesel-powered irrigation pumps in each county. We used a top-down approach to estimate the county-level number of agricultural diesel pumps. We obtained an air-basin level diesel generator population report from the California Air Resources Board79. We weighted the air-basin level population by the county-level irrigation demand and applied an estimated growth factor (Supplementary Table 20).
+
+Estimated number of diesel-powered irrigation pumps retirements per array We estimated the number of diesel-powered irrigation pumps that could be retired by normalizing the first-year distributed energy produced per array (Supplementary Table 21) by the energy required by diesel engines at each location (Supplementary Table 22). We calculated the energy required to operate the agricultural diesel engines as: 𝐸𝑑𝑖𝑒𝑠𝑒𝑙= 𝑃𝑑𝑖𝑒𝑠𝑒𝑙∙𝑡𝑜𝑝 (5) where Pdiesel is the pump power (kW) and top is the annual operating time (hours). We used an annual pumping
+
+operation time of 1000 hours79. We calculated the power required to operate the diesel pump engine as: 𝑃𝑑𝑖𝑒𝑠𝑒𝑙=
+
+and 86.3 m80 (Supplementary Table 23). The total pumping plant efficiency was estimated as: 𝜂𝑡𝑜𝑡𝑎𝑙= 𝜂𝑝𝑢𝑚𝑝∙𝜂𝑑𝑟𝑖𝑣𝑒∙𝑓𝑙𝑜𝑎𝑑∙𝜂𝑑𝑖𝑒𝑠𝑒𝑙:𝑒𝑙𝑒𝑐 (8) where ηpump is the efficiency of the pump, ηdrive is the drive efficiency, fload is the load factor, and ηdiesel:elec is the relative efficiency of diesel engines compared to electric motors. We used a pump efficiency of 86%, a drive efficiency of 85%, a load factor 65%, and a relative efficiency of diesel engines compared to electric motors value of 75%79.
+
+Avoided emissions from the retirement of diesel-powered irrigation pumps We estimated the annual avoided emissions from the retirement agricultural diesel engines by applying emission factors (Supplementary Table 24) to the first-year energy produced by each over-canal array (Supplementary Table 21).
+
+𝑄∙ℎ𝑡𝑜𝑡𝑎𝑙 𝜂𝑡𝑜𝑡𝑎𝑙∙6.12 (6)
+
+where Q is the flow rate (m3 per minute), htotal is the total dynamic head (m), ηtotal is the total pumping plant efficiency, and 6.12 is the conversion factor from m3-m min-1 to kW. We used an average flow rate of 3.04 m3 min-1
+
+79. The total dynamic head was calculated with the following formula: ℎ𝑡𝑜𝑡𝑎𝑙= ℎ𝑠𝑡𝑎𝑡𝑖𝑐+ ℎ𝑓𝑟𝑖𝑐𝑡𝑖𝑜𝑛+ ℎ𝑑𝑖𝑠𝑐ℎ𝑎𝑟𝑔𝑒 (7) where hstatic (m) is the static head, hfriction (m) is the friction head, and hdischarge (m) is the discharge head. We used constant values for the friction head (7.74 x 10-1 m) and the discharge head (2.74 m) 79, but the static head varies depending on the regional depth to water80. In addition to the depth to water, the static head includes drawdown, and column losses80. Our estimates for the static head at each of the locations considered in this study varies between 58.8
+
+Data availability The SAM simulation outputs, Monte Carlo simulation outputs, and bootstrap analysis that support the technoeconomic analysis of this study are available in the Dryad Digital Repository (doi:10.6071/M32H30) (ref. 76). The data that support the water conservation and diesel irrigation retirement findings of this study are available from the corresponding author (B.M.) upon reasonable request. Source data for Figs. 1, 3, and 4 and Supplementary Figs. 1-5 are provided with the paper.
+
+cloth Covers and Monolayers to Prevent Evaporation in Irrigation Reservoirs (International Conference on Agricultural Engineering, Clermont-Ferrand, France, Sept 6-8, 2010).
+
+10. Martinez-Alvarez, V., Maestre-Valero, J. F., Martin-Gorriz, B. & Gallego-Elvira, B. Experimental assessment of shade-cloth covers on agricultural reservoirs for irrigation in south-eastern Spain. Span. J. Agric. Res. 8, 122-133 (2010).
+
+11. Bontempo Scavo, F., Tina, G. M., Gagliano, A. & Nižetić, S. An assessment study of evaporation rate models on a water basin with floating photovoltaic plants. Int. J. Energy Res. 45, 167– 188 (2021).
+
+12. Rosa-Clot, M., Tina, G. M. & Nizetic, S. Floating photovoltaic plants and wastewater basins: an Australian project. Energy Procedia 134, 664-674 (2017).
+
+13. Lee, N. et al. Hybrid floating solar photovoltaicshydropower systems: Benefits and global assessment of technical potential. Renewable Energy 162, 1415-1427 (2020).
+
+14. Kumar, A. & Kumar, M. Experimental validation of performance and degradation study of canal-top photovoltaic system. Appl. Energy 243, 102-118 (2019).
+
+15. Kumar, M. & Kumar, A. Performance assessment of different photovoltaic technologies for canal-top and reservoir applications in subtropical humid climate. IEEE J. Photovolt. 9, 722-732 (2019).
+
+16. Kahn, M. & Longcore, T. A Feasibility Analysis of Installing Solar Photovoltaic Panels Over California Water Canals. (UCLA, 2014).
+
+17. Colmenar-Santos, A., Buendia-Esparcia, Á, de Palacio-Rodríguez, C. & Borge-Diez, D. Water canal use for the implementation and efficiency optimization of photovoltaic facilities: Tajo-Segura transfer scenario. Sol. Energy 126, 168-194 (2016).
+
+18. Sahu, A., Yadav, N. & Sudhakar, K. Floating photovoltaic power plant: A review. Renew. Sust. Energ. Rev. 66, 815-824 (2016).
+
+19. Hernandez, R. R. et al. Environmental impacts of utility-scale solar energy. Renew. Sust. Energ. Rev. 29, 766-779 (2014).
+
+References
+
+1. USDA. United States Department of Agriculture (USDA), Economic Research Service, Cash receipts by commodity, state ranking (2020). Available at: https://data.ers.usda.gov/reports.aspx?ID=17844 (Accessed September, 2020).
+
+2. Liu, Q. Interlinking climate change with water-energyfood nexus and related ecosystem processes in California case studies. Ecol. Process. 5, 1-14 (2016).
+
+3. CDWR. Management of the California State Water Project, Bulletin 132-14. (California Department of Water Resources, 2015).
+
+4. Fulton, J. & Cooley, H. The water footprint of California's energy system, 1990-2012. Environ. Sci. Tech. 49, 3314-3321 (2015).
+
+5. Welle, P. D., Medellin-Azuara, J., Viers, J. H. & Mauter, M. S. Economic and policy drivers of agricultural water desalination in California's Central Valley. Agric. Water Manag. 194, 192 (2017).
+
+6. Shobe, B. & Merrill, J. Climate Smart: Saving Water and Energy on California Farms. Recommendations for California’s State Water Efficiency and Enhancement Program (SWEEP). (California Climate and Agriculture Network, 2018).
+
+7. Crow, F.R. Comparison of chemical and nonchemical techniques for suppressing evaporation from small reservoirs. Transactions of the ASAE 10, 172-174 (1967).
+
+8. Cooley, K. R. Evaporation reduction: Summary of longterm tank studies. J. Irrig. Drain Eng. 109, 89-98 (1983).
+
+9. Gallego-Elvira, B., Martínez-Alvarez, V., Pittaway, P., Symes, T. & Hancock, N. The Combined Use of Shade-
+
+20. Cazzaniga, R. et al. Floating photovoltaic plants: Performance analysis and design solutions. Renew. Sust. Energ. Rev. 81, 1730-1741 (2018).
+
+21. Bryant, B. P. et al. Shaping land use change and ecosystem restoration in a water-stressed agricultural landscape to achieve multiple benefits. Front. Sustain. Food Syst. 4 (2020).
+
+22. Grodsky, S. M. & Hernandez, R. R. Reduced ecosystem services of desert plants from ground-mounted solar energy development. Nat. Sustain. (2020).
+
+23. Bureau of Reclamation. Fundamental Considerations Associated with Placing Solar Generation Structures at Central Arizona Project Canal. (U.S. Department of the Interior, 2016).
+
+24. Kougias, I. et al. The potential of water infrastructure to accommodate solar PV systems in Mediterranean Islands. Sol. Energy 136, 174-182 (2016).
+
+25. Augustin, D., Chacko, R. & Jacob, J. Canal top solar PV with reflectors, In 2016 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES). (IEEE, 2016).
+
+26. Sairam, P.M.N. & Aravindhan, A. Canal top solar panels: A unique nexus of energy, water, and land. Materials Today: Proceedings 33(1), 705-710 (2020).
+
+27. P4P Energy. Over water. P4P Energy (2019). Available at: http://p4penergy.com/products/over-water/. (Accessed November, 2019).
+
+28. PEDA. Punjab Energy Development Agency (PEDA), Canal Top Solar PV Projects (2020) Available at: https://www.peda.gov.in/canal-top-solar-pv-projects. (Accessed July 20, 2020).
+
+29. Hidalgo, H.G., Cayan, D.R. & Dettinger, M.D. Sources of variability of evapotranspiration in California. J. Hydrometeorol. 6, 3-19 (2005).
+
+30. Baldocchi, D., Dralle, D., Jiang, C. & Ryu, Y. How much water is evaporated across California? A multiyear assessment using a biophysical model forced with satellite remote sensing data. Water Resour. Res. 55, 2722-2741 (2019).
+
+31. CDWR. Evaporation from Water Surfaces in California, Bulletin 73-79. (California Department of Water Resources, 1979).
+
+32. Craig, I., Green, A., Scobie, M. & Schmidt, E. Controlling Evaporation Loss from Water Storages, Publication No 1000580/1. (National Centre for Engineering in Agriculture, 2005).
+
+33. Perez, R. et al. A new operational model for satellitederived irradiances: Description and validation. Sol. Energy 73, 307-317 (2002).
+
+34. Drury, E., Denholm, P. & Margolis, R. M. The Impact of Different Economic Performance Metrics on the Perceived Value of Solar Photovoltaics. Technical report no. NREL/TP-6A20-52197 (National Renewable Energy Laboratory, 2011).
+
+35. Hernandez, R. R. et al. Techno–ecological synergies of solar energy for global sustainability. Nat. Sustain. 2, 560-568 (2019).
+
+36. Pimentel Da Silva, Gardenio Diogo & Branco, D. A. C. Is floating photovoltaic better than conventional photovoltaic? Assessing environmental impacts. Impact Assessment and Project Appraisal 36, 390-400 (2018).
+
+37. Ravi, S. et al. Colocation opportunities for large solar infrastructures and agriculture in drylands. Appl. Energy 165, 383-392 (2016).
+
+38. Niblick, B. & Landis, A. E. Assessing renewable energy potential on United States marginal and contaminated sites. Renew. Sust. Energ. Rev. 60, 489-497 (2016).
+
+39. Majumdar, D. & Pasqualetti, M. J. Analysis of land availability for utility-scale power plants and assessment of solar photovoltaic development in the state of Arizona, USA. Renew. Energy 134, 1213-1231 (2019).
+
+40. Gorman, W., Mills, A. & Wiser, R. Improving estimates of transmission capital costs for utility-scale wind and solar projects to inform renewable energy policy. Energy Policy 135, 110994 (2019).
+
+41. Pitt, D. & Michaud, G. Assessing the Value of Distributed Solar Energy Generation. Curr. Sustainable Renewable Energy Rep. 2, 105-113 (2015).
+
+42. Friedrich, K. et al. Reservoir evaporation in the Western United States: Current science, challenges, and future needs. Bull. Am. Meteorol. Soc. 99, 167-187 (2018).
+
+43. Diffenbaugh, N. S., Swain, D. L. & Touma, D. Anthropogenic warming has increased drought risk in California. PNAS 112, 3931-3936 (2015).
+
+44. Baldocchi, D. & Waller, E. Winter fog is decreasing in the fruit growing region of the Central Valley of California. Geophys. Res. Lett. 41, 3251-3256 (2014).
+
+45. Kumar, M., Kumar, A. & Gupta, R. Comparative degradation analysis of different photovoltaic technologies on experimentally simulated water bodies and estimation of evaporation loss reduction. Prog. Photovolt. Res. Appl., 1– 22 (2020).
+
+46. Coyle, D. J. Life prediction for CIGS solar modules part 1: Modeling moisture ingress and degradation. Prog. Photovolt. Res. Appl. 21, 156-172 (2013).
+
+47. Jordan, D. C. & Kurtz, S. R. Photovoltaic degradation rates—An analytical review. Prog. Photovolt. Res. Appl. 21, 12-29 (2013).
+
+48. Lund, J., Medellin-Azuara, J., Durand, J. & Stone, K. Lessons from California’s 2012–2016 drought. J. Water Res. Plan. Man. ASCE 144, 4018067 (2018).
+
+49. Christian-Smith, J. et al. Maladaptation to drought: a case report from California, USA. Sustain. Sci. 10, 491-501 (2015).
+
+50. Pauloo, R. et al. Domestic well vulnerability to drought duration and unsustainable groundwater management in California's Central Valley. Environ. Res. Lett. 15, 44010 (2020).
+
+51. Jasechko, S. & Perrone, D. California's Central Valley groundwater wells run dry during recent drought. Earth's Future 8, e2019EF001339 (2020).
+
+52. Grantham, T. E. & Viers, J. H. 100 years of California’s water rights system: patterns, trends and uncertainty. Environ. Res. Lett. 9, 084012 (2014).
+
+53. Nelson, K. S. & Burchfield, E. K. Effects of the structure of water rights on agricultural production during drought: A spatiotemporal analysis of California's Central Valley. Water Resour. Res. 53, 8293-8309 (2017).
+
+54. Escriva-Bou, A., McCann, H., Hanak, E., Lund, J. & Gray, B. Accounting for California water. California Journal of Politics and Policy 8 (2016).
+
+55. Hoffacker, M. K., Allen, M. F. & Hernandez, R. R. Land-sparing opportunities for solar energy development in agricultural landscapes: A case study of the Great Central Valley, CA, United States. Environ. Sci. Tech 51, 14472-14482 (2017).
+
+56. USGS. National Hydrography Dataset. U.S. Geological Survey (2015). Available at: http://nhd.usgs.gov/data.html. (Accessed January, 2016).
+
+57. Valiantzas, J. D. Simplified versions for the Penman evaporation equation using routine weather data. J. Hydrol. 331, 690-702 (2006).
+
+58. Wilcox, S. National Solar Radiation Database 1991– 2010 Update: User’s Manual. Technical report no. NREL/TP-5500-54824 (National Renewable Energy Laboratory, 2012).
+
+59. Collins, W.D. et al. The Community Climate System Model Version 3 (CCSM3). J. Clim. 19, 2122-2143 (2006).
+
+60. NASA Earth Observations. Solar insolation (1 month). NASA (2016). Available at: https://neo.sci.gsfc.nasa.gov/view.php?datasetId=CERES_I NSOL_M. (Accessed January, 2016).
+
+61. Hijmans, R. J., Cameron, S. E., Parra, J. L., Jones, P. G. & Jarvis, A. Very high resolution interpolated climate surfaces for global land areas. Int. J. Climatol. 25, 1965-1978 (2005).
+
+62. Western Regional Climate Center. Historical Climate Information. Western Regional Climate Center (2016). Available at: http://www.wrcc.dri.edu/CLIMATEDATA.html. (Accessed January, 2016).
+
+63. Carpenter, L. G. The Loss of Water from Reservoirs by Seepage and Evaporation. (State Agricultural College, Agricultural Experiment Station, Fort Collins, CO, 1898).
+
+64. Jensen, M. E. Estimating Evaporation from Water Surfaces. In CSU/ARS Evapotranspiration Workshop, Fort Collins, CO (ASCE, 2010).
+
+65. Hart, Q. J. et al. Daily reference evapotranspiration for California using satellite imagery and weather station measurement interpolation. Civ. Eng. Environ. Syst. 26, 19-33 (2009).
+
+66. California Irrigation Management Systems. Spatial Maps, ETo Zones Map. Available at: https://cimis.water.ca.gov/App_Themes/images/etozonema p.jpg (Accessed January, 2016).
+
+67. Fu, R., Feldman, D. & Margolis, R. U.S. Solar Photovoltaic System Cost Benchmark Q1 2018. Technical report no. NREL/TP-6A20-72399 (National Renewable Energy Laboratory, 2019).
+
+68. Horowitz, K. A. et al. Estimating the Effects of Module Area on Thin-Film Photovoltaic System Costs. Conference paper NREL/CP-6A20-68506 (National Renewable Energy Laboratory, 2018).
+
+69. Ave, K. Sacramento Municipal Utilities District (SMUD) proposal for Folsom South solar canal project, WaterSMART: water and efficiency grants for FY2015. (SMUD, 2015).
+
+70. Gerstle, B., Allbright, M., Lee, C. & Iklé, J. 2019 Padilla Report: Costs and Cost Savings for the RPS Program (Public Utilities Code §913.3). (California Public Utilities Commission, 2019).
+
+71. Hukseflux Thermal Sensors. How to calculate PV performance ratio and PV performance index (2020).
+
+Available at: https://www.hukseflux.com/applications/solar-energy-pvsystem-performance-monitoring/how-to-calculate-pvperformance-ratio (Accessed August, 2020).
+
+72. Greenfield, B. K., Blankinship, M. & McNabb, T. J. Control costs, operation, and permitting issues for nonchemical plant control: Case studies in the San Francisco Bay-Delta Region, California. J. Aquat. Plant Manag., 40-49 (2006).
+
+73. CDFG. California Department of Fish and Wildlife Lake and Streambed Alteration Agreements and Fees. Available at: https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=162 284&inline. (Accessed November, 2019).
+
+74. UC Cooperative Extension. Aquatic Weed and Algae Control. (University of California, 2010).
+
+75. Medellín-Azuara, J. et al. Cost of Ecosystem Management Actions for the Sacramento-San Joaquin Delta. (Public Policy Institute of California, 2013).
+
+76. McKuin, B. et al. Energy and water co-benefits from covering canals with solar panels datasets. Dryad Digital Repository, doi:10.6071/M32H30.
+
+77. McMurray, A., Pearson, T. & Casarim, F. Guidance on Applying the Monte Carlo Approach to Uncertainty Analysis in Forestry and Greenhouse Gas Accounting. (Winrock International, 2017).
+
+78. Canty, A. & Ripley, B. boot: Bootstrap R (S-Plus) Functions (R package version 1.3-25, 2020).
+
+79. CARB. Emission Inventory Methodology, Agricultural Irrigation Pumps – Diesel (California Air Resources Board, 2006).
+
+80. Bert et al. California Agricultural Water Electricity Requirements. Report no. CEC-400-2005-002 (California Energy Commission, 2003).
+
+Corresponding Author Correspondence and requests for materials should be addressed to B. McKuin and J. E. Campbell.
+
+Acknowledgements We thank R. Raj and J. Harris for coordinating stakeholder meetings. We thank R. Winston and S. Kurtz for helpful discussions on solar canal development. We thank J.T. Watson for helpful comments on the accessibility of the article to scientists across the broader sustainability scholarship. We thank NRG Energy for support. R.B. and T.P. were funded by the USDA (National Institute of Food and Agriculture grant 2018-67004-24705). J.H.V was funded by the US Department of Energy US-China Clean Energy Research Center for Water-Energy Technologies (DE-IA0000018).
+
+Competing interests All authors declare no competing interests.
+
+Author Contributions J.E.C., R.B., J.H.V., and T.P. designed the study. B.M, A.Z. and J.T. conducted the analysis. B.M., A.Z., J.T., and J.E.C. wrote the initial draft. J.E.C., R.B., J.H.V., and T.P. contributed to methodological refinements and conceptual considerations. All authors contributed to completion of the manuscript through comments and edits of the text and figures.
+
+Fig. 1. Locations of California canals and selected study site. The California network of canals (federal, state, and local)56 and the locations of the eight different sites used in our financial analysis (see Supplementary Methods for details on site selection).
+
+Fig. 2. Illustrations and flow-diagrams showing the inputs and outputs of three solar photovoltaic (PV) systems. a, Ground-mounted solar PV system; b, Steel-truss over-canal solar PV (e.g. 1 MW installation in Gujarat, India26); c, Suspensioncable over-canal solar PV27 (e.g. 2.5 MW installation in Punjab, India28); d, Inputs and outputs of the ground-mounted solar PV design; e, Inputs and outputs of the over-canal solar PV design. The co-benefits of the over-canal include mitigation of panel heating due to the cooler microclimate next to the canal and mitigation of evaporation and aquatic weed growth due to the shade provided by the PV panels. The flow-chart boxes bound by solid lines represent the inputs and the flow-chart boxes bound by dashed lines represent the outputs.
+
+Fig. 3. Maps of annual mean evaporation from water surface, photovoltaic (PV) solar resources, and county-level numbers of diesel-powered irrigation pumps. a, Evaporation from water surfaces in each grid cell is estimated using modified Penman equation at National Solar Radiation weather stations (circles) extrapolated through a thin plate spline interpolated evaporation rate grid57,58; b, PV solar resource from National Renewable Energy Laboratory geographic information systems data. The PV solar resource is average latitude equals tilt irradiance33; c, Estimates of county-level numbers of diesel-powered irrigation pumps based on top-down analysis of air-basin level inventories and county-level irrigation demand79.
+
+Fig. 4. Financial metrics for alternative photovoltaic systems (1 MW) across a wide range of California sites. Designs include (1) conventional over-ground design; (2) steel-truss over-canal design; and, (3) suspension-cable over-canal design. See Supplementary Methods for detailed site descriptions. a, Net present value; b, Levelized cost of energy in real value (i.e. adjusted for inflation). The circles represent the net values and the error bars represent the 95% confidence interval.
+
+Supplementary Information
+
+Supplementary Figs. 1-5, Tables 1-24, Discussion and Methods.
+
+S - 1
+
+Supplementary Fig. 1. Annual mean evaporation from water surface using two hydrologic analysis techniques. Evaporation from water surfaces in each grid cell is estimated using two alternative methods: a, Western Regional Climate Center pan evaporation at National Solar Radiation (NSR) weather stations (circles) extrapolated through a thin plat spline interpolated evaporation rate grid, b, California Irrigation Management Information System data.
+
+S - 2
+
+Supplementary Fig. 2. Ratio of net present value for over-canal systems (suspension cable and steel truss support) relative to net present value of ground-mounted systems at eight sites evaluated across California.
+
+S - 3
+
+Supplementary Fig. 3. Potential retirements of diesel-powered irrigation pumps. Estimated number of diesel-powered irrigation pumps retirements based on a 1 MW decentralized distributed-energy over-canal solar scenario.
+
+S - 4
+
+Supplementary Fig. 4. Sensitivity analysis of the suspension cable over-canal solar PV design. Sensitivity experiment conducted for the Edmonston Pumping Plant site with parameters included in, a, the main results, and b, alternatives.
+
+S - 5
+
+Supplementary Fig. 5. Hourly time series relative humidity and air temperatures across selected sites and benchmark locations for humid climates. San Francisco, CA, USA is a benchmark location for a humid and cool climate and Miami, FL, USA is a benchmark location for a humid and hot climate3. We used local climatological data4 in the counties of selected sites: Marysville Yuba County Airport (Station ID: WBAN:93205) for the Williams Wastewater Treatment Plant (WWTP) and Colusa County Water Department; Sacramento Metropolitan Airport (Station ID: WBAN:93225) for Rancho Seco Pumping Plant; Merced Municipal Airport (Station ID: WBAN:23257) for University of California (UC) Merced and Dos Amigos Pumping Plant; Lemoore Reeves NAS (Station ID: WBAN:23110) for Pleasant Valley Pumping Plant; Paso Robles Municipal Airport (Station ID: WBAN:93209) for Devil’s Den Pumping Plant; and Sandberg, CA (Station ID: WBAN:23187) for Edmonston Pumping Plant. There was no data between 2020-7-28 and 2020-9-22 at the Edmonston Pumping Plant site.
+
+S - 6
+
+Supplementary Table 1. Estimated water savings from evaporation reductions for a statewide deployment of the solar aqueducts using the Penman, Pan and California Irrigation Management Information System (CIMIS) methods in thousand m3 km-1 y-1 (acft mi-1 y-1).a
+
+Shading Effectb
+
+Model Min Mid Max
+
+Penman 27 (35) 50 (65) 55 (72)
+
+Pan 21 (28) 41 (53) 45 (58)
+
+CIMIS 22 (29) 41 (54) 45 (59) aSurface water width of 30.5 m (100 ft). bReduction in evaporation from shading are obtained from empirical data providing a range of 44% (min), 82% (mid), and 90% (max) savings.
+
+S - 7
+
+Supplementary Table 2. Water cost by location.
+
+Lower bound a Mean b
+
+Upper bound c
+
+Location Water rate reference
+
+($ m-3) Williams Wastewater Treatment Plant Colusa County Water District d,e 0.0154 0.0158 0.0162 Colusa County Water District Colusa County Water District d,f 0.0811 0.0865 0.0918 Rancho Seco Pumping Plant County of Sacramento d,e 0.0286 0.0304 0.0323 UC Merced Merced Irrigation District g 0.0774 0.0811 0.0847 Dos Amigos Pumping Plant San Luis Water District d,f 0.0869 0.0961 0.1053 Pleasant Valley Pumping Plant Westlands Water District d,f 0.0584 0.0853 0.1123 Devil's Den Pumping Plant Coastal branch, reach 33A h 0.4596 0.4803 0.5019 Edmonston Pumping Plant California aqueduct, reach 17E h 0.1256 0.1315 0.1374 a 2018 rate schedule. b 2019 rate schedule. c 2020 rate schedule. d Source: ref 2 e Municipal and industrial rates; contract/cost of service rate Sch. A-2A. f Irrigation rate; full cost water rates 202(3). g Sphere of Influence Irrigation Surface Water rate3. h Equivalent Unit Transportation Costs (Conf. Table B-25)4.
+
+S - 8
+
+Supplementary Table 3. Emissions offset as a result of the retirement of agricultural diesel engines.
+
+Williams WWTP / Colusa County Water
+
+Rancho Seco Pumping
+
+Dos Amigos Pumping
+
+Pleasant Valley
+
+Devil's Den Pumping
+
+Edmonston Pumping
+
+Pollutant a
+
+Plant
+
+Plant / UC Merced
+
+Pumping Plant
+
+Plant
+
+Plant
+
+District
+
+CO2 4.64 (± 0.01) x 105 4.62 (± 0.01) x 105 4.74 (± 0.01) x 105 4.87 (± 0.01) x 105 5.19 (± 0.01) x 105 5.59 (± 0.01) x 105 CH4 1.97 (± 0.01) 1.96 (± 0.00) 2.01 (± 0.00) 2.06 (± 0.01) 2.20 (± 0.01) 2.378 (± 0.01) N2O 3.94 (± 0.01) 3.94 (± 0.01) 4.03 (± 0.01) 4.14 (± 0.01) 4.41 (± 0.01) 4.75 (± 0.01) BC 5.69 (± 0.01) 5.66 (± 0.01) 5.81 (± 0.01) 5.97 (± 0.01) 6.37 (± 0.02) 6.85 (± 0.02) CO 1.13 (± 0.00) x 101 1.13 (± 0.00) x 101 1.16 (± 0.00) x 101 1.19 (± 0.00) x 101 1.27 (± 0.00) x 101 1.36 (± 0.00) x 101 VOC 1.42 (± 0.00) 1.41 (± 0.00) 1.45 (± 0.00) 1.49 (± 0.00) 1.59 (± 0.00) 1.71 (± 0.00) NOx 1.47 (± 0.00) x 103 1.46 (± 0.00) x 103 1.50 (± 0.00) x 103 1.54 (± 0.00) x 103 1.64 (± 0.00) x 103 1.77 (± 0.00) x 103 SOx 3.20 (± 0.01) x 102 3.18 (± 0.01) x 102 3.26 (± 0.01) x 102 3.35 (± 0.01) x 102 3.57 (± 0.01) x 102 3.85 (± 0.01) x 102 PM10 1.04(± 0.00) x 102 1.03 (± 0.00) x 102 1.06 (± 0.00) x 102 1.09 (± 0.00) x 102 1.16 (± 0.00) x 102 1.25 (± 0.00) x 102 PM2.5 3.68 (± 0.01) x 101 3.66 (± 0.008) x 101 3.76 (± 0.01) x 101 3.86 (± 0.01) x 101 4.12 (± 0.01) x 101 4.43 (± 0.01) x 101 a Emission offsets in kg pollutant MW-1.
+
+S - 9
+
+Supplementary Table 4. Comparison of the ground-mounted and over-canal tensioned-cable systems at the Edmonston Pumping Plant site considering alternative financial models in SAM.
+
+Financial model Investor pre-flip equity structure Ground-mounted Over-canal tensioned-cable
+
+Project
+
+Investor
+
+Developer
+
+Project
+
+Investor
+
+Developer
+
+NPV
+
+NPV
+
+NPV LCOE
+
+NPV
+
+NPV
+
+NPV LCOE
+
+($/MW) ¢/kWh ($/MW) ¢/kWh Investment Tax Credit: 22%
+
+Commercial Not applicable 154911 4.50 181345 4.43
+
+PPA partnership flip (debt) Equity: 98%; Project cash: 98%; Tax
+
+14458 32933 8.85 50647 36216 8.74
+
+benefit: 98%
+
+PPA partnership flip (no debt) Equity: 60%; Project cash: 100%; Tax
+
+102905 -98535 8.99 81787 -42943 8.88
+
+benefit: 99%
+
+PPA sale leaseback Not applicable 7073 4511 9.11 40924 4650 9.00
+
+Investment Tax Credit: 10%
+
+Commercial Not applicable -4652 5.09 9442 5.04
+
+PPA partnership flip (debt) Equity: 98%; Project cash: 98%; Tax
+
+-190043 28760 9.62 -164848 31818 9.53
+
+benefit: 98%
+
+PPA partnership flip (no debt) Equity: 60%; Project cash: 100%; Tax
+
+70956 -240374 9.63 77586 -223832 9.54
+
+benefit: 99%
+
+PPA sale leaseback Not applicable
+
+-171381 4511 9.76
+
+-149454 4650 9.67
+
+S - 10
+
+Supplementary Table 5. Site locations for financial analysis and solar resource inputs for sites.
+
+Direct normal (beam) insolation
+
+Solar Station ID Latitude Longitude
+
+Global horizontal insolation
+
+Diffuse horizontal insolation
+
+Data Source
+
+Average Temp.
+
+Sites
+
+(kWh/m2-d) (kWh/m2-d) (kWh/m2-d) (°C) Williams Wastewater Treatment Plant 724838 39.100 -121.567 TMY3 4.94 5.52 1.58 16.5 Colusa County Water District 724838 39.100 -121.567 TMY3 4.94 5.52 1.58 16.5 Rancho Seco Pumping Plant 23232 38.517 -121.500 TMY2 4.91 5.45 1.57 15.2
+
+UC Merced 724815 37.283 -120.517 TMY3 5.14 5.65 1.62 16.9 Dos Amigos Pumping Plant 724815 37.283 -120.517 TMY3 5.14 5.65 1.62 16.9 Pleasant Valley Pumping Plant 747020 36.333 -119.95 TMY3 5.23 5.79 1.63 16.9 Devil's Den Pumping Plant 723965 35.667 -120.633 TMY3 5.46 6.60 1.45 14.8 Edmonston Pumping Plant 723830 34.750 -118.717 TMY3 5.70 7.21 1.37 14.2
+
+S - 11
+
+Supplementary Table 6. PV module and inverter characteristics at reference conditions.
+
+Parameter Value
+
+PV Module
+
+Model First Solar FS-4117A-2
+
+Material CdTe
+
+Maximum power (Wdc) 117.480
+
+Nominal efficiency (%) 16.3167
+
+Area (m2) 0.720
+
+Temperature coefficient (W/°C) -0.456
+
+Inverter
+
+Model SMA America SB4000TL-US-22 (208V)
+
+CEC (2018) weighted efficiency (%) 96.731
+
+S - 12
+
+Supplementary Table 7. PV system irradiance losses for the ground-mounted and over-canal baseline cases.
+
+Module Percent Loss
+
+DC Losses
+
+Soiling loss 5
+
+Module mismatch 2
+
+Diodes and connections 0.5
+
+DC wiring 2 AC wiring 1
+
+S - 13
+
+Supplementary Table 8: PV installation cost inputs for ground-mounted, steel-truss over-canal, and suspension-cable over-canal systems a.
+
+Ground-mounted Steel-truss Tensioned-cable Amount Units Total ($) Amount Units Total ($) Amount Units Total ($) Modules 0.47 (± 0.07) $/Wdc 469,995 (± 69,999) 0.47 (± 0.07) $/Wdc 469,995 (± 69,999) 0.47 (± 0.07) $/Wdc 469,995 (± 69,999) Inverter 0.08 (± 0.01) $/Wdc 79,999 (± 10,000) 0.08 (± 0.01) $/Wdc 79,999 (± 10,000) 0.08 (± 0.01) $/Wdc 79,999 (± 10,000) Module support b 0.16 (± 0.02) $/Wdc 159,998 (± 20,000) 0.49 (± 0.07) $/Wdc 489,995 (± 69,999) 0.31 (± 0.04) $/Wdc 309,997 (± 40,000) Balance of system equipment 0.17 (± 0.03) $/Wdc 169,998 (± 30,000) 0.17 (± 0.03) $/Wdc 169,998 (± 30,000) 0.17 (± 0.03) $/Wdc 169,998 (± 30,000) Installation labor 0.12 (± 0.02) $/Wdc 119,999 (± 20,000) 0.12 (± 0.02) $/Wdc 119,999 (± 20,000) 0.12 (± 0.02) $/Wdc 119,999 (± 20,000) Installer margin and overhead 0.16 (± 0.02) $/Wdc 159,998 (± 20,000) 0.16 (± 0.02) $/Wdc 159,998 (± 20,000) 0.16 (± 0.02) $/Wdc 159,998 (± 20,000) Contingency 4 (± 0.6) % 46,400 [33,660, 61,179] 4 (± 0.6) % 59,599 [43,180, 78,659] 4 (± 0.6) % 52,399 [ 38,080, 68,999] Subtotal Direct Costs
+
+Item
+
+1,206,388 [1,023,650,
+
+1,549,584 [1,313,167,
+
+1,362,386 [1,158,068,
+
+1,568,984] Permitting and environmental studies 0.03 $/Wdc 30,000 0.03 $/Wdc 30,000 0.03 $/Wdc 30,000 Engineering and developer overhead 0.31 (± 0.05) $/Wdc 309,996 (± 49,999) 0.31 (± 0.05) $/Wdc 309,996 (± 49,999) 0.31 (± 0.05) $/Wdc 309,996 (± 49,999) Grid interconnection 0.05 (± 0.01) $/Wdc 49,999 (± 10,000) 0.05 (± 0.01) $/Wdc 49,999 (± 10,000) 0.05 (± 0.01) $/Wdc 49,999 (± 10,000) Land costs 0.03 $/Wdc 30,000 Land preparation and transmission 0.03 $/Wdc 30,000 0.03 $/Wdc 30,000 0.03 $/Wdc 30,000 Sales tax 5% $ 60,319 [51,182, 69,558] 5% $ 77,479 [65,658, 89,432] 5% $ 68,119 [57,903, 78,449 Subtotal Indirect Costs $
+
+1,391,166]
+
+1,788,642]
+
+510,315 [441,178,
+
+497,475 [425,655,
+
+488,115 [417,900,
+
+579,553] $
+
+569,427] $
+
+558,444]
+
+1,716,702 [1,464,828,
+
+2,047,059 [1,738,821,
+
+1,850,501 [1,575,968
+
+Total installed cost $
+
+2,127,428] Total installed cost per capacity
+
+1,970,719] $
+
+2,358,069] $
+
+1.72 [1.46,
+
+2.05 [1.74,
+
+2.36] $/Wdc 1.85 [1.58, 2.13] $/Wdc a Error bars represent standard deviations; values in brackets represent the lower and upper bounds (mean ± standard deviation). b Sum of module support cost and balance of system cost were input as balance of system cost in SAM.
+
+1.97] $/Wdc
+
+S - 14
+
+Supplementary Table 9. Financial parameter inputs.
+
+Analysis Parameter Amount
+
+Internal rate of return (IRR) target (%) 11 (± 1.65) a
+
+IRR target (y) 20
+
+Power purchase agreement price (¢ kWh-1) 12.48 (± 0.35) a
+
+PPA Escalation Rate (%/y) 1
+
+Analysis Period (y) 30
+
+Inflation Rate (%/y) 2.5
+
+Real discount rate (%/y) 5.5
+
+Nominal discount rate (%/y) 8.14
+
+Federal Tax Rate (%/y) 35
+
+State Tax Rate (%/y) 7
+
+Sales Tax Rate (%/ total direct cost) 5
+
+Annual Insurance Rate (%/ installed cost) 0.5
+
+Debt Percent (%) 40
+
+Tenor (y) 30
+
+Annual interest rate (%/y) 7 a Error bars represent standard deviations.
+
+S - 15
+
+Supplementary Table 10. Irradiance losses for the cases of enhanced electricity generated by the over-canal CdTe PV arrays.
+
+Lower bound (%) Mean (%)
+
+Upper bound (%)
+
+Location
+
+Williams Wastewater Treatment Plant 1.06013 1.32038 1.57997
+
+Colusa County Water District 1.06013 1.32038 1.57997
+
+Rancho Seco Pumping Plant 1.09235 1.35285 1.61250
+
+UC Merced 1.14300 1.34715 1.55055
+
+Dos Amigos Pumping Plant 1.14300 1.34715 1.55055
+
+Pleasant Valley Pumping Plant 1.14055 1.39758 1.65400
+
+Devil's Den Pumping Plant 1.05055 1.31374 1.57600
+
+Edmonston Pumping Plant 0.87870 1.15920 1.43790
+
+S - 16
+
+Supplementary Table 11. Performance ratios and final system yields of the enhanced (due to evaporative cooling) cases.
+
+Location Performance Ratio a Final system yield (kWh kW-1)
+
+Min Mean Max Min Mean Max
+
+Williams WWTP b 0.825 0.827 0.829 1695 1699 1703 Colusa County 0.825 0.827 0.829 1695 1699 1703 Rancho Seco 0.835 0.837 0.839 1686 1690 1694 UC Merced 0.826 0.827 0.828 1732 1735 1738 Dos Amigos 0.826 0.827 0.828 1732 1735 1738 Pleasant Valley 0.826 0.827 0.829 1779 1783 1787 Devil's Den 0.825 0.828 0.829 1895 1900 1904 Edmonston 0.855 0.857 0.859 2041 2045 2050 a Performance ratio (dimensionless units) is defined as the ratio of measured output, the final system yield (kWh kW-1), to expected output, the reference yield (kWh kW-1), for a given reporting period based on the system name-plate rating. b Wastewater treatment plant (WWTP).
+
+S - 17
+
+Supplementary Table 12. Performance ratios, final system yields, and the calculated reference yield of the baseline case.
+
+Final system yield (kWh
+
+Calculated reference
+
+Location Performance ratio a
+
+kW-1)
+
+yield (kWh kW-1)
+
+Williams WWTP b 0.80 1643 2054 Colusa County 0.80 1643 2054 Rancho Seco 0.81 1635 2019 UC Merced 0.80 1678 2098 Dos Amigos 0.80 1678 2098 Pleasant Valley 0.80 1724 2155 Devil's Den 0.80 1837 2296 Edmonston 0.83 1980 2386 a Performance ratio (dimensionless units) is defined as the ratio of measured output, the final system yield (kWh kW-1), to expected output, the reference yield (kWh kW-1), for a given reporting period based on the system name-plate rating. b Wastewater treatment plant (WWTP).
+
+S - 18
+
+Supplementary Table 13. Annual avoided evaporation estimates for each site.
+
+Location Min Mean Max
+
+(m3 MW-1 y-1)
+
+Williams Wastewater Treatment Plant 6744 8405 10066
+
+Colusa County Water District 6744 8405 10066
+
+Rancho Seco Pumping Plant 6744 8405 10066
+
+UC Merced 7494 9283 11073
+
+Dos Amigos Pumping Plant 6744 8405 10066
+
+Pleasant Valley Pumping Plant 7494 9283 11073 Devil's Den Pumping Plant 8243 10161 12079 Edmonston Pumping Plant 8243 10161 12079
+
+S - 19
+
+Supplementary Table 14. SAM input parameters for uncertainty analysis of financial metrics.
+
+Financial metric Photo-voltaic system Parameters a n NPV b Ground-mounted Total installed cost and PPA c price 9 NPV Over-canal d Total installed cost; Irradiance losses; PPA price and operating costs e,f
+
+27
+
+LCOE g Ground-mounted Total installed cost and IRR h target rate 9 LCOE Over-canal Total installed cost; Irradiance losses; IRR rate and operating costs f,i 27 a Minimum, middle, and maximum estimates. b Net present value (NPV). c Power purchase agreement (PPA). d Over-canal systems include tensioned-cable and steel-truss designs. e Low, mid, and high operating costs grouped with low, mid, and high PPA prices, respectively, to reduce the number of simulations. f Sum of annual water savings and avoided annual canal maintenance costs from aquatic weed mitigation entered as negative annual operating costs in SAM. g Levelized cost of energy (LCOE). h Internal rate of return (IRR). i Low, mid, and high operating costs grouped with low, mid, and high IRR prices, respectively.
+
+S - 20
+
+Supplementary Table 15. EasyFit distributions, Kolmogorov-Smirnoff (KS) D-statistic, and parameters used in the Monte Carlo simulations for the net present value.
+
+Parameters a
+
+Scenario Site Distribution KS Statistic
+
+Ground-mounted Williams WWTP / Colusa County Johnson SB a 0.07573 γ=-0.00555; δ=0.73726; λ=339390; ξ=-65311 Ground-mounted Rancho Seco Johnson SB 0.07518 γ=-0.00553; δ=0.73011; λ=337050; ξ=-74176 Ground-mounted UC Merced / Dos Amigos Johnson SB 0.07671 γ=-0.00559; δ=0.7498; λ=343500; ξ=-49964 Ground-mounted Pleasant Valley Johnson SB 0.07826 γ=-0.00566; δ=0.76926; λ=349930; ξ=-26522 Ground-mounted Devil's Den Johnson SB 0.08409 γ=-0.00566; δ=0.76926; λ=373420; ξ=53909 Ground-mounted Edmonston Wakeby 0.09276 α=402370; β=5.5627; γ=201240; δ=-0.65993; ξ=143240 Over-canal steel-truss Williams WWTP Wakeby 0.0884 α=863850; β=16.1; γ=332730; δ=-1.065; ξ=-160960 Over-canal steel-truss Colusa County Johnson SB 0.0718 γ=-0.06256; δ=0.99846; λ=526050; ξ=-192400 Over-canal steel-truss Rancho Seco Johnson SB 0.0751 γ=-0.00506; δ=1.0019; λ=533220; ξ=-203490 Over-canal steel-truss UC Merced Johnson SB 0.0713 γ=-0.00496; δ=1.0233; λ=545140; ξ=-176370 Over-canal steel-truss Dos Amigos Johnson SB 0.0696 γ=-0.00467; δ=1.0294; λ=548560; ξ=-177520 Over-canal steel-truss Pleasant Valley Johnson SB 0.0636 γ=-0.00467; δ=1.0294; λ=548560; ξ=-177520 Over-canal steel-truss Devil's Den Johnson SB 0.0674 γ=-0.09807; δ=1.1014; λ=592100; ξ=-52645 Over-canal steel-truss Edmonston Gen. Extreme Val. 0.0597 k=-0.28515; σ=118190; μ=269780 Over-canal tensioned-cable Williams WWTP Gen. Extreme Val. 0.0700 k=-0.2783; σ=103200; μ=110990 Over-canal tensioned-cable Colusa County Gen. Extreme Val. 0.0677 k=-0.2783; σ=103830; μ=116000 Over-canal tensioned-cable Rancho Seco Gen. Extreme Val. 0.0650 k=-0.2783; σ=103200; μ=101160 Over-canal tensioned-cable UC Merced Johnson SB 0.0700 γ=0.01871; δ=1.14; λ=535560; ξ=-94953 Over-canal tensioned-cable Dos Amigos Johnson SB 0.0703 γ=0.0191; δ= 1.14; λ=538890; ξ=-96040 Over-canal tensioned-cable Pleasant Valley Johnson SB 0.0700 γ=0.02078; δ=1.17; λ=553660; ξ=-75919 Over-canal tensioned-cable Devil's Den Gen. Extreme Val. 0.0948 k=-0.2784; σ=109390; μ=291370 Over-canal tensioned-cable Edmonston Wakeby 0.0783 α=692220; β=6.70 γ=202050; δ=-0.5602; ξ= 166120 a β, δ (δ >0), k, and γ are continuous shape parameters; λ (λ>0) and σ (σ >0) are continuous scale parameters; α, μ, and ξ are continuous location parameters.
+
+S - 21
+
+Supplementary Table 26. EasyFit distributions, Kolmogorov-Smirnoff (KS) D-statistic, and parameters used in the Monte Carlo simulations for the levelized cost of energy of each system.
+
+Parameters a
+
+System Site Distribution KS Statistic
+
+Ground-mounted Williams WWTP / Colusa County Error 0.1103 k=100; σ=0.6364; μ=8.71 Ground-mounted Rancho Seco Error 0.1106 k=100; σ=0.6385; μ=8.75 Ground-mounted UC Merced / Dos Amigos Error 0.1116 k=100; σ=0.6220; μ=8.53 Ground-mounted Pleasant Valley Johnson SB 0.1107 γ=0.0356; δ=0.4543; λ=1.85; ξ=7.39 Ground-mounted Devil's Den Error 0.1111 k=100; σ= 0.5684; μ=7.22 Ground-mounted Edmonston Error 0.1097 k=100; σ= 0.5285; μ=7.79 Over-canal steel-truss Williams WWTP Johnson SB 0.1506 γ=-0.00106; δ=0.3635; λ=1.98; ξ=-8.00 Over-canal steel-truss Colusa County Johnson SB 0.1462 γ=-4.729E-4; δ=0.3651; λ=1.98; ξ=7.97 Over-canal steel-truss Rancho Seco Johnson SB 0.1492 γ=-0.00528; δ=0.3660; λ=1.98; ξ=7.80 Over-canal steel-truss UC Merced Johnson SB 0.1493 γ=-0.00222; δ= 0.3660; λ=1.94; ξ=7.80 Over-canal steel-truss Dos Amigos Johnson SB 0.1476 γ=4.20E-05; δ=0.36685; λ=1.94; ξ=7.80 Over-canal steel-truss Pleasant Valley Johnson SB 0.1434 γ=-0.00371; δ=0.3713; λ=1.90; ξ=7.58 Over-canal steel-truss Devil's Den Johnson SB 0.1183 γ=-0.0534; δ=0.3308; λ=1.76; ξ=6.89 Over-canal steel-truss Edmonston Johnson SB 0.1442 γ=-0.00209; δ=0.3687; λ=1.66; ξ=6.58 Over-canal tensioned-cable Williams WWTP Beta 0.1462 α1=0.3596; α2= 0.3527; a=7.62; b=9.27 Over-canal tensioned-cable Colusa County Johnson SB 0.1410 γ=0.0209; δ=0.3712; λ=1.75; ξ=7.59 Over-canal tensioned-cable Rancho Seco Johnson SB. 0.1418 γ=-0.00328; δ=0.3710; λ=1.79; ξ=7.60 Over-canal tensioned-cable UC Merced Johnson SB 0.1413 γ=-0.00195; δ=0.3739; λ=1.75; ξ=7.37 Over-canal tensioned-cable Dos Amigos Johnson SB 0.1399 γ=-0.00394; δ=0.3764; λ=1.75; ξ=7.36 Over-canal tensioned-cable Pleasant Valley Johnson SB 0.1350 γ=-0.0061; δ=0.3836; λ=1.72; ξ=7.16 Over-canal tensioned-cable Devil's Den Johnson SB 0.1188 γ=-0.01392; δ=0.4230; λ=1.69; ξ=6.45 Over-canal tensioned-cable Edmonston Johnson SB 0.1366 γ=-0.00456; δ=0.3799; λ=1.49; ξ=6.22
+
+a a and b are continuous boundary parameters (a<b); β, δ (δ >0), k, and γ are continuous shape parameters; λ (λ>0) and σ (σ >0) are continuous scale parameters; α, μ, and ξ are continuous location parameters.
+
+S - 22
+
+Supplementary Table 17. Key parameters of the main results use in the sensitivity analysis of the over-canal tensioned-cable design at the Edmonston Pumping Plant location.
+
+Parameter Minimum Most likely Maximum
+
+Module support and BOS ($ Wdc-1) 0.40 0.47 0.54
+
+Evaporative cooling irradiance losses (%) 0.8787 1.1592 1.4379
+
+Penman evaporation rate (mm d-1) 5.5 5.75 6
+
+Evaporation reduction factor (%) 67 78.5 90
+
+Irrigation rate schedule ($ m-3) 0.126 0.131 0.137
+
+Aquatic weed mitigation cost ($ MW-1) 1709 5316 8923
+
+PPA Price ($ kWh-1) 0.1213 0.1248 0.1283
+
+S - 23
+
+Supplementary Table 18. Alternative sensitivity parameters for the over-canal tensioned-cable design at the Edmonston Pumping Plant location.
+
+Parameter Alternate value
+
+Alternate PV material and irradiation losses Multi-c-Si / 6.54% WRCC pan evaporation rate (mm d-1) 4.75 CIMIS evaporation rate (mm d-1) 4.25 Alternate evaporation reduction factor (%) 30 Analysis and tenor timeframe (y) 25 Federal income tax rate (%) 21 Debt percentage (%) 30 Investment Tax Credit (%) 0 Bonus Depreciation (%) 0
+
+S - 24
+
+Supplementary Table 19. Alternate PV module and inverter characteristics at reference conditions used in sensitivity analysis.
+
+Parameter Value
+
+PV Module
+
+Model Worldwide Energy & Mfg USA AS-6P
+
+Material Multi-c-Si
+
+Maximum power (Wdc) 294.882
+
+Nominal efficiency (%) 19.0986
+
+Area (m2) 1.544
+
+Temperature coefficient (W/°C) -0.520
+
+Inverter
+
+Model SMA America SB4000TL-US-22 (208V)
+
+CEC (2018) weighted efficiency (%) 96.731
+
+S - 25
+
+Supplementary Table 20. Agricultural diesel generator growth rates by county5 (CARB, 2006).
+
+County Growth Factor
+
+(%y-1) Fresno -0.73 Kern -0.33 Kings -0.14 Madera -0.2 Merced -0.03 San Joaquin -0.32 Stanislaus -0.12 Tulare -0.62 All other counties -0.26
+
+S - 26
+
+Supplementary Table 21. First-year energy production of over-canal installations (1 MW) for selected sites.
+
+Location First-year energy (kWh y-1)
+
+Low a Most likely b High c Williams WWTP 1,695,148 1,699,050 1,702,952 Colusa County 1,695,148 1,699,050 1,702,952 Rancho Seco 1,686,254 1,690,089 1,693,924 UC Merced 1,732,098 1,735,244 1,738,391 Dos Amigos 1,732,098 1,735,244 1,738,391 Pleasant Valley 1,778,719 1,782,814 1,786,908 Devil's Den 1,895,305 1,899,669 1,904,031 Edmonston 2,040,572 2,045,105 2,049,637 a Estimate based on the low performance ratio due to evaporative cooling and the high value of irradiance losses (conf. Table S11). b Estimate based on the most likely performance ratio due to evaporative cooling and the most likely value of irradiance losses (conf. Table S11). c Estimate based on the high-performance ratio due to evaporative cooling and the low value of irradiance losses (conf. Table S11).
+
+S - 27
+
+Supplementary Table 22. Energy required to operate the agricultural diesel engines at each location.
+
+Selected Site Ediesel (kWh y-1) Williams WWTP 86,680 Colusa County Water District 86,680 Rancho Seco Pumping Plant 86,722 Canal near UC Merced 115,977 Dos Amigos Pumping Plant 115,977 Pleasant Valley Pumping Plant 108,727 Devil's Den Pumping Plant 124,754 Edmonston Pumping Plant 124,754
+
+S - 28
+
+Supplementary Table 23. Static head of diesel generators at each site considered in this study.
+
+Selected Site hstatic (m)
+
+Williams WWTP 58.8 Colusa County Water District 58.8 Rancho Seco Pumping Plant 58.8 Canal near UC Merced 79.9 Dos Amigos Pumping Plant 79.9 Pleasant Valley Pumping Plant 74.7 Devil's Den Pumping Plant 86.3 Edmonston Pumping Plant 86.3
+
+S - 29
+
+Supplementary Table 24. Emission factors for diesel engines.
+
+Emission factor (g
+
+kWh-1)
+
+Pollutant
+
+CO2 273
+
+CH4 0.001
+
+N2O 0.002
+
+BC 0.003
+
+CO 0.007
+
+VOC 0.001
+
+NOx 0.864
+
+SOx 0.188
+
+PM10 0.061
+
+PM2.5 0.022
+
+S - 30
+
+Supplementary Discussion
+
+Sensitivity Analysis The sensitivity analysis of the key parameters used in the techno-economic analysis reveals that the NPV was most sensitive to the power purchase agreement (PPA) price (Fig. S4). Adjusting the median PPA price ($0.1248 kWh-1) by ±$0.0035 kWh-1 (or ±2.84%), resulted in a change in the median NPV of ±$42.5 x 103. The second most influential parameter was the avoided cost of aquatic weed mitigation. Adjusting the median aquatic weed mitigation cost by ±$3,607/MW (or ±68%), resulted in a change in the median NPV of ±$31.5 x 103. The third most influential parameter was the module support and the balance of system (BOS) cost. Increasing the median module support and the BOS cost ($0.48 Wdc-1) by $0.06 Wdc-1 (or 12.5%), resulted in an increase in the median NPV of $28.3 x 103. Of the alternative parameters we considered, the NPV was most sensitive to the 30% Investment Tax Credit (ITC). Elimination of the ITC from the analysis resulted in a decrease in the median NPV of $485 x 103. Secondly, reducing the analysis period and tenor of the project term debt from 30 to 25 years resulted in a decrease in the NPV of $113 x 103. Thirdly, the alternate PV material, multicrystalline silicon instead of cadmium telluride (CdTe), and the associated irradiance loss of 6.54%, resulted in a decrease in the median NPV of $96 x 103. The results show that the suspension cable over-canal design is sensitive to financial parameters (e.g. PPA price) and incentives (e.g. ITC). The commercial solar market is complex, and many of the financial assumptions, such as PPA prices, are often project-specific and thus many of the assumptions in our financial model may be an oversimplification. However, deal-specific PPA prices will have the same effect on both the over-canal and overground systems, without impacting the conclusions of this study
+
+Layout of solar panels The solar-energy-production estimates were based on layouts of south-facing panels with no self-shading (i.e. on south-facing canal segments). Alternative layouts could be considered such as south-facing panels on east-west facing canals with self-shading that reduce productivity or westfacing panels that increase financial productivity. However, additional layouts should have similar effects on the financial performance of the over-canal and over-ground systems.
+
+Policy implications The cost competitiveness of renewable projects, in general, will largely depend on federal subsidies in the form of tax incentives. As illustrated by the results of our sensitivity analysis, the ITC offsets a significant portion of solarproject capital costs, and improves the financial viability of solar projects. However, the ITC is being ramped down. According to the Consolidated Appropriations Act of 2021 (H.R. 133 introduced in the 116th Congress), the ITC will remain at 26% for solar projects that begin construction in 2021 and 2022, but will be reduced to 22% in 2023, and further reduced to 10% beginning in 2024. The ITC ramp
+
+down will effectively increase the capital costs borne by project developers and reduce the financial viability of certain projects. It has been reported that the higher capital cost burden of solar projects could force developers to increase the cost of solar generation by 10–70% in some markets9. The increased costs of solar generation after the full ramp down could reduce annual installed capacity by more than 50%9. In addition to corporate tax reform that affects the value of tax equity, import tariffs on solar PV modules has increased uncertainty over the economics of new solar projects10. Thus, new designs that can improve the financial performance, such as over-canal solar designs, are needed in the face of declining federal subsidy.
+
+Supplementary Methods
+
+Site selection We selected eight different sites throughout California that represent a diverse range of climates, hydrologic basins, topographies, canal widths, and agencies of California’s major water conveyance systems (Fig. 1). The two sites within the Sacramento River hydrologic region are the Williams Wastewater Treatment Plant and a pumping plant for the Colusa County Water District. The three sites within the San Joaquin hydrologic region include the Rancho Seco Pumping Plant, a canal operated by Merced Irrigation District; and the Dos Amigos Pumping Plant. The three sites within the Tulare Lake hydrologic region include the Pleasant Valley Pumping Plant, the Devil’s Den Pumping Plant and the Edmonston Pumping Plant. The canal sites we selected for our evaluation have a variety of uses (e.g. irrigation, urban water supply, water supply for thermo-electric power generation) and are managed by different agencies (federal, state, and local). The selection of sites with different managing agencies provided an opportunity to compare water rates between agencies and the impact this would have on the project net present value (NPV). The selection of sites with different canal uses provided an opportunity to compare the impact of municipal versus agricultural water rates on the NPV. In a separate study (unpublished), we used a multicriteria decision matrix to rank each site according to the solar irradiance, evaporation rate, visibility of the project (view-shed analysis), energy intensity and greenhouse gas emissions of the pump plants, the regional power rate, the regional water rates, regional diesel irrigation pump populations, and whether the electric service provider had active or planned community choice solar or community choice aggregator projects. While, the multi-criteria decision matrix we considered is beyond the scope of this paper, several of the decision criteria inputs informed the current work (solar irradiance, evaporation rate, regional water rates, and the regional diesel irrigation pump populations). Supplemental details about each site follow. The Colusa County Water District station pump 2B is located on the Tehama-Colusa canal and adjacent to an agricultural growing region. The Tehama-Colusa canal is operated by the U.S. Department of the Interior, Bureau of Reclamation. Due to the proximity of this canal to growing regions, we used federal irrigation water rates in our financial analysis (Supplementary Table 2).
+
+S - 31
+
+The Williams Wastewater Treatment Plant is located near the Tehama-Colusa canal. Wastewater treatment plants have large power demands and, in some cases, they can be the largest electricity consumers in a municipality. Increasingly, municipalities are installing solar arrays to offset electricity demands and to help meet their sustainability goals. The proximity of this plant to the canal, the fact that this plant does not have an adjacent solar array (at the time of this writing), and the high visibility (from a view-shed analysis) were reasons that we included this site in our analysis. We used federal municipal water rates in our financial analysis (Supplementary Table 2). Although the Rancho Seco Nuclear Generating Station was decommissioned in 1975, the Rancho Seco Pumping Plant retained the name of the now-defunct power plant. SMUD has a water service contract with the Bureau of Reclamation. Water is supplied to SMUD’s Cosumnes Power Plant (a zero liquid discharge natural gas, combined cycle power plant) and Rancho Seco Lake (used for recreational purposes) through the Rancho Seco Pumping Plant. The large water demands for thermoelectric power plants and the fact that SMUD is actively pursuing opportunities to increase solar capacity for their community choice aggregator program were reasons we included this site in our analysis. We used the federal municipal water rates in our financial analysis (Supplementary Table 2). A local distribution canal operated by Merced Irrigation District that intersects the UC Merced campus was selected because this site would give high visibility to the project due to the student traffic across the pedestrian bridge which spans the canal, as well as media coverage that frequents this campus. We used local agency agricultural water rates in our financial analysis (Supplementary Table 2). The Dos Amigos Pumping Plant is the second pumping plant for the California Aqueduct and the South Bay Aqueduct. The facility is shared by the federal and state governments and is part of the Central Valley Project. The plant provides the necessary fluid head (potential energy) for the California Aqueduct to flow for approximately 95 miles (153 km) to where the Coastal Branch splits from the "main line" approximately 10 miles (16 km) southsoutheast of Kettleman City11. We selected this site due to the energy intensity of water deliveries and the high visibility of this site (from a view-shed analysis). We used federal agency irrigation water rates in our financial analysis (Supplementary Table 2). The Pleasant Valley Pumping Plant is part of the San Luis Unit of the Central Valley Project (federal facility). Water is pumped into the Coalinga canal by the Pleasant Valley Pumping Plant. Reaches 1 and 2 of the canal are operated by the Westlands Water District, which delivers water to agricultural users. The Westlands Water District is a member of the San Luis & Delta-Mendota Water Authority. We selected this site because the Westlands Water District, which encompasses over 600,000 acres of farmland is the largest agricultural water district in the United States12. We used federal agency irrigation water rates in our financial analysis (Supplementary Table 2). The Devil’s Den Pumping Plant is a state facility on the coastal branch of the California Aqueduct. The plant provides the necessary fluid head (potential energy), lifting
+
+water 1,500 feet in elevation through a buried 57-inch diameter pipeline to the summit of Polonio Pass of the Temblor Mountain Range11. We selected this site due to the energy intensity of water deliveries. We used state agency water rates in our financial analysis (Supplementary Table 2). The Edmonston Pumping Plant is a state facility on the California Aqueduct. The plant provides the necessary fluid head (potential energy), lifting water the nearly 2,000 vertical feet. The plant provides the largest lift in the SWP system11. We selected this site due to the energy intensity of water deliveries. We used state agency water rates in our financial analysis (Supplementary Table 2).
+
+Variables in uncertainty analysis We varied several input parameters in SAM to create distributions of the NPV and LCOE outputs (Supplementary Table 14). In the case of ground-mounted systems, we varied the minimum, mean, and maximum values of the PV installation costs (Supplementary Table 8), and the PPA price or IRR target rates (Supplementary Table 9) for nine different simulations for each financial metric (NPV or LCOE) and site. In the case of the over-canal systems, we varied the minimum, mean, and maximum values of the PV installation costs (Supplementary Table 8), the PPA price or IRR target rates (Supplementary Table 9), the irradiance losses for enhanced electricity generation as a co-benefit of the mitigation of panel heating due to the cooler microclimate next to the canal (Supplementary Table 10), and the operating costs which include the combined offsets of water cost savings and aquatic weed mitigation costs due to the shade provided by the PV panels. We grouped the minimum, mean, and maximum operating costs with the minimum, mean, and maximum PPA prices (for NPV) or IRR target rate (for LCOE), respectively, for 27 simulations of each financial metric (NPV or LCOE) and site. In both ground-mounted and over-canal systems, we estimated the minimum, mean, and maximum values of the PV installation costs and the IRR target rates using assigned standard deviations. We assigned standard deviations following ISO guidelines due to limited data13. To allow for sources of error for which reliable estimates of uncertainty do not exist, either uniform, triangular, or normal statistical distributions are recommended in the guidelines. Thus, we assigned normal distributions to estimate the standard deviations of the PV installation costs (Supplementary Table 8) and the IRR targets (Supplementary Table 9). For the PV installation costs and the IRR target rates, we calculated the standard deviations for a normal distribution using the stochastic simulator in SAM. We estimated the minimum, mean, and maximum of the PPA price (Supplementary Table 9) based on the standard deviations of the weighted averages of Renewable Portfolio Standard program procurement cost data for PV projects between 0-3 MW14. In the over-canal systems, we estimated the minimum, mean, and maximum irradiance losses (Supplementary Table 10) based on the range of values described in the methods section of the main manuscript. The minimum,
+
+S - 32
+
+mean, and maximum operating costs include the combined co-benefits of water and aquatic weed mitigation savings. For water savings, we applied the avoided evaporation estimate (Supplementary Table 13) to the water costs (Supplementary Table 2), to estimate the minimum, mean, and maximums, respectively for each site. The estimates of the minimum, mean, and maximum aquatic weed mitigation costs were described in the methods section of the main manuscript.
+
+Supplementary References
+
+1. Western Regional Climate Center. Historical Climate Information. Western Regional Climate Center (2016). Available at: http://www.wrcc.dri.edu/CLIMATEDATA.html. (Accessed January, 2016).
+
+2. California Irrigation Management Systems. Spatial Maps, ETo Zones Map. Available at: https://cimis.water.ca.gov/App_Themes/images/etozonema p.jpg (Accessed January, 2016).
+
+3. Coyle, D. J. Life prediction for CIGS solar modules part 1: Modeling moisture ingress and degradation. Prog. Photovolt Res. Appl. 21, 156-172 (2013).
+
+4. NOAA. Data tools: Local Climatological Data Map Tool (2020), Available at: https://www.ncdc.noaa.gov/cdoweb/datatools/lcd. (Accessed January, 2021).
+
+5. USBR. U.S. Bureau of Reclamation (USBR), Mid-Pacific Region Central Valley Project Annual Ratebooks and Schedules (2019). Available at: https://www.usbr.gov/mp/cvpwaterrates/ratebooks/index.ht ml.
+
+6. MID. Merced Irrigation District (MID) Water Rate and Program (2019), available at: http://www.mercedid.com/index.cfm/water/water-rates/.
+
+7. CDWR. Management of the California State Water Project, Bulletin 132-17. Sacramento, CA, California Department of Water Resources (CDWR, 2019).
+
+8. CARB, 2006. Emission inventory methodology, Agricultural Irrigation Pumps - Diesel. California Air Resources Board (CARB, 2006), available at: https://ww3.arb.ca.gov/regact/agen06/attach2.pdf.
+
+9. Heeter, J., Lowder, T., O’Shaughnessy, E. & Miller, J. Implications of the scheduled federal Investment Tax Credit reversion for Renewable Portfolio Standard solar carve-out compliance, technical report no. NREL/TP-6A20-64506. (National Renewable Energy Laboratory, 2015).
+
+10. IEA. Tracking Power. International Energy Agency (IEA) (2019).
+
+11. CDWR. SWP Facilities: Pumping Plants. Sacramento, CA, California Department of Water Resources (CDWR, 2020), available at: https://water.ca.gov/Programs/State-Water-Project/SWP-Facilities.
+
+12. Westlands Water District, Westlands Water District Map (2016), available at: https://wwd.ca.gov/aboutwestlands/maps/.
+
+13. NIST/SEMATECH, 2013. e-Handbook of Statistical Methods, DOI: 10.18434/M32189.
+
+14. Gerstle, B., Allbright, M., Lee, C. & Iklé, J. 2019 Padilla Report: Costs and Cost Savings for the RPS Program (Public Utilities Code §913.3). (California Public Utilities Commission, 2019).
+
+Comparison of ground-mounted to tensioned-cable systems using alternative financing models in SAM We separately compared the ground-mounted and tensioned-cable systems at Edmonston Pumping Plant site using alternative financial models in SAM. Instead of the utility-scale single-owner PPA financial model, we considered commercial, PPA partnership flip with debt, PPA partnership flip with without debt, and PPA sale leaseback. To examine the effects of declining subsidy in our comparisons, we considered two investment tax credits (ITC). We considered an ITC of 22% (for projects commencing construction between January 1, 2021, and December 31, 2021, but placed in service before 2024) and an ITC of 10% (for projects commencing construction after December 31, 2021, or placed in service after December 31, 2023). In our comparisons, we used the same inputs that we used in our NPV and LCOE analysis including the CdTe module and inverter (Table S6), irradiance loss for the ground-mounted system (Table S7) and the mean irradiance loss for the tensioned-cable system (Table S10), the mean PV installation costs (Table S8), mean PPA price and debt percent (Table S9), and mean operating costs in the case of the over-canal tensioned-cable system (an offset of 66512 $/y for avoided water costs and aquatic weed mitigation). In the case of the commercial model, for both groundmounted and tensioned-cable systems, instead of a PPA we used electricity rates. We selected “Pacific Gas & Electric Co.” and the “E20 (transmission)” schedule from the OpenEI Utility Rate database. We assumed all generation sold at sell rates and all generation purchased at buy rates, and we assumed a fixed monthly charge of $2000. In the case of the PPA partnership flips with debt, we assumed the following pre-flip equity structures for the tax investor: 98% share of equity, project cash, and tax benefits. We assumed a post-flip equity structure for the tax investor of 10% of project cash and tax benefits. In the case of the PPA partnership flips without debt, we assumed the following pre-flip equity structures for the tax investor: 60% share of equity, 100% project cash, and 99% tax benefits. We assumed a post-flip equity structure for the tax investor of 10% of project cash and tax benefits. We assumed a period of 3 years for the developer capital recovery time. In the case of the PPA sale leaseback, we assumed a developer (lesee) operation margin of 20 $/kW, developer (lesee) margin escalation of 2%/year, and a tax investor (lessor) required lease payment reserve of 6 months.
+
+S - 33

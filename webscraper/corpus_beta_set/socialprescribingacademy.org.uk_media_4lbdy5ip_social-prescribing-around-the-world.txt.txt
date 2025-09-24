@@ -1,0 +1,1531 @@
+no_title
+
+Social Prescribing Around the World
+
+A World Map of Global Developments in Social Prescribing Across Different Health System Contexts
+
+1 Social Prescribing around the World
+
+Foreword
+
+Comments and remarks from international partners across the globe
+
+Isabelle Wachsmuth World Health Organisation, Art Impact for Health Initiative, Universal Health Coverage and Life Course Division
+
+Social prescribing is a way to foster meaning, purpose, and cohesion in our communities. It enables people to communicate their experience of and feelings about their wellbeing. It is a way to facilitate resilience of people and their self-awareness about the importance of their health. Actions on bettering the social determinants of health invites us to care for all beneficiaries, specifically the most vulnerable and marginalised, to inspire cohesion between different innovative or under-reached initiatives with strong and sustainable impacts at country level.
+
+James Sanderson Director Community Health & Personalised Care NHS England
+
+Social prescribing is the single most influential development in healthcare in recent decades. It moves away from the often over-medicalised model of modern healthcare to tackle multi-morbidity and the social determinants of health which are creating high levels of ill-health in our populations. Social prescribing addresses these issues and reduces pressure on other parts of the healthcare system by focusing on what matters to individuals, delivering psychosocial interventions to improve health outcomes, build relationships, reduce loneliness and isolation, and strengthen community bonds. The global collaboration that is happening in social prescribing is hugely important as it develops and matures across the world. We can all learn from how other countries are implementing this crucial innovation in healthcare.
+
+Dr Michael Dixon LVO, OBE, MA, FRCGP, FRCP Co-Chair Social Prescribing Network, Head of The Royal Medical Household
+
+Social prescribing is changing the landscape of healthcare, where our attention is moving beyond the brick and mortar of hospitals and into peoples’ communities. We know our health and wellbeing is most affected not by the medicines we prescribe but the lifestyles, social connections and conditions people live in. The global interest in social prescribing represents a shift in culture and understanding that our health systems must go beyond the pills to create good health for all. This report galvanises the effort of 24 countries in implementing social prescribing and I hope it inspires many more to join this movement in providing holistic, patient-centred care through social prescribing.
+
+Khan & Giurca et al., 2023 © 2023 National Academy for Social Prescribing
+
+3 Social Prescribing around the World 2 Social Prescribing around the World
+
+Summary
+
+Kate Mulligan Senior Director of the Canadian Institute for Social Prescribing, Assistant Professor Dalla Lana School of Public Health, University of Toronto
+
+Background
+
+Social prescribing reminds us that we can all take our next steps, large or small, to improve the conditions for daily living that have such a big impact on our health and wellbeing. No matter what medical or social conditions we’re facing, from social exclusion to inadequate housing, we have health and resilience when we have authentic belonging, a sense of purpose, and the ability to help ourselves and others. I’m part of the global social prescribing community because this community shares the knowledge and provides the mutual aid that helps us all take those next steps and keep moving forward together.
+
+The recent prevalence of social prescribing policy adoption around the world, and across different health system contexts, calls for a comprehensive overview of global social prescribing developments. This is essential for understanding facilitators and barriers in implementation, supporting potential policy development, and vital learning for interested countries. Social prescribing describes evidence-based interventions, which are designed to improve health and wellbeing outcomes, by referring individuals to nonclinical services and activities typically offered by the local voluntary and community sectors. England was the first country to integrate social prescribing into national health policy with the 2019 NHS Long Term Plan1. Other countries are making similar developments2.
+
+with a vision of healthcare that includes social prescribing, it is vital to collate global efforts and identify common best practices.
+
+Aims
+
+This report has a global focus, exploring social prescribing developments in 24 countries. There is no single best model or practice of social prescribing. Different health system contexts call for adaptability. The 24 case studies of social prescribing presented in this report show differences and commonalities in implementation and practice. The aim of this report is to provide a cursory glance of how social prescribing is being practiced around the world.
+
+Dr. Kheng Hock Lee Deputy Chief Executive Officer, Education & Community Partnerships, SingHealth Community Hospitals
+
+Social prescribing in essence is a humanistic approach to help individuals achieve wellbeing by supporting their health and social care needs. From a systems perspective, it is a prescription that will potentially improve cost effectiveness and stretch the limited resources that we have to improve the health of our population. It is not surprising that healthcare systems around the world are coming to the same conclusion that social prescribing should be incorporated in care model and policy development.
+
+Methods
+
+Social prescribing is a new model of providing care. The evidence of effectiveness will need time to accumulate. International collaboration to share best practices is important as we continue to improve our respective programmes. Over time, I am confident our joint efforts will enable us to achieve evidence-based practice in social prescribing.
+
+Recommendations of social prescribing
+
+Data from this report was informed by semi-structured online interviews with social prescribing practitioners, researchers and advocates from around the world. Interview questions were related to the health system context, aspects of social prescribing implementation and relevant examples of projects or initiatives. The resulting case studies present the country’s health system context and social prescribing developments.
+
+policy adoption are informed by current global health trends. The growing global burdens of ageing populations and longer life expectancies expresses the urgent need to make future health systems and service use more sustainable. Our lifespans are increasing, but our ‘healthspans’ are decreasing — more people are suffering more diseases in their old age for a longer period of time. Reactionary and fragmented sick-care health system models designed to only mitigate disease symptoms are insufficient. The global focus must shift towards a salutogenic model that prioritises health creation and disease prevention. The growing evidence-base of social prescribing as a health systems reliever and wellbeing promoter3,4 has produced international interest. As other countries look to design and develop their health systems
+
+Sian Slade MPH, MBA PhD Researcher in Global Health Systems University of Melbourne
+
+Social prescribing represents an opportunity to pivot thinking in health to a more holistic versus medicalised approach and embraces the vision of the World Health Organisation from 1948, describing “Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity”. In recognising what matters to the individual, a social prescription provides a bespoke approach to personalise care to individual needs through supported access of non-clinical supports in the community. This addresses both physical, mental and social health needs, building and strengthening self-esteem, resilience and sense of community support. Our global community represents a defining moment to share experiences in real-time through a collaborative, contemporary movement. It is through the power, passion and tenacity of individuals collaborating as a collective globally that sustainable change happens.
+
+5 Social Prescribing around the World 4 Social Prescribing around the World
+
+What is Social Prescribing?
+
+Social prescribing describes evidencebased interventions, which are designed to improve health and wellbeing outcomes, by referring individuals to non-clinical services and activities typically offered by the local voluntary and community sectors.
+
+the essential link between medical clinics and community-based support — as seen in the UK, Canada, Australia, Japan and many others.
+
+Amongst the global community of social prescribing, there is diversity in terminology but commonality in practice and principle. Reportedly, the UK itself describes link workers in 75 different terms7. This report also recognises the 'link worker’ role through different terms, including: wellbeing coaches, social workers, community coordinators, seikatsu shien, behvarzes and more.
+
+Historically, the lack of a universally accepted definition of social prescribing, and its necessary dependency on local contexts, has created heterogeneity in its implementation and practice5. However, a recent Delphi study was conducted to develop a global definition of social prescribing, gaining consensus from its international, multidisciplinary panel of experts. The shortened conceptual definition described social prescribing as:
+
+Latent in all case studies presented in this report are the underlying principles of social prescribing that are fundamental to effective implementation practice. This includes:
+
+Case studies around the world
+
+“a means for trusted individuals in clinical and community settings to identify that a person has nonmedical, health-related social needs, and to subsequently connect them to non-clinical support and services within the community by co-producing a social prescription: a non-medical prescription to improve health and wellbeing, and to strengthen community connections.”6
+
+• A holistic and personalised approach focussing on individual needs,
+
+• Health and wellbeing promotion in community settings,
+
+• Referrals to health-promoting community-based support and services,
+
+England 06
+
+Germany 30
+
+Scotland 08
+
+Austria 32
+
+• Empowering individual control over health.
+
+Wales 10
+
+Poland 34
+
+Northern Ireland 12
+
+India 36
+
+Republic of Ireland 14
+
+Iran 38
+
+It is important to note however that this definition is not prescriptive. The differences in countries’ health systems, and wider design of sociopolitical infrastructure, can either facilitate or frustrate the practice and planning of social prescribing. Necessary adaptations to the link worker role, for example, include either upskilling the role of existing healthcare professionals — as seen in Portugal, Spain and Austria — or recruiting a new workforce that forms
+
+“Social prescribing represents an innovative tool to transform healthcare systems across the world to meet 21st century demands: A complete paradigm shift, focusing on what truly matters to individuals, enabling us to deliver a biopsychosocial model of care.”
+
+Canada 16
+
+Japan 40
+
+USA 18
+
+Singapore 42
+
+Portugal 20
+
+Malaysia 44
+
+Spain 22
+
+China 45
+
+Netherlands 24
+
+Taiwan 46
+
+Finland 26
+
+South Korea 48
+
+Dr Bogdan Chiva Giurca Lead, Global Social Prescribing Alliance
+
+Italy 28
+
+Australia 51
+
+7 Social Prescribing around the World 6 Social Prescribing around the World
+
+England
+
+Health System Context
+
+In October 2019, the National Academy for Social Prescribing (NASP) was launched as an organisation that champions advancement of social prescribing through promotion, collaboration and innovation.9
+
+NHS England, England’s publicly funded health system, delivers healthcare mainly through NHS trusts and foundation trusts. Services in England are centrally funded from Department of Health and Social Care based on a set tariff per patient and type of treatment. All primary care clinics are part of ‘Integrated Care Systems’ (ICSs). ICSs are partnerships of organisations collectively responsible for planning health and care services, and improving health across its local areas. There are 42 ICSs across England covering populations of around 500,000 to 3
+
+NASP’s work includes mapping the evidencebase for social prescribing through the Academic Partners, providing national support for local community projects with Thriving Communities, and raising awareness of social prescribing amongst NHS workers through the Champions Programme. Through the student champions programme, every medical school is delivering teaching on social prescribing, with some now providing dedicated modules programme.
+
+In 2023 there are approximately:
+
+link workers 3,200
+
+million people.
+
+Social Prescribing Developments
+
+Social prescribing in England is predominantly based in primary-care, where GPs (primarycare doctors) make referrals to link workers after screening for psychosocial issues. Link workers have up to an hour for motivational interviewing
+
+with the NHS having committed to recruiting 1000 more link workers over the 2022 winter period as part of the winter emergency plan to supplement the health service’s capacity.8
+
+and identifying personal needs to make appropriate community service referrals.
+
+The NHS has developed a competency framework for social prescribing link workers which lays out categories of competencies on:
+
+• Engaging and connecting with people,
+
+• Enabling and supporting people,
+
+• Enabling community development,
+
+• Competencies for safe and effective practice.
+
+Figure 1: England uses the social prescribing link
+
+The Social Prescribing Network, established in 2016, has worked to disseminate information on social prescribing to key stakeholders.
+
+worker model. Key characteristics include workforce
+
+development, collaborative commissioning and
+
+creating personalised plans for patients.
+
+9 8 Social Prescribing around the World Social Prescribing around the World
+
+Health System Context
+
+Scotland
+
+Healthcare administration in Scotland is devolved and mainly provided by its public health service, NHS Scotland. It provides free healthcare to all permanent residents, free at the point of need, and is financed by general taxation.
+
+Primary and secondary care are integrated, and health services are provided by 14 regional health boards. There are also 7 special NHS boards which work alongside the regional boards to provide a range of specialist and
+
+Figure 2: Dumfries House partnered with the Princes’
+
+Foundation delivers various wellbeing programmes.
+
+Link workers can also be themed, specialising in particular social prescribing referrals. Glasgow has asylum-seeker link workers and Edinburgh has homelessness link workers especially skilled to provide holistic community support for these vulnerable populations.
+
+Patients from Dumfries and Galloway are referred by
+
+CLWs and take classes like tai-chi for chronic pain,
+
+national services.
+
+as shown above.
+
+Social Prescribing Developments
+
+A Scottish parliamentary inquiry published a report in 2019 on “Social Prescribing for Sports and Physical Activity”10. Reportedly, social prescribing has been advocated and used since the 1990s, but has become more widely recognised in Scotland since the establishment of the Community Link Workers program in
+
+2016. Following on from the implementation of Community Link Workers, Scottish Government have funded the Scottish Community Link Worker Network which is hosted by Voluntary
+
+Outside of the Community Link Worker Programme, there is SPRING social prescribing – a partnership between Northern Ireland and Scottish community organisations delivering social prescribing services across its network of 24 community-led health organisations12.
+
+The Scottish Social Prescribing Network (SSPN) was set up in 2020 during the COVID-19 pandemic, when community connectors, social prescribers and community link workers
+
+mobilised and rapidly adapted to support people in their communities. The SSPN continues to lead on the strategic direction of social prescribing in Scotland, working with Scottish Government to influence their strategies and policies13.
+
+Health Scotland Scottish Community Link Worker Network11.
+
+Community link workers (CLWs), based within primary care, act as social prescribers, linking patients to community-based activities. Each programme is unique in its set up, with most involving the third sector. As an example, the Edinburgh CLW network has 24 CLWs across 45 primary care clinics who are employed by 11 voluntary sector organisations. This allows for CLWs to be fully embedded within their community. Link workers can also be ‘themed’ specialising in particular social prescribing referrals. Glasgow has asylum-seeker link workers and Edinburgh has homelessness link workers especially skilled to provide holistic community support for these vulnerable populations.
+
+In June 2022, the SSPN hosted a parliamentary reception and roundtable discussion, engaging with multisectoral stakeholders to influence Scottish government to provide a national structure for social prescribing14.
+
+11 Social Prescribing around the World 10 Social Prescribing around the World
+
+Wales
+
+Health System Context
+
+Healthcare in Wales is provided by the Welsh public health service, NHS Wales – providing free healthcare to its population. It has had a statutory requirement since 2016 to work within Regional Partnership Boards to deliver integrated health and social care services. NHS Wales comprises of the full range of organisations in NHS Wales. This includes:
+
+The Welsh model of social prescribing moves away from the medicalised, primary-care based approach, and instead proposes a community-based holistic intervention pathway.
+
+Figure 3: the All-Wales model of social prescribing.
+
+• 7 local health boards, integrated primary, community, secondary and tertiary care services,
+
+Public consultation used to gain feedback on
+
+framework.
+
+• 3 NHS trusts, Welsh Ambulance Service (WAST), Public Health Wales, Velindre NHS (Cancer),
+
+The purpose of this public consultation was to “agree with stakeholders a model of social prescribing for Wales, to develop a common understanding of the language used to describe social prescribing and identify actions which embed the model through a national framework.”
+
+• Health Education & Improvement Wales,
+
+• Digital Health and Care Wales.
+
+Social Prescribing Developments
+
+The “All Wales Model of Social Prescribing” recognises 5 referral pathways:
+
+The Welsh model of social prescribing moves away from the medicalised, primarycare based approach used in England’s implementation. It instead proposes a community-based holistic intervention pathway.15 This follows from a baseline study done by the Welsh School of Social Prescribing Research (WSSPR) in 2021 which found that most social prescribing activity, including referrals, was from third sector and community spaces.16
+
+1. Healthcare (eg GP referrals),
+
+2. Statutory sector (eg emergency or social services),
+
+3. Third sector (eg organisations, charities and groups),
+
+4. Targeted (eg referrals made for particular health conditions),
+
+The WSSPR was founded in 2020, has a network of 350 members and a research income of approximately £330,000 per year17.
+
+5. Self-referrals.
+
+In July 2022, the Deputy Minister for Mental Health and Wellbeing published an open, public consultation proposing an “All Wales model of social prescribing”.18
+
+13 Social Prescribing around the World 12 Social Prescribing around the World
+
+Northern Ireland
+
+Health System Context
+
+Northern Ireland has a publicly funded health system with an integrated health and social care service (HSC). The Northern Ireland Executive, the devolved government in Northern Ireland, is responsible for funding HSC through its Department of Health. The Health and Social Care board, along with its 5 health and social care Trusts, are responsible for delivering primary, secondary and community healthcare.
+
+“mPower” was another social prescribing pilot project that ran for 5 years (2017 - 2022). The project was a cross-border collaboration to support older people aged 65+ living in the Republic of Ireland, Northern Ireland and Scotland. Community Navigators (link workers) worked with people referred from health and care services to develop wellbeing plans that connected them to their communities and supported general health.
+
+Social Prescribing Developments
+
+Social prescribing in Northern Ireland is predominantly delivered by SPRING, a social prescribing network of 30 community-led health organisations committed to delivering social prescribing services across communities in Northern Ireland and Scotland. After a referral is made from partnered primary care health professionals, a link worker co-designs a wellbeing plan, connecting people to activities
+
+Social prescribing in Northern Ireland is predominantly delivered by SPRING, a network of 30 community-led health organisations committed to delivering social prescribing across communities.
+
+within their community using a digital platform.
+
+15 Social Prescribing around the World 14 Social Prescribing around the World
+
+Republic of Ireland
+
+Health System Context
+
+Social prescribing has significant policy mandate in Ireland. The 2020 Programme for Government sought to expand social prescribing20 and it has been cited as a key enabler in “Sharing the Vision 2020 – 2030” mental health policy, linking those with mental health difficulties to appropriate community support21. Other key policies committed to social prescribing include the Sláintecare Implementation Strategy and Action Plan (2021 – 2023)22, and the Healthy Ireland Action Plan (2021 – 2025)23. It is also being increasingly integrated into other national health programmes. The “Healthy Communities” project targets disadvantaged areas for health and wellbeing improvement with a suite of initiatives, including social prescribing.
+
+Ireland’s public healthcare system, Health Service Executive (HSE), offers free health and personal social services to its residents. HSE has four administrative areas — HSE Dublin Mid-Leinster, HSE Dublin North-East, HSE South and HSE West — which are in turn divided into 32 Local Health Offices.
+
+The network of Local Health Offices provides community healthcare services, including primary care, community welfare and psychiatric services.
+
+In 2017, the All-Ireland Social Prescribing Network was established with the purpose of championing social prescribing “so that it is valued and understood across the island of Ireland”.
+
+Social Prescribing Developments
+
+Social prescribing started in Ireland as a ground up movement in partnership between the health service and community voluntary sector. Social prescribing services are now available in over 30 locations, including acute hospital settings. In 2020, St James’ Hospital (Dublin) appointed a link worker in The Mercer’s Institute for Successful Ageing. Psychosocial needs are screened for and identified as part of comprehensive geriatric assessments. A local asset mapping project (LAMP) web-based tool was developed as part of this project to connect patients attending St James’ Hospital with local community services that can contribute to their health and wellbeing19.
+
+In 2017, the All-Ireland Social Prescribing Network was established with the purpose of championing social prescribing “so that it is valued and understood across the island of Ireland”24. The network includes representatives from the health service, academia and the community and voluntary sector North and South of the Island of Ireland.
+
+17 Social Prescribing around the World 16 Social Prescribing around the World
+
+Canada Social Prescribing Developments
+
+Health System Context
+
+Canada’s universal, publicly funded single-payer health system “Canada Medicare”, is delivered through provincial and territorial states. This means, instead of having a single national health insurance plan, there are 13 provincial and territorial healthcare insurance plans. However, provincial and territorial government health care insurance plans are required to meet standards outlined in the Canada Health Act. Roles and responsibilities for health services are shared between the provincial and territorial governments and the federal government.
+
+The Canadian Institute for Social Prescribing (CISP), a national hub for social prescribing in Canada, was established in 2022. CISP is a multisectoral collaborative funded by the Public Health Agency of Canada and hosted by the Canadian Red Cross25. CISP hosts communities of interest for social prescribing and is undertaking a two-year project to create a national framework for social prescribing in Canada.
+
+The Canadian Institute for Social Prescribing (CISP), a national hub for social prescribing in Canada, was established in 2022. CISP hosts communities of interest for social prescribing and is undertaking a two-year project to create a national framework for social prescribing in Canada.
+
+Currently, the landscape and delivery of social prescribing in Canada is diverse, ranging from national initiatives to local projects. Nationally, there is Parks Prescription (PaRx or prescri-nature), an evidence-based nature prescription programme that offers resources to healthcare professionals to make effective nature prescriptions. There are provinciallybased regional initiatives like the United Way British Columbia’s Social Prescribing program for older adults26, and the Rx: Community project undertaken by Community Health Centres across Ontario27.
+
+At the national level, there are several government agencies tasked with certain administration:
+
+• Health Canada, the federal Ministry of Health, regulates food and drug safety, and maintaining the national standards for universal health coverage.
+
+• The Public Health Agency of Canada is responsible for public health, emergency preparedness, chronic disease control and prevention, and health promotion.
+
+CISP has also developed a social prescribing pathway map, illustrating the five stages of an individual’s experience through a social prescribing service. The current recognised referral pathways include primary care, social and community services, and self-referrals28.
+
+• Indigenous Services Canada is a new federal government department responsible for funding certain health services for First Nations and Innuits.
+
+The Canadian Social Prescribing Student Collective is also leading a student movement for social prescribing in Canada, advocating and educating healthcare students in universities across the country.
+
+19 Social Prescribing around the World 18 Social Prescribing around the World
+
+USA
+
+Health System Context
+
+The US health system is a mix of public and private insurance, with for-profit and non-profit insurers and healthcare providers. The US does not have universal health coverage – approximately 9% of the population (28 million people) remain uninsured. However recent reforms, such as the Affordable Care Act (2010) have sought to increase health insurance coverage for people financially constrained.
+
+In 2019, the National Academies for Sciences, Engineering and Medicine published the consensus study report “Integrating Social Care into the Delivery of Healthcare”30. Amongst its conclusions on how best to integrate social care in health systems, and facilitate activities that address social risk factors of poor health, it recognised the need to understand existing social care assets within the community, and partner with social care organisations to advocate for further investment and creation of social assets that address social and health needs.
+
+There is a growing interest on social determinants of health both from the federal government and state insurance providers.
+
+The two predominant public insurance programs are Medicaid and Medicare. Medicare is a fee-for-service federal health insurance program for people aged 65 or over, young people with certain disabilities, and people with End-Stage Renal Disease. Medicaid is a state-administered, meanstested health insurance program that provides health and medical services to families with limited resources and low income, the blind and individuals with disabilities.
+
+Community resource directories such as ‘Unite US’ and ‘Now Pow’ exist as referral platforms designed “to bridge gaps in community care”. From for-profit health insurers, Kaiser Permanente offers its ‘Community Health’ program – screening members for social needs and connecting them to community-based resources suited to their personal circumstances.31
+
+Social Prescribing Developments
+
+Though there is no national policy or framework developed on social prescribing in the US, there is a growing interest on social determinants of health both from the federal government and state insurance providers.
+
+In 2021, students from the Harvard Global Health Institute collaborated with other social prescribing student movements to create a student framework, detailing necessary steps to mobilise student engagement with social prescribing, and establish peer-to-peer teaching32. In October 2022, students officially established the Harvard Undergraduate Initiative for Social Prescribing.
+
+In 2016, the Centre for Medicare and Medicaid Services (CMS) created the Accountable Health Communities model to better support local communities to address the health-related social needs of Medicare and Medicaid beneficiaries.29
+
+21 Social Prescribing around the World 20 Social Prescribing around the World
+
+Portugal Social Prescribing Developments
+
+The social prescribing movement in Portugal developed under the initiative of primary care physician Dr Cristiano Figueiredo in 2018 with the establishment of a pilot in a Family Health Unit in downtown Lisbon. Since then, there have been several signs of political commitment for social prescribing in Portugal. In August 2020, the Mayor of Lisbon funded the NOVA School of Public Health to carry out the evaluation and monitoring of the local social prescribing pilot project33. In January 2021, Portugal’s Health Parliament Mental Health Commission recommended national investment and upscaling of social prescribing34. A few months later in June 2021, parliament recommended the government to develop social prescribing in primary care and impressed the need to recruit more social workers for this35. However, there is not yet a national social prescribing programme implemented and supported by the government.
+
+Portugal practices a primary-care based model of social prescribing, where family physicians refer patients to social workers based in Shared Care Resource Units. In recent years, social prescribing has expanded the work of primary care social workers beyond providing general pastoral support (helping with finances, food, and hygiene) to co-producing social prescribing interventions personalised to meet individuals’ broader needs under the scope of health promotion. After a 30-minute patient consultation, social workers will then contact third sector partners to introduce the patient to community services. Currently, there are over 40 partners in the third sector providing community-based support for social prescribing in Lisbon. A social prescribing training course for health professionals, link workers, and community leaders is in earlystages of development. Beyond Lisbon, other Portuguese municipalities are preparing their social prescribing pilots in collaboration with the NOVA School of Public Health.
+
+Health System Context
+
+Portugal’s healthcare system is made up of three coexisting and overlapping systems:
+
+1. The National Health Service (Serviço Nacional de Saúde, SNS).
+
+2. Health subsystems – offer special health insurance schemes for public service occupations eg civil servants or military.
+
+3. Voluntary private health insurance.
+
+The SNS delivers health services through ‘public health units’. These include:
+
+• Health centre groups (Agrupamentos de centros de Saúde, ACeS) which provide primary healthcare to local communities. An ACeS includes Family Health Units (primary care practices), a Shared Care Resource Unit (where social workers are based), and a Public Health Unit among other units.
+
+• Hospitals and hospital centres.
+
+Figure 4: Portugal’s model of social prescribing.
+
+The social worker (link worker) refers patients to
+
+community services or activities partnered with the
+
+social prescribing programme in Lisbon.
+
+Figure 5: Meeting for recruiting third sector
+
+community partners and co-designing the social
+
+prescribing service in Lisbon, Portugal.
+
+23 Social Prescribing around the World 22 Social Prescribing around the World
+
+Spain Social Prescribing Developments
+
+Spain’s regional autonomous communities creates diversity in the delivery and implementation of social prescribing. Social prescribing in Catalonia is integrated within patients’ electronic medical records, where a directory of community activities is listed and can be filtered by themes. This allows primary care physicians, nurses or in-clinic social workers to make immediate referrals, and conduct follow-ups and evaluations after the referral and social prescription.
+
+Health System Context
+
+Spain has a decentralised health system that offers universal and public health coverage consisting of three organisational levels:
+
+1. Central (Organizacion de le Administración Central) Consists of the Ministry of Health which is responsible for ensuring full health coverage across all autonomous regions. They are also charged with issuing health proposals, and creating and implementing health guidelines.
+
+Figure 7: social prescribing workshop for the elderly
+
+in Spain focussing on physical activity and outdoor
+
+exposure with group exercises.
+
+3. referral
+
+Person with needs
+
+Primary care
+
+The General sub-Directorate of Drug Addiction offers an accredited 8-hour training programme that enables physicians to make accurate and appropriate referrals. A further 3-hour course is also available to enable referrers to become “agents” within their health centres, disseminating information on social prescribing back to their team, explaining the model of social prescribing and encouraging uptake of social prescriptions within the clinic.
+
+1. Detection
+
+2. Motivational interviewing
+
+2. Autonomous Regions (Organizacion Autonomica) There 17 autonomous communities which are responsible for offering integrated health services to their regional populations.
+
+Facilitator
+
+Information system on SP activities
+
+Community resources
+
+Collating, updating and moderating (community asset mapping)
+
+4. tracking
+
+3. Local Health Areas (Areas de Salud) Responsible for managing and delivering health services locally at every community level. Primary care centres facilitate these health services with multidisciplinary health professionals at the local level.
+
+Figure 6: Spanish model of social prescribing.
+
+The patient referral pathway includes (1) detection,
+
+(2) motivational interviewing and (3) referral.
+
+“Tracking” of community resources involves
+
+mapping appropriate and available services
+
+for referrals.
+
+25 Social Prescribing around the World 24 Social Prescribing around the World
+
+Netherlands
+
+Health System Context
+
+The Netherlands has a universal social health insurance system with a mix of public and private insurance. All residents are required to purchase statutory health insurance from private insurers based on individual needs – there is no family coverage. Children under 18 years of age are automatically covered according to their guardian’s chosen health insurance. Insurers are required to accept all applicants and people have the right to change their insurer each year.
+
+Foundation and starting point
+
+Vision, definition, objective and model of social prescribing
+
+Essential Ingredients of “Wellbeing on Prescription”
+
+Monitoring and evaluation
+
+3. Wellbeing activities (community based)
+
+1. Screening and referral
+
+2. Wellbeing coach appointment
+
+Social prescribing was formalised in the Netherlands with the establishment of “Welzijn op Recept”
+
+The national government sets out health care priorities and legislative changes. Most medical care is the responsibility of insurance companies. The Netherlands has 344 municipalities and 3 ‘special municipalities’. These municipalities are responsible for overseeing social healthcare services, preventative screenings, public health and outpatient services across the region.
+
+Important conditions
+
+Cooperation, financing, assurance and organisation
+
+(Wellbeing on Prescription) in 2011, and a national knowledge network of primary care providers, welfare workers, and policy officials in 2018.
+
+Figure 7: adapted from Welzijn op Recept website.
+
+Social prescribing model in the Netherlands
+
+represented as a burger. The “meat” of the model
+
+describes the referral pathway, including an
+
+Social Prescribing Developments
+
+appointment with the “wellbeing coach”.
+
+Social prescribing was formalised in the Netherlands with the establishment of
+
+“Welzijn op Recept” (Wellbeing on Prescription) in 2011 and a national knowledge network of primary care providers, welfare workers and policy officials in 201836. The aim of the Wellbeing on Prescription network is to advocate for municipalities to implement and practice social prescribing. Currently, there are 145 out of 344 municipalities socially prescribing.
+
+coach (link worker) will contact the person for an “intake interview”. This involves customising a wellbeing plan with an activity that matches the patient’s wishes and needs. The coach is well-integrated into the local community and is able to refer people to suitable activities within the municipality. The wellbeing coach also examines for problems with finance, safety or housing, and helps accordingly.
+
+The model of social prescribing in the Netherlands is based upon “positive health”, “positive psychology” and “social identity theory”, all of which focuses on aspects of health and wellbeing rather than addressing deficits with medical treatments. Within two weeks of referral from primary care, a wellbeing
+
+Dutch wellbeing coaches are social workers additionally trained in ‘wellbeing on prescription’ through a collaboration of the social workers union and the National Welzijn op Recept network in the Netherlands.
+
+27 Social Prescribing around the World 26 Social Prescribing around the World
+
+Finland
+
+Health System Context
+
+Following a government-funded pilot project, Lapland uses a “rural model” for social prescribing, which comprises of three elements:
+
+Finland consists of a decentralised, publicly funded health system offering universal healthcare to its residents. The governmental department of the Ministry of Social Affairs and Health is tasked with deciding national strategies, priorities and proposing bills to be discussed in parliament. Each of the 309 municipalities are responsible for offering and delivering health care services to its residents in health care centres and hospitals. Access to specialised secondary (hospital) and tertiary care is subject to a request made by a general practitioner.
+
+• Identifying needs and referrals: health and social care professionals, alongside employment services, can refer people to social prescribing.
+
+Lapland is the first region in Finland to incorporate social prescribing link workers into their model. Lapland uses a ‘rural model’ for social prescribing.
+
+• Link worker: the link worker consults with the person, co-designing a social intervention suited to individual needs. Municipalities are responsible for coordinating link workers within the region. Several link workers work parttime and are employed by either the municipality, NGOs, or private services.
+
+Finland’s secondary care is divided into 21 hospital districts, providing specialised services to the municipalities. The 5 university teaching hospitals form Finland’s tertiary care network, containing the most advanced medical equipment and facilities in the country.
+
+• Community based support and development: there is a network of community activities at the municipality level including services from NGOs, parishes, authorities and the voluntary third sector. These services are incorporated into the municipalities statutory plan for health and wellbeing.
+
+In early 2022, new wellbeing service counties were established as part of the health and social services reform. The new counties follow along the 21 regional borders and are responsible for delivering health services in the regions.
+
+The Ministry of Social Affairs and Health is investing €25 million in “low threshold wellbeing services” and social prescribing is included. There is further scope and opportunities for future development and upscaling of social prescribing. This will predominantly focus on testing different social prescribing models in other cities and developing the link worker model for workforce.
+
+Social Prescribing Developments
+
+Lapland is the first region in Finland to incorporate social prescribing link workers into their model.
+
+29 Social Prescribing around the World 28 Social Prescribing around the World
+
+Italy
+
+Health System Context
+
+Social Prescribing Developments
+
+Italy’s national health service, Servizio Sanitario Nazionale (SSN), is decentralised and regionallybased across 19 regions and 2 autonomous provinces. These regions independently and autonomously provide healthcare services through 100 local health units which offer primary, secondary and tertiary health and social care services to the local population. Italy has achieved universal health coverage for all legal residents. The main source of financing the health system is national and regional taxes supplemented by co-payments for pharmaceuticals and outpatient care.
+
+In Italy, social prescribing has not been formalised in structure, however there are certain initiatives that carry its underlying principles in practice – connecting patients to community services according to their psychosocial needs and desires. One example is “Social Circles” which takes place across local community centres and involves elderly members in organised socialising activities, including walking tours and going to the theatre. This initiative is not spread nationally, and is distributed across typical urban-rural divides, and North-South disparities found across Italy. Though such initiatives deliver some therapeutic benefit, there is a need to develop long-term sustainable plans with monitored evaluations to build up the evidence base and upscale the social prescribing movement nationally and equally across Italy.
+
+One example of social prescribing is “Social Circles” which takes place across local community centres and involves elderly members in organised socialising activities, including walking tours and going to the theatre.
+
+31 Social Prescribing around the World 30 Social Prescribing around the World
+
+Germany
+
+Health System Context
+
+The association for statutory health insurances at the federal level has also produced guidelines in offering disease prevention services. The framework includes courses to motivate insured people in a health-promoting manner with guidance on exercise, nutrition and stress management41.
+
+Germany has a universal, multi-payer healthcare system predominantly financed by a mandatory statutory health insurance. This offers inpatient, outpatient, mental health, and prescription drug coverage. Administration is handled by non-governmental insurers known as “sickness funds” (krankenkassen). Sickness funds are predominantly financed by general income contributions taxed at around 15%.
+
+In Germany, the main barrier to nationally upscaling and implementing social prescribing, and similar holistic interventions, is the fragmentation of financing health and social cares across different sectors.
+
+In Germany, the main barrier to nationally upscaling and implementing social prescribing, and similar holistic interventions, is the fragmentation of financing health and social care across different sectors. While health insurances, nursing care insurance and other health-related insurances are responsible for health care, social care is paid for by other stakeholders on different levels. An integrative financial model for health and social care could better facilitate a national model and practice of social prescribing. Germany’s first social prescribing conference takes place in April 2023.
+
+Social Prescribing Developments
+
+Social prescribing is not yet a formalised practice in Germany, however the need for holistic, patient-centred care addressing patients’ health-related social needs is recognised and practiced. In 2017, a community health advice and navigation service was set-up in a northern district37. Nurses and social workers offer health advice and refer patients to local community services based on personal needs.
+
+Primary health centres can be communityorientated too, aiming to improve patients’ social determinants. ‘Poliklinic Veddel’ is a community health centre that routinely screens for social determinants with the aim to “create a wide range of health services that address the complex situations in life that make people sick”38. GeKo Health Centre opened in 2022 and offers healthcare services to encourage disease prevention and health promotion39, 40.
+
+33 Social Prescribing around the World 32 Social Prescribing around the World
+
+Austria
+
+Health System Context
+
+in the clinic who worked with patients to identify resources and needs and referred patients to appropriate community services. Almost all patients (98%) recommended social prescribing to others42.
+
+The Austrian health system is financed by a mixture of income-related social security contributions, tax-financed public funds and private co-payments in the form of direct and indirect cost sharing. A key feature of the Austrian health care system is equal and easy access to all health care services for all. 99% of the population is covered by social insurance. Responsibilities for the organisation of the health system are essentially divided between the federal government, the Länder (the federal state), the municipalities and the social insurance system as a self-governing body.
+
+The report further highlighted 7 key recommendations to upscale social prescribing in Austria. This included:
+
+98%
+
+of patients recommended social prescribing to others in the pilot project.
+
+• Develop an ideal model of social prescribing in Austrian primary care, to clarify what social prescribing is and isn’t.
+
+• Fund more social prescribing projects within primary care, to understand how to effectively implement social prescribing.
+
+Social Prescribing Developments
+
+In 2021, the Austrian federal Ministry of Social Affairs, Health, Care and Consumer protection funded a social prescribing project call. Nine primary care medical facilities were funded to pilot social prescribing over a 6-month period.
+
+• Learn and exchange with other countries on best practices for implementing social prescribing.
+
+Results and findings were published in a handbook and policy brief.
+
+• Establish a national centre for social prescribing.
+
+The social prescribing model piloted was based in primary care settings, where referrals were made through healthcare professionals who were initially trained to become familiar with the concept of social prescribing and the link working method. The link workers were health professionals including nurses and social workers
+
+• Provide competency training for healthcare professionals on what social prescribing is and how to effectively carry out the link worker role.
+
+34 Social Prescribing around the World
+
+Poland
+
+Health System Context
+
+Poland offers free public healthcare through a social health insurance system delivered by its national health service, Norodowy Fundusz Zdrowia (NFZ). The NFZ is financed by insurance fees taxed at 9% of personal income – this makes up the National Health Fund (NHF), which is responsible for the organisation and access to healthcare services in Poland. Municipalities manage primary care, counties are often responsible for smaller county hospitals, and voivodships (regions) are responsible for larger district hospitals. Access to specialist and acute healthcare services are mostly dependent on primary care referrals.
+
+There have been advancements towards proactive personalised care and disease prevention programmes suggesting wider future support for social prescribing implementation.
+
+Social Prescribing Developments
+
+Poland has yet to formally implement social prescribing in policy and practice. However there have been advancements towards proactive personalised care and disease prevention programmes suggesting wider future support for social prescribing implementation. In 2019, the NHF financed “Primary Healthcare PLUS”, a 3-year pilot project that introduced a primary-care model based on coordinated, proactive and preventative methods43. Similarly, the “40 Plus Prevention Programme” implemented in 202144
+
+aims to diagnose common diseases at an earlier stage. The wider focus to move Polish healthcare from reactionary ‘sick-care’ — that only seeks to mitigate disease symptoms — to disease prevention and health creation, creates a window of opportunity for national adoption of social prescribing.
+
+37 Social Prescribing around the World 36 Social Prescribing around the World
+
+India
+
+Health System Context
+
+long-term, sustainable transformation to their quality of life. To achieve this, ASHA has a threetiered model for delivering healthcare services. The first level has local women trained to be ASHA workers (community health volunteers). Responsibilities of ASHA workers are similar to social prescribing link workers in the UK.
+
+India has a multi-payer healthcare model. It is reaching universal health coverage following the launch of the Ayushman-Bharat (AB) programme in 2018, a national, publiclyfunded health insurance programme providing hospital care coverage for 40% of India’s population classed as poor or low-income.
+
+ASHA workers share similar roles to social prescribing link workers. They are described as:
+
+States within India are independently responsible for providing healthcare, creating a variation in service delivery, availability and access.
+
+“health activists in the community who will create awareness on health and its social determinants and mobilise the community towards local health planning and increased utilisation and accountability of the existing health services.” 45
+
+Social Prescribing Developments
+
+India is yet to formally implement social prescribing. However, the focus on community health, improving social determinants of health, and removing inequities in healthcare access are widely practiced. Most importantly, these programmes feature a link between medical clinics and community-based support.
+
+Figure 9: ASHA worker raising health awareness in
+
+local village. Taken from asha-inda.org.
+
+The Accredited Social Health Activist (ASHA) Programme was launched in 2006 and now has around 1 million ASHA workers. ‘Asha’ is Hindi for ‘hope’. The programme’s stated mission is to work with the rural and urban poor to create
+
+39 Social Prescribing around the World 38 Social Prescribing around the World
+
+Iran Social Prescribing Developments
+
+Health System Context
+
+Healthcare in Iran is based upon the publicgovernment system, the private sector and non- governmental organisations (NGOs). The Ministry of Health and Medical Education is responsible for the administration and delivery of health services in Iran overall.
+
+Social prescribing developments in Iran are taking shape. In 2019, social prescribing was proposed as a cost reduction policy to the Ministry of Health though health leadership remains.
+
+All medical schools in Iran now teach social prescribing to some level, yet it remains to be formally introduced into medical school curricula. From 2018 – 2020, a social prescribing programme for medical school interns was piloted by Dezful University of Medical Sciences46. Students attended rural health service centres and implemented social prescribing principles into their learning and clinical practice. The link working role was given to Behvarzes (rural healthcare staff) due to their knowledge of the local village context and the organisations they could make appropriate referrals to. Behvarz combines the Persian words “Beh” (wellbeing) and “Varz” (skill). The future possibility to upskill Behvarzes to incorporate the link worker role has been considered, but recent data points to occupational burnout in their role due to ever - expanding responsibilities47.
+
+As part of its expanding Primary Health Care programme, access to health services have improved in rural areas through ‘health houses’. Health houses are small medical facilities that provide basic medical services to rural communities. There are currently over 17,000 health houses in Iran.
+
+In one project, the link working role was given to ‘Behvarzes’ (rural healthcare staff) due to their knowledge of the local village context. Behvarz combines the Persian words “Beh” (wellbeing) and “Varz” (skill).
+
+Healthcare and medical education are integrated in the country. This allows easier placement of medical students to health houses, improving the understanding of the importance of community health amongst the future health workforce.
+
+In 2019, a workshop on social prescribing was held with health-related NGOs in Tabriz city with the aim to raise awareness and uptake of social prescribing in voluntary organisations. A training programme for primary care physicians on social prescribing is currently being designed and in development.
+
+41 Social Prescribing around the World 40 Social Prescribing around the World
+
+Japan
+
+Health System Context
+
+responsible for providing consultations on financial help and applying for public assistance.
+
+Japan has a statutory health insurance system which covers 98.3% of its population. The remaining citizens are covered by the Public Social Assistance Program made for poorer citizens unable to pay for health insurance. The statutory health insurance system contains two types of mandatory insurances:
+
+Ishizaka Neurosurgery Hospital in Nagasaki also implements social prescribing. Link workers help connect patients in the hospital and nursing home to community-based activities. These activities particularly involve children, creating a space for older people and children to socialise and prevent loneliness or isolation. These link workers are financed by the hospital. There are also plans for the Ministry of Health to establish “Community-based Integrated Care Systems” that ensures the provision of healthcare, nursing, disease prevention, housing and livelihood support through Seikatsu Shien workers (life support workers).
+
+The Japanese Social Prescribing Laboratory was established in 2018 and now has 266 members from all around Japan, consisting of health practitioners, care workers and community managers.
+
+• Employment-based plans
+
+• Resident-based insurance plans
+
+Each of Japan’s 47 regions has its own residentbased health insurance plan. There are also over 1,700 municipalities responsible for organising health promotion activities for their residents.
+
+Social Prescribing Developments
+
+In 2021, the Ministry of Health, Labour and Welfare appointed its first Minister for Loneliness to address a social isolation crisis and rising suicide rates. It also launched a model project for social prescribing48. A team from Kyoto university has developed a social issue screening questionnaire for patients49.
+
+The institute for social prescribing in Japan was established in 2018 by Dr Nishi, an oncology and palliative care doctor who noticed that “among the distresses of cancer patients, the problem of isolation and loneliness is overlooked”. He decided to implement social prescribing in his practice and set up a social prescribing laboratory. The social prescribing laboratory has 266 members from all around Japan and consists of health practitioners, care workers, and community managers.
+
+Social prescribing is also practiced in hospital settings. The Saitama Medical Co-op Hospital, classed as a ‘health promoting hospital’, deals with patients’ social determinants of health and other social issues including poverty and isolation. Health professionals can refer their patients to medical social workers. Medical social workers introduce patients to volunteers’ groups in the community, but are also
+
+Figure 10: Social prescribing workshop in Ishizaka
+
+Neurosurgery Hospital in Nagasaki. Patients receiving
+
+post-operative care can go to workshops with local
+
+children, encouraging intergenerational socialisation.
+
+43 Social Prescribing around the World 42 Social Prescribing around the World
+
+Singapore
+
+Social Prescribing Developments
+
+“e-Social Prescribing” (eSP) programme. The programme teaches seniors essential functions that enable them to remain digitally connected. Essential topics covered in the programme include:
+
+Singapore has been implementing social prescribing since a 2019 pilot in SingHealth Community Hospital (Eastern region). Community hospitals are unique to Singaporean healthcare and ensure continuity of rehabilitative and convalescent care postdischarge from acute hospitals. They facilitate patient integration into the community, focussing on helping patients return to living in an optimised state.
+
+Health System Context
+
+1. Connecting to Wi-Fi,
+
+Singapore’s health system provides universal health coverage through a mixture of direct government subsidies, compulsory comprehensive savings, a national healthcare insurance, and cost sharing. Direct government subsidy is complemented by an insurance system popularly referred to as the “3M”:
+
+2. Use WhatsApp (including text/voice messages and voice/video chat),
+
+Singapore’s public health system — including public hospitals, polyclinics and speciality centres­ — is divided into three integrated clusters:
+
+3. Scanning QR Code (for contact tracing purpose or accessing different websites).
+
+In SingHealth Community Hospital, the link worker (referred to as wellbeing co-ordinators in the local context) screens patients who have socially determined health issues. They invite patients to participate in the social prescribing programme and recommend a suitable inpatient engagement activity depending on individual interest. The hospitals collaborate with various institutions and community partners to provide patients with a wide range of patient engagement activities (e.g. karaoke, gardening, art, pet therapy, craft sessions and hairdressing). Patients have an average length of stay of 28 days. Most patients are 60 years old with complex health and social care issues, resulting in a need for community hospital stay before returning to community living. The duration of the hospital stay is an opportunity for link workers to build therapeutic relationships, co- develop a social prescribing plan and encourage patients continue with wellbeing-supporting activities after the hospital discharge.
+
+1. Central region
+
+The eSP lessons are taught by an instructor from the community hospital, link workers also attend and guide the patients through each lesson’s content. All lessons are held in small groups to enable social interaction and peer sharing. Link workers also follow up with patients postdischarge to facilitate the continuation and
+
+2. Eastern region
+
+• MediLife: a low-cost universal basic health care insurance for all citizens and permanent residents. Premiums can be paid out of MediSave accounts.
+
+3. Western region
+
+Each of these clusters offer health services from primary care to tertiary care and collaborate with community and long-term care providers.
+
+• MediSave: a mandatory health savings account that is used for payment
+
+application of these newly learnt skills.
+
+of future medical expenses as well as premiums of medical insurance policies. Workers below the age of 55 are required to deposit a percentage of their earnings. Contributions can be proportionately matched by employers. Funds can be pooled within and across an entire extended family. It covers most out- of-pocket payments.
+
+Social prescribing has also entered the medical school curriculum in Singapore. Duke-NUS, one of three medical schools in Singapore, introduced social prescribing into their curriculum for first-year students in 202250. In November 2022, SingHealth Regional Health System organised the 1st Asia Pacific Social Prescribing Conference, bringing together experts and advocates of social prescribing to advance developments in Singapore and in the Asia Pacific region51.
+
+• MediFund: a government endowment fund for those who are unable to meet their contribution to healthcare. The amount of funding and coverage is dependent on the individuals’ income, health condition, and socioeconomic status.
+
+Figure 11: An e-social prescribing workshop
+
+During the COVID-19 lockdowns and social distancing, digital exclusion became a newly recognised social determinant of health. The hospital collaborated with Singapore’s Institute of Adult Learning (IAL) to develop the
+
+teaching elderly patients vital skills to help
+
+remain digitally connected during the COVID-19
+
+pandemic lockdowns.
+
+44 Social Prescribing around the World 45 Social Prescribing around the World
+
+Malaysia China
+
+Health System Context
+
+Health System Context
+
+Malaysia has a tax-funded, government-run health system. The Ministry of Health is the main provider of healthcare services to the public; it is decentralised and organised across federal, state and local levels.
+
+China’s healthcare is provided by a publicly funded, basic medical insurance programme. Local governments representing provinces, cities and towns, are responsible for providing healthcare services to their population.
+
+Plans to scale up this initiative has drawn support from the Chinese Society of Geriatric Psychiatry, and guidelines for further social prescribing implementation have been published57. They have also collaboratively produced a training curriculum for the comprehensive evaluation team to ensure effective psychosocial screening and appropriate community referrals.
+
+Social participation is an initiative designed to address patients’ isolation from communities due to ill-health.
+
+Social Prescribing Developments
+
+Social Prescribing Developments
+
+Social prescribing is not a formalised practice in Malaysia, however there are initiatives that address patients’ isolation from communities due to ill-health, like “social participation”. Researchers and academics in Malaysia have published widely on social participation and its positive effects on elderly people’s wellbeing52,
+
+Social prescribing has been implemented as a grassroots level initiative in China with 40 community partners. The focus has predominantly been on older adults’ mental health and psychosocial provision through community services. The initial project was integrated into the wider health system infrastructure by using primary care community health centres to screen for health-related
+
+National policy is also now shifting towards health promotion and disease prevention through the Healthy China 2030 Action Plan58, though social prescribing requires explicit advocating beyond the elderly demographic, recognising its associated society-wide and health system benefits. To facilitate this progression, more research and evidence evaluation is required.
+
+There are some concerns on the use of digital directories for social prescribing activities. Public directories of otherwise covert marginalised community groups, fearful of government authority interference,
+
+53, 54, 55. Social participation is often described as “a person’s involvement in activities providing
+
+interactions with each other in society or communities”. It is considered a protective mechanism against age-related diseases but not yet realised for its potential to relieve health system burdens through health promotion and disease prevention across all demographics.
+
+social needs for older adults during their annual health check-up. Community health workers, social workers and the wider mental health support team assumed the role of a link worker by devising plans according to each person’s needs with appropriate community services. This team was referred to as the “comprehensive evaluation team” instead of “link workers” to recognise the multidisciplinary nature of health professionals bridging the gap between medical and social care – it was not one single person or profession.
+
+risk their safety.
+
+Caution with ethical data regulation and handling must be practised to not betray trust of community stakeholders or imperil their place, presence or purpose which reciprocally affects the capacity and delivery of the social prescribing service.
+
+There are goals to expand social participation by establishing a Senior Citizen’s Activity Centre in every parliamentary constituency, and further commitments are expressed as policy focus in the Twelfth Malaysia Plan – an annual governmental policy document outlining guidelines for national development56.
+
+47 Social Prescribing around the World 46 Social Prescribing around the World
+
+Taiwan
+
+Health System Context
+
+Taiwan has a single-payer compulsory social health insurance plan. Subsidies of up to 100% are available to low-income households. This national health insurance programme has achieved universal coverage within the country. The National Health Insurance Administration, under the Ministry of Health and Welfare, is responsible for healthcare delivery. 40% of Taiwanese doctors practice in private clinics, 80 to 90% of which are solo practices. However, all private practices and hospitals are non-profit.
+
+Taipei City Hospital has been implementing social prescribing for dementia patients since 2018.
+
+Figure 13: Drama exercise in social prescribing
+
+workshop for patients with dementia. Over the
+
+course of the programme, participants construct
+
+a play on their life stories. Friends and family are
+
+invited to watch performances at the end of
+
+Figure 12: Social prescribing workshop in Museum
+
+the programme.
+
+of the Institute of History and Philology with
+
+dementia patients.
+
+across museum venues. A four-hour training programme was developed for museum workers and frontline workers to learn about dementia and creating dementia-friendly spaces. This was used by 131 people. Other museum-facilitated social prescribing activities occur beyond the capital city, including the National Museum of Taiwan History, Tainan Art Musuem, National Cheng Keng University Museum, Chimei Museum and the National Museum of Taiwan Literature.
+
+Social Prescribing Developments
+
+Taipei City Hospital has been implementing social prescribing for dementia patients since 2018, liaising with various agencies to create dementia-friendly communities. Allied organisations include the National Taiwan Museum, Palace Museum, and the National Theatre and Concert Hall. In 2021, Academia Sinica and Taipei City Hospital signed a MOU for organising dementia-friendly social prescription
+
+49 48 Social Prescribing around the World Social Prescribing around the World
+
+South Korea
+
+Health System Context
+
+Over the course of 10 weeks, intervention programs included music therapy, physical activities (stretching, practicing deep breathing, and joining an indoor walking program), handcraft classes and a community farm project, where volunteers were responsible for planting and taking care of vegetable patches. Findings and reports from this project were presented in various academic publications59, 60. An evaluation of the pilot project found statistically significant reduction in loneliness and increase in self-esteem scores61. Considering the COVID-19 public health countermeasures of social distancing and lockdowns, digital ‘non-contact’ social prescribing is now under development.
+
+South Korea has a universal public healthcare system, the National Health Insurance Service (NHIS). Healthcare is provided to all citizens and funded by a public health insurance programme from the Ministry of Health and Welfare. South Koreans are required to contribute to the NHIS through payroll taxes to insure themselves and their dependants. An average of 5% of payroll is deducted out of employees' monthly incomes, divided between the employee and the employer. Low-income households unable to pay National Health Insurance contributions receive health insurance through the Medical Aid Programme, facilitated by central and local governments.
+
+South Korea implemented its first social prescribing project pilot in 2019 in collaboration with Yonsei Global Health Centre and the Korean National Research Fund.
+
+Despite social health insurance, approximately 77% of South Koreans pay for private health insurance. This is predominantly due to the national health plan only covering a maximum of 60% on medical bills.
+
+Further plans to implement social prescribing within a new integrated community care model are being considered. Following the pilot project, Yonsei Global Health Centre
+
+has partnered with Korea International Cooperation Agency (KOICA) to support social prescribing implementation in Paraguay and Ethiopia.
+
+Social Prescribing Developments
+
+South Korea implemented its first social prescribing project pilot in 2019 in collaboration with Yonsei Global Health Centre and the Korean National Research Fund. Partnerships with third sector stakeholders allowed for the use of accessible venues within the local community and a range of social prescribing activities. The project was targeted to seniors from the local welfare centre aged 65 years old or over and diagnosed with mild depression.
+
+51 Social Prescribing around the World 50 Social Prescribing around the World
+
+Australia
+
+Health System Context
+
+Social prescribing was highlighted in the recent Royal Commissions for Aged Care and Mental Health as well as the National Preventative Health Strategy (2021 - 2030)65, and the 10 Year Primary Health Care Plan (2022 – 2032) which stated social prescribing as a goal for policy achievement by 203066.
+
+Australia has a universal public health insurance program called Medicare funded by the Commonwealth Government. This provides for substantial coverage for physician, pharmaceutical and other medical services. Hospital services are provided for and funded by state governments.
+
+The Australian Disease Management Association (ADMA) runs a regular bimonthly Community of Practice with over 1400 members, collating a directory of social prescribing initiatives across Australia.
+
+Across the states and territories there has been considerable and growing interest including examples in Queensland, Victoria, and Tasmania.
+
+Nearly half of Australians buy supplementary private health insurance to cover services like private hospital costs, dental care and physiotherapy that are not covered by Medicare. How much and what it covers depends on the chosen policy. There is also a tax penalty paid for high-income households ($180,000) that do not purchase private insurance62, 63.
+
+To keep apace of the growing interest, the Australian Disease Management Association (ADMA) runs a regular bimonthly Community of Practice (commenced in February 2020) with over 1400 members and has collated initiatives of social prescribing from across Australia67, 68.
+
+Social Prescribing Developments
+
+This has been a central resource to individuals and organisations across Australia who are interested to be ensure a collaborative, guided coalition.
+
+Australia is yet to implement a national model on social prescribing however there is considerable interest and a number of initiatives underway.
+
+Several other collaborative groups have been established including the Social Prescribing Student Collective, a working group of the Australian Medical Students Association, which was launched in 2021. Its aims are to educate students on social prescribing and how it can be implemented in Australian healthcare, and advocate for the inclusion of social prescribing in medical school curricula in Australia. In addition, the RACGP Specific Interest Group was founded in 202269.
+
+Interest in Australia was catalysed in 2019 through the Royal Australian College of General Practitioners (RACGP) and Consumer Health Forum roundtable on social prescribing64. The meeting and resulting report outlined key features of a national model of social prescribing and provided a set of recommendations focused on social prescribing being adopted and supported in Australia.
+
+53 Social Prescribing around the World
+
+Conclusion
+
+Social prescribing is being adopted in policy and practice across the world and in different health system contexts.
+
+Get in touch
+
+We welcome feedback and support for reviews in developing future editions of this report, including the addition of new countries involved in social prescribing.
+
+This report developed a series of case studies from 24 countries with varying maturity in social prescribing implementation. It is vital to keep track of global developments to foster international collaboration, knowledge sharing and effective implementation. Social prescribing is principally about improving people’s health and wellbeing, and has demonstrated further benefits on health service use reduction. The implementation of social prescribing, and its integration into health systems, is part of wider necessary reforms to modernise models of health and care to better adapt to 21st century health problems.
+
+Please write to us directly at: global@nasp.info
+
+Find out more about global social prescribing
+
+If you would like to:
+
+• Find out more about the UK Social Prescribing link worker model
+
+• Learn about social prescribing models across the world
+
+As new demands are placed on our health services globally — changing disease patterns, multiple morbidities, and demography — countries around the world need to focus on designing their health systems developed with a vision of disease prevention and health promotion. By tackling underlying root causes, and improving people’s psychosocial environment, social prescribing seeks a longerterm recovery that revitalises people’s health and wellbeing independent of institutional healthcare. The breadth of countries represented in this report evidences the adaptability of social prescribing policy and practice across various health system contexts, and builds up the knowledge-base for future policy and practice diffusion.
+
+• Start your own social prescribing programme
+
+• Discuss a higher level of bespoke Alliance membership
+
+We’d love to hear from you. Our team will connect you with an Alliance member who can help with your event, and your needs.
+
+55 Social Prescribing around the World 54 Social Prescribing around the World
+
+Acknowledgements References
+
+The Global Social Prescribing Alliance is grateful to the following partners for their input and contribution to the report.
+
+1. NHS Long Term Plan » Personalised care [Internet]. Available from: https://
+
+21. Sharing the Vision: A Mental Health Policy for Everyone [Internet].
+
+www.longtermplan.nhs.uk/areas-of-work/personalised-care/
+
+Available from: https://www.gov.ie/en/publication/2e46f-sharing-the-
+
+2. Morse DF, Sandhu S, Mulligan K, Tierney S, Polley M, Giurca BC, et al. Global
+
+vision-a-mental-health-policy-for-everyone/
+
+22. Sláintecare Implementation Strategy and Action Plan 2021-2023
+
+developments in social prescribing. BMJ Global Health [Internet]. 2022
+
+May 1 ;7(5):e008524. Available from: https://gh.bmj.com/content/7/5/
+
+[Internet]. Available from: https://www.gov.ie/en/publication/6996b-
+
+e008524
+
+slaintecare-implementation-strategy-and-action-plan-2021-2023/
+
+Wolfram Herrmann - Universitätsmedizin Berlin, Institute of
+
+Hamaad Khan – Development Officer, Global Social
+
+3. Polley M, Seers H, Fixsen A. Evaluation Report of the Social Prescribing
+
+23. Healthy Ireland Strategic Action Plan 2021-2025 launched - Offaly County
+
+General Practice and Family Medicine
+
+Prescribing Alliance (*)
+
+Demonstrator Site in Shropshire -Final Report. 2019 Jul 20;
+
+Council [Internet]. Available from: https://www.offaly.ie/eng/Services/
+
+4. Kimberlee R. Developing a social prescribing approach for Bristol. Bristol
+
+Daniela Rojatz - Senior Health Expert at the Austrian National
+
+Community-Culture/Healthy-Offaly/News/Healthy-Ireland-Strategic-
+
+Dr. Bogdan Chiva Giurca – Development Lead, Global
+
+CCG [Internet]. 2013 Oct 1 ; Available from: https://uwe-repository.
+
+Action-Plan-2021-2025-launched.html
+
+Public Health Institute
+
+Social Prescribing Alliance (**)
+
+24. About Us - allirelandsocialprescribing.ie [Internet]. 2021. Available from:
+
+worktribe.com/output/927254
+
+Professor Donata Kurpas - Professor at Wrocław Medical
+
+James Sanderson - Director Community Health & Personalised
+
+5. Husk K. Social prescribing: where is the evidence? | British Journal
+
+https://allirelandsocialprescribing.ie/about-us/
+
+University, Poland
+
+Care, NHS England
+
+25. Canadian Institute for Social Prescribing [Internet]. Available from:
+
+of General Practice [Internet]. Available from: https://bjgp.org/
+
+Dr. Anita Rego - MSW, M.Phil. (PSW), Ph.D., PGCBM, Founder
+
+Dr. Michael Dixon - Co-chair Social Prescribing Network, Head
+
+content/69/678/6
+
+https://www.socialprescribing.ca/
+
+6. GSPA Playbook [Internet]. Global Social Prescr. Available from: https://
+
+26. A new approach to healthy aging - Fraser Health Authority [Internet].
+
+of The Royal Medical Household
+
+Director, PEARLS 4 Development Pvt. Ltd and AMITA Care.
+
+www.gspalliance.com/gspa-playbook
+
+Available from: https://www.fraserhealth.ca/news/2022/Jun/a-new-
+
+Hyderabad, India
+
+Alison Leitch – Edinburgh Community Link Worker Assistant
+
+7. Tierney S, Wong G, Mahtani KR. Current understanding and
+
+approach-to-healthy-aging#.Y2-i34LMLxL
+
+Dr. Mohammad Zakaria Pezeshki - MD, MPH. Associate
+
+Manager and co-chair of SSPN
+
+27. Rx: Community - Social Prescribing in Ontario | Alliance for Healthier
+
+implementation of ‘care navigation’ across England: a cross-sectional
+
+Professor, Department of Community and Family Medicine,
+
+Clare Cook - SPRING Social Prescribing Project Manager
+
+study of NHS clinical commissioning groups. Br J Gen Pract. 2019
+
+Communities [Internet]. Available from: https://www.allianceon.org/Rx-
+
+Tabriz Medical School
+
+Oct;69(687):e675–81.
+
+Community-Social-Prescribing-In-Ontario
+
+Nicola Evans - Head of Health Inequalities & Healthy
+
+8. NHS England » Next steps in increasing capacity and operational
+
+28. Social Prescribing: A holistic approach to improving the health and well-
+
+Dr. Kakeru Iwase - General Practitioner for Tama
+
+Communities, Welsh Government
+
+resilience in urgent and emergency care ahead of winter [Internet].
+
+being of Canadians [Internet]. Bridgeable. 2022. Available from: https://
+
+Metropolitan Medical Center
+
+Professor Carolyn Wallace - Associate Director PRIME Centre
+
+Available from: https://www.england.nhs.uk/next-steps-in-increasing-
+
+www.bridgeable.com/work/social-prescribing-a-holistic-approach-to-
+
+Professor Daisuke Watanabe - PhD, Professor of Seikei
+
+Wales and Director Wales School for Social Prescribing Research
+
+capacity-and-operational-resilience-in-urgent-and-emergency-care-
+
+improving-the-health-and-well-being-of-canadians/
+
+University, visiting researcher of International Longevity
+
+29. Accountable Health Communities Model | CMS Innovation Center
+
+ahead-of-winter/
+
+Professor David Robinson - Consultant physician in geriatric
+
+Centre Japan
+
+9. National Academy for Social Prescribing [Internet]. National Academy for
+
+[Internet]. Available from: https://innovation.cms.gov/innovation-
+
+medicine, St James’s Hospital, and Clinical Associate Professor
+
+Social Prescribing. Available from: https://socialprescribingacademy.org.
+
+models/ahcm
+
+Professor Naoki Kondo – MD, PhD, Associate Professor at
+
+in Medical Gerontology, Trinity College Dublin
+
+30. Integrating Social Needs Care into the Delivery of Health Care to
+
+uk/about-us/
+
+The University of Tokyo School of Public Health
+
+Dr. Kate Mulligan – Assistant Professor Dalla Lana School
+
+10. Social Prescribing: physical activity is an investment, not a cost [Internet].
+
+Improve the Nations Health | National Academies [Internet]. Available
+
+Dr. Kheng Hock Lee - MBBS, MCGP, FCFP, FAMS, FRCP, Deputy
+
+of Public Health, University of Toronto
+
+Scottish Parliament Reports. Available from: https://digitalpublications.
+
+from: https://www.nationalacademies.org/our-work/integrating-
+
+Chief Executive Officer, Education & Community Partnerships,
+
+parliament.scot/Committees/Report/HS/2019/12/4/Social-Prescribing-
+
+social-needs-care-into-the-delivery-of-health-care-to-improve-the-
+
+Delia Beck – MPH, Co-Founder Social Prescribing USA
+
+SingHealth Community Hospitals
+
+-physical-activity-is-an-investment--not-a-cost
+
+nations-health
+
+Daniel F Morse - Social Prescribing USA, Austin, Texas, USA
+
+11. Voluntary Health Scotland — The national intermediary and network
+
+31. Social Health and Community Health | Kaiser Permanente [Internet].
+
+Adeline Kwang - BBM, ACLP, Senior Manager, Office
+
+for voluntary health organisations in Scotland. [Internet]. Available from:
+
+Available from: https://healthy.kaiserpermanente.org/health-wellness/
+
+Dr. Cristiano Figueiredo - MD PhDc. USF da Baixa, Central
+
+of Community Engagement & Partnerships, SingHealth
+
+https://vhscotland.org.uk/
+
+social-health
+
+Lisbon Health Centre Cluster. School of Public Health, NOVA
+
+Community Hospitals
+
+12. We help people with their health and wellbeing. [Internet]. Available from:
+
+32. Social Prescribing Student Movement Framework by WHIS Inspire - Issuu
+
+University Lisbon
+
+Professor Tan Maw Pin - Professor in Geriatric Medicine
+
+https://www.springsp.org/
+
+[Internet]. Available from: https://issuu.com/whisinspire/docs/social_
+
+Dr. Juan Mendive - MD, PhD. Family Physician. La Mina Primary
+
+(University of Malaya)
+
+13. SSPN – Scottish Social Prescribing Network [Internet]. Available from:
+
+prescribing_student_movement_framework_-_v1
+
+Health Care Academic Centre, University of Barcelona. Spanish
+
+33. Hoffmeister LV, Nunes MF, Figueiredo CEM, Coelho A, Oliveira MFF,
+
+https://www.scottishspn.org.uk/
+
+Professor Huali Wang - Professor of Geriatric Psychiatry at
+
+Research Network on Chronicity, Primary Care and Health
+
+14. Alternative pathways to primary care [Internet]. Scottish Parliament
+
+Massano P, et al. Evaluation of the Impact and Implementation of Social
+
+Peking University Institute of Mental Health (Sixth Hospital)
+
+Reports. Available from: https://digitalpublications.parliament.scot/
+
+Promotion (RICAPPS)
+
+Prescribing in Primary Healthcare Units in Lisbon: A Mixed-Methods Study
+
+and the National Clinical Research Center for Mental Disorders
+
+Committees/Report/HSCS/2022/6/17/0e05bfbf-b984-4031-97ee-
+
+Protocol. Int J Integr Care [Internet] ;21(2):26. Available from: https://www.
+
+Jan Joost - Chairman of the National Social Prescribing/Welzijn
+
+(Peking University)
+
+6129de863e93
+
+ncbi.nlm.nih.gov/pmc/articles/PMC8231481/
+
+op Recept network in the Netherlands, Senior lecturer at the GP
+
+15. Creating sustainable community assets/social capital within the context
+
+34. Health Parliament Portugal lança livro com 52 medidas para o futuro
+
+Joy Chiang - PhD Candidate at University College London
+
+training institute in Leiden
+
+of social prescribing. :32.
+
+da saúde – Ordem dos Médicos [Internet]. Available from: https://
+
+Eun Woo Nam - MPH, PhD, Head of Yonsei Global Health Centre,
+
+16. Wallace C, Davies M, Elliott M, Llewellyn M, Randall H, Owens J, et al.
+
+Isabelle Wachsmuth - World Health Organisation, Art
+
+ordemdosmedicos.pt/evento/health-parliament-portugal-lanca-livro-
+
+Dean of Graduate School of Health Sciences, Yonsei University
+
+UNDERSTANDING SOCIAL PRESCRIBING IN WALES: A MIXED METHODS
+
+com-52-medidas-para-o-futuro-da-saude/
+
+Impact For Health Initiative, Universal Health Coverage
+
+Siân Slade - PhD Candidate, Nossal Institute for Global Health,
+
+35. Resolução da Assembleia da República n.o 158/2021 | DRE [Internet].
+
+STUDY. :41.
+
+and Life Course Division
+
+17. Wales School for Social Prescribing Research (WSSPR) [Internet]. Available
+
+Melbourne School of Population and Global Health. University
+
+Available from: https://dre.pt/dre/detalhe/resolucao-assembleia-
+
+Sébastien Libert – Consultant for the Healthy Ageing Unit,
+
+from: http://www.wsspr.wales/
+
+republica/158-2021-164590040?_ts=1654214400034
+
+of Melbourne
+
+Division of Healthy Environments and Populations, World Health
+
+18. Developing a national framework for social prescribing [Internet].
+
+36. Welzijn op recept [Internet]. Available from: https://
+
+(*) Main author: hamaad.khan@nasp.info
+
+Organization (WHO), Western Pacific Regional Office (WPRO)
+
+GOV.WALES. Available from: https://gov.wales/developing-national-
+
+welzijnopreceptamsterdam.nl/
+
+(**) Supervisor and correspondent: bogdan.giurca@nasp.info
+
+37. Golubinski V, Wild EM, Winter V, Schreyögg J. Once is rarely enough: can
+
+framework-social-prescribing
+
+Miia Palo - Director of Health Services, Lapland, Finland
+
+19. Research & Development [Internet]. St James’s Hospital. Available from:
+
+social prescribing facilitate adherence to non-clinical community and
+
+Dr. Ferdinando Petrazzuoli - MD, PhD, Social Prescribing and
+
+https://www.stjames.ie/misa/researchdevelopment/
+
+voluntary sector health services? Empirical evidence from Germany. BMC
+
+Community Orientation Wonca Europe Special Interest Group,
+
+20. Programme for Government: Our Shared Future [Internet]. Available
+
+Public Health. 2020 Nov 30;20(1):1827.
+
+Center for Primary Health Care Research, Department of Clinical
+
+38. Welcome | Polyclinic Veddel [Internet]. Available from: https://poliklinik1.
+
+from: https://www.gov.ie/en/publication/7e05d-programme-for-
+
+Sciences, Lund University, Malmö, Sweden
+
+government-our-shared-future/
+
+org/
+
+56 Social Prescribing around the World
+
+服务规范》团体标准的公告[Internet]. Available from: http://www.ttbz.org.cn/
+
+39. GeKo Berlin eV [Internet]. Available from: https://geko-berlin.de/
+
+Home/Show/46727
+
+40. District practice in the Geko district health center in Neukölln [Internet].
+
+58. Chen P, Li F, Harmer P. Healthy China 2030: moving from blueprint to
+
+Available from: https://stadtteilpraxis.de/
+
+action with a new focus on public health. The Lancet Public Health
+
+41. GKV-Spitzenverband. Prevention guidelines - National
+
+[Internet]. 2019 Sep 1 ;4(9):e447. Available from: https://www.thelancet.
+
+Association of Statutory Health Insurance Funds [Internet]. GKV-
+
+com/journals/lanpub/article/PIIS2468-2667(19)30160-4/fulltext
+
+Spitzenverband; Available from: https://www.gkv-spitzenverband.de/
+
+59. Chung MA, Yoon H, Shin DE, Kim J, Kim H, Nam EW. A study on community
+
+krankenversicherung/praevention_selbsthilfe_beratung/praevention_
+
+gardening as a social prescribing program. Korean Journal of Health
+
+und_bgf/leitfaden_praevention/leitfaden_praevention.jsp
+
+Education and Promotion. 2021 Sep 30;38:39–51.
+
+42. Vorbereitung und Umsetzung Modellregionen Social Prescribing |
+
+60. 남은우. COVID-19 와 관련된 사회적 고립과 외로움 극복을 위한 사회적 처방 제도.
+
+Gesundheit Österreich GmbH [Internet]. Available from: https://goeg.at/
+
+보건교육건강증진학회지 [Internet]. 2020 Mar ;37(1):113–6. Available from:
+
+socialprescribing
+
+https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09324594
+
+43. The status of the Primary Health Care Plus pilot… — Library of Science
+
+61. Kim JE, Lee YL, Chung MA, Yoon HJ, Shin DE, Choi JH, et al. Effects of
+
+[Internet]. Available from: https://bibliotekanauki.pl/articles/2088358
+
+social prescribing pilot project for the elderly in rural area of South Korea
+
+44. MoH: 40 Plus Prevention Programme since 2021 [Internet]. Available
+
+during COVID-19 pandemic. Health Sci Rep. 2021 Sep;4(3):e320.
+
+from: https://healthcaremarketexperts.com/en/news/moh-40-plus-
+
+62. Health at a Glance [Internet]. Available from: https://www.oecd-ilibrary.
+
+prevention-programme-since-2021/
+
+org/social-issues-migration-health/health-at-a-glance_19991312
+
+45. About Accredited Social Health Activist (ASHA) :: National Health
+
+63. Australia [Internet]. 2020. Available from: https://www.
+
+Mission [Internet]. Available from: https://nhm.gov.in/index1.
+
+commonwealthfund.org/international-health-policy-center/countries/
+
+php?lang=1&level=1&sublinkid=150&lid=226
+
+australia
+
+46. Mazaheri M, Khorramizadeh M, Rezai-Rad M, Mard-Soltani M. Using
+
+64. RACGP - Social prescribing report and recommendations [Internet].
+
+social prescribing by Iranian medical students: a step towards
+
+Available from: https://www.racgp.org.au/advocacy/advocacy-
+
+community-orientation and social determinants of health by revising
+
+resources/social-prescribing-report-and-recommendations
+
+the health internship curriculum. BMC Med Educ [Internet]. 2022 Sep 5
+
+65. Care AGD of H and A. National Preventive Health Strategy 2021–2030
+
+;22(1):661. Available from: https://bmcmededuc.biomedcentral.com/
+
+[Internet]. Australian Government Department of Health and Aged
+
+articles/10.1186/s12909-022-03718-8
+
+Care. Australian Government Department of Health and Aged Care;
+
+47. Experience of Behvarzes (Iranian primary healthcare providers) from
+
+2021 Available from: https://www.health.gov.au/resources/publications/
+
+giving primary health services in health houses - PMC [Internet]. Available
+
+national-preventive-health-strategy-2021-2030?language=en
+
+from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959263/
+
+66. Care AGD of H and A. Australia’s Primary Health Care 10 Year Plan 2022–
+
+48. 令和３年度高齢者医療制度円滑運営事業（保険者とかかりつけ医等の協働によ
+
+る加入者の予防健康づくり事業分）の公募について [Internet]. Available from:
+
+2032 [Internet]. Australian Government Department of Health and Aged
+
+Care. Australian Government Department of Health and Aged Care;
+
+https://www.mhlw.go.jp/stf/newpage_16654.html
+
+49. 医療機関で用いる患者の生活困窮評価尺度の開発 [Internet]. Available from:
+
+2022 Available from: https://www.health.gov.au/resources/publications/
+
+australias-primary-health-care-10-year-plan-2022-2032?language=en
+
+https://www.jstage.jst.go.jp/article/jph/67/7/67_20-003/_article/-char/
+
+67. Social Prescribing Initiatives [Internet]. ADMA. Available from: https://
+
+ja/
+
+adma.org.au/social-prescribing-initiatives/
+
+50. Duke-NUS Medical School in Singapore - Media Releases [Internet].
+
+68. Social Isolation and Social Prescribing Community of Practice [Internet].
+
+DukeNUS. Available from: https://www.duke-nus.edu.sg/about/
+
+https://machaustralia.org/. Available from: https://machaustralia.
+
+media/media-releases/white-coat-ceremony-2022?utm_
+
+org/projects/social-isolation-and-social-prescribing-community-of-
+
+source=website&utm_medium=banner&utm_campaign=spotlight
+
+practice/
+
+51. 1st Asia Pacific Social Prescribing Conference [Internet]. Available
+
+69. RACGP - Specific Interests groups [Internet]. Available from: https://www.
+
+from: https://www.singhealth.com.sg/SCH/about-us/community-
+
+racgp.org.au/the-racgp/faculties/specific-interests/interest-groups
+
+partnerships/Pages/spcs2022-programme.aspx
+
+52. Ibrahim AF, Tan MP, Teoh GK, Muda SM, Chong MC. Health Benefits of
+
+Social Participation Interventions among Community-Dwelling Older
+
+Persons: A Review Article. Experimental Aging Research [Internet]. 2022
+
+May 27 ;48(3):234–60. Available from: https://doi.org/10.1080/036107
+
+3X.2021.1939563
+
+53. Risbridger S, Walker R, Gray WK, Kamaruzzaman SB, Ai-Vyrn C, Hairi NN,
+
+et al. Social Participation’s Association with Falls and Frailty in Malaysia: A
+
+Cross-Sectional Study. J Frailty Aging [Internet]. 2021 Aug 7 ;1–7. Available
+
+from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8384092/
+
+54. Chong Mei Chan Teoh Gaik Kin TMP. A Practical Guide to Promoting
+
+Social Participation in Seniors. 1st edition. Cambridge Scholars Publishing;
+
+2019. 140 p.
+
+55. Teoh GK, Tan MP, Tan JS, Chong MC. Conducting community-based
+
+participatory research in an urban Malaysian community: Lessons
+
+learned and challenges in establishing partnerships. Journal of
+
+Community & Applied Social Psychology [Internet]. 2018 ;28(3):156–68.
+
+Available from: https://onlinelibrary.wiley.com/doi/abs/10.1002/
+
+casp.2348
+
+56. Twelfth Malaysia Plan, 2021-2025 [Internet]. Available from: https://
+
+rmke12.epu.gov.my/en/information/about-twelfth-plan
+
+57. 中国老年医学学会关于发布 《老年视功能衰退评估规范》和《老年精神心理健康
+
+Get in touch
+
+We welcome feedback and support for reviews in developing future editions of this report, including the addition of new countries involved in social prescribing.
+
+Please write to us directly at: global@nasp.info

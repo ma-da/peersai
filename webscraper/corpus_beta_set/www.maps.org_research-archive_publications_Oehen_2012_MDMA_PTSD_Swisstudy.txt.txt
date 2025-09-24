@@ -1,0 +1,365 @@
+JOP464827.indd
+
+http://jop.sagepub.com/ Journal of Psychopharmacology
+
+The online version of this article can be found at:
+
+DOI: 10.1177/0269881112464827 published online 31 October 2012 J Psychopharmacol Peter Oehen, Rafael Traber, Verena Widmer and Ulrich Schnyder psychotherapy for treatment of resistant, chronic Post-Traumatic Stress Disorder (PTSD) A randomized, controlled pilot study of MDMA (±3,4-Methylenedioxymethamphetamine)-assisted
+
+http://jop.sagepub.com/content/early/2012/10/26/0269881112464827
+
+Published by:
+
+http://www.sagepublications.com
+
+On behalf of:
+
+British Association for Psychopharmacology
+
+can be found at: Journal of Psychopharmacology Additional services and information for
+
+http://jop.sagepub.com/cgi/alerts Email Alerts:
+
+http://jop.sagepub.com/subscriptions Subscriptions:
+
+http://www.sagepub.com/journalsReprints.nav Reprints:
+
+http://www.sagepub.com/journalsPermissions.nav Permissions:
+
+- Oct 31, 2012 OnlineFirst Version of Record >>
+
+What is This?
+
+464827 JOP0010.1177/0269881112464827Journal of PsychopharmacologyOehen et al. 2012
+
+Original Paper
+
+A randomized, controlled pilot study of MDMA (±3,4-Methylenedioxymethamphetamine)assisted psychotherapy for treatment of resistant, chronic Post-Traumatic Stress Disorder (PTSD)
+
+Journal of Psychopharmacology 0(0) 1­–13 © The Author(s) 2012 Reprints and permission: sagepub.co.uk/journalsPermissions.nav DOI: 10.1177/0269881112464827 jop.sagepub.com
+
+Peter Oehen1, Rafael Traber2, Verena Widmer1 and Ulrich Schnyder3
+
+Abstract Psychiatrists and psychotherapists in the US (1970s to 1985) and Switzerland (1988–1993) used MDMA legally as a prescription drug, to enhance the effectiveness of psychotherapy. Early reports suggest that it is useful in treating trauma-related disorders. Recently, the first completed pilot study of MDMA-assisted psychotherapy for PTSD yielded encouraging results. Designed to test the safety and efficacy of MDMA-assisted psychotherapy in patients with treatment-resistant PTSD; our randomized, double-blind, active-placebo controlled trial enrolled 12 patients for treatment with either low-dose (25 mg, plus 12.5 mg supplemental dose) or full-dose MDMA (125 mg, plus 62.5 mg supplemental dose). MDMA was administered during three experimental sessions, interspersed with weekly non-drug-based psychotherapy sessions. Outcome measures used were the Clinician-Administered PTSD Scale (CAPS) and the Posttraumatic Diagnostic Scale (PDS). Patients were assessed at baseline, three weeks after the second and third MDMA session (end of treatment), and at the 2-month and 1-year follow-ups. We found that MDMA-assisted psychotherapy can be safely administered in a clinical setting. No drug-related serious adverse events occurred. We did not see statistically significant reductions in CAPS scores (p = 0.066), although there was clinically and statistically significant self-reported (PDS) improvement (p = 0.014). CAPS scores improved further at the 1-year follow-up. In addition, three MDMA sessions were more effective than two (p = 0.016).
+
+Keywords Methylenedioxymethamphetamine, MDMA, MDMA-assisted psychotherapy, psychotherapy, posttraumatic stress disorder, PTSD, entactogen
+
+Introduction
+
+chronic illness, with high rates of psychiatric and medical comorbidity (Jacobsen et al., 2001; McFarlane, 2010), as well as suicidality (Panagioti et al., 2012). Serotonergic agents such as selective serotonin re-uptake inhibitors (SSRI) and serotonin–norepinephrine reuptake inhibitors (SNRI) are often used to treat PTSD and comorbid disorders, or to treat patients unable to undergo psychotherapy. The only two FDA-approved drugs for this indication, sertraline and paroxetine (Brady et al., 2000; Tucker et al., 2001), show only modest effects on PTSD symptoms. Recent literature reviews stress the importance of developing more effective medications and psychotherapeutic treatments for chronic PTSD (Foa et al., 2009; Stein et al., 2009). MDMA (±3,4-Methylenedioxymethamphetamine)-assisted psychotherapy is a novel approach to the treatment of PTSD that employs
+
+Post-traumatic stress disorder (PTSD) is a common problem in everyday medical practice and a major and costly public health problem all over the world. Lifetime prevalence in the general population ranges from below 1% in the European countries (Hepp et al., 2005; Perkonigg et al., 2000), up to an average of 8% in countries such as the US (Breslau et al., 1991; Kessler et al., 1995), although more recent surveys in the Netherlands and Switzerland now show rising rates of 7.4% in adults and 4.2% in adolescents, respectively (De Vries and Olff, 2011; Landolt et al., under review). In specific populations (e.g. soldiers returning from military service) prevalence can be much higher (Hoge et al., 2004). Psychotherapy has been recognized to be the most effective form of treatment for PTSD (Van Etten et al., 1998). First-line treatments are exposure-based therapies, such as: Cognitive Behavior Therapy (CBT), Prolonged Exposure (PE), Cognitive Processing Therapy (CPT) or Eye Movement Desensitization and Reprocessing (EMDR) (Benedek et al., 2009; Cloitre, 2009; Foa et al., 2009). While demonstrating efficacy for some patients, studies of CBT show high drop-out rates (20%) and limited effect on PTSD symptoms, with up to 58% of study completers still meeting PTSD diagnosis after treatment, while only 32–66% reach a good level of end-state functioning (Foa, 2009; Schnyder, 2005). Despite a better understanding and growing efficacy of the existing psychotherapies, PTSD often remains a
+
+1Private practice of Psychiatry and Psychotherapy, Biberist, Switzerland; 2Psychiatric Hospital, Marsens, Switzerland 3Department of Psychiatry and Psychotherapy, University Hospital, Zurich, Switzerland
+
+Corresponding author: Peter Oehen, Private practice of Psychiatry and Psychotherapy, Ulmenweg 24a, 4562 Biberist, Switzerland. Email: peter.oehen@hin.ch
+
+2 Journal of Psychopharmacology 0(0)
+
+to traumatic memories should be kept in an “optimal arousal zone,” avoiding the extremes of eliciting overwhelming anxiety and other painful emotions that may lead to dissociation on the one hand and emotional numbing on the other (Ogden and Pain, 2005). MDMA may widen this window, enhancing affect-related tolerance and reducing numbing. The pronounced increases in levels of the neurohormone oxytocin when patients are under the influence of MDMA (Wolff et al., 2006) are associated with the prosocial effects of MDMA (Bedi, 2009; Dumont et al., 2009). The quality of this therapeutic alliance is recognized as being crucial for the recovery from PTSD (Charuvastra and Cloitre, 2008); while the extensive release of oxytocin under MDMA therapy is postulated to be a prominent factor in improving the therapeutic alliance that is regularly observed in clinicaltherapeutic settings, in patients under the influence of MDMA (Johansen and Krebs, 2009). The main postulated psychological effects that are relevant to the context of MDMA-assisted psychotherapy are partially based on clinical impressions and also on clinical data (Johanson and Krebs, 2009; Passie and Dürst, 2009; Vollenweider et al.,1998), as is shown in Table 1. This study was intended to serve as a proof of concept and to secondarily confirm the initial findings of the Mithoefer et al. (2011) study, using a different therapist team. We examined safety and efficacy in an outpatient setting, which included overnight stays after each MDMA session in the clinic, for safety reasons, in a small sample of 12 patients with chronic, treatment-resistant PTSD and provided a 1-year follow-up. A methodological challenge was the maintenance of the double-blind, when using a profoundly psychoactive substance like MDMA, since MDMA’s effects can be easily discerned by both subjects and investigators. In the Mithoefer et al. study (2011), there were difficulties in maintaining the study blind using an inactive placebo control, so
+
+the psychoactive compound MDMA as a catalyst of PTSD-specific psychotherapy itself. The drug MDMA is a substituted phenylethylamine that was first synthesized in 1912 by the pharmaceutical company Merck, but was rediscovered in the 1970s by the chemist A Shulgin, and it was later introduced to psychotherapy by the psychotherapist L Zeff (Benzenhoefer and Passie, 2006). Prior to the US scheduling of MDMA as a drug of abuse in 1985, there were reports suggesting it to be effective in psychotherapy (Greer and Tolbert, 1986; Metzner and Abramson, 2001). The first rigorously-controlled clinical trials of MDMA-assisted psychotherapy in the treatment of chronic PTSD show promising results (Bouso et al., 2008; Mithoefer, 2011). The benefits of MDMA-assisted psychotherapy appear to be long-lasting (Mithoefer et al., in press). The current neurocircuitry model of PTSD postulates that there are exaggerated and uncontrolled responses of the amygdala to trauma-specific cues, as well as a deficient top-down inhibition of the amygdala by the ventromedial prefrontal cortex (vmPFC), orbitofrontal cortex and the hippocampus (Frewen, 2006; Rauch et al., 2006). MDMA increases activity in the vmPFC and decreases the activity of the left amygdala (Gamma et al., 2000), possibly reversing some of the abovementioned abnormalities associated with PTSD. MDMA leads to a transporter-mediated release of serotonin and the activation of the 5HT receptor, and to a lesser extent to the release of dopamine and norepinephrine. Many of the positive subjective effects can be attributed to the release of serotonin (Farre et al., 2007; Liechti et al., 2001), and it was recently shown for norepinephrine, as well (Hysek et al., 2011). A main characteristic of the MDMA-induced state is a positively-toned cognitiveemotional state, with reduced fear, possibly facilitating the processing of traumatic material and better encoding positive emotional experiences. It is theorized that therapeutic exposure
+
+Table 1. Psychological effects of MDMA in the context of psychotherapy.
+
+Category MDMA-induced state Psychotherapeutic implication
+
+Mood/Affect Mild euphoria Positive and fearless emotional state of well-being Anxiety and fear ↓ Emotional avoidance↓ Enhanced perception of and intensified feelings Tolerance and processing of difficult emotions (“window of tolerance”)↑ Affect tolerance↑
+
+Cognition/ Memory More imaginative and associative Recall of relevant traumatic memories↑ Contemplativeness↑ Recall and tolerance of traumatic memories↑ Prolonged spontaneous exposure to traumatic memories Cognitive restructuring “simulation of alternative behavior” Attachment/ Interpersonal Behavior
+
+Social fears and defensiveness↓ Improvement of therapeutic alliance Social approach behavior↑ with empathy, openness, trust, feelings of being connected to others↑
+
+Rebuilding of trusting relationships Defensiveness and isolation↓
+
+Cuddling and need for touch↑ Self Self-esteem ↑ Grounding/centering↑
+
+Self-acceptance↑ Consolidation of self↑ Body
+
+Release of muscular tension Analgesia Sensuality↑
+
+Release of tension and reduction of somatic symptoms Positive body image
+
+MDMA: ±3,4-methylenedioxymethamphetamine
+
+Oehen et al. 3
+
+included significant medical conditions, except for hypothyroidism under hormonal replacement. Exclusionary psychiatric conditions were: a history of psychotic illness, bipolar disorder type I, borderline personality disorder, dissociative identity disorder, and substance abuse or dependence within 60 days of enrollment. We did allow comorbid anxiety disorders, depression, and eating disorders without active purging. We excluded subjects who had taken MDMA on more than five occasions or less than 6 months prior to enrollment. As far as previous drug use, one subject had previously used “ecstasy” on three occasions, one had consumed magic mushrooms (psilocybin) several times, while the other subjects were completely naïve to psychedelic drugs. Two subjects (one female, one male) discontinued treatment after the first experimental MDMA session. Eleven of the 12 subjects who completed the study also participated in the 12-month follow-up. One female subject could not complete the 12-month follow-up, because she died 6 months after finishing the MDMA-assisted treatment, from a brain metastasis arising from a relapse of breast cancer; when chosen for inclusion, this subject had been in breast cancer remission for over 10 years and had not been symptomatic at screening. Index traumata within the study group included physical and sexual abuse during childhood in six subjects, sexual assault in one, medical treatment in one, motor vehicle accident in two and life-threatening illness in two subjects. The mean duration of PTSD symptoms at enrollment was 18.3 years (SD ± 12). The mean duration of previous psychotherapeutic treatments was 85.8 months (SD ± 71.4). Subjects were allowed to continue any ongoing psychotherapy with their outside/referring therapists, but were not allowed to increase the frequency of the ongoing treatments, nor commence any new therapy, until after the administration of outcome measures at 2 months after the MDMA session #3.
+
+it is possible that this difficulty affects study results. This study, therefore, attempted to address the question of whether the use of 25mg of MDMA as an “active placebo” could help optimize blinding. We also hypothesized that three MDMA sessions were more effective than only two, and that reductions in PTSD symptoms would remain stable at the 1-year follow-up.
+
+Methods
+
+Recruitment and screening procedure
+
+We recruited subjects for the study by calling for referrals from psychiatric hospitals, trauma counseling centers, psychiatrists and psychotherapists in the German-speaking part of Switzerland. First, prospective participants were screened by a scripted telephone interview, to check for inclusion and exclusion criteria. Those who met the study criteria had an informational meeting with the investigator, which included the administration of the Clinician-Administered PTSD Scale (CAPS) to provide a PTSD diagnosis. Written informed consent was then obtained from subjects by the investigators. Medical evaluation included: a medical history, standard physical examination, an electrocardiogram (ECG), metabolic profile, measurement of thyroid hormones, serum electrolytes, human immunodeficiency virus (HIV) test, urinary drug test and pregnancy test (when appropriate). The subjects aged older than 40 years, with a positive family history of coronary heart disease and/or presenting risk factors, underwent a stress ECG. Psychiatric evaluation and confirmation of the PTSD diagnosis were conducted by an independent rater, using CAPS and Structured Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders (DSM) (SCID) I and II. Enrollment began in September 2006 and ended in October 2009. The 12-month follow-up was completed in January 2011. This study was approved by the ethics committee of the cantons (federal states) of Solothurn and Aargau, Switzerland and it was conducted according to the regulatory guidance for protection of human subjects, and relevant federal regulations and international standards.
+
+Description of study design
+
+In “Stage 1,” eight subjects were randomized in a doubleblind manner to the full dose and four to the “active placebo” condition, with their three doses of MDMA administered in three all-day-long MDMA-assisted psychotherapy sessions. A full dose consisted of 125 mg followed 2.5 hours later by 62.5 mg MDMA; while the “active placebo” dose consisted of 25 mg, followed 2.5 hours later by 12.5 mg MDMA. The 125 mg dose of MDMA was chosen on the basis of case reports of MDMA-assisted psychotherapy (Greer and Tolbert, 1986; Widmer, 1998), as well as on preliminary data obtained from the Mithoefer (2011) pilot study. The dosages chosen for the low dose condition were selected on the basis of their ability to produce minimal, but detectable subjective effects (Grob et al., unpublished; Harris et al., 2002), thus serving as an “active placebo.” The cumulative dose of 37.5 mg MDMA was not expected to produce a significant reduction in anxiety nor a significant increase in access to emotionally-upsetting material, although this low dosage might produce slight alterations in perception, and increased relaxation or tension (Harris et al., 2002). The study purposefully allocated a greater number of participants to the full-dose condition (2:1), to better assess the safety of the full dose and to enhance recruitment efforts.
+
+Subjects
+
+We enrolled 12 subjects (10 female, two male; mean age = 41.4 years, SD 11.2 years) meeting all inclusion and exclusion criteria, whom completed the study (Table 2). Two additional subjects discontinued treatment after the first experimental MDMA session (Figure 1). All subjects who were enrolled, met the DSM-IV-text revision (TR) criteria for PTSD with treatment-resistant symptoms, as was indicated by a CAPS score of ≥ 50 and having previously undergone at least 6 months of psychotherapy and 3 months of treatment with an SSRI. Seven of 12 subjects had experienced one or more evidence-based therapies: three subjects had CBT, one exposure based therapy was not specified, one had EMDR, three had unspecified anxiety management and six subjects had non-evidence based therapies, such as insight-oriented therapies. Many of the subjects had undergone multiple therapies, so it was not possible any more for them to exactly identify in all cases, the specific method that had been applied. Subjects were required to taper all psychotropic medication, before entering the study. Gabapentin was allowed for pain control. Exclusion criteria
+
+4 Journal of Psychopharmacology 0(0)
+
+Figure 1. Flow Diagram.
+
+Outcome measures
+
+version of the CAPS was used (Schnyder et al., 2002), serving as both a screening and main outcome measure. The Posttraumatic Diagnostic Scale (PDS) (Foa et al., 1993,
+
+1997) is a validated self-reporting measure to assess the presence of PTSD symptoms, as is described in the DSM-IV serving as an additional outcome measure. An unvalidated, yet widely-used German version (Ehlers et al., 1996) was used in this study.
+
+Outcome measures included two measures of PTSD symptoms.The Clinician-Administered PTSD Scale (CAPS) is a DSM-IV based, structured clinical interview that is designed to quantify PTSD symptoms. It was determined to have excellent psychometric properties of reliability and validity (Weathers et al., 2001). A validated German
+
+Oehen et al. 5
+
+Table 2. Study participant characteristics.
+
+Characteristic Full-dose group Placebo group Total
+
+n = 8 n = 4 n = 12
+
+Gender Female 7 (87%) 3 (75%) 10 (83%)
+
+Male 1 (12%) 1 (25%) 2 (16%) Mean age (SD) Range 23–67 yrs 42.1 (12.8) 40.0 (6.2) 41.4 (11.2) Country of origin Study completers CH: 7, F: 1 CH: 4 CH: 11, F: 1
+
+Drop-outs TR: 1 ZA: 1
+
+Marital status Single 3 (37%) 2 (50%) 5 (41%)
+
+Married/living with partner 2 (25%) 2 (50%) 5 (41%)
+
+Divorced/separated 3 (37%) 0 (0%) 4 (33%) Work status On disability 4 (50%) 1 (25%) 5 (42%)
+
+Fit for limited employment 2 (25%) 1 (25%) 3 (25%)
+
+Working full-time 1 (13%) 2 (50%) 3 (25%)
+
+Retired 1 (13%) 0 (0%) 1 (8%) History of abuse/dependency Alcohol 1 (13%) 0 (0%) 1 (8%)
+
+Cannabis 1 (13%) 1 (25%) 2 (17%) Prior drug use MDMA (# subjects) 0 1 (3 occasions) 1
+
+Psilocybin (# subjects) 1 0 1 Mean # years duration of PTSD (SD) Range 3–40 y 16.4 (10.9) 22.3 (12.1) 18.3 (12.0)
+
+Mean # months of prior psychotherapy (SD) Range 22–240 m 39.9 (73.3) 123 (60.6) 85.8 (71.4)
+
+Comorbid disorder Unipolar depression 7 (88%) 3 (75%) 10 (83%)
+
+Panic disorder 0 (0%) 1 (25%) 1 (8%)
+
+Eating disorder 1 (13%) 0 (0%) 1 (8%)
+
+Seasonal affective disorder 1 (13%) 1 (25%) 2 (17%)
+
+Dysthymia 1 (13%) 0 (0%) 1 (8%) Index trauma Childhood sexual abuse 4 (50%) 2 (50%) 6 (50%)
+
+Sexual assault 1 (13%) 0 (0%) 1 (18.%)
+
+Accident 1 (13%) 1 (25%) 2 (17%)
+
+Medical treatment 1 (13%) 0 (0%) 1 (28%)
+
+Life-threatening illness 1 (13%) 1 (25%) 2 (17%) Medication for PTSD at enrollment 4 (50%) 2 (50%) 2 (50%)
+
+CH: Switzerland; F: France; MDMA: ±3,4-Methylenedioxymethamphetamine ;TR: Turkey; ZA: South Africa
+
+“Stage 2.” All subjects in the “active placebo” condition in “Stage 1” chose to proceed to “Stage 2.” Follow-up assessments consisting of the CAPS and PDS were completed two (T3), six (T4) and 12 (T5) months after the final MDMA-session #3. After a preliminary analysis of data showed an insufficient clinical response to the experimental treatment in several fulldose subjects, an amendment to the protocol was obtained, allowing for two additional sessions of MDMA-assisted psychotherapy for any subjects deemed to show insufficient response, which was referred to as “Stage 3” and employed a dose of 150 mg MDMA and a supplemental dose of 75mg MDMA, unless contraindicated for safety reasons. A response was considered clinically insufficient on the basis of:
+
+The CAPS and SCID I substance abuse module were administered at baseline (T0), 3-weeks after MDMA-session #2 (T1); 3-weeks after MDMA-session #3 (T2; end of treatment); and two (T3), six (T4) and 12 (T5) months after the MDMA-session #3 (follow-up). The PDS was administered one day after each MDMA session; 3-weeks after the MDMA-session #3 (T2; end of treatment); and two, six, and 12 months after MDMA-session #3 (T3, T4, T5; long-term follow-up (LTFU)). All outcome measures were administered by a blinded, independent rater. Subjects were tested for drugs of abuse before MDMA sessions, plus 1-time at random, during Stage 1 and Stage 2, and at each follow-up testing. Pregnancy tests were performed in women of childbearing potential, before each MDMA session, as a safety measure. The blind was broken following assessment by the independent rater, after the end of Stage 1 treatment. Subjects assigned to the “active placebo” condition were offered an open-label continuation of the study with the fully active dose of MDMA (“Stage 2”), with identical psychotherapy and assessment as in “Stage 1.” CAPS scores from the 3-weeks post-MDMA #3 testing served as a baseline for
+
+- the investigator’s and patients’ subjective impression of a lack of improvement
+
+- CAPS score changes (baseline to 2 months after the third experimental session ≤ 15 points (Schnurr, 2007; Weathers, 2001)
+
+6 Journal of Psychopharmacology 0(0)
+
+sessions. The therapists’ attitude was supportive, validating the MDMA experience and facilitating understanding and emotional clearing. Following each MDMA-assisted session, the subjects were contacted via telephone by one of the therapists on a daily basis for one week, in order to assess the subject’s psychological well-being and monitor any drug after-effects. Subjects each received a total of 12 non-drug psychotherapy sessions. Additional sessions in case of excessive distress were limited to two after each MDMA session.
+
+- CAPS item #25 ≥ 3 and overall CAPS score still ≥ 50 points at the outcome measurement 2-months after the third MDMA-session served as additional guidelines for the assessment of clinically insufficient response).
+
+All three above conditions had to be fulfilled.
+
+MDMA
+
+MDMA was obtained from a supply originally synthesized by Lipomed AG, Switzerland. The investigational product (in quantities of 125, 62.5, 25 and 12.5 mg) was prepared in gelatin capsules of identical appearance and weight by the Bichsel Laboratory in Interlaken, Switzerland. Quality control and randomization was performed by R Brenneisen, Department of Clinical Research, Phytopharmacology, Bioanalytics and Pharmacokinetics, University of Bern, Switzerland.
+
+Further assessment and safety measures
+
+Subjects’ blood pressure (BP) and heart rate (HR) were measured at both15 and 5 minutes before ingestion of the MDMA, and afterwards every half-hour for a total of 4 hours and then every hour until the termination of the session. Body temperature was measured 15 minutes before MDMA administration and hourly, until termination of the session. The degree of psychological distress was monitored repeatedly during the course of each MDMA session, using a 1-item visual analog scale, the Subjective Units of Distress. The participant’s beliefs concerning their condition were collected during the non-drug psychotherapy session given the day after each MDMA session. The therapists collected any spontaneously-reported reactions over a 7-day period, starting on the day of each experimental session.
+
+Psychotherapy
+
+The treatment is described online in the manual for MDMAassisted psychotherapy in patients with PTSD (Mithoefer, 2011). Two preparatory sessions, aimed at establishing a therapeutic alliance and preparing subjects for the MDMA experience, preceded the first MDMA session of the study. The MDMA sessions took place in the group psychotherapy room at the first author’s clinic. Subjects arrived at nine a.m. After testing for drugs of abuse and testing of females for pregnancy, the session goals and intentions were recapitulated. The MDMA was ingested at 10 a.m. Subjects were instructed to remain reclining on the mattress, to focus their attention inward, keep their eyes closed as much as possible and to allow the inner process to unfold. The therapeutic tools used to guide the subjects consisted of:
+
+Statistical analysis
+
+CAPS and PDS scores were analyzed by nonparametric analysis of variance (ANOVA), using an F1-LD-F1 model (Brunner and Langer, 1999; Brunner et al., 2002) with the experimental intervention condition (full dose MDMA versus “active placebo” MDMA) serving as a between-group factor and the time of measurement serving as a within-subjects factor. Given an insufficient number of participants in “Stage 2” for formal analysis, their scores were compared across the two stages to see whether “Stage 2” scores were reduced, as compared to “Stage 1” scores. The Wilcoxon Signed-Rank-Test for paired data was used to analyze whether a third MDMA session improved CAPS scores compared to only two MDMA sessions. Group comparisons of vital signs pre- to post-session (excluding data from the high-dose group, due to insufficient sample size) were performed by first averaging the values for each subject over the three sessions to obtain an “average” day and then calculating a nonparametric 95% confidence interval (CI) covering the true median of the differences pre- to post-session. To compare the magnitude of the difference between the maximally-observed value and the baseline value between treatment groups, a similar approach as above was chosen: To show that the values of the increase are higher on average in the full-dose group than in the placebo group, a lower confidence bound B for the difference of increase, such that the true value of increase (full dose) – increase (“active placebo”) is at least as big as B with a confidence of 95%, was computed. Given the small sample size, no adjustments for covariates were made and the study had only sufficient power to detect large effects; therefore, there was no adjustment for multiple testing: unadjusted exact p-values and CIs were reported instead. Results were considered significant when p ≤ 0.05. Trends were also reported when p ≤ 0.1. The F1-LD-F1 models were computed with the SAS 9.1 program; all other analyses were performed with the R 2.7.1. statistics program.
+
+1. A program of music which was designed to support the subject’s experience by aiding relaxation and/or evoking and supporting deep emotions and the emergence of unconscious material (Bonny and Savary, 1990; Spitzer, 2002). 2. MDMA-assisted psychotherapy is primarily focused on experiencing and is only to a lesser extent a verbal method during the MDMA sessions themselves. Discussions between therapists and participant take place only when needed. The therapeutic approach is generally non-directive, following and encouraging the MDMA-induced psychological process. 3. Focused body work was defined as bodily contact that employs nurturing touch (e.g. hand-holding) and touch aimed at intensifying and thereby releasing body tension and pain, by giving resistance for the subject to push against. It is always performed with explicit consent from the subject and respecting individual boundaries and vulnerabilities.
+
+One male and one female therapist were were present during the entire session. MDMA-assisted sessions lasted approximately 8 hours, after which the subjects were offered a light meal, and then a previously-designated support person (e.g. spouse) arrived to stay with them overnight at the clinic. A non-drug psychotherapy session took place the morning after each MDMA experience, followed by two sessions that were one week apart, aimed at ensuring the integration of the experiences from the MDMA-assisted
+
+Oehen et al. 7
+
+CAPS mean total scores by group for me TO-T2 (SD)
+
+PDS mean scores by group for me TO-T2 (SD)
+
+TO: Baseline < 4 weeks before MDMA and a er discon nua on of psychtropic medica on Ac ve Placebo: 63.4 (7.9) Full Dose: 66.4 (13.6) T1: 3 weeks post MDMA-session 2 Ac ve Placebo: 60.0 (6.8) Full Dose: 63.0 (17.8) T2: 3 weeks post MDMA-session 3 (end of treatment) Ac ve Placebo: 66.5 (7.6) Full Dose: 50.8 (19.7) CAPS Change scores (SD): T0-T1: Ac ve Placebo: -3.3 (9.9) Full dose: -3.4 (12.0) T1-T2: Ac ve Placebo: 6.5 (10.3) Full dose: -12.2 (8.1) T0-T2: Ac ve Placebo: -3.2 (15.3) Full dose: -15.6 (18.1)
+
+TO: Baseline < 4 weeks before MDMA and a er discon nua on of psychtropic medica on Ac ve Placebo: 23.5 (1.9) Full Dose: 30 (6.3)
+
+T2: 3 weeks post MDMA-session 3 (end of treatment) Ac ve Placebo: 30.8 (6.2) Full Dose: 21.4 (11.9)
+
+Changes scores T0-T2 (SD): Ac ve Placebo: 7.3 (6.2) Full dose: -8.6 (13.0)
+
+Figure 2. CAPS and PDS scores by group for time T0-T2.
+
+Results
+
+the full-dose group, as compared to an increase in the “active placebo” group. There was a significant interaction effect of group and time (p = 0.014). A Wilcoxon Signed Rank test for paired data was performed to test whether three MDMA sessions were more effective than only two sessions. There was a significant difference in CAPS scores (p = 0.016, exact p-value to account for ties) between the two time points T1 and T2. The median prior psychotherapy treatment times of the “active placebo“ and the full-dose group were 123 and 39.9 months. A comparison of the two distributions, using the two-sample Wilcoxon rank sum test, yielded a two-tailed p value of 0.154.
+
+Efficacy
+
+Figure 2 shows the course of CAPS and PDS scores over time in the two groups. Interestingly, the average CAPS scores in the “active placebo” group increased slightly from T1 to T2. The three interaction relative treatment effects (RTE) T0-T2 for total CAPS scores in the full dose group showed a distinct decrease in CAPS scores with time, as compared to the active placebo group in the ANOVA, but narrowly missed statistical significance (p = 0.066). On average, CAPS scores decreased 15.6 points (23.5%) in the full-dose subjects. There was a significant simple effect of time in the full dose group (p = 0.002), meaning that the time effect was significant only in the fulldose group. In contrast, the simple time effect for the active placebo group was not significant (p = 0.475). For the other two models, T0 vs. T1 and T1 vs. T2, group and time effects and interactions were not significant. PDS scores decreased in
+
+Safety
+
+There were no serious drug-related adverse events and no medical intervention was required during or following the MDMA sessions.
+
+8 Journal of Psychopharmacology 0(0)
+
+Table 3. Physiologic data.
+
+MDMA Group Full Dose (excl. high dosea) “Active” Placebo (low dose)
+
+Mean/ median (SD) Range Mean/ median (SD) Range
+
+Systolic BP Baseline 134.3/128.1 (17.3) 106/176.5 121.7/124.3 (5.4) 100/126
+
+Maximum 160.1/153.7 (21.1) 124/200 139.6/139.3 (10.4) 117/144
+
+Post 138.8/132.3 (18.4) 111/168 123.3/121.5 (10.6) 107/127 Diastolic BP Baseline 82.6/80.1 (9.7) 65.8/100.5 77.2/76.3 (2.8) 72/84
+
+Maximum 95.3/97.4 (11.4) 73/121 88.1/88.5 (7.0) 76/92
+
+Post 83.3/84.3 (10.9) 65/102 74.4/76.3 (5.5) 68/81 Pulse Baseline 79.7/80.1 (7.4) 62/109 78.4/79.5 (7.8) 60/94
+
+Maximum 98.5/105.2 (13.3) 71/121 79.9/100.5 (17.0) 69/124
+
+Post 85.3/88.7 (11.7) 65/108 81.8/85.1 (11.4) 61/90 Temperature Baseline 36.6/36.6 (0.33) 35.8/37.6 36.5/36.5 (0.26) 36.3/37.1
+
+Maximum 37.5/37.5 (0.39) 36.7/38.6 37.6/37.6 (0.4) 36.5/38.5
+
+Post 37.1/37.3 (0.28) 36.6/37.9 37.2/37.0 (0.4) 36.6/38.0
+
+aSample size too small for statistical analysis; all values for BP, HR and T were within ranges of the full-dose group. BP: blood pressure; HR: heart rate or pulse; MDMA: ±3,4-Methylenedioxymethamphetamine; T: temperature
+
+Rescue medication
+
+reported in the active placebo group. Dizziness, headache and impaired gait/balance were also frequently reported in both groups. Most reactions resolved when the drug effects diminished. Loss of appetite, difficulty concentrating, anxiety and headache persisted beyond this window to 24 hours, but were still self-limiting.
+
+Zolpidem for insomnia was offered for the first nights after MDMA sessions, but was administered on only one occasion. Most subjects refused sleep medication, frequently commenting that lying awake was not experienced as being distressing, but an opportunity to reflect on the still ongoing inner process. Lorazepam for anxiety/ distress related to the processing of the traumatic memories was administered in six out of nine subjects, after 10 out of 56 full-dose or 150 mg MDMA sessions, typically during the week after MDMA sessions. Five of these six subjects were on antidepressants and/or benzodiazepines at enrollment. In all cases, single doses of 1–2mg lorazepam reduced the anxiety or distress adequately. Only one subject, with no psychotropic medication at enrollment, required lorazepam on one occasion. In the “active placebo” group, lorazepam was administered to two of five subjects after three low-dose MDMA sessions. Both had been treated with antidepressants and/or benzodiazepines at enrollment. The other three active placebo subjects did not need any medication, nor had they had any psychotropic medication at enrollment. Except for the subject who was subsequently diagnosed with a prefrontal brain metastasis and who experienced a panic attack, the anxiety that required medication was related to the PTSD. Acetaminophen or mefenamic acid (in two subjects with a history of headache refractory to acetaminophen) were administered short-term for headache, following the MDMA sessions.
+
+Physiologic data
+
+As seen in Table 4, for both groups, the temperature values tended to be significantly higher pre- to post-session, the increase being within the range between 0.97 and 0.46 degrees Celsius. In the full-dose group, systolic BP and HR did not change significantly (albeit just narrowly, which may be due to underpowering). The comparison of the difference between the maximally-observed and the baseline value between conditions showed that all lowerconfidence bounds B were negative, meaning the increase in any of the physiological parameters was not significantly higher in the full-dose than in the placebo group.
+
+Additional psychotherapy sessions
+
+Additional integrative psychotherapy sessions were conducted as per protocol in situations of excessive distress or other issues, following MDMA sessions. Eight out of 13 subjects who received fulldose either in the initial randomization or in the “Stage 2” crossover group, required a total of 21 additional sessions, with no more than four additional sessions per subject and stage (mean 1.6 per subject). In the “active placebo” group (n = 5), four additional sessions were provided to the above-mentioned two “active placebo” subjects exhibiting excessive distress (mean 0.8 per subject). One additional session was conducted in “Stage 3” (mean 0.3 per subject).
+
+Spontaneously-reported reactions
+
+See Table 3. The most commonly reported reactions on the day of the experimental session were moderate insomnia (125 mg: 43%; 150 mg: 50%), loss of appetite and restlessness in subjects receiving 125 mg MDMA, and headache, moderate insomnia (31%) and loss of appetite in subjects receiving 25 mg MDMA. Insomnia and loss of appetite were the most commonly reported reactions in both conditions. Restlessness, tight jaw, thirst and feeling cold were commonly reported reactions in the full-dose group that were minimally
+
+Clinical response and LTFU
+
+Clinical response, as defined above, was observed in four out of eight subjects in the full-dose group, with all of them still
+
+Oehen et al. 9
+
+Table 4. Spontaneously-reported reactions.
+
+Day of MDMA Day of Placebo Day of MDMA Within 7 days after MDMA Within 7 days after low dose
+
+125 mg 25 mg 150 mg 125/150 mg 25 mg
+
+Sessions: 37 Sessions: 13 Sessions: 6 Sessions: 43 Sessions: 13
+
+n (%) (Mean Severity) n (%) (Mean Severity) n (%) (Mean Severity) n (%) (Mean Severity) n (%) (Mean Severity)
+
+Anxiety 10 (27%) (1.6) 2 (15%) (1.4) 1 (16%) (1.0) 11 (26%) (1.0) 2 (15%) (1.0) Decreased concentration 6 (16%) (1.1) 0 0 10 (23%) (1.5) 0 Dizziness 8 (22%) (1.0) 4 (31%) (1.0) 3 (50%) (2.3) 8 (18%) (1.6) 3 (23%) (1.3) Drowsiness 2 (5%) (1.0) 0 0 2 (5%) (1.0) 1 (8%) (1.0) Dry mouth 7 (19%) (1.1) 0 2 (33%) (1.5) 5 (12%) (1.0) 0 Fatigue 13 (35%) (1.5) 2 (15%) (1.0) 1 (16%) (1.0) 24 (56%) (1.6) 5 (38%) (1.4) Headache 11 (30%) (1.6) 5 (38%) (1.8) 2 (33%) (1.5) 10 (23%) (1.9) 4 (31%) (1.5) Heavy legs 1 (3%) (1.0) 0 1 (16%) (1.0) 0 1 (8%) (1.0) Impaired gait/balance 12 (32%) (1.0) 3 (23%) (1.0) 4 (66%) (1.0) 3 (7%) (1.4) 0 Irritability 0 0 0 9 (21%) (1.3) 1 (8%) (1.0) Increased private worries 2 (5%) (1.5) 0 0 9 (21%) (1.4) 3 (23%) (1.1)
+
+Insomnia 16 (43%) (2.1) 4 (31%) (1.8) 3 (50%) (2.3) 20 (47%) (1.9) 6 (46%) (1.6) Jaw clenching 14 (38%) (1.4) 1 (8%) (1.0) 4 (66%) (2.3) 7 (16%) (1.2) 0 Lack of appetite 15 (41%) (1.9) 4 (31%) (2.0) 2 (33%) (2.0) 7 (16%) (1.5) 5 (38%) (1.5) Low mood 4 (11%) (1.3) 1 (8%) (2.0) 0 20 (47%) (1.4) 6 (46%) (1.4) Nausea 6 (16%) (1.8) 2 (15%) (1.0) 2 (33%) (1.0) 5 (12%) (1.0) 2 (15%) (1.2) Need for more sleep 1 (3%) (2.0) 0 0 6 (14%) (1.1) 3 (23%) (1.2) Nystagmus 3 (8%) (1.0) 0 1 (16%) (1.0) 1 (2%) (1.0) 0 Paresthesia 2 (5%) (1.0) 0 1 (16%) (1.0) 0 0 Perspiration 6 (16%) (1.5) 0 2 (33%) (1.0) 1 (2%) (1.0) 0 Restlessness 15 (41%) (1.2) 2 (33%) (1.5) 6 (14%) (1.4) 0 Feeling cold 11 (30%) (1.1) 1 (8%) (1.0) 0 6 (14%) (1.2) 1 (8%) (1.0) Thirst 13 (35%) (1.3) 0 2 (33%) (1.5) 1 (2%) (1.2) 0 Weakness 3 (8%) (1.8) 0 1 (16%) (1.0) 5 (12%) (1.1) 0
+
+n: Number of spontaneous reports;(%); n in percentage of sessions; Severity: 1 = mild, 2 = moderate, 3 = severe; MDMA: ±3,4-Methylenedioxymethamphetamine
+
+fulfilling PTSD criteria, but with a reduction in severity from severe to mild (CAPS score 20–39) (n = 3) or moderate (CAPS score 40–59) (n = 1) PTSD. Three full-dosage subjects met criteria for being non-responders and they were enrolled in “Stage 3,” receiving either a full or higher dose of MDMA (two full-dose sessions, two high-dose sessions and two high-dose sessions followed by a lower supplemental dose). The dosages were chosen on the basis of clinical judgment. The additional sessions did not lead to any further improvements in CAPS scores (mean CAPS score change of 0.3 points). As a result, no further subjects were enrolled in “Stage 3.” In the “active placebo” group all four subjects failed to respond to the treatment, with two subjects showing higher CAPS scores and a slight clinical deterioration. In the “Stage 2” crossover group, all four subjects responded to the treatment: two of four subjects no longer fulfilled PTSD criteria and two had improved, but still had moderate PTSD. At the one-year follow-up, CAPS scores had decreased by a mean of 24 points (35%) compared to baseline in the full-dose group, while there was a 35-point
+
+decrease (52%) in the crossover group, with nine subjects showing a significant clinical improvement. During this time, the majority of subjects continued with their previous or another psychotherapy or medication. Also at LTFU, five of 12 subjects no longer met the diagnostic criteria for PTSD, two had switched to having mild PTSD, and four had moderate PTSD, while one had died of a cause not related to the study. One of four subjects on disability and three who were fit for limited employment at baseline had been able to return to work full-time by the 1-year follow-up.
+
+Blinding
+
+The investigator’s guesses on the 14 subjects’ condition assignments were correct in eight of the full-dose subjects (including one drop-out) and uncertain in one full-dose subject. They were also correct in two of the active placebo subjects, whereas their guesses were incorrect in one and they were uncertain in two of the active placebo cases (including one drop-out). A total of 13
+
+10 Journal of Psychopharmacology 0(0)
+
+state. This state of partial activation (spontaneous recall of trauma, but without maximum fear reduction) resembles clinical observations of the early stages of the MDMA experience in many of the full-dose subjects. Consequently, the resulting (more stressful) form of exposure to the traumatic memories did indeed require more support from the therapists during and between MDMA-sessions, plus it was more trying for the subjects, which led to the dropping-out of one subject, who had felt overly stressed by the process. The other two “active placebo” subjects showed no or only slightly pleasant changes in perception (i.e. such as being touched by music) and relaxation (i.e. feeling light), which wore off after about 1 hour. Interestingly, we did not find a placebo response, as was observed in other psychopharmacological studies of PTSD (Davidson, 2001; Marshall, 2001; Tucker, 2001; Mithoefer, 2011). This, along with the observed partial activation of the MDMA state in three of five subjects in the “active placebo” group, indicated that psychotherapy with even a low dose of MDMA may be able to influence the course of PTSD and it may possibly interfere with the placebo effect in some subjects. We postulated that the unfolding of the different aspects of the typical MDMA state in a psychotherapeutic setting (see Table 1) is a function of dose and time. Additional medication for sleep disorders was needed on only one occasion, which is surprising, given the fact that many of the subjects experienced chronic insomnia due to their PTSD and had taken sleep medications in the past, noting that insomnia is a common side effect of MDMA. This result contrasted distinctly to the results of the Mithoefer (2011) study, which used an inactive placebo. We interpret this finding as an indication of the enhanced tolerance of distress and aderse emotional states, including insomnia, under the influence of and following MDMA therapy and so we concluded that sleep medication should be given only upon request. Despite this effect on the tolerance of insomnia, the prolonged and intensive exposure to traumatic material inherent in this treatment method can temporarily cause distress and anxiety within the integration phase. This increase in distress may require additional medication with benzodiazepines and/or additional psychotherapy sessions. In our study, benzodiazepines were used as little as possible, in order to avoid suppressing the ongoing integration process. It is noteworthy that most of the subjects requiring benzodiazepines after the MDMA intervention had been treated with antidepressants with anxiolytic effects and/or benzodiazepines at enrollment, and that only one subject who had been free of any anxiolytic or antidepressant medications at enrollment, received a benzodiazepine during the study. We postulated that the need for benzodiazepines is more likely to be related to a predisposition for anxiety, rather than to direct MDMA effects, therefore it was not considered a safety concern. It is difficult to interpret the discrepancy between the results of this study and that of Mithoefer and colleagues, in terms of the primary outcome (mean CAPS change score 53.7 under MDMA vs. 20.5 points under placebo (p = 0.015), clinical response (> 30% CAPS score reduction) 83% vs. 25%), given that they followed a similar design that employed the same main outcome measure, with only two MDMA sessions and noting the existence of a distinct placebo effect. We presume that other factors could have influenced outcomes, such as: cultural differences, independent rater differences, therapist differences, or the possibility
+
+subjects provided guesses concerning their condition assignment: The full-dose subjects’ guesses were correct in four, uncertain in two and incorrect in two cases, with uncertainty defined as changing their condition assignment guesses over time. Subjects in the “active placebo” group guessed correctly in two, were uncertain in one case (drop-out) and incorrect in two cases. Combining all the guesses for subjects and clinical investigators, and ignoring their level of certainty, shows that there were a total of 37 guesses, with 22 (59%) correct and 15 (41%) incorrect. For the 24 guesses regarding full-dose sessions, 16 (66%) were correct and 8 (34%) were incorrect; while for the 13 guesses of low-dose sessions, six (46%) were correct and seven (54%) were incorrect. Because there were only two doses in the study, producing a 50% chance of a correct guess by chance alone, the authors conclude that the study blinding was successfully maintained, based on these results.
+
+Discussion
+
+This small randomized, blinded pilot study of MDMA-assisted psychotherapy in a population of subjects with chronic, treatment-refractory PTSD as encountered in daily psychiatric practice demonstrates that this novel treatment method can be safely applied in an outpatient setting (including an overnight stay for safety reasons, after each MDMA session) with no drug-related serious adverse events occurring. Cardiovascular effects and body temperature increases were similar to those reported in the literature and did not require medical intervention. The spontaneously-reported reactions occurred within the expected range seen in the literature, and these were generally mild and welltolerated. A comparison of the safety profiles between 25 mg and 125 mg doses did support that the 125 mg dose was associated with more reactions, in general. Efficacy failed to reach statistical significance (p = 0.066) as measured by the primary outcome measure, the CAPS; whereas self-assessment of the subjects’ PTSD symptoms, as measured by the self-reporting questionnaire PDS showed a significant reduction (p = 0.014). We also found that three experimental MDMA sessions were significantly more effective than only two (p= 0.016). Further improvement over the one-year follow-up time was unexpected (a CAPS score reduction of 35% in the “Stage 1” full-dose subjects and 52% in the “Stage 2” crossover full-dose subjects, with nine out of 11 subjects showing a clinical response). Because all participants at the 12-month follow-up had received full-dose MDMA in either “Stage 1” or “Stage 2,” comparisons by condition were not possible at the 12-month follow-up. Four subjects had either changed or begun a new therapy during the follow-up period, two received a SSRI for relapse of depression and one had participated in “Stage 3.” It is therefore unclear to which degree these findings at the 12-month follow-up can be attributed to the experimental treatment. An unforeseen clinical observation in the “active placebo” group showed that there were two distinct types of reactions to the low-dose MDMA: while three of the subjects (including one drop-out) experienced similar but milder psychotherapeutic processes to those receiving the full dose, including spontaneous recall and the reliving of traumatic memories along with intensified negative emotions, but without the typical positive and integrative effects of the full-dose MDMA-state, suggesting that there was a partial activation of the MDMA-induced
+
+Oehen et al. 11
+
+raters who viewed the sessions’ videos from this study, as well as the study by Mithoefer et al. (2011), noticed a few areas where our therapy differed somewhat from the manual, in that our approach was considered more directive in some places. Whether this had any impact on the outcomes will require additional research.
+
+of the sample including more cases with a higher degree of overall severity of the illness, which was not captured by the screening and diagnostic measures employed (i.e. personality structure, attachment style, etc.);however, with the small sample size the difference could also have been due to chance.
+
+Limitations
+
+Conclusions
+
+This exploratory study intended to investigate the safety of the method and to serve as a proof of concept, but it was underpowered which is acceptable for such Phase II studies. Further goals of this study were: to test for efficacy and to further develop an optimal research protocol for phase III studies, addressing two basic challenges in the investigation of this novel method. The first challenge is that this method is a combination of a psychotherapeutic intervention and a catalyzing psychopharmacological treatment. To date there are no recognized and standardized methods for the investigation of this type of combined therapy. Only one rigorously-controlled trial had been reported previously (Mithoefer et al., 2011). MDMA is not just an augmenting, “add-on” medication, but rather a catalyst that dramatically influences the psychotherapeutic process itself. This makes it virtually impossible to distinguish the purely drug-induced effects from the psychotherapeutic effects. The second challenge is that current research standards require the use of double-blind RCTs for the assessment of the psychopharmacological part of the method, with the difficulty of ensuring an effective doubleblind. Phase 1 studies investigating MDMA or other psychoactive compounds such as psilocybin have used substances such as methylphenidate, d-amphetamine or nicotinic acid as substances that might mimic some of the effects of this study drug; therefore, may be effective as active placebos. Our findings suggest that subjects were successfully blinded to their study condition by using low-dose MDMA as an active placebo, and that the blinding occurred under both conditions. The clinical investigators were less blinded to the subject’s condition assignment than subjects themselves were, but the blinding was still sufficiently effective in clinical investigators, showing that provision of a small dose of MDMA used as an “active placebo” improved the blinding, as compared to the study by Mithoefer et al. (2011). Prototypical MDMA effects are expected only at doses over 80 mg (Bedi et al., 2009). Three of five active placebo subjects seemed to show partial MDMA effects at much lower doses, which enhanced the blindedness of the study; however, the low dose turned out to be less well tolerated psychologically, requiring more therapist interaction than the fully-active dose. A study addressing this question is currently underway (NCT01211405). A further weakness was the lack of power for the statistical analysis, for differences of gender and country of origin: most subjects were females and Europeans. It is difficult to generalize from relatively homogenous and small samples. The differences in the duration of previous therapy between “active placebo” control and the full-dose group were not significant (p = 0.083). In light of the two drop-outs coming from other cultures (Turkey and South Africa), these possible covariates deserve attention in future studies. The imbalance between the number of “active placebo” and fulldose subjects was also a limitation. Adherence to the manual and inter-rater reliability were tested only post-hoc (data not presented here). The adherence
+
+From a clinical point of view, we recommend that future studies include three instead of only two preparatory sessions, to strengthen the therapeutic relationship before administration of MDMA. The observed 100% response rate of the crossover subjects in “Stage 2,” as compared to the 50% response rate of the subjects receiving full dose MDMA in “Stage 1,” suggested that a strengthening of the therapeutic alliance did contribute to an enhancement of our treatment outcomes. Future studies should also find a way to minimize additional psychotherapy sessions, as these could be a potentially confounding factor. In summary, MDMA-assisted psychotherapy was safely administered, with no drug-related serious adverse events, in a small sample of treatment-resistant patients who were suffering from chronic PTSD; however, the approach did not produce significant symptom reductions. Further research into MDMAassisted psychotherapy is warranted, to verify the results of the Mithoefer (2011) study.
+
+Acknowledgements
+
+We wish to thank R Brenneisen of the University of Bern for the handling and randomization of the MDMA used; R Keller and B Krebs for physical examinations of the subjects and medical advice; C Kopp, University of Bern, for the statistical analysis; and R Doblin, M Mithoefer, Berra Yazar-Klosinski and I Jerome for helpful comments on previous versions of the manuscript.
+
+Funding
+
+This work was supported by the Multidisciplinary Association for Psychedelic Studies (MAPS) and by the Swiss Medical Association for Psycholytic Therapy (SAePT).
+
+Conflict of interest
+
+P Oehen and V Widmer received payment from the sponsors for conducting the study. and R Traber received payment as an independent rater. P Oehen is on the board of directors of the Swiss Medical Association for Psycholytic Therapy, which is a co-sponsor of the study. MAPS influenced the study design and provided study monitoring. The investigators performed all data collection. The corresponding author had full access to the data and takes responsibility for the integrity of the data and the accuracy of the data analysis. He wrote the first draft of the manuscript.
+
+Trial registration
+
+Clinicaltrials.gov Identifier: NCT00353938
+
+Previous presentations
+
+Interim findings were presented at “The Psychedelic Science in the 21st Century” conference, 15–18 April 2010, San Jose, US; the “20th IFP World Congress of Psychotherapy” conference, 16–19 June 2010 in Lucerne, Switzerland; the “Mind Altering Science” conference, 23–24 October 2010, Amsterdam, The Netherlands and the “Breaking Convention” conference, 1–3 April 2011, Canterbury, UK.
+
+12 Journal of Psychopharmacology 0(0)
+
+References
+
+Harris DS, Baggott M, Mendelson J, et al. (2002) Subjective and hormonal effects of 3,4-methylenedioxymethamphetamine (MDMA) in humans. Psychopharmacol 162: 396–405. Hepp U, Gamma A, Milos G, et al. (2006) Prevalence of exposure to potentially traumatic events and PTSD in Switzerland. Eur Arch Psychiatry Clin Neurosci. 256: 151–158. Hoge CW, Castro CA, Messer SC, et al. (2004) Combat duty in Iraq and Afghanistan, mental health problems, and barriers to care. N Engl J Med 351: 13–22. Hysek CM, Simmler LD, Ineichen M, et al. (2011) The norepinephrine transporter inhibitor reboxetine reduces stimulant effects of MDMA (“Ecstasy”) in humans. Clin Pharmacol Therapeut 90: 246–255. Jacobsen LK, Southwick SM and Kosten TR (2001) Substance abuse disorder in patients with posttraumatic stress disorder: A review of the literature. Am J Psychiatry 158: 1184–1190. Johansen PØ and Krebs TS (2009) How could MDMA (ecstasy) help anxiety disorders? A neurobiological rationale. J Psychopharmacol. 23: 389–391. Kessler RC, Sonnega A, Bromet EJ, et al. (1995) Posttraumatic stress disorder in the National Comorbidity Survey. Arch Gen Psychiatry 52: 1048–1060. Landolt MA, Schnyder U, Maier T, et al. (2012) Trauma Exposure and Posttraumatic Stress Disorder: A national survey in Switzerland. Under review. Liechti ME, Gamma A and Vollenweider FX (2001) Gender differences in the subjective effects of MDMA. Psychopharmacol 154: 161–168. Marshall RD, Beebe KL, Oldham M, et al. (2001) Efficacy and safety of paroxetine treatment for chronic PTSD: A fixed-dose, placebocontrolled study. Am J Psychiatry 158: 1982–1988. McFarlane AC (2010) The long-term costs of traumatic stress: Intertwinded physical and psychological consequences. World Psychiatry 9: 3–10. Metzner R and Adamson S (2001) Using MDMA in healing, psycho- therapy and spiritual practice. In: Holland J (ed.), Ecstasy: The complete guide. Rochester, VT: Inner Traditions, pp. 182–207. Mithoefer MC, Wagner MT, Mithoefer AT, et al. (2011) The safety and efficacy of {+/-}3,4-methylenedioxymethamphetamine-assisted psychotherapy in subjects with chronic, treatment-resistant posttraumatic stress disorder: The first randomized controlled pilot study. J Psychopharmacol 25: 439–452. Mithoefer MC (2011) MDMA-Assisted Psychotherapy for the Treatment of Posttraumatic Stress Disorder: A Revised Teaching Manual Available at: http://www.maps.org/research/mdma/Manual_ MDMAPTSD_30Nov11.pdf (accessed 26 April 2012) Mithoefer MC, Wagner MT, Mithoefer AT, et al. (2012) Durability of improvement in PTSD symptoms and absence of harmful effects or drug dependency after MDMA-assisted psychotherapy: A prospective long-term follow-up study. J Psychopharmacol in press. Ogden P, Pain C, Fisher J (2006) A sensorimotor approach to the treatment of trauma and dissociation. Psychiatr Clin North Am 29: 263–279. Panagioti M, Gooding PA and Tarrier N (2012) A meta-analysis of the association between posttraumatic stress disorder and suicidality: The role of comorbid depression. Compr Psychiatry 53: 915–930. Passie T and Dürst T (2009) Heilungsprozesse in Veränderten Bewusstsein. Berlin: Verlag für Wissenschaft und Bildung. Perkonigg A, Kessler RC, Strorz S, et al. (2000) Traumatic events and post-traumatic stress disorder in the community: Prevalence, risk factors and comorbidity. Acta Psychiatr Scand 101: 56–59. Rauch SL, Shin LM and Phelps EA (2006) Neurocircuitry models of posttraumatic stress disorder and extinction: Human neuroimaging research – past, present, and future. Biol Psychiatry 60: 376–382. Schnyder U (2005) Why new psychotherapies for postraumatic stress disorder? Psychother Psychosom 74: 199–201. Schnyder U and Moergeli H (2002) German version of clinician-administered PTSD scale. J Trauma Stress 15: 487–492.
+
+Bedi G, Luan Phan K, Angstadt M, et al. (2009) Effects of MDMA on sociability and neural response to social threat and social reward. Psychopharmacol 207: 73–83. Benedek DM, Friedmann MJ, Zatzick D, et al. (2009) Guideline Watch (March 2009): Practice guideline for the treatment of patients with acute stress disorder and posttraumatic stress disorder. Focus 7: 204–213. Benzenhoefer UP and Passie T (2006) The early history of ecstasy. Nervenarzt 77: 95–96. Berkowitz RL, Coplan JD, Reddy DP, et al. (2007) The human dimension: How the prefrontal cortex modulates the subcortical fear response. Rev Neurosci 18: 191–207. Bonny HL and Savary LM (1990) Music and Your Mind. Tarrytown, NY: Station Hill. Bouso JC, Doblin R, Farré M, et al. (2008) J Psychoactive Drugs 40: 225–236. Brady K, Pearlstein T, Asnis GM, et al. (2000) Efficacy and safety of sertraline treatment of posttraumatic stress disorder: A randomized controlled trial. J Am Med Ass 283: 1837–1844. Breslau N, Davis GC, Andreski P, et al. (1991) Traumatic events and posttraumatic stress disorder in an urban population of young adults. Arch Gen Psychiatry 48: 216–222. Brunner E, Domhof S and Langer F (2002) Nonparametric Analysis of Longitudinal Data in Factorial Experiments. New York: Wiley and Sons. Brunner E and Langer F (1999) Nichtparametrische Analyse Longitudinaler Daten (Non-Parametric Analysis of Longitudinal Data). Munich: R Oldenbourg Verlag. Charuvastra A and Cloitre M (2008) Social bonds and posttraumatic stress disorder. Ann Rev Psychol 59: 301–328. Cloitre M (2009) Effective psychotherapies for posttraumatic stress disorder: A review and critique. CNS Spectr 14: 32–43. Davidson JR, Rothbaum BO, Van der Kolk BA, et al. (2001) Multicenter, double-blind comparison of sertraline and placebo in the treatment of posttraumatic stress disorder. Arch Gen Psychiatry 58: 485–492. Dumont GJ, Sweep FC, Van der Steen R, et al. (2009) Increased oxytocin concentrations and prosocial feelings in humans after ecstasy (3,4-methylenedioxymethamphetamine) administration. Soc Neurosci 4: 359–366. Ehlers A, Steil R, Winter H, et al. (1996). Deutsche Uebersetzung der Posttraumatischen Stress Diagnostic Scale (PDS). Oxford: Department of Psychiatry, Warnford Hospital, Oxford University. Farre M, Abanades S, Roset PN, et al. (2007) Pharmacological interaction between 3,4-methylenedioxymethamphetamine (ecstasy) and paroxetine: Pharmacological effects and pharmacokinetics. J Pharmacol Exp Ther 323: 954–962. Foa EB, Riggs DS, Dancu CV, et al. (1993). Reliability and validity of a brief instrument for assessing post-traumatic stress disorder. J Traum Stress 6: 459–473. Foa EB, Cashman L, Jaycox L, et al. (1997) The validation of a self-report measure of posttraumatic stress disorder: The Posttraumatic Diagnostic Scale. Psychol Ass 9: 445–451. Foa EB, Keane TM, Friedman MJ, et al. (2009) Effective Treatments for PTSD, Practice Guidelines From the International Society for Traumatic Stress Studies. New York: Guilford Press. Frewen PA and Lanius RA (2006) Toward a psychobiology of posttraumatic self-dysregulation. Ann NY Acad Sci 1071: 110–124. Greer GR and Tolbert R (1998) A method of conducting therapeutic sessions with MDMA. J Psychoactive Drugs 30: 371–379. Grob CS, Poland RE, Chang L, et al. (1996) Psychobiologic effects of 3,4-methylenedioxymethamphetamine in humans: Methodological considerations and preliminary observations. Behav Brain Res 73: 103–107.
+
+Oehen et al. 13
+
+Schnurr PP (2007) The rocks and hard places in psychotherapy outcome research. J Trauma Stress 20: 779–792. Spitzer M (2002) Musik im Kopf. Stuttgart: Schattauer Verlag. Stein DJ, Ipser J and McAnda N (2009) Pharmacotherapy of posttraumatic stress disorder: A review of meta-analyses and treatment guidelines. CNS Spectr 14: 25–31. Tucker P, Zaninelli R, Yehuda R, et al. (2001) Paroxetine in the treatment of chronic posttraumatic stress disorder: Results of a placebo-controlled, flexible-dosage trial. Clin Psychiatry 62: 860–868. Van Etten ML and Taylor S (1998) Comparative efficacy of treatments for posttraumatic stress disorder: A meta-analysis. Clin Psychol Psychother 5: 126–144.
+
+Vollenweider FX, Gamma A, Liechti M, et al. (1998) Psychological and cardiovascular effects and short-term sequelae of MDMA (“ecstasy”) in MDMA-naive healthy volunteers. Neuropsychopharmacol 19: 241–251. Weathers FW, Keane TM and Davidson MD (2001) Clinician-administered PTSD scale: A review of the first ten years of research. Depress Anxiety 13: 132–156. Widmer S (1998) Listening into the Heart of Things: The Awakening of Love: On MDMA and LSD: The Undesired Psychotherapy. Gerolfingen, Switzerland: Basic Editions. Wolff K, Tsapakis EM, Winstock AR, et al. (2006) Vasopressin and oxytocin secretion in response to the consumption of ecstasy in a clubbing population. J Psychopharmacol 20: 400–410.

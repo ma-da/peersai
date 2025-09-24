@@ -1,0 +1,8643 @@
+no_title
+
+2023
+
+T R E N D S S H A P I N G T H E Health Economy
+
+VALUE FOR MONEY
+
+Optional Text
+
+Optional Text
+
+APPLYING THE LAWS OF ECONOMICS TO SECULAR TRENDS IN THE HEALTH ECONOMY
+
+The $4.3T health economy creates more data than any other part of the U.S. economy. New findings emerge daily, from MedPAC’s payment rate recommendations, Kaiser Family Foundation’s surveys and Rock Health’s digital health funding numbers, to name a few. The challenge for health economy stakeholders is to synthesize seemingly unrelated — and sometimes misconstrued — data to understand their strategic and tactical implications.
+
+Supporting each highlighted trend are a handful of data stories grounded in facts about the past, along with projections about the future based upon sophisticated machine learning models applied to nationally representative data, with minimal reliance on surveys. While you may already be familiar with some of the data stories, the Health Economy Trends Reports are designed to synthesize these seemingly different data to provide greater context for every stakeholder. While each trend will resonate differently based on your vantage point, the Health Economy Trends Reports offer something for everyone who seeks to play a role in developing and implementing solutions that the U.S. healthcare system so desperately needs.
+
+As a health economist, I study healthcare through the lens of demand, supply and yield. Even though markets for healthcare products and services deviate from what economists would call the ideal market, the core principles offer a valuable framework for examining secular trends in the health economy.
+
+I hope this Health Economy Trends Report will cause you to reflect on the future of the U.S. health economy and think critically about what each trend means for your organization. While this Health Economy Trends Report is not intended to provide all the answers, you should use it as a tool to ask the right questions. What trends have you not considered, and how will they impact the markets that your business serves? How well prepared are you relative to your current (and future) competitors? How can understanding these trends improve your organization’s capital allocation decisions? How will you deliver value for money to the individuals you serve?
+
+As a long-time admirer of Mary Meeker’s annual Internet Trends Report, I have always thought our industry lacked an analogous, data-driven view of emerging healthcare trends. This longstanding idea became reality with the debut of the first annual Trends Shaping the Health Economy Report (“Health Economy Trends Report”) in 2021. Previous editions of the Health Economy Trends Reports concluded that:
+
+(1) healthcare is a negative-sum game;
+
+(2) every part of the health economy — from payers and providers to life sciences and new entrants — will be impacted by reduced yield.
+
+The 2023 Health Economy Trends Report offers insight into ten data-driven secular trends that are either intensifying or emerging, revealing the importance of delivering value for money.
+
+Sanjula Jain, Ph.D. Chief Research Officer Trilliant Health
+
+Table of Contents
+
+I N T R O D U C T I O N 4
+
+K E Y T R E N D S S H A P I N G T H E H E A L T H E C O N O M Y 7
+
+T R E N D 1 : E R O D I N G M A R K E T 8
+
+T R E N D 2 : U N R A V E L I N G H E A L T H 18
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S 34
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y 44
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S 64
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N 73
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y 89
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S 98
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S 108
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E 122
+
+C O N C L U S I O N 137
+
+M E T H O D O L O G Y 141
+
+The Status Quo is Unsustainable
+
+Psychiatrist
+
+Acute Injury
+
+Annual Primary
+
+Knee Replacement
+
+Orthopedic Consultation
+
+Associated Lab
+
+VISIT TYPE
+
+Visit – Rx Management
+
+Requiring
+
+57-year-old man
+
+Care Visit
+
+Tests
+
+Stitches
+
+LOCATION
+
+•Hypertension •History of depression •Knee Replacement
+
+Inpatient Surgery
+
+Private Practice
+
+Hospital ED
+
+Large Health System
+
+Large Health System
+
+Large Health System
+
+QUALITY
+
+$$$$
+
+$$$$
+
+$$$
+
+$$$
+
+PRICE
+
+$$$
+
+$$$$$
+
+Psychiatrist
+
+Acute Injury
+
+Knee Replacement
+
+Annual Primary
+
+Orthopedic Consultation
+
+Associated Lab
+
+VISIT TYPE
+
+Visit – Rx Management
+
+Requiring
+
+61-year-old man
+
+Care Visit
+
+Tests
+
+Stitches
+
+LOCATION
+
+Outpatient Surgery
+
+Telehealth
+
+Retail Urgent Care
+
+Large Health System
+
+Small Private Practice
+
+Outpatient Laboratory
+
+•Hypertension •History of depression •Knee Replacement
+
+QUALITY
+
+$
+
+$$
+
+$$
+
+$$$
+
+$$
+
+$$
+
+PRICE
+
+The $4.3T U.S. health economy is the largest sector of the world's largest economy, and it is approaching 20% of the gross domestic product. Meanwhile, an increasing number of Fortune 100 companies with little experience in healthcare services, such as consumer electronics giant Best Buy, are beginning to offer at-home care services to capitalize on the opportunities in the lucrative health economy.
+
+The healthcare consumer has more care options today than ever before, many of which are also lower cost, yet the healthcare cost curve has been “up and to the right” since WWII. Moreover, two commercially insured patients in the same market with the same healthcare care delivery journey for the same clinical needs often pay vastly different amounts for the same basket of services. In the words of economist Herb Stein, “if something cannot go on forever, it will stop.”
+
+Note: ED denotes emergency department.
+
+4
+
+Value Competition in the New Health Economy
+
+The U.S. health economy continues to defy the laws of economics — demand, supply and yield. Our thesis is that any health economy stakeholder whose business depends on commercially insured patients can no longer afford to overlook these foundational economic principles. Why? Because the healthcare system is what game theorists call a “negative-sum game,” whereby the costs invested into the system largely outpace the actual value or benefits received by patients or consumers.
+
+Operating in a negative-sum game means that every stakeholder will still lose in comparison to what they currently have or really need. In a health economy defined by reduced yield, the only way to “lose less” is to compete on value.
+
+In this third installment of our annual Trends Shaping the Health Economy series, we hope to persuade stakeholders that despite significant investments and initiatives to “transform” the healthcare system, little has changed to date — even with newcomers like Amazon, Walmart and Best Buy. The status quo is unsustainable for the health of Americans, and it is time for all health economy stakeholders to start playing by the immutable rules of a negative-sum game.
+
+5
+
+Trends Representative of ~300M Lives and 2.7M Providers
+
+This report is a fact-based, data-driven national analysis of the trends that will define the landscape, and subsequent challenges, for all players in the health economy. While most research in healthcare, whether it be in industry publications or academic literature, is focused on a very specific question or a single topic such as digital health investments or prescribing patterns, the Health Economy Trends Report is the only study of its breadth and depth, to our knowledge.
+
+The Health Economy Trends Report is the first study to provide longitudinal and timely insights representative of the healthcare utilization patterns of ~300M American lives and 2.7M practicing healthcare providers. Note that while this open-access report features data trends primarily through 2022, more recent data through 2023 and ongoing tracking is available to Trilliant Health premium research subscribers.
+
+The original research findings featured in this annual series are gleaned from proprietary Trilliant Health datasets and analytic models that measure various dimensions of demand, supply and yield across the health economy. To study healthcare demand we leveraged our national all-payer medical and pharmacy claims database and Demand Forecast. The Trilliant Health Provider Directory was used to study the supply of 2.7M healthcare physicians and allied health providers across the country. The intersection of supply and demand informs expected yield. To measure yield we leveraged our Health Plan Price Transparency dataset, which provides negotiated rate data for services by market across large national and regional health plans. In addition to the primary data analyses conducted using Trilliant Health assets and other publicly available information (e.g., financial statements), we also leveraged select secondary sources (e.g., American Hospital Association, Centers for Disease Control and Prevention).
+
+H E A L T H E C O N O M Y T R E N D S R E P O R T A N A L Y T I C F R A M E W O R K
+
+YIELD refers to the intersection of demand and supply (i.e., price) and is also influenced by market factors such
+
+DEMAND refers to both the exogenous and endogenous factors
+
+SUPPLY refers to the various providers of health services ranging from hospitals and physician practices to retail pharmacies, new entrants (e.g.,
+
+that influence consumer preferences, need for and utilization
+
+as policy regulations and reimbursement incentives.
+
+of healthcare services.
+
+Amazon) and virtual care platforms.
+
+PRIMARY DATA SOURCE
+
+PRIMARY DATA SOURCE
+
+PRIMARY DATA SOURCE
+
+National All-Payer Medical & Pharmacy Claims
+
+Health Plan Price Transparency dataset
+
+Provider Directory
+
+Demand Forecast
+
+6
+
+2023 Trends Shaping the Health Economy
+
+1 The Commercially Insured Market Continues To Erode 2 The Physical and Mental Health of Americans Is Unraveling 3 Drug and Diagnostic Investments Signal Emerging Patient Needs 4 The Tepid Demand Trajectory for Healthcare Services Persists 5 Consumer Behaviors Are Starting To Manifest in Patient Decision Making 6 The Traditional Care Pathway Is Becoming Disintermediated 7 New Models of Care Are Further Constraining Provider Supply 8 The Monopolistic Effects of Provider M&A Are Overstated 9 Employers Are Paying More for Less 10 The Market Rate Has Been Revealed, and It Is Lower Than You Think
+
+The Winners in Healthcare’s Negative-Sum Game Will Be Those Who Deliver Value for Money
+
+TREND 1
+
+The Commercially Insured Market
+
+Continues To Erode
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Per Census Bureau, Most Americans Have Commercial Insurance
+
+Following the implementation of the Affordable Care Act and the flexibilities enacted during the COVID-19 pandemic, the uninsured rate trended down to 7.7% as of early 2023.
+
+U.S. HEALTH INSURANCE COVERAGE, 2022
+
+U.S. UNINSURED RATE, 2000-2023
+
+18%
+
+Any Public Plan 36.1%
+
+Medicaid, 18.8%
+
+16%
+
+41.3M
+
+Veterans Affairs, 1.0%
+
+14%
+
+Medicare, 18.7%
+
+12%
+
+Uninsured Rate (%)
+
+10%
+
+8%
+
+Any Private Plan 65.6%
+
+Employer-sponsored, 54.5%
+
+25.3M
+
+6%
+
+Marketplace, 3.6%
+
+4%
+
+Direct-purchase, 9.9%
+
+TRICARE, 2.4%
+
+2%
+
+Uninsured, 7.9%
+
+0%
+
+2016
+
+2010
+
+2012
+
+2014
+
+2018
+
+2022
+
+2020
+
+2006
+
+2000
+
+2002
+
+2004
+
+2008
+
+Note: Percentages do not sum to 100% due to dual enrollment and other supplemental plans. 2023 uninsured rate is limited to Q1 2023. Source: Assistant Secretary for Planning and Evaluation Data Point, National Uninsured Rate Reaches an All-Time Low in Early 2023 After the Close of the ACA Open Enrollment Period; U.S. Census Bureau, Current Population Survey, 2022 Annual Social and Economic Supplements (CPS ASEC).
+
+9
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+…But the Number of Commercially Insured Americans Continues To Steadily Decline
+
+Commercially insured Americans account for the majority of profitable revenue across the health economy. However, the share of commercially insured Americans — including employer-sponsored, Marketplace, direct-purchase and TRICARE — dropped 0.3 percentage points from 2021 to 2022.
+
+YEAR-OVER-YEAR PERCENTAGE POINT CHANGE IN PROPORTION OF INSURANCE BY TYPE, 2018-2022
+
+2018-2019 2019-2020 2020-2021 2021-2022
+
++0.6 +0.9
+
+Employer-sponsored 1
+
++1.3
+
++0.3
+
++0.5
+
+Medicare 2
+
++0.5
+
++0.1
+
++0.3
+
+Veterans Affairs 3
+
+0
+
++0.3
+
++0.1
+
++0.1
+
+Share of commercially
+
+TRICARE 4
+
++0.3
+
+0
+
++0.1
+
++0.1
+
+insured Americans dropped 0.3
+
+Marketplace 5
+
+percentage points between 2021 and 2022
+
+-0.3
+
++0.2
+
+-0.2
+
+-0.1
+
+Uninsured 6
+
+-0.4
+
++0.2
+
+-0.2
+
+-0.2
+
+Direct-purchase 7
+
+-0.3
+
+-0.3
+
+-0.5
+
+-0.1
+
+Medicaid 8
+
+-2.0
+
+-0.7
+
+-0.4
+
+-0.4
+
+Note: Bold lettering indicates commercial insurance sources. Source: U.S. Census Bureau, Current Population Survey, 2018, 2019, 2020, 2021 and 2022 Annual Social and Economic Supplements (CPS ASEC).
+
+10
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Medicaid Redeterminations Will Result in Coverage Churn
+
+With millions of Americans losing Medicaid coverage during the 2023 redetermination process due to employment status and/or procedural disenrollment (e.g., missing forms, address changes), CMS halted redeterminations in several states. The magnitude of disenrolled Medicaid lives ranges from 318 (Wyoming) to 616.6K (Texas). The extent to which the disenrolled become uninsured or gain marketplace or employer-sponsored coverage will affect the payer mix of almost every healthcare provider and access to healthcare services for millions of Americans.
+
+STATE-REPORTED MEDICAID DISENROLLMENT AS A SHARE OF TOTAL REDETERMINATIONS, 2023
+
+NUMBER OF MEDICAID LIVES
+
+States With Highest
+
+Disenrollment
+
+44.2
+
+47.2
+
+Texas 616.6K
+
+Florida 408.4K
+
+22.8 26.0
+
+New York 338.0K
+
+28.8
+
+16.4
+
+California 302.4K
+
+26.5
+
+Arkansas 301.4K
+
+21.7
+
+States With Lowest
+
+Disenrollment
+
+39.4
+
+Wyoming 318
+
+56.1
+
+71.8
+
+71.8
+
+Maine 5.7K
+
+Rate of Disenrollment
+
+Rhode Island 8.0K
+
+31.3
+
+Vermont 11.8K
+
+9.3
+
+9.3
+
+Hawaii 12.7K
+
+Note: CMS denotes Centers for Medicare and Medicaid Services; rates are calculated as procedural disenrollments divided by total redeterminations. Data for the states shaded in grey are not available. Source: Kaiser Family Foundation; Centers for Medicare and Medicaid Services.
+
+11
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Number of U.S. Births Does Not Offset Those Aging Into Medicare
+
+The U.S. birth rate has been declining for over a decade (-15.1% from 2007 to 2022), falling to a two-decade low amid the COVID-19 “baby bust”. The birth rate rebounded slightly in 2021 but fell again in 2022, signaling a return to previously observed trends where the number of births is not offsetting those aging into Medicare.
+
+PROJECTED U.S. POPULATION CHANGE,
+
+ANNUAL NUMBER OF U.S. BIRTHS,
+
+BY AGE SEGMENT, 2023-2028
+
+2007-2022
+
+14%
+
+5
+
+12.9%
+
+4.5
+
+12%
+
+Projected Population Change (%)
+
+4
+
+10%
+
+Number of Births (in Millions)
+
+3.5
+
+8%
+
+3
+
+3.6M Births
+
+2.5
+
+6%
+
+-0.08% Change
+
+2021-2022
+
+2
+
+4%
+
+1.5
+
+2%
+
+1
+
+0%
+
+0.5
+
+-0.3%
+
+-1.2%
+
+0
+
+-2%
+
+2015
+
+2016
+
+2017
+
+2019
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2018
+
+2022
+
+2020
+
+2021
+
+2009
+
+2008
+
+2007
+
+0-19 20-64 ≥65
+
+Note: 2022 data for annual number of U.S. births are provisional. Source: Trilliant Health national consumer database; Centers for Disease Control and Prevention’s National Center for Health Statistics, Births: Provisional Data for 2022.
+
+12
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Northeast and West Continue to Shrink, While the Sunbelt Grows
+
+Between 2021 and 2022, Americans continued to migrate from large coastal cities to the Sunbelt. During this time, the Southwest (1.7%) and Southeast (1.1%) grew, while the Northeast (-0.4%) and West (-0.1%) shrank. Inevitably, the proportion of commercially insured individuals within both growing and shrinking regions will change.
+
+REGIONAL POPULATION MIGRATION, 2021-2022
+
+-0.8% Chicago, IL
+
++2.4% Lansing, MI
+
+-0.8% New York, NY
+
++0.6% Harrisburg, PA
+
+Growing Regions
+
++2.4% Provo, UT
+
+Shrinking Regions
+
++4.3% Lakeland, FL
+
+-1.3% New Orleans, LA
+
++2.7% Austin, TX
+
++0.1% Albuquerque, NM
+
+-0.9% Honolulu, HI
+
+Note: Analysis includes CBSAs with 2020 populations greater than or equal to 500K. Blue pins represent select growing CBSAs within each region and red pins represent select shrinking CBSAs within each region. In each region, only the CBSAs that are growing or shrinking most have been directly labeled. Source: U.S. Census Bureau Annual Resident Population Estimates for Metropolitan and Micropolitan Statistical Areas.
+
+13
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+After Years of Limited Migration, More Americans Are Moving
+
+In 2022, more Americans moved following years of declining geographic migration — primarily adults ages 20-39 (46%). Among employed Americans ages 16 or older who moved in 2022, 17% did so for employment reasons — moves that will impact the commercially insured share in those markets.
+
+GEOGRAPHIC MIGRATION BY AGE, 2018-2022 REASONS FOR MOVING AMONG EMPLOYED
+
+CIVILIANS OVER AGE 16, 2018-2022
+
+35
+
+Other reasons
+
+15.8% 13.8% 14.1% 10.3% 9.6%
+
+Housing-related reasons Employmentrelated reasons
+
+30
+
+Percent of Employed Movers Over Age 16 (%)
+
+Total Number of Movers (in Millions)
+
+60+ years
+
+Family-related reasons
+
+25
+
+41.3% 46.0% 37.9% 39.0% 40.7%
+
+40-59 years
+
+20
+
+15
+
+16.9% 16.9% 22.3% 24.0% 21.7%
+
+10
+
+20-39 years
+
+5
+
+26.0% 23.3% 25.7% 26.8% 27.9%
+
+1-19 years
+
+0
+
+2022 2021 2020 2019 2018
+
+2022 2021 2020 2019 2018
+
+Note: Percentages may not add to 100% due to rounding. Source: U.S. Census Bureau Annual Migration/Geographic Mobility Surveys.
+
+14
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Migration Patterns Will Influence Healthcare Demand
+
+By 2028, even more Americans are projected to live in the Sunbelt, with high growth expected in Florida and Texas, as well as Utah. The age distribution of the individuals moving and their associated clinical needs, payer mix and consumer preferences, in tandem with available provider supply, will impact the amount and type of demand for healthcare services within each market.
+
+PROJECTED FIVE-YEAR POPULATION PERCENT CHANGE BY COUNTY, 2023-2028
+
+-3.6% Traverse, MN
+
+-1.4% Tuscola, MI
+
+-3.1% Mono, CA
+
+-1.4% Allegany, MD
+
++12.8% St. Johns, FL
+
++9.1% Sandoval, NM
+
+% Change
+
++31.9% Kaufman, TX
+
+-0.1118 0.3191
+
+-11.2% 31.9%
+
++15.8% Comal, TX
+
+Note: Select counties with populations over 10,000 with high and low projected population growth are highlighted. Source: Trilliant Health national consumer database.
+
+15
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Medicaid Spending Is The Largest Expense in Most States and Growing
+
+In FY 2022, Medicaid spending represented more than 25% of total spending in 27 states, up from 24 states in FY 2021. Nationally, 27.6% of state expenditures went towards Medicaid – 1.4 percentage points higher than in FY 2021.
+
+States with Largest Increase/Decrease
+
+MEDICAID SPENDING AS A PERCENT OF STATE BUDGETS, FY 2022
+
+from 2021 to 2022
+
+Montana 37.9%
+
+Hawaii 33.2%
+
+South Dakota 30.8%
+
+Tennessee 14.1%
+
+Mississippi 14.7%
+
+Louisiana 22.1%
+
+States with Highest Share of
+
+Spending
+
+Ohio 13.3% below FPL 39% Colorado 9.9% below FPL 38% Missouri 12.7% below FPL 38% New Mexico 18.7% below FPL 35% New York 13.9% below FPL 35% Louisiana 19.6% below FPL 35%
+
+Medicaid Expenditures as a % of All State Expenditures
+
+Note: As of September 2023, Florida, Georgia, Kansas, Mississippi, South Carolina, Wisconsin and Wyoming have not yet expanded Medicaid; FY denotes fiscal year; FPL denotes Federal Poverty Level. Source: National Association for State Budget Officers, State Expenditure Report 2020-2022.
+
+16
+
+T R E N D 1 : E R O D I N G C O M M E R C I A L M A R K E T
+
+Every Provider Is Impacted by Eroding Payer Mix
+
+Even HCA, the nation’s largest and most profitable health system, has experienced a 5.4 percentage point decrease in commercially insured revenue between 2016 and 2022. The most significant year-to-year payer mix erosion occurred between 2021 and 2022, with a 3.3 percentage point reduction.
+
+SHARE OF HCA REVENUE BY PAYER TYPE, 2016-2023
+
+100%
+
+3.4% 4.0% 4.2% 4.6% 3.6% 4.8% 5.9% 2.9% 2.5% 2.5% 2.3% 2.2% 2.3% 2.2%
+
+International
+
+Other
+
+3.1% 3.0% 2.9% 3.1% 3.8% 3.9% 4.4%
+
+90%
+
+5.6% 5.0% 5.1% 4.8% 5.1% 5.3% 6.6%
+
+Medicaid
+
+Managed Medicaid
+
+80%
+
+10.3% 10.7% 11.8% 12.6% 13.6% 14.3%
+
+Managed Medicare
+
+15.3%
+
+70%
+
+Medicare
+
+21.0% 21.3% 21.1% 21.0% 20.2% 17.8%
+
+Managed care and other insurers
+
+Percent of Revenue (%)
+
+60%
+
+17.3%
+
+50%
+
+40%
+
+30%
+
+53.7% 53.5% 52.4% 51.6% 51.5% 51.6% 48.3%
+
+20%
+
+10%
+
+0%
+
+2016 2017 2018 2019 2020 2021 2022
+
+Source: HCA Healthcare 10-K filing, 2023.
+
+17
+
+TREND 2
+
+The Physical and Mental Health of
+
+Americans Is Unraveling
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Non-COVID Mortality Is Increasing in Younger Populations
+
+Excess mortality among younger Americans — who represent most of the commercially insured market — is increasing. Between Q1 2020 and Q4 2022, non-COVID excess mortality for Americans aged 35-44 increased by 28 percentage points, peaking in Q3 2021 with a 35 percentage point increase above the baseline.
+
+PERCENTAGE POINT CHANGE IN NON-COVID EXCESS MORTALITY BY AGE,
+
+QUARTERLY, COMPARED TO Q1 2020, 2020-2022
+
+50
+
+40
+
+Percentage Point Change
+
+AGE BAND
+
+30
+
+35-44 (+28 PP)
+
+45-54 (+24 PP)
+
+25-34 (+22 PP)
+
+20
+
+55-64 (+17 PP)
+
+0-24 (+14 PP)
+
+10
+
+75-84 (+5 PP) 65-74 (+4 PP)
+
+0
+
+85+ (-6 PP)
+
+-10
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2020 2021 2022
+
+Note: PP denotes percentage point. Source: Society of Actuaries Research Institute Group Life COVID-19 Mortality Survey Report.
+
+19
+
+T R E N D 2 : U N R A V E L I N G H E A L T H Mortality Rate For Americans Under Age 40 Is Rising
+
+Between 2018 and 2022, the mortality rate for Americans under age 40 increased in 42 states. In California (117.1%), Washington (112.9%) and Tennessee (102.9%), the mortality rate more than doubled during this period, while it declined most in New Jersey (-23.3%). These spikes are largely attributable to a marked increase in overdose deaths – the primary cause of death in 37 states for this age cohort in 2022.
+
+PERCENT CHANGE IN HIGHEST CAUSE OF MORTALITY FOR
+
+AMERICANS UNDER AGE 40, 2018-2022
+
+2018 Most Common Cause of
+
+112.9%
+
+-11.0%
+
+Death, by Number of States
+
+43.6%
+
+67.7%
+
+23.9%
+
+3.8%
+
+Accidental Overdose 25
+
+81.8%
+
+51.5%
+
+-2.2%
+
+Suicide 17
+
+-17.8%
+
+54.1%
+
+12.0%
+
+34.1%
+
+-2.5%
+
+Vehicle Accidents 7
+
+-6.1%
+
+9.8%
+
+8.2%
+
+Gun Homicide 1
+
+-14.2%
+
+13.5%
+
+16.4% 61.8%
+
+7.7%
+
+Homicide 1
+
+0.0% -23.3%
+
+-6.3%
+
+25.4%
+
+49.1%
+
+117.1% 30.1%
+
+27.5% 55.7%
+
+27.0%
+
+15.4%
+
+17.9%
+
+49.8%
+
+2022 Most Common Cause of
+
+71.0%
+
+Death, by Number of States
+
+102.9%
+
+52.1%
+
+89.6%
+
+47.8% 7.5%
+
+65.5%
+
+Accidental Overdose 37
+
+117.1%
+
+69.4%
+
+26.4%
+
+22.8%
+
+Suicide 8
+
+Percent Change 2018-2022
+
+25.0%
+
+Vehicle Accidents 3
+
+93.8%
+
+Homicide 2
+
+41.5%
+
+16.5%
+
+0.0%
+
+-23.3%
+
+Gun Homicide 1
+
+Powered by Bing
+
+© GeoNames, Microsoft, TomTom
+
+Note: State counts are inclusive of all 50 states and DC. Source: Centers for Disease Control and Prevention WONDER database.
+
+20
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Pandemic-Era Changes in Healthcare Utilization Patterns Persist
+
+In separating COVID-19 and behavioral health, "all other" care volumes decreased by 0.4% in 2022 compared to 2021. However, there was a 2.8% increase in demand for behavioral health care during the same period.
+
+HEALTHCARE UTILIZATION, Q1 2019-Q4 2022
+
+BEHAVIORAL HEALTH, Q1 2019-Q4 2022
+
+800
+
+Number of Visits (in Millions) Number of Visits (in Millions)
+
+90
+
+COVID-19
+
+700
+
+80
+
+BEHAVIORAL HEALTH
+
+70
+
+2022 volumes were
+
+600
+
+2.8% above 2021
+
+Number of Visits (in Millions)
+
+60
+
+500
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2019 2020 2021 2022
+
+400
+
+ALL OTHER CARE, Q1 2019-Q4 2022
+
+300
+
+700
+
+600
+
+ALL OTHER CARE
+
+200
+
+500
+
+2022 volumes were
+
+400
+
+0.4% below 2021
+
+100
+
+300
+
+Q1 Q2Q3 Q4 Q1 Q2Q3 Q4 Q1 Q2Q3 Q4 Q1 Q2Q3 Q4
+
+0
+
+2019 2020 2021 2022
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2019 2020 2021 2022
+
+Note: The “All Other Care” category represents any healthcare visit in the timeframe unrelated to behavioral health or COVID-19-related care. The COVID-19 category is likely underrepresented due to the prevalence of at-home testing, self-pay encounters and non-specific coding of COVID-19 encounters. Source: Trilliant Health national all-payer claims database.
+
+21
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Cost Overtakes COVID-19 as Primary Driver of Forgone Care
+
+In 2020, a greater share of consumers deferred care due to concerns about the pandemic than cost. However, in 2022, this trend reversed, and the share of consumers who deferred care due to COVID-19 fell by 11 percentage points. Cost — both of overall living and of healthcare services — has returned as the primary reason for deferring care. Continued avoidance of care over an extended period of time (over three years) will further exacerbate the declining health status of Americans.
+
+TO DEFER CARE, 2022 SHARE OF CONSUMERS WHO REPORT DEFERRING CARE DUE TO COVID-19 VERSUS COST, 2020-2022
+
+MOST COMMON REASONS CONSUMERS CHOSE
+
+50%
+
+35%
+
+46%
+
+31%
+
+43%
+
+45%
+
+30%
+
+28% 27%
+
+40%
+
+Percent of Reasons (%)
+
+Percent of Consumers (%)
+
+25%
+
+35%
+
+30%
+
+20%
+
+17%
+
+25%
+
+15%
+
+20%
+
+15%
+
+10%
+
+12%
+
+10%
+
+5%
+
+5%
+
+0%
+
+0%
+
+Delayed Care Due to Pandemic-Related Health
+
+Delayed Care Due to Cost
+
+High Cost of Healthcare Services
+
+Higher Costs of
+
+Lack of Medical
+
+Concerns
+
+Living Overall
+
+Insurance
+
+Concerns
+
+Source: QualtricsXM, Rising Costs Replace Pandemic Concerns As Top Reason Americans Defer Healthcare.
+
+22
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Primary Care Volumes Have Not Returned to Pre-Pandemic Levels
+
+From 2019 to 2022, primary care volumes (-8.4%) declined, while women’s health volumes (+5.0%) and behavioral health volumes (+20.1%) increased. The reduction in preventive care compounded by the increase in behavioral health demand and constrained behavioral health provider supply will inevitably result in greater morbidity and mortality, as already evidenced by increasing mortality in younger adults.
+
+PRIMARY CARE, WOMEN’S HEALTH AND BEHAVIORAL HEALTH VOLUMES, Q1 2019-Q4 2022
+
+150
+
+Primary Care % Change
+
+Primary Care
+
+Total -8.4%
+
+2019 - 2020 -10.8%
+
+120
+
+2020 - 2021 +9.6%
+
+2021 - 2022 -6.3%
+
+Visits (in Millions)
+
+Women’s Health
+
+Women’s Health % Change
+
+90
+
+Total +5.0%
+
+Behavioral Health
+
+2019 - 2020 -5.8%
+
+2020 - 2021 +13.2%
+
+60
+
+2021 - 2022 -1.5%
+
+Behavioral Health % Change
+
+Total +20.1%
+
+30
+
+2019 - 2020 +4.2%
+
+2020 - 2021 +12.1%
+
+2021 - 2022 +2.8%
+
+0
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2019 2020 2021 2022
+
+Source: Trilliant Health national all-payer claims database.
+
+23
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Behavioral Health Demand Varies by Condition, With Most Trending Upwards
+
+Q4 2022 visit volumes for anxiety disorders (+44.9%), eating disorders (+41.0%), alcohol and substance use disorders (+23.7%), depressive disorders (+18.6%) and bipolar disorders (+12.2%) have all consistently trended upwards since Q1 2019.
+
+PERCENT CHANGE IN BEHAVIORAL HEALTH VISIT VOLUMES BY CONDITION,
+
+QUARTERLY, COMPARED TO Q1 2019, 2019-2022
+
+70%
+
+60%
+
+50%
+
+44.9%
+
+Anxiety Disorders
+
+41.0%
+
+Eating Disorders
+
+40%
+
+Percent Change (%)
+
+30%
+
+Alcohol and Substance Use Disorders
+
+23.7%
+
+20%
+
+18.6%
+
+Depressive Disorders
+
+12.2%
+
+10%
+
+Bipolar Disorders
+
+3.1% -1.1%
+
+All Other
+
+0%
+
+ADHD
+
+-10%
+
+-14.9%
+
+Schizophrenia
+
+-20%
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+Source: Trilliant Health national all-payer claims database.
+
+24
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Select Behavioral Health Indications Are Increasing Disproportionately in Youth
+
+Since the onset of the pandemic, visits for eating disorders (+90.3%), anxiety disorders (+39.2%) and depressive disorders (+24.3%) among patients below age 18 increased at rates higher than the overall population.
+
+PERCENT CHANGE IN MENTAL HEALTH VISIT VOLUMES, PATIENTS AGES 0-17,
+
+QUARTERLY COMPARED TO Q1 2019, 2019-2022
+
+120%
+
+100%
+
+90.3%
+
+80%
+
+Percent Change (%)
+
+60%
+
+40%
+
+39.2%
+
+24.3%
+
+20%
+
+0%
+
+Eating Disorders
+
+Anxiety Disorders
+
+Depressive Disorders
+
+-20%
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+Source: Trilliant Health national all-payer claims database.
+
+25
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Prescribing Volume for Certain Drug Classes Has Increased
+
+As a result of the COVID-19 pandemic, e-prescribing for a broader set of prescription drugs was permitted due to regulatory flexibilities. While e-prescribing of antidepressants (-4.5%), stimulants (7.4%) and opioids (-24.3%) changed in 2022 from 2021, the share of total prescribing was higher for antidepressants (1.3%) and stimulants (11.2%) but lower for opioids (-3.6%).
+
+PRESCRIBING VOLUME AND SHARE OF E-PRESCRIBING FOR SELECT DRUG CATEGORIES, 2019-2022
+
+ANTIDEPRESSANTS STIMULANTS OPIOIDS
+
+6
+
+5
+
+Prescription Volume (in Millions)
+
+4
+
+3
+
+2
+
+1
+
+Total Prescribing +1.3% Change 2021-2022
+
+Total Prescribing +11.2% Change 2021-2022
+
+Total Prescribing -3.6% Change 2021-2022
+
+0
+
+2019 2020 2021 2022 2019 2020 2021 2022 2019 2020 2021 2022
+
+In-Person E-Prescribing
+
+Source: Trilliant Health national all-payer claims database.
+
+26
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Decline in Primary and Preventive Care Is Consistent Across Markets
+
+Across large CBSAs, primary care utilization declined from 2021 to 2022, ranging from -7.8% (Miami, Chicago) to -4.1% (Washington, DC). This trend persists despite large metropolitan markets having a larger footprint of new entrants (e.g., CVS) offering access to select primary care services. Conversely, behavioral health utilization increased in nine of the ten markets, ranging from -1.9% (Miami) to 8.0% (Los Angeles).
+
+MARKET-LEVEL CARE VOLUMES, PERCENT CHANGE 2021-2022
+
+1.9%
+
+Behavioral Health
+
+-3.1%
+
+Atlanta-Sandy Springs-Alpharetta, GA
+
+-5.1%
+
+5.2%
+
+Women’s Health
+
+Boston-Cambridge-Newton, MA-NH
+
+-0.6%
+
+-5.9%
+
+Primary Care
+
+3.5%
+
+Chicago-Naperville-Elgin, IL-IN-WI
+
+-2.8%
+
+-7.8%
+
+7.1%
+
+Dallas-Fort Worth-Arlington, TX
+
+0.7%
+
+-5.6%
+
+5.7%
+
+Houston-The Woodlands-Sugar Land, TX
+
+-0.8%
+
+-5.4%
+
+8.0%
+
+Los Angeles-Long Beach-Anaheim, CA
+
+3.8%
+
+-4.6%
+
+-1.9%
+
+Miami-Fort Lauderdale-Pompano Beach, FL
+
+-0.1%
+
+-7.8%
+
+3.5%
+
+-6.0%
+
+New York-Newark-Jersey City, NY-NJ-PA
+
+-6.5%
+
+2.6%
+
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+
+0.0%
+
+-5.9%
+
+5.8%
+
+Washington-Arlington-Alexandria, DC-VA-MD-WV
+
+1.6%
+
+-4.1%
+
+Percent Change (%)
+
+Source: Trilliant Health national all-payer claims database.
+
+27
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Amid Rising Prices and Drug Shortages, Adherence is Declining
+
+In 2021, 9.2M U.S. adults reported non-adherence with prescription medications due to cost, with more women, minority groups, low-income adults and the uninsured disproportionately affected. Additionally, the number of national drug shortages reached a ten-year high in Q2 2023 at 309 drugs. Regardless of the cause, the trend of declining prescription adherence mirrors the declining health status of Americans.
+
+PERCENT OF ADULTS AGES 18–64 WHO USED PRESCRIPTION MEDICATION IN THE PAST YEAR
+
+ACTIVE NATIONAL DRUG SHORTAGES
+
+BY QUARTER, Q2 2014-Q2 2023
+
+BUT DID NOT ADHERE TO THEIR PRESCRIBED
+
+DOSAGE TO SAVE ON COSTS, 2021
+
+350
+
+8.2%
+
+Total Percent of Adults
+
+309
+
+Gender
+
+300
+
+7.0%9.1%
+
+Men Women
+
+306
+
+Age
+
+250
+
+8.1% 8.7% 7.9%
+
+18-29 30-44 45-64
+
+Number of Drugs
+
+Race
+
+200
+
+6.8% 10.4% 9.7% 7.4% 11.5%
+
+Asian Black Hispanic
+
+150
+
+White Other races
+
+Family Income
+
+14.5% 13.8% 9.9% 3.9%
+
+Less than 100% FPL
+
+100
+
+100% - <200% FPL 200% - <400% FPL Greater than 400% FPL
+
+50
+
+Insurance Status
+
+6.5% 8.0% 11.4%
+
+Private Medicaid
+
+Other Uninsured
+
+0
+
+22.9%
+
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+0% 5% 10% 15% 20% 25%
+
+Percent Share (%)
+
+Note: FPL denotes Federal Poverty Level. Source: Centers for Disease Control and Prevention NCHS Data Brief; American Society of Health-System Pharmacists, Drug Shortage Statistics.
+
+28
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+The Incidence of Early-Onset Cancer Has Been, and Will Likely Continue, Increasing
+
+Rates of early-onset cancers are growing, especially for adults ages 30-39, for whom incidence increased by almost 20% between 2010 and 2019. Given that primary care — where most screening is coordinated — volumes declined by 6.3% from 2021 to 2022, the likelihood of diagnosing early-onset cancer has dropped and will likely manifest in later stage diagnosis and increased mortality.
+
+PERCENT CHANGE IN INCIDENCE OF EARLY-ONSET
+
+INCIDENT CASES OF EARLY-ONSET CANCER IN
+
+CANCERS BETWEEN 2010 AND 2019,
+
+2010 AND 2019, BY ORGAN
+
+BY DEMOGRAPHICS
+
+7,383
+
+Overall
+
+Overall
+
+0.7%
+
+6,431
+
+4,097
+
+Gender
+
+Colorectal
+
+3,661
+
+Male
+
+-4.9%
+
+773
+
+Stomach
+
+705
+
+Female
+
+4.4%
+
+701
+
+Pancreas
+
+593
+
+Race
+
+362
+
+Liver
+
+American Indian or Alaska Native
+
+2.3%
+
+562
+
+Asian or Pacific Islander
+
+32.3%
+
+286
+
+Small Intestine
+
+261
+
+Black
+
+-4.7%
+
+196
+
+Esophagus
+
+225
+
+Hispanic
+
+27.6%
+
+651
+
+Appendix
+
+-12.2%
+
+White
+
+185
+
+83
+
+Other Biliary Organs
+
+Age Band
+
+99
+
+0-19
+
+-5.0%
+
+61
+
+Gallbladder
+
+57
+
+20-29
+
+5.3%
+
+109
+
+2019
+
+Intrahepatic Bile Duct
+
+45
+
+30-39
+
+19.4%
+
+2010
+
+64
+
+40-49
+
+Other Digestive Organs
+
+-6.1%
+
+38
+
+Percent Change (%)
+
+Incident Cases
+
+Source: Koh et al, Patterns in Cancer Incidence Among People Younger Than 50 Years in the US, 2010 to 2019, JAMA, 2023.
+
+29
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Cancer Screening Is Not Necessarily Concordant With Evidence-Based Guidelines
+
+The U.S. Preventive Services Task Force has made guideline changes to certain cancer screenings with A or B grades in recent years. For example, adjustments to cervical cancer screening guidelines to add a five-year screening period was followed by expected lower screening rates, while lowering the colorectal screening recommendation age to 45 has not yet changed the volume trajectory. Conversely, prostate cancer screening is not broadly recommended, but screening rates have remained consistently high. To what extent are providers adjusting their practice patterns to treat patients using the latest screening guidelines? Or are physicians relying on patients to keep up with the nuances of individual screening recommendation changes?
+
+CANCER SCREENINGS PER 100K, Q1 2017-Q4 2022
+
+10,000
+
+Breast Cancer (B Recommendation) Biennial screening for women ages 50 to 74
+
+8,000
+
+Number of Screenings per 100K
+
+Prostate Cancer (C Recommendation) The decision to undergo PSA screening for prostate cancer should be an individual one
+
+6,000
+
+Cervical Cancer (A Recommendation) Women ages 21 to 29 every 3 years with cervical cytology; 30 to 65 every 3 years with cervical cytology alone, every 5 years with HPV testing alone OR every 5 years with HPV testing in combination with cytology
+
+4,000
+
+Colorectal Cancer (A & B Recommendation) Adults aged 50 to 75 years (A) and adults aged 45 to 49 years (B)
+
+Recommendation age lowered from 50 to 45
+
+2,000
+
+Recommendation changed from not recommended for
+
+Recommendation for 30-65
+
+for all adults
+
+prostate cancer to individual decision making
+
+was expanded from a 3-year to 5-year cycle for dual HPV and cervical cytology
+
+0
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+Note: In May 2023, the U.S. Preventive Services Task Force issued a draft recommendation statement that would lower the breast cancer screening age from 50 to 40. Source: Trilliant Health national all-payer claims database; U.S. Preventive Services Task Force.
+
+30
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Cancer Mortality Increasing for Americans Ages 35-44, While Decreasing for Older Age Groups
+
+While national cancer mortality rates have been declining for many years, the variation in rate by age has changed in more recent years. From 2018 to 2022, malignant neoplasm deaths were up 5.0% for ages 35-44 — an age cohort that historically is less affected by many cancers as reflected in current screening guidelines. Conversely, malignant neoplasm deaths have declined year-over-year for older age groups — ages 45-54 and 55-64.
+
+PERCENT CHANGE IN ALL MALIGNANT NEOPLASM
+
+MONTHLY MALIGNANT NEOPLASM DEATHS,
+
+DEATHS AND FOR SELECT CATEGORIES,
+
+BY AGE GROUP, 2018-2023
+
+BY AGE GROUP, 2018-2022
+
+12,000
+
+15%
+
+10%
+
+Percent Change in Deaths by Age Group (%)
+
+10,000
+
+5.0%
+
+5%
+
+55-64
+
+8,000
+
+0%
+
+Monthly Deaths
+
+Malignant Neoplasms
+
+-5%
+
+6,000
+
+Breast
+
+-10%
+
+-7.8%
+
+-10.6%
+
+Pancreatic
+
+4,000
+
+-15%
+
+Lymphatic
+
+45-54
+
+-20%
+
+2,000
+
+Colon
+
+-25%
+
+Lung 35-44
+
+0
+
+-30%
+
+2018 2019 2020 2021 2022 2023
+
+35-44 45-54 55-64
+
+Source: Centers for Disease Control and Prevention WONDER database.
+
+31
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Myocarditis Is Occurring More Frequently in Younger Age Groups
+
+While volumes for acute myocardial infarction and pericarditis have remained relatively steady since 2018, there has been an observed increase for myocarditis. Of all myocarditis cases in the 18 and older population, the percentage of myocarditis in the 18-44 age cohort increased from 48.8% in 2018 to 53.2% in 2022.
+
+VOLUME OF SELECT CARDIAC DIAGNOSES, PATIENTS AGES 18 AND OLDER, 2018-2022
+
+AMI PERICARDITIS MYOCARDITIS
+
+Number of Diagnoses Percent Share (%)
+
+1,000,000
+
+8,000
+
+40,000
+
+750,000
+
+6,000
+
+30,000
+
+500,000
+
+4,000
+
+20,000
+
+250,000
+
+2,000
+
+10,000
+
+0
+
+0
+
+0
+
+2018 2019 2020 2021 2022
+
+2018 2019 2020 2021 2022
+
+2018 2019 2020 2021 2022
+
+SHARE OF SELECT CARDIAC DIAGNOSES, BY AGE BAND, 2018-2022
+
+AGES 65+
+
+AGES 18-44
+
+AGES 45-64
+
+100%
+
+100%
+
+100%
+
+80%
+
+80%
+
+80%
+
+60%
+
+60%
+
+60%
+
+40%
+
+40%
+
+40%
+
+20%
+
+20%
+
+20%
+
+0%
+
+0%
+
+0%
+
+2018 2019 2020 2021 2022
+
+2018 2019 2020 2021 2022
+
+2018 2019 2020 2021 2022
+
+AMI Myocarditis Pericarditis
+
+Note: AMI denotes acute myocardial infarction. Source: Trilliant Health national all-payer claims database.
+
+32
+
+T R E N D 2 : U N R A V E L I N G H E A L T H
+
+Share of Pregnancies with Preeclampsia Is Increasing, Particularly in Younger Women
+
+The average pregnancy age increased by 2.8% from 2017 to 2022. However, during the same period, the average age of patients affected by preeclampsia decreased by 11.5%. Additionally, there was a 1.0 percentage point increase in the share of pregnancies with preeclampsia among all pregnancies from 2017 to 2022.
+
+AVERAGE PATIENT AGE, ALL PREGNANCY AND
+
+SHARE OF PREGNANCIES WITH PREECLAMPSIA,
+
+PATIENTS WITH PREECLAMPSIA, 2017-2022
+
+2017-2022
+
+40
+
+4%
+
+3.7%
+
+35.6
+
+35
+
+31.5
+
+2.7%
+
+30
+
+3%
+
+28.9 29.7
+
+Percent Share (%)
+
+25
+
+Age
+
+2%
+
+20
+
+15
+
+10
+
+1%
+
+5
+
+0
+
+0%
+
+2017 2018 2019 2020 2021 2022
+
+2017 2018 2019 2020 2021 2022
+
+Average Pregnancy Patient Age
+
+Share of Pregnancies Affected by Preeclampsia
+
+Average Preeclampsia Patient Age
+
+Source: Trilliant Health national all-payer claims database.
+
+33
+
+TREND 3
+
+Drug and Diagnostic Investments
+
+Signal Emerging Patient Needs
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Most Recently Approved Drugs Target Genetic Diseases and Cancer
+
+The field of cellular and genetic therapies is rapidly progressing. Since the start of 2023, many novel medications have received FDA approval, including treatments for solid tumors and hematologic malignancies, as well as rare genetic disorders.
+
+FDA NOVEL DRUG APPROVALS, Q1-Q3 2023
+
+Q 2 Q 3 Q 1
+
+DRUG TYPES FOR APPROVED DRUGS
+
+GENETIC ONCOLOGY CHRONIC INFECTIOUS
+
+DISEASE OTHER
+
+8 9 8 4 6
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Oncology and Rare Disease Dominate Life Sciences M&A
+
+Since 2021, Pfizer has significantly invested in building their footprint in immunology, oncology and rare disease, with investments totaling $62.3B. In 2023, Pfizer invested $43B in oncology through its acquisition of Seagen, and Merck invested $10.8B in immunology by acquiring Prometheus Biosciences. To what extent are these M&A decisions based on signals suggesting an increase in patient need — or demand — for cancer care versus improving existing treatments?
+
+M&A ACTIVITY BY THERAPEUTIC AREA FOR THREE MAJOR BIOPHARMACEUTICAL MANUFACTURERS, 2010-2023
+
+Note: “Multiple” indicates the acquired company specialized in more than one featured therapeutic area. “Other” includes areas such as pain, respiratory, ophthalmology, neurology, biosimilars, etc. Source: Company press releases.
+
+36
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Manufacturer Pipelines Reinforce the Focus on Oncology, Immunology and Rare Disease
+
+Merck, Pfizer and AstraZeneca are focusing on oncology, with cancer treatments accounting for over 39% of Pfizer’s and AstraZeneca’s clinical development pipelines and over 55% of Merck’s pipeline. Novartis and Eli Lilly are also investing heavily in the oncology market but are focusing more on immunology and pain.
+
+CLINICAL DEVELOPMENT PIPELINES OF MAJOR BIOPHARMACEUTICAL MANUFACTURERS
+
+AS OF AUGUST 2023
+
+20 3 2 4 2 4 1
+
+32 17 11 15 6
+
+37 14 18 16 3 5
+
+28 37 11 13 12 26 4
+
+17 10 10 27 4
+
+Antiviral
+
+Oncology/Cancer
+
+Respiratory & Immunology
+
+Diabetes & Obesity Pain
+
+Endocrinology Immunology & Inflammation
+
+Cardiovascular, Renal & Metabolism Rare Disease
+
+Immunology & Respiratory Neuroscience
+
+Internal Medicine
+
+Cardiovascular
+
+Other
+
+Anti-Infectives
+
+Vaccines
+
+Ophthalmology
+
+Note: Some products and projects in these pipelines are new molecular entities, other are indications and different formulations for marketed products. Source: Company clinical development pipelines.
+
+37
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Non-Oncology Cell and Gene Therapies Predominate the Near-Term Pipeline
+
+As CGT manufacturers increasingly focus on rare disease instead of cancer, the first gene therapy for sickle cell disease and treatments for Wilson disease and age-related macular degeneration could soon be approved. An estimated 56M U.S. patients are candidates for the 33 CGTs (26 non-oncology drugs and seven oncology drugs) projected to launch by 2027.
+
+CELL AND GENE THERAPIES ALREADY ON MARKET OR WITH
+
+ON-MARKET THERAPIES,
+
+PROJECTED U.S. LAUNCH YEARS BETWEEN 2023 AND 2027
+
+BY INDICATION
+
+(CAR) T-cell therapy, ex vivo
+
+Gene therapy, in vivo
+
+Anticipated 43%
+
+Gene therapy, ex vivo
+
+Oncology
+
+6
+
+57%
+
+Non-oncology
+
+4
+
+2
+
+ANTIPACTED THERAPIES,
+
+BY INDICATION
+
+6
+
+1
+
+6
+
+1
+
+21%
+
+6
+
+6
+
+1
+
+Oncology
+
+4
+
+3 2 1
+
+2
+
+1
+
+79%
+
+Non-oncology
+
+On-Market
+
+2H 1H 2H 1H 2H 1H 2H 1H 2H
+
+Already
+
+2023 2024 2025 2026 2027
+
+Note: CGT denotes cell and gene therapy. Source: CVS, Gene Therapy Pipeline, Q4 2022 – Q1 2027; Prime Therapeutics; Institute for Clinical and Economic Review Report on Gene Therapy.
+
+38
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+The Complex and Expensive Patient Journey for Cell and Gene Therapy Is Slowing the Adoption of New Treatments
+
+Patients needing CGTs must overcome numerous barriers to receive care, including high costs, supply shortages, administration challenges and a very involved patient journey. While CGTs could potentially revolutionize treatment of cancer and rare diseases, these obstacles continue to impact the pace at which these therapies are adopted.
+
+PRICES OF ON-MARKET CELL AND GENE THERAPIES
+
+PATIENT JOURNEY FOR CELL & GENE THERAPIES
+
+Zolgensma (Spinal Muscular Atrophy -
+
+Pediatric)
+
+$2,322,044
+
+Yescarta (Lymphoma - Adults)
+
+$462,923
+
+Kymriah (Leukemia-Pediatric)
+
+$577,081
+
+Note: CGT denotes cell and gene therapy. Source: Food & Drug Administration, American Society of Gene & Cell Therapy, Avalere Health.
+
+39
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+The Market for Early Cancer Detection Is Expanding
+
+Two of the largest cancer-related funding rounds in 2022 were for diagnostic test makers, procuring a combined $515M. Over the next ten years, the global market for breast cancer liquid biopsy is projected to grow at a CAGR of 22.5%, with the North American region representing a 35% share of the total global market.
+
+FIVE LARGEST CANCER-RELATED FUNDING
+
+GLOBAL BREAST CANCER LIQUID
+
+ROUNDS IN 2022, BY COMPANY FOCUS
+
+BIOPSY MARKET, 2020-2032,
+
+IN U.S. DOLLARS
+
+$2,495
+
+$2,500
+
+$290M
+
+$2,000
+
+$261.3M
+
+Market Size (in Millions)
+
+$1,500
+
+$225M
+
+$1,000
+
+$220.8M
+
+$500
+
+$226
+
+$19.1B
+
+$0
+
+2031
+
+2032
+
+2021
+
+2030
+
+2025
+
+2026
+
+2027
+
+2029
+
+2020
+
+2022
+
+2023
+
+2024
+
+2028
+
+◼ Diagnostic company
+
+◼ Non-diagnostic company
+
+Note: CAGR denotes compound annual growth rate. Source: Crunchbase; Acumen Report on Breast Cancer Liquid Biopsy Market.
+
+40
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Ozempic® Is the Most Prescribed GLP-1
+
+National spending for semaglutide, the peptide name for brand drugs like Ozempic® and Wegovy®, totaled $10.7B in 2021, the fourth highest across drug classes. Between Q1 2020 and Q4 2022, prescription volumes for GLP-1 medications have increased 300%. Since its approval in Q4 2017, Ozempic® (semaglutide) has grown to account for 65.4% of all GLP-1 prescription volume.
+
+GLP-1 PRESCRIPTION VOLUME BY DRUG TYPE, 2017-2022
+
+10,000,000
+
+9,000,000
+
+May 2022 Tirzepatide (Mounjaro) approved for treatment
+
+December 2014 Liraglutide (Saxenda) approved for treatment of obesity
+
+8,000,000
+
+of type 2 Diabetes
+
+7,000,000
+
+Prescription Volume
+
+6,000,000
+
+December 2017 Semaglutide (Ozempic) approved for treatment of type 2 Diabetes
+
+5,000,000
+
+4,000,000
+
+3,000,000
+
+2,000,000
+
+1,000,000
+
+0
+
+Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1
+
+2022 2021 2020 2019 2018 2017
+
+Liraglutide Semaglutide Tirzepatide
+
+Note: GLP-1 denotes glucagon-like peptide-1 receptor agonists. Source: Trilliant Health national all-payer claims database; Tichy et. al., National trends in prescription drug expenditures and projections for 2022, American Journal of Health-System Pharmacy, 2022.
+
+41
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Increase in GLP-1 Use Is Not Correlated With Clinical Indication
+
+From 2020 to 2022, the quarter-over-quarter percent change for GLP-1 prescriptions has increased but the rate of future utilization will depend on manufacturer supply, cost and prioritization of on- and off-label use. Notably, just over half of patients taking these medications have a history of type 2 diabetes or have an associated medical visit with their prescription.
+
+QUARTER-OVER-QUARTER PERCENT CHANGE IN GLP-1
+
+PRESCRIPTION VOLUMES, 2020-2022
+
+39.2%
+
+53.8%
+
+The proportion of patients
+
+on a GLP-1 medication in
+
+Percent Change (%)
+
+2022 with a history of
+
+type 2 diabetes
+
+52.6%
+
+The proportion of patients
+
+that had a traditional medical visit associated
+
+9.3%
+
+with their 2022 GLP-1
+
+prescription
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 2020 2021 2022
+
+Note: A traditional medical visit is defined as a medical visit that occurs within three days of a written GLP-1 prescription; GLP-1 denotes glucagon-like peptide-1 receptor agonists. Source: Trilliant Health national all-payer claims database.
+
+42
+
+T R E N D 3 : D R U G S A N D D I A G N O S T I C S
+
+Rate of Ozempic® Uptake Varies by Market and Is Often Disproportionate to Diabetes Prevalence
+
+Across major markets, there has been an increase in the number of unique patients taking Ozempic® (semaglutide) who have a history of overweight, obesity and other hyperalimentation. This increase ranges from +48% in Minneapolis to +481% in Cleveland. The rate of on- and off-label use also varies by market.
+
+PERCENT CHANGE IN OZEMPIC ® PATIENT VOLUMES FOR SELECT MARKETS, Q3 2021 TO Q3 2022
+
+186% Chicago, IL
+
+481% Cleveland, OH
+
+48% Minneapolis, MN
+
+130% Detroit, MI
+
+351% Seattle, WA
+
+79% Boston, MA
+
+98% New York, NY
+
+80% Philadelphia, PA
+
+152% Washington, DC
+
+162% Los Angeles, CA
+
+136% Pittsburgh, PA
+
+199% San Diego, CA
+
+130% Atlanta, GA
+
+132% Dallas, TX
+
+% Change
+
+48% 481%
+
+152% Houston, TX
+
+Note: Select large U.S. CBSAs were analyzed. Source: Trilliant Health national all-payer claims database.
+
+43
+
+TREND 4
+
+The Tepid Demand Trajectory for
+
+Healthcare Services Persists
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Utilization Across Most Care Settings Declined From 2021 to 2022
+
+In 2022, volumes declined across every care setting except ED. The "rebound" of healthcare observed in 2021 was partially inflated due to increased testing and treatment for COVID-19, which largely explains both the decline in primary care (-6.3%) and urgent care (-13.7%) visits from 2021 to 2022, as Americans have yet to return to preventive care at pre-pandemic levels.
+
+VISIT VOLUMES BY CARE SETTING, Q1 2019-Q4 2022
+
+700
+
+Percent Change 2021-2022
+
+-6.9% Home Health -13.7% Urgent Care +3.1% ED
+
+600
+
+500
+
+Number of Visits (in Millions)
+
+-3.3% Hospital IP
+
+-2.9% Hospital OP -6.3% PCP
+
+400
+
+-0.2% Non-Hospital OP
+
+300
+
+200
+
+100
+
+0
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2019 2020 2021 2022
+
+Note: IP denotes inpatient; OP denotes outpatient; PCP denotes Primary Care Provider; ED denotes Emergency Department. Source: Trilliant Health national all-payer claims database.
+
+45
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+The Pandemic Accelerated Pre-Existing Trends in Flat to Declining Demand
+
+Inpatient admissions declined from 2017 to 2021, a trend that began in 2008. Inpatient surgeries (-14.9%) and admissions (-6.8%) have declined since 2017, while outpatient surgeries have remained flat (0.3%). Although the pandemic increased care avoidance, the overall demand trajectory is consistent with pre-pandemic norms.
+
+INPATIENT AND OUTPATIENT VOLUMES, 2017-2021
+
+40
+
+35
+
+INPATIENT ADMISSIONS
+
+30
+
+25
+
+Visits (in Millions)
+
+20
+
+OUTPATIENT SURGERIES
+
+15
+
+10
+
+INPATIENT SURGERIES
+
+5
+
+0
+
+2017 2018 2019 2020 2021
+
+Note: Inpatient admissions are for nonfederal short-term general hospitals and other special hospitals; Outpatient surgeries and inpatient surgeries are for all U.S. community hospitals. Source: 2023 American Hospital Association Hospital Statistics.
+
+46
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Disease Burden Is Not Directly Correlated With Demand
+
+Although the national prevalence of chronic disease and comorbidities is continuing to rise, total hospital admissions have declined 10.6% from 2008 to 2021. This suggests that there is not a linear relationship between the number of comorbidities an individual has and the respective amount of healthcare services they consume.
+
+2012-2020 ≠
+
+2017-2021 ≠
+
+RATE OF OBESITY IN THE U.S. FOR ADULTS AGES 20 AND OLDER,
+
+NUMBER OF AMERICANS WITH
+
+INPATIENT ADMISSIONS,
+
+CHRONIC CONDITIONS,
+
+1995-2030
+
+40
+
+157 164 171
+
+35%
+
+180
+
+31.9%
+
+34
+
+160
+
+35
+
+149
+
+32
+
+30%
+
+27.7%
+
+141
+
+Number of Americans (in Millions)
+
+133
+
+140
+
+30
+
+118 125
+
+25%
+
+Admissions (in Millions)
+
+120
+
+25
+
+20%
+
+100
+
+Rate (%)
+
+20
+
+80
+
+15%
+
+15
+
+9.2%
+
+60
+
+10%
+
+6.4%
+
+10
+
+40
+
+5%
+
+5
+
+20
+
+0
+
+0%
+
+0
+
+2017
+
+2019
+
+2012
+
+2013
+
+2014
+
+2018
+
+2018
+
+2017
+
+2015
+
+2016
+
+2019
+
+2020
+
+2021
+
+2020
+
+2030
+
+1995
+
+2010
+
+2015
+
+2020
+
+2000
+
+2025
+
+2005
+
+Prevalence of obesity
+
+Prevalence of severe obesity
+
+SNote: Inpatient admission data for 2008-2016 are not shown and are for nonfederal short-term general hospitals and other special hospitals. ource: Centers for Disease Control and Prevention National Center for Health Statistics; RAND Corporation; 2023 American Hospital Association Hospital Statistics.
+
+47
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Demand Is a Function of Disease Burden, Demographics, Consumer Preferences and Access
+
+Because healthcare, and therefore demand for services, is local, markets with a similar population size can have widely divergent demand for healthcare services. For example, while Chicago’s population is projected to shrink between 2023 and 2027, demand for orthopedic surgeries is projected to increase. However, the inverse is true in Houston.
+
+SHRINKING GROWING
+
+CHICAGO, IL
+
+HOUSTON, TX
+
+Current Population: 9,584,302
+
+Current Population: 7,500,883
+
+2023
+
+2023
+
+Orthopedic Surgical Incidence Rate per 10K: 389
+
+Orthopedic Surgical Incidence Rate per 10K: 246
+
+Orthopedic Surgical Procedure Volume: 373,161
+
+Orthopedic Surgical Procedure Volume: 184,765
+
+Projected Population: 9,521,972
+
+Projected Population: 7,895,785
+
+2027
+
+2027
+
+Forecasted Orthopedic Surgical Incidence Rate per 10K: 393
+
+Forecasted Orthopedic Surgical Incidence Rate per 10K: 242
+
+Forecasted Orthopedic Surgical Procedure Volume: 190,027
+
+Forecasted Orthopedic Surgical Procedure Volume: 374,063
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Recent Declines in Primary Care Utilization Will Be Compounded by Tepid Growth in Future Demand
+
+The national median incidence rate for primary care is projected to increase at 0.04% CAGR between 2023 and 2027 as compared to projected population growth of 0.3% CAGR over the same period. In 2027, Americans are expected to need 1.0 primary care visits per year. By 2027, the incidence rate per 10K is forecasted to be between 9,640 (25th percentile) and 10,579 (75th percentile).
+
+NATIONAL HISTORIC & FORECASTED PRIMARY CARE DEMAND, 2017-2027
+
+75th percentile
+
+50th percentile
+
+10,000
+
+25th percentile
+
+8,000
+
+Incidence Rate per 10K
+
+In 2022, the incidence rate was 8,951 per 10K, which
+
+6,000
+
+fell below the 25th percentile forecast.
+
+4,000
+
+2,000
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate. Source: Trilliant Health Demand Forecast.
+
+49
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Behavioral Health Demand Growth Is Projected at 0.5% CAGR
+
+The national median incidence rate for behavioral health services is projected to increase at 0.5% CAGR between 2023 and
+
+2027. In 2027, 25.4% of the U.S. population are predicted to utilize behavioral health services. By 2027, the incidence rate per 10K is forecasted to be between 2,382 (25th percentile) and 2,676 (75th percentile). At the same time, this demand projection does not account for the potential that Federal mandates for preventive screening might increase utilization above historical trends.
+
+NATIONAL HISTORIC & FORECASTED BEHAVIORAL HEALTH DEMAND, 2017-2027
+
+3,000
+
+75th percentile
+
+50th percentile
+
+2,500
+
+25th percentile
+
+2,000
+
+Incidence Rate per 10K
+
+In 2022, the incidence rate was 2,467 per 10K, which fell between the 25th
+
+1,500
+
+and 50th percentile
+
+forecast.
+
+1,000
+
+500
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate. Source: Trilliant Health Demand Forecast.
+
+50
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Major Surgical Demand Is Projected To Decline By 0.1% CAGR
+
+The national median incidence rate for major surgical services is projected to decrease by 0.1% CAGR between 2023 and 2027. In 2027, 16.3% of the U.S. population are predicted to require major surgical services. By 2027, the incidence rate per 10K is forecasted to be between 1,561 (25th percentile) and 1,700 (75th percentile).
+
+NATIONAL HISTORIC & FORECASTED MAJOR SURGICAL SERVICES DEMAND, 2017-2027
+
+1,800
+
+75th percentile
+
+50th percentile
+
+1,600
+
+25th percentile
+
+1,400
+
+Incidence Rate per 10K
+
+1,200
+
+1,000
+
+In 2022, the incidence rate was 1,546 per 10K, which
+
+800
+
+600
+
+fell below the 25th percentile forecast.
+
+400
+
+200
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate. Major Surgical includes Heart/Vascular, OB/GYN, Orthopedic, Neuro/Spine, and Digestive service lines. Source: Trilliant Health Demand Forecast.
+
+51
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Heart/Vascular Surgical Demand Growth Is Projected at 0.2% CAGR
+
+The national median incidence rate for heart/vascular surgical services is projected to increase at 0.2% CAGR between 2023 and 2027. In 2027, 2.2% of the U.S. population are predicted to require a heart/vascular surgical service. By 2027, the incidence rate per 10K is forecasted to be between 206 (25th percentile) and 228 (75th percentile). Projected inpatient growth (0.26% CAGR) is outpacing projected outpatient growth (0.09% CAGR).
+
+NATIONAL HISTORIC & FORECASTED HEART/VASCULAR SURGICAL DEMAND, 2017-2027
+
+250
+
+75th percentile
+
+50th percentile
+
+200
+
+25th percentile
+
+Incidence Rate per 10K
+
+150
+
+In 2022, the incidence rate was 199 per 10K, which
+
+P R O JECTED INP ATIENT AND
+
+O U TP ATIENT D EM AND
+
+100
+
+fell below the 25th percentile forecast.
+
+OP:IP IR RATIO (2027) 1.62
+
+IP/OP 5-YEAR CAGR 0.19%
+
+OP 5-YEAR CAGR 0.09%
+
+50
+
+IP 5-YEAR CAGR 0.26%
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate; IP denotes inpatient; OP denotes outpatient. Source: Trilliant Health Demand Forecast.
+
+52
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Projected OB/GYN Surgical Demand Growth Is Flat
+
+The national median incidence rate for OB/GYN surgical services is projected to remain stable at -0.04% CAGR between 2023 and 2027. In 2027, 2.3% of Americans are predicted to require OB/GYN surgical services. By 2027, the incidence rate per 10K is forecasted to be between 219 (25th percentile) and 242 (75th percentile). Projected outpatient growth (0.03% CAGR) is outpacing projected inpatient growth (-0.10% CAGR).
+
+NATIONAL HISTORIC & FORECASTED OB/GYN SURGICAL DEMAND, 2017-2027
+
+300
+
+75th percentile
+
+250
+
+50th percentile
+
+25th percentile
+
+200
+
+Incidence Rate per 10K
+
+150
+
+P R O JECTED INP ATIENT AND
+
+O U TP ATIENT D EM AND
+
+In 2022, the incidence rate was 211 per 10K, which fell
+
+OP:IP IR RATIO (2027) 1.34
+
+100
+
+below the 25th percentile forecast.
+
+IP/OP 5-YEAR CAGR -0.04%
+
+OP 5-YEAR CAGR 0.03%
+
+50
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+IP 5-YEAR CAGR -0.10%
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate; IP denotes inpatient; OP denotes outpatient. Source: Trilliant Health Demand Forecast.
+
+53
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Maternity Care Closures Reflect Declining U.S. Births and Flat OB/GYN Surgical Demand
+
+As the number of U.S. births declines, a growing number of hospitals are ending obstetrics services. The percent of counties with fewer than two providers increased by 1.0 percentage points from 2016 to 2020, while the percent of counties with moderate access to maternity care decreased by 1.6 percentage points over the same period. With flat demand for surgical OB/GYN services projected between now and 2027, unit closures are likely to continue.
+
+DISTRIBUTION OF COUNTIES BY ACCESS
+
+SELECT HEALTH SYSTEMS CLOSING
+
+TO MATERNITY CARE, 2016-2020
+
+OB/GYN DEPARTMENTS IN 2023
+
+100%
+
+Full access to maternity care counties Moderate access to maternity care counties Low access to maternity care counties Maternity care deserts
+
+90%
+
+80%
+
+45.0% 45.7% 45.4%
+
+70%
+
+Share of Counties (%)
+
+60%
+
+8.7% 8.0% 7.1%
+
+50%
+
+11.7% 11.4% 11.9%
+
+40%
+
+30%
+
+20%
+
+34.6% 34.9% 35.6%
+
+10%
+
+0%
+
+2016 2018 2020
+
+Note: March of Dimes defines maternity care deserts as counties without a hospital offering obstetric care, moderate and low access counties as counties with less than two hospitals offering OB care but differing levels of access to providers offering OB care, and full access counties as counties with more than two hospitals with OB care. Source: March of Dimes Maternity Care Desert Reports; Becker’s Hospital CFO Report; publicly available news releases.
+
+54
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Projected Neuro/Spine Surgical Demand Growth Is Flat
+
+The national median incidence rate for neuro/spine surgical services is projected to remain stable at 0.01% CAGR between 2023 and 2027. In 2027, 0.7% of the U.S. population are predicted to require neuro/spine surgical services. By 2027, the incidence rate per 10K is forecasted to be between 63 (25th percentile) and 71 (75th percentile). Projected outpatient growth (0.16% CAGR) is outpacing projected inpatient growth (-0.09% CAGR).
+
+NATIONAL HISTORIC & FORECASTED NEURO/SPINE SURGICAL DEMAND, 2017-2027
+
+80
+
+75th percentile
+
+70
+
+50th percentile
+
+25th percentile
+
+60
+
+Incidence Rate per 10K
+
+50
+
+In 2022, the incidence rate was 60 per 10K, which fell
+
+40
+
+P R O JECTED INP ATIENT AND
+
+O U TP ATIENT D EM AND
+
+below the 25th percentile forecast.
+
+30
+
+OP:IP IR RATIO (2027) 1.18
+
+IP/OP 5-YEAR CAGR 0.01%
+
+20
+
+OP 5-YEAR CAGR 0.16%
+
+10
+
+IP 5-YEAR CAGR -0.09%
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate; IP denotes inpatient; OP denotes outpatient. Source: Trilliant Health Demand Forecast.
+
+55
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Orthopedic Surgical Demand Growth Is Projected at 0.1% CAGR
+
+The national median incidence rate for orthopedic surgical services is projected to increase at 0.1% CAGR between 2023 and 2027. In 2027, 3.4% of the U.S. population are predicted to require orthopedic surgical services. By 2027, the incidence rate per 10K is forecasted to be between 328 (25th percentile) and 360 (75th percentile). Projected outpatient growth (0.32% CAGR) is outpacing projected inpatient growth (-0.32% CAGR).
+
+NATIONAL HISTORIC & FORECASTED ORTHOPEDIC SURGICAL DEMAND, 2017-2027
+
+75th percentile
+
+350
+
+50th percentile
+
+25th percentile
+
+300
+
+250
+
+Incidence Rate per 10K
+
+200
+
+P R O JECTED INP ATIENT AND
+
+O U TP ATIENT D EM AND
+
+In 2022, the incidence rate was 320 per 10K, which
+
+150
+
+OP:IP IR RATIO (2027) 2.99
+
+fell below the 75th percentile forecast.
+
+IP/OP 5-YEAR CAGR 0.10%
+
+100
+
+OP 5-YEAR CAGR 0.32%
+
+50
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+IP 5-YEAR CAGR -0.32%
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate; IP denotes inpatient; OP denotes outpatient. Source: Trilliant Health Demand Forecast.
+
+56
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Digestive Surgical Demand Growth Is Projected at 0.2% CAGR
+
+The national median incidence rate for digestive surgical services is projected at 0.2% CAGR between 2023 and 2027. In 2027, 7.7% of the U.S. population are predicted to require digestive surgical services. By 2027, the incidence rate is forecasted to be between 738 (25th percentile) and 809 (75th percentile). Projected outpatient growth (0.22% CAGR) is outpacing projected inpatient growth (0.02% CAGR).
+
+NATIONAL HISTORIC & FORECASTED DIGESTIVE SURGICAL DEMAND, 2017-2027
+
+900
+
+75th percentile
+
+800
+
+50th percentile
+
+25th percentile
+
+700
+
+600
+
+Incidence Rate per 10K
+
+500
+
+In 2022, the incidence
+
+P R O JECTED INP ATIENT AND
+
+rate was 755 per 10K,
+
+O U TP ATIENT D EM AND
+
+400
+
+which was between
+
+the 25th and 50th
+
+OP:IP IR RATIO (2027) 6.63
+
+percentile.
+
+300
+
+IP/OP 5-YEAR CAGR 0.22%
+
+200
+
+OP 5-YEAR CAGR 0.22%
+
+IP 5-YEAR CAGR 0.02%
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+100
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate; IP denotes inpatient; OP denotes outpatient. Source: Trilliant Health Demand Forecast.
+
+57
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+How Many Surgical Procedures Are Imperiled by New Therapeutics?
+
+As new therapies come to market and emerging evidence translates into clinical guideline changes (e.g., screening recommendations), it is likely that some high-margin surgical procedures will be replaced with less invasive, patient preferred interventions. Are providers prepared for the potential volume declines and corresponding revenue losses associated with replacement therapies?
+
+CURRENT AND FUTURE SCENARIOS FOR SELECT SURGICAL
+
+PROCEDURES WITH LESS INVASIVE ALTERNATIVES
+
+PRESENT Traditional Care Delivery Standard
+
+FUTURE Potential New Standard
+
+AVERAGE INPATIENT
+
+MINIMUM
+
+APPROXIMATE
+
+POTENTIAL
+
+PROCEDURE OR
+
+LESS INVASIVE INTERVENTION
+
+REPLACEMENT RATE SCENARIOS
+
+ANNUAL PROVIDER
+
+ANNUAL U.S.
+
+PROVIDER REVENUE LOSS
+
+MEDICARE
+
+INTERVENTION
+
+VOLUME
+
+RATE
+
+REVENUE
+
+5% -$133.33M
+
+Bariatric
+
+Surgery 250K $10,667 $2.67B GLP-1 agonists
+
+10% -$266.68M
+
+Replace with medication management
+
+20% -$533.35M
+
+5% -$2.04B
+
+Cardiac Catheterization 1M $40,737 $40.74B PCSK9/SGLT2
+
+10% -$4.07B
+
+inhibitors
+
+20% -$8.15B
+
+5% -$8.79B
+
+Replace with alternate screening test
+
+Fecal occult blood
+
+tests, flexible sigmoidoscopy, fecal DNA testing
+
+Screening Colonoscopy 15M $11,722 $175.83B
+
+10% -$17.58B
+
+20% -$35.17B
+
+Note: The approximate annual procedure volumes are based upon national projections. These scenarios represent the potential outcomes of changes in volume due to alternate treatments becoming available or recommended practice patterns changing. Replacement rate scenarios are merely illustrative and could be higher or lower depending on the specific procedure. GLP-1 denotes glucagon-like peptide-1 receptor. Source: Centers for Medicare and Medicaid Services Inpatient Prospective Payment System.
+
+58
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Projected Oncology Surgical Demand Growth Is Flat
+
+The national median incidence rate for oncology surgical services is projected to remain flat at 0.0% CAGR between 2023 and 2027. This indicates that by 2027, 0.9% of the U.S. population will require oncology surgical services. By 2027, the incidence rate is forecasted to be between 92 (25th percentile) and 105 (75th percentile). While cancer incidence is on the rise, the impact of other factors such as new therapeutics and treatment paradigms could result in differences between surgical and medical oncology demand.
+
+NATIONAL HISTORIC & FORECASTED ONCOLOGY SURGICAL DEMAND, 2017-2027
+
+120
+
+75th percentile
+
+100
+
+50th percentile
+
+25th percentile
+
+80
+
+Incidence Rate per 10K
+
+60
+
+In 2022 the incidence
+
+rate was 88 per 10K, which was below the
+
+25th percentile.
+
+40
+
+20
+
+Observed Incidence Rate Forecasted Median Incidence Rate
+
+0
+
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+
+HISTORIC RATE FUTURE FORECAST
+
+Note: CAGR denotes compound annual growth rate. Source: Trilliant Health Demand Forecast.
+
+59
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Healthcare Is Local…And So Is Demand for Services
+
+Analysis of two large CBSAs — Houston and Chicago — reveals that demand for healthcare services is highly dependent on market characteristics. While Chicago has a declining population, the projected demand for surgical services is higher overall than Houston, which is the second fastest growing metro area in the U.S. Notably, even the fastest growing service line does not exceed 1.0% CAGR in either market.
+
+MARKET-LEVEL FORECASTED SURGICAL DEMAND, 2023-2027 CAGR
+
+0.3%
+
+Major Surgical
+
+0.2%
+
+0.8%
+
+Digestive
+
+0.7%
+
+0.3%
+
+Orthopedic
+
+-0.1%
+
+-0.1%
+
+Neuro/Spine
+
+Chicago-Naperville-Elgin, IL-IN-WI Houston-The Woodlands-Sugar Land, TX
+
+-0.3%
+
+-0.2%
+
+OB/GYN
+
+-0.2%
+
+-0.2%
+
+Heart/Vascular
+
+0.2%
+
+0.5%
+
+Oncology
+
+0.9%
+
+-0.4% -0.2% 0.0% 0.2% 0.4% 0.6% 0.8% 1.0%
+
+CAGR
+
+Note: CAGR denotes compound annual growth rate. Major Surgical includes Heart/Vascular, OB/GYN, Orthopedic, Neuro/Spine, and Digestive service lines. Source: Trilliant Health Demand Forecast.
+
+60
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Projected Demand Growth Is Below Historical Industry Expectations
+
+With historical industry expectations of surgical growth spanning anywhere between 3% and 6% nationally depending on the service line, projected demand growth at the national and local market level tells a different story. Between 2023-2027, the projected CAGR for major surgical service lines nationally ranges from -0.04 (OB/GYN) to 0.2% (Heart/Vascular and Digestive), with the highest and lowest growth markets varying by service line.
+
+SUMMARY OF FIVE-YEAR SURGICAL DEMAND FORECAST, 2023-2027
+
+CATEGORY CAGR (2023-2027)
+
+RATIO OF
+
+CBSA WITH HIGHEST
+
+CBSA WITH LOWEST
+
+TOP OP PROCEDURE
+
+OP:IP
+
+CAGR
+
+CAGR
+
+DRIVING DEMAND
+
+HEART/ VASCULAR 0.2% 1.62 Houston-The Woodlands-
+
+Atlanta-Sandy Springs-
+
+Alpharetta GA Cardiac Catheterization
+
+Sugar Land, TX
+
+OB/GYN -0.04% 1.34 Boston-Cambridge-
+
+Miami-Fort Lauderdale-
+
+Pompano Beach, FL Hysterectomy
+
+Newton, MA-NH
+
+SPINE 0.01% 1.18 New York-Newark-Jersey City, NY-NJ-PA
+
+Washington-Arlington-Alexandria, DC-VA-MD-WV
+
+Surgery on Nerves and
+
+NEURO/
+
+Nervous System
+
+Endoscopy/Arthroscopy
+
+ORTHOPEDIC 0.1% 2.99 Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+
+Houston-The Woodlands-
+
+Procedures on the Musculoskeletal System
+
+Sugar Land, TX
+
+DIGESTIVE 0.2% 6.63 New York-Newark-Jersey City, NY-NJ-PA
+
+Washington-Arlington-Alexandria, DC-VA-MD-WV Colonoscopy
+
+Note: CAGR denotes compound annual growth rate; IP denotes inpatient; OP denotes outpatient. Historical industry expectation percentages were determined based on various news articles and qualitative input from health system and hospital operators responsible for strategic and financial planning decisions. Source: Trilliant Health Demand Forecast.
+
+61
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+The Magnitude of a 1% CAGR Difference Is Significant
+
+Incremental percent differences in a service demand forecast based on compound annual growth rates (CAGR) result in significantly different projections. The difference between a 1% CAGR and a 5% CAGR equates to an almost 60% difference in volume over ten years.
+
+SCENARIOS FOR DIFFERENT FORECASTED CAGR
+
+2022 FORECAS T ED MAJOR SURGICAL
+
+2031 FORECAS T ED MAJOR SURGICAL
+
+S CENARIO
+
+10-YEAR CAGR
+
+VOLUME
+
+VOLUME
+
+1
+
+Major surgical service lines will grow at a CAGR of 1% (HYPOTHETICAL) 38,000,000 1% +10.5%
+
+2
+
+Major surgical service lines will grow at a CAGR of 2% (ACTUAL 50TH PERCENTILE FORECAST) 38,000,000 2% +21.9%
+
+The difference
+
+between 1% CAGR and 5% CAGR equates
+
+Major surgical service lines will grow at a CAGR of 3% (HYPOTHETICAL) 38,000,000 3% +34.4%
+
+3
+
+to an almost
+
+60% volume difference over
+
+10 years
+
+4
+
+Major surgical service lines will grow at a CAGR of 4% (HYPOTHETICAL) 38,000,000 4% +48.0%
+
+5
+
+Major surgical service lines will grow at a CAGR of 5% (HYPOTHETICAL) 38,000,000 5% +69.2%
+
+Note: CAGR denotes compound annual growth rate. Source: Trilliant Health Demand Forecast.
+
+62
+
+T R E N D 4 : D E M A N D T R A J E C T O R Y
+
+Despite the Laws of Economics, the Number of Hospitals Has Remained Relatively Stable Amid Declining Demand
+
+Despite years of declining hospital admissions, the supply of hospitals remains stable.
+
+U.S. COMMUNITY HOSPITALS, 2009-2021
+
+6,000
+
+40
+
+35
+
+5,000
+
+At least 47 hospitals were closed between 2020 and the end
+
+Inpatient Admissions (in Millions)
+
+30
+
+Number of U.S. Hospitals
+
+4,000
+
+25
+
+of 2022.
+
+3,000
+
+20
+
+15
+
+2,000
+
+10
+
+State/Local Government
+
+1,000
+
+For-profit (Investor Owned)
+
+5
+
+Not-for-profit
+
+Inpatient Admissions
+
+0
+
+0
+
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Note: Inpatient admissions are for nonfederal short-term general hospitals and other special hospitals; 2023 American Hospital Association Hospital Statistics includes data through 2021. Source: 2023 American Hospital Association Hospital Statistics; The Cecil G. Sheps Center for Health Services Research; Becker’s Hospital CFO Reports; The Wall Street Journal, Hospital Distress Worsens Amid Labor Scarcity and Inflation.
+
+63
+
+TREND 5
+
+Consumer Behaviors Are Starting To
+
+Manifest in Patient Decision Making
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+Public Dissatisfaction with the Healthcare System Is Growing
+
+Americans are increasingly discontented with the healthcare system. For the first time in 20 years, the majority of Americans (52%) believe the overall healthcare system is substandard, and fewer Americans each year are rating the quality of their own care experiences as high.
+
+AMERICANS' VIEWS OF U.S.
+
+AMERICANS' VIEWS OF OWN
+
+AMERICANS' VIEWS OF CONDITION
+
+HEALTHCARE QUALITY,
+
+HEALTHCARE QUALITY,
+
+OF U.S. HEALTHCARE SYSTEM,
+
+2010-2022
+
+2010-2022
+
+2010-2022
+
+90%
+
+90%
+
+90%
+
+80%
+
+80%
+
+80%
+
+82%
+
+70%
+
+70%
+
+70%
+
+Percent of Americans (%)
+
+72%
+
+55%
+
+60%
+
+60%
+
+60%
+
+62% 48%
+
+50%
+
+50%
+
+50%
+
+48%
+
+40%
+
+40%
+
+40%
+
+31%
+
+27%
+
+30%
+
+30%
+
+30%
+
+21%
+
+22%
+
+32%
+
+26%
+
+20%
+
+20%
+
+20%
+
+12%
+
+17% 20%
+
+10%
+
+10%
+
+10%
+
+4% 6%
+
+11%
+
+0%
+
+0%
+
+0%
+
+2011
+
+2018
+
+2011
+
+2018
+
+2012
+
+2015
+
+2016
+
+2017
+
+2019
+
+2012
+
+2015
+
+2016
+
+2017
+
+2019
+
+2010
+
+2013
+
+2014
+
+2010
+
+2013
+
+2014
+
+2020
+
+2022
+
+2020
+
+2022
+
+2021
+
+2021
+
+2012
+
+2015
+
+2016
+
+2017
+
+2019
+
+2010
+
+2011
+
+2013
+
+2014
+
+2018
+
+2020
+
+2022
+
+2021
+
+Minor/No Problems Major Problems State of Crisis
+
+Excellent/Good Only Fair Poor
+
+Excellent/Good Only Fair Poor
+
+Source: Gallup, Americans Sour on U.S. Healthcare Quality.
+
+65
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+Consumer Choice in Public Programs Is Also Evident As Beneficiaries Increasingly Switch To Medicare Advantage
+
+While total Medicare enrollment is projected to grow 21.7% by 2033, MA is expected to account for 61.6% of enrollment. Switching from Traditional Medicare to MA is increasing over time, with the highest increase observed in 2021. In 2021, the switching rate from Traditional Medicare to MA (7.8% percent) was 6.5X higher than the switching rate from MA to Traditional Medicare (1.2%).
+
+PROJECTED TRADITIONAL MEDICARE VS.
+
+RATES OF MEDICARE SWITCHING, 2006-2022
+
+MEDICARE ADVANTAGE ENROLLMENT,
+
+2023-2033
+
+50
+
+8%
+
+45
+
+45
+
+7%
+
+Number of Beneficiaries (in Millions)
+
+40
+
+6%
+
+35
+
+31
+
+Rate of Switching (%)
+
+5%
+
+30
+
+29 28
+
+25
+
+4%
+
+20
+
+3%
+
+15
+
+2%
+
+10
+
+1%
+
+5
+
+0%
+
+0
+
+2030
+
+2032
+
+2033
+
+2031
+
+2025
+
+2026
+
+2029
+
+2023
+
+2024
+
+2028
+
+2027
+
+2022
+
+2008
+
+2012
+
+2015
+
+2016
+
+2017
+
+2019
+
+2020
+
+2021
+
+2006
+
+2007
+
+2009
+
+2010
+
+2011
+
+2013
+
+2014
+
+2018
+
+Traditional Medicare Medicare Advantage
+
+Traditional to MA MA to Traditional
+
+Note: MA denotes Medicare Advantage. Source: Congressional Budget Office; Xu et. al., Medicare Switching: Patterns Of Enrollment Growth In Medicare Advantage, 2006–22, Health Affairs, 2023.
+
+66
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+Americans Exhibit High Trust in “Dr. Google”
+
+While most Americans cite a physician as their most trusted source for health advice, a sizeable share (38%) report that health websites are their most trusted source. Perhaps unsurprisingly, nearly four in ten Americans report using online information to self-diagnose instead of seeing a physician. Are these behaviors also contributing to reduced primary care utilization?
+
+PERCENT OF AMERICANS WHO REPORT A PHYSICIAN OR HEALTH WEBSITE IS MOST TRUSTED
+
+PERCENT OF AMERICANS WHO REPORT USING ONLINE INFORMATION INSTEAD OF
+
+SOURCE FOR HEALTH ADVICE
+
+SEEING A PHYSICIAN
+
+62%
+
+38%
+
+Total
+
+39%
+
+Yes
+
+66%
+
+34%
+
+Women
+
+61%
+
+No
+
+54%
+
+46%
+
+Men
+
+0% 20% 40% 60% 80% 100%
+
+Percent of Americans (%)
+
+Doctor Health websites
+
+Source: OnePoll and Bayer Poll for American Heart Month, 2023.
+
+67
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+With More Options Available to Consumers, Measuring Share of Care Is Essential
+
+RANGE OF HEALTH SYSTEM SHARE OF CARE,
+
+BY STATE Q4 2020-Q2 2022
+
+Kentucky
+
+Illinois
+
+California
+
+New York
+
+Texas Alabama
+
+Nationally, health system share of care varies widely, spanning from 19.9% to 86.9%. At the state level, North Dakota demonstrates the most narrow range in share of care, with values ranging from 68.8% to 75.9%. New York exhibits the broadest range in share of care, with values ranging from 25.1% to 81.6%. The varying degrees of share of care is in part attributed to available supply of providers – traditional and new entrants – and individual access to care.
+
+Virginia
+
+Arizona
+
+Colorado Wisconsin
+
+Georgia Louisiana
+
+Idaho Florida South Carolina
+
+Arkansas Tennessee New Hampshire
+
+Pennsylvania
+
+Mississippi
+
+Ohio New Jersey
+
+Maryland Michigan Washington D.C.
+
+Minnesota Massachusetts
+
+North Carolina
+
+Oregon Missouri
+
+Indiana
+
+Nevada New Mexico
+
+Washington
+
+Oklahoma
+
+Iowa Connecticut West Virginia
+
+60% Range
+
+Kansas
+
+Maine Nebraska
+
+40%
+
+Utah Rhode Island
+
+Note: Hospitals with a minimum size of 200 beds were included in the analysis. Data is not shown for the five states with two or fewer hospitals meeting criteria. System share of care is defined as following: for patients that have had at least two encounters at a short-term acute care hospital between Q4 2020 and Q3 2022, the percent of visits that occur at a hospital within the same system. Source: Trilliant Health national all-payer claims database.
+
+20%
+
+Montana South Dakota
+
+North Dakota
+
+0%
+
+0% 20% 40% 60% 80% 100%
+
+Health System Share of Care (%)
+
+68
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+Younger Patient Cohorts Exhibit More Consumer-Like Decisions in Accessing Care
+
+Patients are people, and people are consumers, and consumers make choices based on numerous factors. As retailers, technology companies and omni-channel providers flood the healthcare delivery market, patients have more care options than ever. Notably, 58% of Americans reported that they are likely to seek non-emergent care from a retail pharmacy.
+
+QUARTERLY NEWS MENTIONS OF DIRECT-TO-CONSUMER HEALTHCARE,
+
+SHARE OF AMERICANS WHO REPORTED VISITING
+
+A PHARMACY FOR MEDICAL CARE IN 2022,
+
+Q3 2021-Q2 2023
+
+BY GENERATION
+
+56% 54%
+
+1,400
+
+60%
+
+50%
+
+Share of Americans (%)
+
+40% 35%
+
+1,200
+
+40%
+
+30%
+
+1,000
+
+Number of Quarterly Mentions
+
+20%
+
+10%
+
+800
+
+0%
+
+Gen Z Millennials Gen X Baby Boomers
+
+600
+
+83%
+
+1 in 3
+
+58%
+
+400
+
+Americans who would
+
+Americans who say convenience is more
+
+Americans who are likely to visit a retail pharmacy as a first step
+
+200
+
+still go to a traditional
+
+physician’s office for
+
+important for non-emergent
+
+an annual physical
+
+for seeking nonemergent medical care
+
+0
+
+(i.e., preventive primary care services)
+
+scenarios
+
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+
+(i.e., urgent care
+
+services)
+
+Source: Publicly available news sources; Wolters Kluwer Pharmacy Next: Consumer Care and Cost Trends survey.
+
+69
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+When Given the Choice, Fewer Consumers Choose Telehealth
+
+The 45.8% decline in telehealth visit volumes from a peak in Q2 2020 to Q4 2022 reflects how the expanded availability of virtual care options has not shifted widespread consumer preference. Tapering demand suggests that continued telehealth use is concentrated to niche, discrete applications and consumer segments.
+
+TELEHEALTH VISIT VOLUMES, Q1 2019-Q4 2022
+
+90
+
+80
+
+70
+
+60
+
+Visits (in Millions)
+
+50
+
+40
+
+While volumes peaked at
+
+30
+
+76.6M in Q2 2020, visits in Q4 2022 totaled 41.5M,
+
+20
+
+representing a 45.8% decline
+
+10
+
+0
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2019 2020 2021 2022
+
+Source: Trilliant Health national all-payer claims database.
+
+70
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+Half of Telehealth Users Only Used It Once
+
+In 2022, 80.2% of telehealth users had four or fewer visits. Super Utilizers, who utilized telehealth 25+ times, tend to be younger (average age 34.6) and female (65.6%). In contrast, Singular Utilizers, who used telehealth once, are slightly older (average age 45.3) and mostly female (60.7%). What does the high proportion of single telehealth users indicate about consumer preferences for or satisfaction with virtual care?
+
+ANNUAL UTILIZATION PATTERNS OF TELEHEALTH USERS, 2022
+
+48.8%
+
+31.4%
+
+5.9% 11.3%
+
+2.5%
+
+Average Utilizer
+
+Singular Utilizer
+
+5-6 Visits Low Utilizer
+
+≥25 Visits High Utilizer
+
+Super Utilizer
+
+2-4 Visits
+
+1 Visit
+
+7-24 Visits
+
++0.1 percentage points from 2021
+
++0.1 percentage points from 2021
+
+No change from
+
+-0.4 percentage points from 2021
+
+-0.1 percentage points from 2021
+
+2021
+
+% FEMALE 60.7% 63.0% 64.8% 66.7% 65.6%
+
+AVERAGE AGE 45.3 43.8 41.5 38.3 34.6
+
+Anxiety
+
+TOP DIAGNOSES
+
+Stress and adjustment disorders
+
+Major depression
+
+Note: Percentages may not add up to 100% due to rounding. As a reference point, previous findings from Trilliant Health research focused exclusively on telehealth trends suggest that approximately a quarter of Americans used telehealth during the first two years of the pandemic. Utilization patterns of telehealth users should therefore be interpreted from the lens that the total number of users is still a relatively small population segment, which is comparable to the common “80/20 rule” also known as the Pareto principle. Source: Trilliant Health national all-payer claims database.
+
+71
+
+T R E N D 5 : C O N S U M E R D E C I S I O N S
+
+Consumers Use Telehealth Primarily for Behavioral Health Needs
+
+Telehealth for the treatment and management of behavioral health conditions has increased consistently since 2019, a trend not seen in any other clinical application of virtual care. Compared to Q1 2020, the share of telehealth for behavioral health reasons increased from 41.8% to 62.8% in Q4 2022. This further validates that consumers largely view telehealth as an appropriate substitute for low-acuity in-person behavioral health care, and likely for not much else (e.g., chronic condition management).
+
+TELEHEALTH UTILIZATION, BEHAVIORAL HEALTH VS. ALL OTHER, Q1 2019-Q4 2022
+
+100%
+
+90%
+
+62.8% of Q4 2022 telehealth visits were for behavioral health reasons
+
+80%
+
+Share of Telehealth Visits (%)
+
+70%
+
+41.8% of Q1 2020 telehealth visits were for behavioral health reasons
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+All Other Behavioral Health
+
+0%
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+2019 2020 2021 2022
+
+Source: Trilliant Health national all-payer claims database.
+
+72
+
+TREND 6
+
+The Traditional Care Pathway Is
+
+Becoming Disintermediated
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Alternative Delivery Models Are Largely Transactional in Nature
+
+As new models of care and new players enter the health economy, healthcare is becoming more disintermediated. The focus of consumer interactions will be increasingly transactional and disconnected from the broader healthcare system. For example, while retail players meet a healthcare consumer’s need for convenient care for low-acuity conditions (e.g., sinusitis), the lack of relationship between the consumer and retail provider makes it even more challenging for the individual to navigate the system for the broader set of medical services they should receive (e.g., preventive screening).
+
+ALTERNATIVE HEALTHCARE DELIVERY MODELS
+
+REVENUE MODEL CONSUMER INTERACTION
+
+STRATEGY FFS RISK TRANSACTIONAL LONGITUDINAL EXAMPLES
+
+Urgent Care
+
+Digital Health
+
+Retail
+
+Value-Based Primary Care
+
+Ambulatory Surgery Centers
+
+Freestanding ED
+
+Payvider
+
+Note: FFS denotes fee-for-service; ED denotes emergency department.
+
+74
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Surgical Care Is Gradually Moving Into ASCs
+
+For years, surgical care has increasingly been shifting into the outpatient setting, such as HOPDs and ASCs. From 2021 to 2022, the share of surgical care delivered specifically at ASCs increased from 21.8% to 22.2%, representing approximately 19M surgical procedures in 2022.
+
+SURGICAL VOLUME AT AMBULATORY SURGERY CENTERS, 2017-2022
+
+ASC SURGICAL VOLUME SHARE OF ALL SURGICAL VOLUME AT ASCs
+
+20
+
+100%
+
+19.0M
+
+16
+
+80%
+
+16.7M
+
+Share of Volume (%)
+
+Visits (in Millions)
+
+12
+
+60%
+
+8
+
+40%
+
+4
+
+20%
+
+19.9% 22.2%
+
+0
+
+0%
+
+2017 2018 2019 2020 2021 2022
+
+2017 2018 2019 2020 2021 2022
+
+Note: ASC denotes ambulatory surgery center; HOPD denotes hospital outpatient department. ASC surgical volumes are not fully inclusive of Traditional Medicare. Source: Trilliant Health national all-payer claims database.
+
+75
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Lower Extremity Joint Replacements Grew Over 300% at ASCs
+
+From 2017 to 2022, the surgical procedures with the highest volume growth at ASCs were total knee or hip replacements (335.3%) and arterial and veinous procedures (+184.9%), while arterial and veinous ligation procedures (-36.5%) and proctoscopies (-29.8%) decreased most. However, the highest growth procedures do not represent the highest volume ASC procedures (e.g., only 12.4% of total knee or hip replacements were delivered at ASCs).
+
+PERCENT CHANGE IN SURGICAL VOLUME AT AMBULATORY SURGERY CENTERS,
+
+BY PROCEDURE TYPE, 2017-2022
+
+HIGHEST GROWTH PROCEDURES LOWEST GROWTH PROCEDURES
+
+Joint Replacement of Knee or Hip
+
+335.3%
+
+-36.5%
+
+Ligation Procedures on Arteries and Veins
+
+184.9%
+
+-29.8%
+
+Other Procedures on Arteries and Veins
+
+Proctosigmoidoscopy
+
+Pacemaker or Pacing Cardioverter-
+
+91.0%
+
+-22.6%
+
+Other Surgical Procedures on the Shoulder
+
+Defibrillator Procedures
+
+Surgical Procedures for
+
+Lithotripsy and Ablation Procedures on the Kidney
+
+55.6%
+
+-21.1%
+
+In Vitro Fertilization
+
+51.6%
+
+Cardiac Catheterization
+
+-19.2%
+
+Abortion Procedures
+
+Repair Revision and/or Reconstruction
+
+49.3%
+
+-18.4%
+
+Surgical Procedures on the Cervix Uteri
+
+Procedures on the Knee Repair Revision and/or Reconstruction
+
+Fracture and/or Dislocation Procedures on the Foot and Toes
+
+45.7%
+
+-15.9%
+
+Procedures on the Upper Arm
+
+Spinal Fusion
+
+43.2%
+
+-15.1%
+
+Surgical Procedures on the Vulva
+
+Percutaneous Cardiovascular
+
+42.8%
+
+Hernia Procedures
+
+-12.4%
+
+Procedures Repair Revision and/or Reconstruction
+
+Fracture and/or Dislocation Procedures on the Hand and Fingers
+
+39.0%
+
+-9.1%
+
+Procedures on the Ankle Endovascular Revascularization (Open or Percutaneous Transcatheter) Procedures
+
+Penis Procedures
+
+34.7%
+
+-8.3%
+
+Laparoscopic Procedures on the Biliary Tract Repair Revision and/or Reconstruction Procedures on the Foot and Toes Fracture and/or Dislocation Procedures on the Humerus (Upper Arm) and Elbow
+
+30.2%
+
+Other Procedures on the Prostate
+
+-8.3%
+
+Repair Revision and/or Reconstruction Procedures on the Leg (Tibia and Fibula)
+
+28.7%
+
+-6.6%
+
+28.7%
+
+-6.2%
+
+Testes Procedures
+
+Other Respiratory System O.R. Procedures
+
+28.4%
+
+-5.5%
+
+Prostatectomy
+
+Note: ASC denotes ambulatory surgery center. Source: Trilliant Health national all-payer claims database.
+
+76
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Retailers Are Primarily Limited to Delivery of Low-Acuity Services
+
+The average patient “profile” seen by CVS and Walmart varies substantially, with CVS serving a primarily younger population (median age 35) and Walmart (median age 67) serving a primarily older population. Relative to CVS, Walmart appears to deliver more chronic condition management.
+
+SHARE OF CARE BY AGE AND MOST COMMON DIAGNOSES AT SELECT RETAILERS, 2021-2022
+
+SHARE OF CARE BY AGE COMMON DIAGNOSES
+
+50%
+
+25%
+
+Median Age: 35 Median Age: 67
+
+40%
+
+20%
+
+30%
+
+15%
+
+20%
+
+10%
+
+10%
+
+5%
+
+0%
+
+<20 20-29 30-39 40-49 50-59 60-69 70+ 0%
+
+<20 20-29 30-39 40-49 50-59 60-69 70+
+
+2021 2022
+
+REASON FOR VISIT
+
+REASON FOR VISIT
+
+Contact with/exposure to communicable disease
+
+Other general symptoms and signs
+
+Observation for suspected disease
+
+Type 2 diabetes
+
+Encounter for screening for infectious disease
+
+Special examination without complaint
+
+COVID-19
+
+Contact with/exposure to communicable disease
+
+Acute pharyngitis
+
+Primary hypertension
+
+Other general symptoms and signs
+
+Adjustment disorders
+
+Chronic kidney disease
+
+Chronic obstructive pulmonary disease
+
+Acute sinusitis
+
+General examination without complaint
+
+Otitis media
+
+Type 1 diabetes
+
+Note: Volume for immunizations not shown. Data is only shown for a select number of high-volume clinical reasons, and therefore percentages should not total 100. Source: Trilliant Health national all-payer claims database.
+
+77
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Patient Journeys Can Vary in Terms of Cost and Utilization, Even When Using Lower Cost Care Settings
+
+A behavioral health condition can exacerbate other physical comorbidities (e.g., diabetes), thereby increasing a patient’s total cost of care. Splitting care across multiple settings can also result in costs being higher or lower, depending on where a patient is seeking care, which declined by 46.5% for Patient 3 but increased by 19.8% for Patient 1.
+
+PATIENT JOURNEYS AND TOTAL COST OF CARE FOR THREE MAJOR DEPRESSION PATIENTS, 2018-2022
+
+HEALTHCARE UTILIZATION BY SETTING, VISITS BY MONTH
+
+% INCREASE IN COST
+
+DEMOGRAPHICS COMORBIDITIES
+
+2022 VS. 2018 2018 2019 2020 2021 2022
+
+ED Hospital Outpatient
+
+Diabetes, Bipolar Disorder,
+
+Age: 53 Pay Type: Medicaid
+
+Outpatient Surgical Behavioral Health
+
+1
+
++19.8%
+
+Migraine, Adjustment
+
+Primary Care Telehealth
+
+Disorder
+
+Age: 29 Pay Type: Medicaid
+
+Diabetes, Schizoaffective
+
+2
+
+Disorder +55.4%
+
+Diabetes,
+
+3
+
+Age: 55 Pay Type: Commercial
+
+Asthma, Emphysema, Vertebral Disk
+
+-46.5%
+
+Herniation
+
+Note: ED denotes emergency department. Examples are illustrative but represent data from actual deidentified patient journeys. Total cost of care is inclusive of medical costs incurred within the scope of a patient's insurance benefit in the following settings: emergency department, hospital inpatient, outpatient surgical, behavioral health, primary care and telehealth. Source: Trilliant Health national all-payer claims database.
+
+78
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Telehealth TAM Will Be Constrained by Increasing Supply, Decreasing Demand and Decreasing Marginal Cost of Delivery
+
+As telehealth price declines, the TAM will slowly approach $0 in the commercially insured market. In addition to UnitedHealthcare’s decision to provide telehealth at no cost to the consumer, Walmart has in the last 12 months reduced the price per virtual visit from $67 to $49 — equivalent to a $7B decrease in the TAM.
+
+TELEHEALTH TOTAL ADDRESSABLE MARKET SCENARIOS
+
+PATIENT
+
+TELEHEALTH
+
+SCENARIO
+
+PATIENTS TAM FOR TELEHEALTH
+
+VISIT PRICE
+
+PUBLISHED BY TRILLIANT HEALTH
+
+The current price-setter in a market where all 2020 and 2021 telehealth patients continue telehealth use $49 77M $49 × 77M × 5
+
+1
+
+IN FEBRUARY 2022
+
+visits = $19B
+
+Walmart is the price-setter in a market where only Average, High and Super Utilizers continue telehealth use $49 12M $49 × 12M × 5
+
+2
+
+visits = $3B
+
+$12/ month 148M $12 × 12 x 148M =
+
+3
+
+Access to telehealth services becomes part of an Amazon Prime membership (hypothetical)
+
+$21B
+
+Commercial health plans (e.g., UnitedHealthcare) offer telehealth for enrollees at no cost, bringing the effective marginal cost down to $0 in a market where all commercially insured individuals could use that benefit
+
+~$0* 176M $0 × 176M × 5
+
+4
+
+*
+
+visits = $0
+
+UnitedHealthcare began offering its low-acuity telehealth service at $0 as a benefit in certain fully insured plans — including HDHPs *ANNOUNCED JULY 2023
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Retailers Evidently View Low-Acuity Care as a Loss Leader
+
+Given the sizeable share of retail-based low-acuity care services, heightened competition among new entrants, and effectively zero marginal cost of delivery for retailers, how will large retailers compete on price? With retail pharmacy revenue ranging from $24.1B to $140.1B, retailers have the scale to treat primary care delivery as a loss leader.
+
+Market Price Setter
+
+74M CVS Loyalty
+
+10M 175M
+
+Members 39M Aetna Members
+
+37M
+
+per day Touchpoints with Americans
+
+per day Amazon Prime members over age 18
+
+Employs Physicians? Yes
+
+Yes
+
+Yes Yes
+
+Yes Yes Yes Yes Revenue
+
+Retail Pharmacy?
+
+Revenue $140.1B
+
+Revenue
+
+Revenue undisclosed
+
+$24.1B
+
+$85.2B
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Retailers Are Creating a Closed Loop System for Low-Acuity Care
+
+Retailers like CVS and Walgreens and other newer entrants like Amazon have disintermediated aspects of low-acuity healthcare by offering healthcare services that often result in prescriptions, which can be filled in their own pharmacies. While retailers claim their model is not intended to replace traditional primary care providers, psychographics reveals that some consumers select healthcare solely on convenience. What are the implications for traditional providers if large numbers of consumers prefer transactional models?
+
+“
+
+“
+
+“Signify Health and Oak Street Health…bring core capabilities to our multi-payor value-based care platform that drive optimal patient engagement with health services across multiple channels. In the short time since we closed these transactions, we've launched efforts to drive high patient engagement by leveraging our CVS Health assets.”
+
+MinuteClinic, located in select CVS Pharmacy® locations, provides a convenient, accessible option between primary care and urgent care. “We perform most of the types of services that a primary care doctor would perform in the community,” says Dr. Creagh Milford, SVP of CVS Retail Health, including sick care, prevention and wellness services, and management for chronic conditions like diabetes or heart disease.
+
+“By the end of 2023, we expect to have Oak Street clinics in 25 states, up from 21 at the close of the transaction. We will also open new Oak Street clinics co-located with CVS Pharmacies this year and have already identified additional locations for 2024.”
+
+While retail health clinics are not designed to replace primary care providers, they've grown to better support the primary care-based health system, expanding their services to include preventive care like school physicals, well-woman exams and care of common chronic conditions like diabetes and high blood pressure.
+
+- CVS PRESIDENT, CEO, AND DIRECTOR KAREN LYNCH ON Q2 2023 EARNINGS CALL
+
+“We are more than flu shots and sore throats.”
+
+- CVS PRESS RELEASE, JUNE 20, 2023
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Different Care Journeys Reveal Disintermediation in Healthcare
+
+These three scenarios show that while patients can leverage the faster time to treatment for certain low-acuity conditions afforded by retailers, the transactional retail model is not designed to match patients with preventive or higher-acuity care. Such care is typically rendered by a provider with which the patient has an established relationship. When a patient has care needs outside of a retailer’s “closed loop” system, the patient has to “restart” or find other options, resulting in “friction costs” of time and money.
+
+CARE JOURNEY SCENARIOS FOR PATIENT WITH CANCER
+
+Laboratory
+
+Specialist Cancer Diagnosis
+
+Primary Care
+
+Recommended Cancer Screening
+
+Tests
+
+Provider
+
+SCENARIO 1
+
+Patient initially sees PCP, receives recommended screening, visits specialist and receives cancer diagnosis
+
+4 Weeks
+
+SCENARIO 2
+
+Patient goes to retail pharmacy clinic, receives prescription to treat complaint, never receives cancer diagnosis
+
+1 Day
+
+Patient with persistent cough
+
+CVS Pharmacy Cough suppressant
+
+SCENARIO 3
+
+Patient goes to retail pharmacy clinic, receives prescription to treat complaint, symptoms persist, and patient goes to PCP, receives recommended screening, visits specialist and receives cancer diagnosis
+
+prescribed
+
+7 Weeks+
+
+• Male
+
+• 55 years old
+
+• History of smoking
+
+Symptoms persist
+
+82
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Even Tele-Behavioral Health, Which Is a Viable Substitute for In-Person Care, Is Still Coupled With Follow-Up Within one week, 11.1% of all telehealth visits nationally resulted in an in-person follow-up visit for the same clinical reason. However, with that timeframe expanded to three weeks, the share of in-person follow-up visits increases to 56.5%, with behavioral health diagnoses accounting for the majority of follow-up care, also reflecting omni-channel use.
+
+SHARE OF ALL TELEHEALTH VISITS INCLUDING BEHAVIORAL HEALTH WITH CORRESPONDING IN-PERSON
+
+VISIT WITHIN ONE AND THREE WEEKS, 2021-2022
+
+1-WEEK FOLLOW-UP PERIOD 3-WEEK FOLLOW-UP PERIOD
+
+T O P D I A G N O S E S R E Q U I R I N G I N - P E R S O N
+
+T O P D I A G N O S E S R E Q U I R I N G I N - P E R S O N
+
+F O L L O W - U P
+
+F O L L O W - U P
+
+Reaction to severe stress, and adjustment
+
+Reaction to severe stress, and adjustment
+
+disorders
+
+disorders
+
+43.5%
+
+Other anxiety disorders
+
+Major depressive disorder, recurrent
+
+Major depressive disorder, recurrent
+
+Pervasive developmental disorders
+
+Depressive episode
+
+Other anxiety disorders
+
+Bipolar disorder
+
+Opioid-related disorders
+
+Attention-deficit hyperactive disorder
+
+88.9%
+
+Bipolar disorder
+
+Pervasive developmental disorders
+
+Attention-deficit hyperactive disorder
+
+Opioid-related disorders
+
+Depressive episode
+
+Persistent mood affective disorders
+
+Contact with suspected exposure to
+
+communicable disease
+
+Specific developmental disorders of speech
+
+and language
+
+Alcohol related disorders
+
+56.5%
+
+Alcohol related disorders
+
+Schizoaffective disorders
+
+Schizoaffective disorders
+
+Specific developmental disorders of speech
+
+and language
+
+Contact with suspected exposure to
+
+communicable disease
+
+Persistent mood affective disorders
+
+Encountering health services for other
+
+Type 2 diabetes
+
+counseling and medical advice
+
+11.1%
+
+Back pain
+
+Type 2 diabetes
+
+In-Person Follow-Up No Follow-Up
+
+Note: The analysis considered two time periods to account for potential scheduling delays. Source: Trilliant Health national all-payer claims database.
+
+83
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+To What Extent Is Telehealth Increasing Access vs. Creating Duplication of Service?
+
+When behavioral health is excluded, 16.7% of telehealth visits nationally in 2021 and 2022 resulted in an in-person follow-up visit for the same clinical reason after one week. This percentage increased to 29.2% for an appointment within three weeks, most commonly for general encounters and chronic condition management.
+
+SHARE OF TELEHEALTH VISITS EXCLUDING BEHAVIORAL HEALTH WITH CORRESPONDING IN-PERSON
+
+VISIT WITHIN ONE AND THREE WEEKS, 2021-2022
+
+1-WEEK FOLLOW-UP PERIOD 3-WEEK FOLLOW-UP PERIOD
+
+T O P D I A G N O S E S R E Q U I R I N G I N - P E R S O N
+
+T O P D I A G N O S E S R E Q U I R I N G I N - P E R S O N
+
+F O L L O W - U P
+
+F O L L O W - U P
+
+Contact with suspected exposure to
+
+Contact with suspected exposure to
+
+communicable disease
+
+communicable disease
+
+Encountering health services for other
+
+Encountering health services for other
+
+counseling and medical advice
+
+counseling and medical advice
+
+Type 2 diabetes
+
+General examination
+
+70.8%
+
+COVID-19
+
+General examination
+
+83.3%
+
+Type 2 diabetes
+
+Back pain
+
+Back pain
+
+Hypertension
+
+Hypertension
+
+COVID-19
+
+Abnormal physiological development
+
+Joint disorders
+
+Joint disorders
+
+Sleep disorders
+
+Upper respiratory infection
+
+Abnormal physiological development
+
+Encounter for screening for infectious and
+
+Obesity
+
+parasitic diseases
+
+Abdominal pain
+
+Sleep disorders
+
+29.2%
+
+Upper respiratory infection
+
+Abdominal pain
+
+Cough
+
+16.7%
+
+Medical observation
+
+Encounter for screening for infectious and
+
+Cough
+
+parasitic diseases
+
+In-Person Follow-Up No Follow-Up
+
+Note: The analysis considered two time periods to account for potential scheduling delays. Source: Trilliant Health national all-payer claims database.
+
+84
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Most Physicians Perceive Quality of Video Telehealth as Inferior to In-Person Care
+
+Given the care disintermediation inherent to telehealth, it is unsurprising that over half (61%) of physicians and 33% of patients perceive video telehealth to be lower quality than in-person healthcare visits. These views are driven by concerns related to the inability to conduct physical examinations, technical difficulties and communication difficulties.
+
+PHYSICIAN AND PATIENT PERCEPTIONS QUALITY OF CARE OF
+
+VIDEO TELEHEALTH VS. IN-PERSON VISITS
+
+Much Worse A Little Worse A Little Better Much Better
+
+About the Same
+
+Physicians who conducted
+
+12%
+
+49%
+
+29%
+
+4%
+
+2%
+
+video visits (weighted %)
+
+Patients who attended video visits (weighted %)
+
+7%
+
+26%
+
+51%
+
+10%
+
+6%
+
+PHYSICIANS’ REASONS FOR PERCEIVED POORER QUALITY BY VIDEO
+
+Conducting a physical exam by video is cumbersome or inaccurate
+
+Coordinating any test or lab results becomes difficult
+
+It is difficult to obtain a patient’s vital signs by video
+
+It is difficult to develop effective rapport by video
+
+Technical difficulties, such as internet connectivity, interfere with the appointment
+
+Collecting a patient history by video is cumbersome or inaccurate
+
+Source: SteelFisher, et al., Video Telemedicine Experiences In COVID-19 Were Positive, But Physicians And Patients Prefer In-Person Care For The Future, Health Affairs, 2023.
+
+© 2 0 2 3 T R I L L I A N T H E A L T H 85
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+Employers Also See More Fragmentation of Care Experience
+
+Employer confidence that virtual care will impact care delivery dropped from 85% to 74% in 2023. The majority of large firms are concerned about siloed virtual care platforms and the lack of integration between virtual care vendors and the broader healthcare system, potentially worsening care quality and outcomes for employees.
+
+PERCENT OF LARGE EMPLOYERS CONCERNED ABOUT SELECT ASPECTS OF VIRTUAL CARE
+
+17%
+
+Cost of virtual health solutions
+
+21%
+
+Virtual health investment in unproven solutions
+
+26%
+
+Saturation of solutions
+
+31%
+
+Unnecessary/duplicative services
+
+57%
+
+Quality of care
+
+60%
+
+Lack of integration between vendors
+
+69%
+
+Siloed care experience due to lack of coordination
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% Percent of Employers (%)
+
+Source: Business Group on Health’s 2023 Large Employers’ Health Care Strategy Survey.
+
+86
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+The Number of Retail- and Home-Based Care Providers Has Steadily Grown
+
+Since they first launched in the 1980s, the number of retail clinic operators has steadily increased to capitalize on the transition to outpatient care delivery and demand, growing by over 2,000% between 1981 and 2023. The home-based care market has also grown since beginning in 1960s, averaging more than one new entrant per year.
+
+TIMELINE OF SELECT SUPPLIERS OFFERING RETAIL-BASED CARE
+
+Running Count of Providers
+
+10
+
+60
+
+Number of New Entrants
+
+50
+
+8
+
+40
+
+6
+
+30
+
+4
+
+20
+
+2
+
+10
+
+0
+
+0
+
+2000 - 2003 2004 - 2007 2008 - 2011 2012 - 2015 2016 - 2019 2020 - 2023
+
+TIMELINE OF SELECT SUPPLIERS OFFERING HOME-BASED CARE
+
+15
+
+100
+
+Running Count of Providers
+
+Number of New Entrants
+
+12
+
+80
+
+9
+
+60
+
+6
+
+40
+
+3
+
+20
+
+0
+
+0
+
+2000 - 2003 2004 - 2007 2008 - 2011 2012 - 2015 2016 - 2019 2020 - 2023
+
+Year Count Running Count
+
+Note: Prior to 2000, there were at least 16 retail-based providers operating in the market but their logos have not been included. Prior to 2000, there were at least 59 home-based care providers but their logos have not been included. Source: Publicly available company information.
+
+87
+
+T R E N D 6 : D I S I N T E R M E D I A T I O N
+
+The Number of Women’s Health Care Providers Has Steadily Grown
+
+Since 2014, the market for women’s healthcare providers has skyrocketed, with an average of 14 new entrants joining the market annually. The number of new entrants slowed starting in 2021. How will these women’s health providers fare in a health economy where more traditional providers are shuttering OB/GYN services and demand is projected to decline?
+
+TIMELINE OF SELECT SUPPLIERS OFFERING WOMEN’S HEALTH SERVICES
+
+140
+
+20
+
+120
+
+15
+
+100
+
+Running Count of Providers
+
+Number of New Entrants
+
+80
+
+10
+
+60
+
+40
+
+5
+
+20
+
+0
+
+0
+
+2001 2004 2007 2008 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+Year Count Running Count
+
+Source: Publicly available company information.
+
+88
+
+TREND 7
+
+New Models of Care Are Further
+
+Constraining Provider Supply
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+UHC and Kaiser Permanente Control Almost 10% of U.S. Physicians
+
+While health systems as a collective stakeholder remain the largest employer of physicians, two large "payviders” — Optum and Kaiser Permanente — are the two largest employers of U.S physicians.
+
+TOP EMPLOYERS OF U.S. PHYSICIANS
+
+70,000
+
+Number of employed physicians
+
+23,982
+
+Number of employed physicians
+
+1.047M Total Active U.S. Physicians
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+More Organizations Are Competing for an Even Smaller Number of Care Providers
+
+The net number of physicians that started and stopped practicing between 2018 and 2022 resulted in a -2.3% workforce reduction. With the variety of employment options growing (e.g., new entrants), competition is growing for employing the shrinking supply of physicians. Notably, 9.0% of physicians that deliver E&M services changed employers from 2021 to 2022.
+
+CHANGES IN U.S. PHYSICIAN WORKFORCE, 2018-2022
+
+YEAR-OVER-YEAR PERCENT CHANGE OF ALL PHYSICIANS
+
+PERCENT OF PHYSICIANS DELIVERING E&M SERVICES
+
+Net Change 2018-2022
+
+2018–2019
+
+0.5%
+
+-2.3% 11.7% 9.5% Changed Employer
+
+0.1%
+
+0.0%
+
+Changed Practice Location
+
+Percent Change (%)
+
+-0.2%
+
+-0.5%
+
+2021–2022
+
+-1.0%
+
+17.0% Changed Practice Location 9.0% Changed Employer
+
+-0.9%
+
+-1.2% -1.5%
+
+2018-2019 2019-2020 2020-2021 2021-2022
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+Not All Medical Specialties Are Projected To Meet Demand
+
+Between 2022 and 2035, the national projected adequacy of most medical physicians is declining and below 100%. Projected 2035 adequacy is lowest for nephrologists (78.7%) and highest for pulmonologists (174.4%).
+
+PROJECTED ADEQUACY OF MEDICAL PHYSICIANS, 2022-2035
+
+180%
+
+Anesthesiology Physicians
+
+Cardiology Physicians Critical Care Medicine Physicians
+
+160%
+
+Dermatology Physicians
+
+Emergency Medicine Physicians Endocrinology Physicians
+
+140%
+
+Family Medicine Physicians
+
+Percent Adequate (%)
+
+Gastroenterology Physicians Internal Medicine Physicians
+
+Geriatrics Physicians
+
+120%
+
+Hematology & Oncology Physicians
+
+Hospital Medicine Physicians Infectious Diseases Physicians
+
+100%
+
+Nephrology Physicians
+
+Neurology Physicians Obstetrics & Gynecology Physicians
+
+Pulmonology Physicians
+
+80%
+
+Radiation Oncology Physicians Rheumatology Physicians
+
+Urology Physicians
+
+60%
+
+2032
+
+2035
+
+2030
+
+2031
+
+2033
+
+2034
+
+2023
+
+2024
+
+2028
+
+2022
+
+2025
+
+2026
+
+2027
+
+2029
+
+Source: Health Resources & Services Administration Workforce Projections.
+
+92
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+Projected Specialized Psychiatrist Supply Is Not Adequate
+
+The national median incidence rate for behavioral health services is projected to increase at 0.5% CAGR between 2023 and
+
+2027. Between 2022 and 2035, the national projected adequacy of most behavioral health providers is increasing and above 100%. Projected adequacy by 2035 is lowest for adult psychiatry (69.3%) and highest for psychiatric nurse practitioners (212.4%). However, behavioral health provider supply may become more constrained if Federal mandates for preventive screenings are implemented.
+
+PROJECTED ADEQUACY OF BEHAVIORAL HEALTH PROVIDERS, 2022-2035
+
+220%
+
+Addiction Counselors
+
+200%
+
+Adult Psychiatry
+
+Child & Adolescent Psychiatry
+
+180%
+
+Mental Health and Substance Abuse Social Workers
+
+Percent Adequate (%)
+
+160%
+
+Mental Health Counselors
+
+140%
+
+Psychiatric Nurse Practitioners
+
+120%
+
+Psychiatric Physician Assistants
+
+100%
+
+Psychologists
+
+80%
+
+60%
+
+2035
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+2027
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2029
+
+2028
+
+Source: Health Resources & Services Administration Workforce Projections.
+
+93
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+Projected Allied Health Supply Positive for Offsetting Gaps
+
+Between 2022 and 2035, the national projected adequacy of most allied health providers is increasing and above 100%. Projected 2035 adequacy is lowest for licensed practical nurses (82.6%) and highest for nurse practitioners (205.1%). However, given the differences in patient needs and clinical offerings between non-traditional providers (e.g., retail) and traditional (e.g., hospital), these gaps may widen over time.
+
+PROJECTED ADEQUACY OF ALLIED HEALTH PROVIDERS, 2022-2035
+
+220%
+
+Audiologists
+
+Licensed Practical Nurses
+
+200%
+
+Medical Assistants
+
+Nurse Anesthetists
+
+180%
+
+Nurse Midwives
+
+Percent Adequate (%)
+
+Nurse Practitioners
+
+160%
+
+Occupational Therapists
+
+Paramedics
+
+140%
+
+Pharmacists
+
+120%
+
+Physical Therapists
+
+Physician Assistants
+
+100%
+
+Registered Nurses
+
+Speech-Language Pathologists
+
+80%
+
+60%
+
+2030
+
+2031
+
+2033
+
+2034
+
+2032
+
+2035
+
+2028
+
+2022
+
+2025
+
+2026
+
+2027
+
+2029
+
+2023
+
+2024
+
+Source: Health Resources & Services Administration Workforce Projections.
+
+94
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+Nursing Supply Rebounds in 2022 Following Decline in 2021
+
+Following almost ten years of consistent growth in the number of employed nurses ages 25-44, supply initially declined the most for nurses ages 24-34 and 35-44 by 5.2% and 7.4%, respectively, from 2020 to 2021. However, as of 2022, supply in the younger nurse workforce segment has rebounded.
+
+NUMBER OF EMPLOYED NURSES, AGES 25-64, 2012-2022
+
+1,000
+
+% Change 2021-2022
+
++6.6% Ages 25-34 +5.8% Ages 35-44
+
+Number of Employed Nurses (in Thousands)
+
+800
+
++1.0% Ages 45-54
+
+600
+
++6.1% Ages 55-64
+
+400
+
+200
+
+0
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+Source: Bureau of Labor Statistics.
+
+95
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+Competition for the Shrinking Provider Supply Is Intensifying
+
+The range of employment opportunities for medical providers — ranging from physicians and nurses to allied health professionals — has broadened over time. Health systems and traditional provider organizations must compete for the shrinking pool of talent against life sciences organizations, payers, consulting firms, cosmetic companies, etc.
+
+NURSING EMPLOYMENT OPTIONS BEYOND TRADITIONAL BEDSIDE NURSING
+
+Business
+
+Nurse Practitioner
+
+Owner
+
+Clinical Researcher
+
+Educator
+
+Bedside
+
+Nursing
+
+Aesthetic
+
+Community Health Worker
+
+Clinics
+
+Healthcare Administration
+
+Virtual Care
+
+UU
+
+Nurse Practitioner New York
+
+Unilever
+
+Note: Visual is merely an illustrative example and does not include the full range of non-traditional employment opportunities. Source: SimplyHired; Company job postings.
+
+96
+
+T R E N D 7 : C O N S T R A I N I N G S U P P L Y
+
+As New Primary Care Models Continue To Scale, National Provider Supply Will Become Even More Constrained
+
+The patient panel size for new primary care entrants averages 584 patients per provider, suggesting that the U.S. would need an additional 218K primary care providers to meet the needs of every American under this model. Scaled nationally, the primary care provider shortage would total 44.8% since the current patient to provider ratio is 944.
+
+REPORTED INFORMATION FOR NEW PRIMARY CARE ENTRANTS COMPARED TO U.S. PRIMARY CARE MARKET
+
+U.S. PRIMARY CARE MARKET
+
+ACTUAL U.S. PRIMARY CARE
+
+(New Entrant Model Applied)
+
+MARKET
+
+121,770 (would require under New Entrant
+
+SITES OF
+
+PRIMARY CARE PROVIDERS
+
+CARE --217 177 221
+
+Model)
+
+CURRENT STATE
+
+Patient Panel (Providers/Population): 944
+
+572,318 (would require under New Entrant
+
+PRIMARY
+
+Provider Supply: 354,110
+
+354,110 1,335 614 967
+
+CARE PROVIDERS
+
+Model)
+
+NEW ENTRANT MODEL
+
+Average Patient Panel: 584
+
+PRIMARY
+
+Provider Supply: 334,233,854 / 584 = 572,318 ------------------------------------
+
+334,233,854 (Total Population) 850,000 181,000 796,000 334,233,854
+
+CARE PATIENTS
+
+(Total Population)
+
+SERVED
+
+PROVIDER DEFICIT
+
+~944 (Providers/ Population)
+
+PATIENT PANEL PER
+
+572,318 – 354,110 =
+
+636 295 823 584
+
+218,208
+
+PROVIDER
+
+AVERAGE # PROVIDERS PER SITE : 4.7 AVERAGE PATIENT PANEL PER PROVIDER: 584
+
+Note: Primary care providers are inclusive of MD/DO physicians, nurse practitioners and physician assistants specialized in primary care. Source: Company financial filings; Health Resources & Services Administration Primary Care Workforce Projections.
+
+97
+
+TREND 8
+
+The Monopolistic Effects of Provider
+
+M&A Are Overstated
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Some Markets Have a Price Problem; Every Market Has a Cost Problem
+
+Market concentration, as measured by the Federal government definition, is not correlated with financial metrics for hospitals. In 2021, over 20% of hospitals — regardless of market concentration — generated negative operating margins.
+
+HOSPITAL OPERATING MARGIN VS. MARKET CONCENTRATION, 2021
+
+60%
+
+40%
+
+Operating Margin (%)
+
+20%
+
+0%
+
+-20%
+
+-40%
+
+-60%
+
+0 1,000 2,000 3,000 4,000 5,000 6,000 7,000 8,000 9,000 10,000
+
+Traditional HHI
+
+Competitive Moderate Concentration
+
+High Concentration Monopoly
+
+Note: Comparison of the operating margin of 2,157 short-term acute hospitals with their respective market’s Herfindahl-Hirschman Index (HHI) score. An HHI below 1,500 indicates a competitive market; between 1,500 and 2,500 indicates a moderately concentrated market, whereas a value greater than 2,500 indicates a highly concentrated market. Traditional HHI refers to the standard measure of market concentration, inclusive only of inpatient settings. Hospital operating margins are from 2021. Source: Healthcare Cost Report Information System; Trilliant Health national all-payer claims database.
+
+99
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Median Rates for the Same Service Are Often Lower in Monopoly Markets
+
+Whatever the explanation is for the startling spread in pricing for healthcare services, it is not attributable alone to whether a market is considered a monopoly. In fact, the negotiated rate for healthcare services is often lower in monopoly markets than in the three most competitive U.S. markets.
+
+NEGOTIATED RATE DISTRIBUTION FOR SELECT MS-DRGs: MONOPOLY VS. HIGHLY COMPETITIVE CBSAS
+
+Median Negotiated Rate
+
+190 COPD
+
+Monopoly $15,976
+
+Los Angeles $20,214
+
+New York $23,183
+
+Chicago $14,038
+
+280 AMI
+
+Monopoly $23,117
+
+Los Angeles $30,137
+
+New York $44,048
+
+Chicago $20,788
+
+469 Hip & Knee
+
+Monopoly $49,601
+
+Los Angeles $55,630
+
+New York $87,680
+
+Chicago $39,581
+
+$0 $20,000 $40,000 $60,000 $80,000 $100,000 $120,000 $140,000
+
+Note: Traditional HHI refers to the standard measure of market concentration, inclusive only of inpatient settings. Competitive markets are defined as markets with an HHI below 1,500, whereas a monopoly market has an HHI of 10,000. MS-DRG 469 indicates Major Hip and Knee Joint Replacement or Reattachment of Lower Extremity; MS-DRG 190 indicates Chronic Obstructive Pulmonary Disease; MS-DRG 280 indicates Acute Myocardial Infarction. Source: Trilliant Health national all-payer claims database; Health Plan Price Transparency dataset.
+
+100
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Life Sciences and Health Systems Face Increased Scrutiny, While Optum Acquisitions Span the Healthcare Industry
+
+Given the vertical nature of their transactions, industry participants like Optum are often treated differently than other providers. Optum reported a 17% annual increase in revenue in 2022, totaling $182.8B. As of the first half of 2023, Optum’s revenue was $110.4B. However, regulatory agencies continue to express concerns regarding anti-competitive impacts of various hospital/health system deals despite continued financial losses and risk of hospital closures.
+
+REVIEW BY THE FTC, 2021-2023 COMPLETED OPTUM DEALS, 2015-2022
+
+SELECT HEALTHCARE TRANSACTIONS UNDER
+
+C O M P A N Y Y E A R I N D U S T R Y A C Q U I S I T I O N ( $ )
+
+Hospital/Health System
+
+Life Sciences
+
+2015 Digital Health Undisclosed
+
++
+
++
+
+2015 Urgent Care $1.5B
+
+2017 Ambulatory Surgery
+
+Centers $2.3B
+
++
+
++
+
+2017 Healthcare Analytics,
+
+Advisory Services $1.3B
+
+2017 Independent Medical
+
++
+
+Group $4.9B
+
+Pharmacy
+
+2018 Primary and Specialty
+
+Care Services $4.9B
+
+Diagnostics
+
+2020 Post-Acute Healthcare
+
+Services $1B
+
++
+
+2021 Healthcare Analytics,
+
+Advisory Services $13B
+
+2022 Mental Health $700M
+
+2022 Private Medical Group $2B
+
+2022 Healthcare Software $1.4B
+
+2022 Home Health $5.5B
+
+Note: FTC denotes Federal Trade Commission. Optum is a subsidiary of UnitedHealthcare, one of the largest national payers. Source: Publicly available Optum press releases.
+
+101
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Healthcare Lobbying Continues To Increase With an Focus on M&A
+
+All stakeholders in the healthcare industry are ramping up spending on lobbying, with life science companies spending almost three times as much as hospitals. Physician groups and associations, with a focus on influencing Federal policy covering mergers and acquisitions, increased their spending by 3.4% between 2021 and 2022.
+
+HEALTHCARE LOBBYING SPENDING BY
+
+HEALTHCARE LOBBYING SPENDING BY
+
+STAKEHOLDER, 2010-2022
+
+STAKEHOLDER, 2022
+
+$800
+
+$800
+
+Total Spending
+
+$700
+
+$700
+
+$105.7
+
+Other
+
+Life Science
+
+$600
+
+Other
+
+$600
+
+Health Services/ HMOs
+
+$125.1
+
+U.S. Dollars (in Millions)
+
+U.S. Dollars (in Millions)
+
+Hospitals/ Nursing Homes
+
+$500
+
+$500
+
+Hospitals/ Nursing Homes
+
+$125.3
+
+Health Services/ HMOs
+
+$400
+
+$400
+
+$300
+
+$300
+
+$375.3
+
+$200
+
+Life Science
+
+$200
+
+$100
+
+$100
+
+$0
+
+$0
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2019
+
+2020
+
+2021
+
+2010
+
+2011
+
+2017
+
+2018
+
+2022
+
+Note: HMO denotes health maintenance organization. Source: The Senate Office of Public Records Lobbying Disclosure Act Reports.
+
+102
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+The Discrepancy Between Payer Concentration Relative to Providers Is Inconsistent With the Government’s Focus on M&A Deals
+
+The Herfindahl-Hirschman Index indicates that the payer market is moderately or highly concentrated in 49 out of 50 states. At the Metropolitan Statistical Area level, 75% of markets were highly concentrated. In 48% of markets, an individual insurer had more than 50% of the total market share.
+
+PAYER MARKET CONCENTRATION, BY STATE, 2021
+
+2,670
+
+1,731
+
+3,071 3,671
+
+2,728
+
+3,550 2,735
+
+1,506
+
+2,511
+
+1,365
+
+2,596
+
+2,593
+
+1,567
+
+2,726
+
+3,048
+
+4,885
+
+2,353
+
+1,737
+
+3,248
+
+2,332
+
+2,669
+
+2,748
+
+2,193
+
+3,500
+
+4,148
+
+3,654
+
+3,253
+
+2,591
+
+1,946
+
+2,873
+
+2,460
+
+2,515
+
+1,904
+
+2,214
+
+4,471
+
+3,466
+
+2,950
+
+3,654
+
+2,196 2,831
+
+2,865
+
+4,581
+
+HHI
+
+3,555
+
+Low Concentration (<1,500)
+
+7,641 2,131
+
+Moderate Concentration (1,500 – 2,500) High Concentration (>2,500)
+
+2,328
+
+4,813
+
+4,288
+
+2,661
+
+4,610
+
+Note: An HHI below 1,500 indicates a competitive market; between 1,500 and 2,500 indicates a moderately concentrated market, whereas a value greater than 2,500 indicates a highly concentrated market. Source: American Medical Association.
+
+103
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Health System Margins Are Significantly Lower Than Payer and Life Sciences Operating Margins
+
+While both health systems and health insurers have seen declines in average operating margin, even some of the largest nonprofit health systems have negative margins. Meanwhile, life sciences companies have seen operating margins increase by 8.4 percentage points since 2018, while also averaging above 19% year-over-year.
+
+AVERAGE OPERATING MARGIN OF LARGE LIFE SCIENCES COMPANIES, LARGE HEALTH INSURERS AND NOT-FOR-PROFIT LARGE HEALTH SYSTEMS, 2018-2022
+
+30%
+
+27.6%
+
+20%
+
+19.2% 20.2% 19.4% 20.8%
+
+Operating Margin (%)
+
+7.4%
+
+10%
+
+5.6% 6.5% 5.6% 5.2%
+
+3.7% 2.9%
+
+3.6%
+
+0%
+
+1.4%
+
+-0.6%
+
+-10%
+
+2018 2019 2020 2021 2022
+
+Note: Health insurers average operating margins were calculated using the average of Aetna, Elevance Health (formerly Anthem), UnitedHealthcare, Cigna and Humana operating margins from 2018 to 2022. Health system margins were calculated using data provided by a representative sample of large not-for-profit health system senior executives and their financial statements. Biopharmaceutical operating margins using the average of Eli Lilly, Merck, Pfizer and Johnson & Johnson operating margins from 2018 to 2022. The margins are likely to be on the higher end given the sample leans towards larger organizations. Source: Financial statements of health insurers, health systems and life sciences companies.
+
+104
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+The Federal Government’s Measures of Market Concentration Do Not Reflect the Current Landscape of Care Delivery
+
+While the proportion of care delivered in the inpatient setting is decreasing, the Federal government’s traditional measure of market concentration is limited to inpatient utilization. More accurate measures of market concentration — to reflect both inpatient and outpatient care — can lead to different conclusions about the same market.
+
+INPATIENT AND OUTPATIENT VOLUMES,
+
+HHI FOR SELECT CBSAs, INPATIENT AND OUTPATIENT
+
+2017-2021
+
+40
+
+CBSA Inpatient Outpatient
+
+NATIONAL MEDIAN 4,652 4,394
+
+35
+
+INPATIENT ADMISSIONS
+
+New York-Newark-Jersey City, NY-NJ-PA 166 218
+
+30
+
+Pittsburgh, PA 611 614
+
+Portland-South Portland, ME 3,665 1,932
+
+25
+
+Visits (in Millions)
+
+Madison, WI 2,560 1,987
+
+Oxnard-Thousand Oaks-Ventura, CA 1,806 2,154
+
+OUTPATIENT SURGERIES
+
+20
+
+Springfield, MA 3,304 2,229
+
+San Jose-Sunnyvale-Santa Clara, CA 1,286 2,210
+
+15
+
+Memphis, TN-MS-AR 1,885 1,755
+
+Durham-Chapel Hill, NC 3,329 3,113
+
+10
+
+INPATIENT SURGERIES
+
+Staunton, VA 7,887 10,000
+
+5
+
+Bellingham, WA 10,000 10,000
+
+Low Concentration (<1,500) Moderate Concentration (1,500 – 2,500)
+
+0
+
+2017 2018 2019 2020 2021
+
+High Concentration (>2,500) Monopoly (10,000)
+
+Note: An HHI below 1,500 indicates a competitive market; between 1,500 and 2,500 indicates a moderately concentrated market, whereas a value greater than 2,500 indicates a highly concentrated market. For example, Portland-South Portland, ME is considered highly concentrated for inpatient care, with an HHI of 3,665, but moderately concentrated for outpatient care, with an HHI of 1,932. While traditional HHI refers to the standard measure of market concentration, inclusive only of inpatient settings, this analysis provides a comparison of inpatient HHI and outpatient HHI. Inpatient admissions are for nonfederal short-term general hospitals and other special hospitals; outpatient surgeries and inpatient surgeries are for all U.S. community hospitals. Source: Healthcare Cost Report Information System; 2023 American Hospital Association Hospital Statistics.
+
+105
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Market Concentration Is Not a Clear Driver of Quality
+
+Whether a market is competitive or concentrated is not indicative of the quality of care delivered in that market. Therefore, the claim that consolidation worsens quality outcomes should be re-evaluated from the lens of the relationship between all hospitals across their respective markets.
+
+MARKET CONCENTRATION VS. EXCESS READMISSION RATIO AT SELECT
+
+U.S. SHORT-TERM ACUTE CARE HOSPITALS
+
+0
+
+Lower Quality Higher Quality
+
+0.2
+
+0.4
+
+Excess Readmission Ratio
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2
+
+0 1,000 2,000 3,000 4,000 5,000 6,000 7,000 8,000 9,000 10,000
+
+Traditional HHI
+
+Competitive Moderate Concentration
+
+High Concentration Monopoly
+
+Note: An HHI below 1,500 indicates a competitive market; between 1,500 and 2,500 indicates a moderately concentrated market, whereas a value greater than 2,500 indicates a highly concentrated market. Traditional HHI refers to the standard measure of market concentration, inclusive only of inpatient settings. The excess readmission ratio values shown are for hip and knee replacement procedures. Source: Healthcare Cost Report Information System; Centers for Medicare and Medicaid Services.
+
+106
+
+T R E N D 8 : O V E R S T A T E D M O N O P O L I S T I C E F F E C T S
+
+Market Concentration and Region Do Not Correlate With Price
+
+There is not only a lack of correlation between market concentration and price, but also a substantial variation in the prices of markets with similar concentration levels. Specifically, the median price for MS-DRG 469 in markets with high concentration ranged from $27.3K in the Southeast to $78.6K in the West.
+
+MEDIAN HOSPITAL-BASED NEGOTIATED RATE FOR MS-DRG 469, BY REGION
+
+AND BY LEVEL OF MARKET CONCENTRATION
+
+$90,000
+
+Hospital Region
+
+$80,000
+
+Northeast
+
+Southeast
+
+$70,000
+
+Southwest
+
+$60,000
+
+Midwest
+
+Negotiated Rate
+
+West
+
+$50,000
+
+Northwest
+
+$40,000
+
+$30,000
+
+$20,000
+
+$10,000
+
+$0
+
+HIGH CONCENTRATION
+
+MODERATE CONCENTRATION
+
+HIGHLY COMPETITIVE
+
+MONOPOLY
+
+Note: Traditional HHI refers to the standard measure of market concentration, inclusive only of inpatient settings. An HHI below 1,500 indicates a competitive market; between 1,500 and 2,500 indicates a moderately concentrated market, whereas a value greater than 2,500 indicates a highly concentrated market. An HHI of 10,000 indicates a monopoly. Analysis was conducted using negotiated rates for a single national payer — UnitedHealthcare. MS-DRG 469 indicates Major Hip and Knee Joint Replacement or Reattachment of Lower Extremity With Major Complication or Comorbidity. Source: Trilliant Health national all-payer claims database; Health Plan Price Transparency dataset.
+
+107
+
+TREND 9
+
+Employers Are Paying More for Less
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Growth in Medical Care Prices Outpaces Overall Consumer Prices
+
+The prices for all consumer goods and services have risen by 80.8% since 2000, but prices for medical care — including treatment, insurance, medical equipment and prescription drugs — have increased by 114.3%. Despite markedly higher overall inflation between January 2021 and June 2023, the gap between medical care inflation and overall inflation remains large.
+
+CUMULATIVE PERCENT CHANGE IN CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS FOR
+
+MEDICAL CARE VS. ALL GOODS AND SERVICES, 2000-2023
+
+120%
+
+Medical Care +114.3% Cumulative Percent Increase: 2000-2023
+
+100%
+
+Percent Change (%)
+
+All Goods and Services +80.8% Cumulative Percent Increase: 2000-2023
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+2017
+
+2010
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2019
+
+2011
+
+2018
+
+2020
+
+2021
+
+2022
+
+2023
+
+2000
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2009
+
+2001
+
+2008
+
+2007
+
+Source: Bureau of Labor Statistics Consumer Price Index.
+
+109
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Employer-Sponsored Insurance Costs Continue to Rise
+
+The share of employer-sponsored lives covered by a high-deductible health plan in 2022 was more than six times higher than it was in 2006. Since 2010, family and individual deductibles have increased by 31.4% and 33.4%, respectively. In parallel, the amount that employers are contributing to employee premiums has continuously increased for more than a decade.
+
+AVERAGE ANNUAL EMPLOYER PREMIUM
+
+AVERAGE ANNUAL EMPLOYER-SPONSORED HDHP
+
+CONTRIBUTION FOR SINGLE HEALTH
+
+DEDUCTIBLE, 2010-2022
+
+COVERAGE, 2009-2021
+
+$5,600
+
+$7,000
+
+$4,600
+
+$3,626 $4,766
+
+U.S. Dollars
+
+$5,737
+
+FAMILY
+
+$3,600
+
+$6,000
+
+$1,903
+
+$2,600
+
+$2,539
+
+$5,000
+
+$1,600
+
+INDIVIDUAL
+
+$600
+
+2022
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2019
+
+2020
+
+2021
+
+2010
+
+2011
+
+2017
+
+2018
+
+$4,000
+
+U.S. Dollars
+
+$3,713
+
+SHARE OF COVERED WORKERS ENROLLED
+
+$3,000
+
+IN A HDHP, 2006-2022
+
+35%
+
+29%28%29%30%31%
+
+28%29%
+
+Percent of Workers (%)
+
+30%
+
+$2,000
+
+24%
+
+25%
+
+17% 19%20%20%
+
+20%
+
+13%
+
+15%
+
+$1,000
+
+8% 8%
+
+10%
+
+4% 5%
+
+5%
+
+$0
+
+0%
+
+2012
+
+2010
+
+2011
+
+2013
+
+2014
+
+2018
+
+2017
+
+2011
+
+2017
+
+2018
+
+2015
+
+2016
+
+2019
+
+2021
+
+2020
+
+2022
+
+2007
+
+2010
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2019
+
+2021
+
+2020
+
+2006
+
+2009
+
+2008
+
+2009
+
+Note: HDHP denotes high-deductible health plan. Source: Kaiser Family Foundation Employer Health Benefits 2022 Survey; Medical Expenditure Panel 2022 Survey; U.S Department of Labor, Bureau of Labor Statistics.
+
+110
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Growth in Employer Spending Could Outpace Overall Growth Rate
+
+Growth in employer expenditures for health insurance premiums surpassed year-over-year growth in total U.S. health expenditures in 2021 — potentially driven by faster growth rates in the prices paid by commercial insurers, as compared to Medicare and inflation.
+
+ANNUAL PERCENT CHANGE IN HEALTH EXPENDITURES, NATIONAL AND EMPLOYER
+
+ANNUAL GROWTH RATES OF SPENDING, UTILIZATION AND PRICES FOR HOSPITALS’
+
+PREMIUM CONTRIBUTIONS, 2011-2021
+
+AND PHYSICIANS’ SERVICES, 2013-2018
+
+12%
+
+5%
+
+10%
+
+4%
+
+Average Annual Growth Rate (%)
+
+6.5%
+
+8%
+
+3.20%
+
+Percent Change (%)
+
+6%
+
+3%
+
+2.70%
+
+4.2%
+
+4%
+
+3.4%
+
+1.80%
+
+2%
+
+2%
+
+2.7%
+
+1.30%
+
+0%
+
+1%
+
+0.50%
+
+-2%
+
+0.40%
+
+-4%
+
+0%
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Spending per
+
+Utilization per
+
+Prices Paid to
+
+Person
+
+Person
+
+Providers
+
+Total U.S. Health Expenditures Employer Premium Growth
+
+Commercial Medicare GDP Price Index
+
+Note: GDP denotes gross domestic product. Source: Centers for Medicare and Medicaid Services 2021 National Health Expenditures; Congressional Budget Office Analysis of The Prices That Commercial Health Insurers and Medicare Pay for Hospitals’ and Physicians’ Services.
+
+111
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+The Self-Insured Employer Market Is Growing
+
+Employers are increasingly adopting self-insured health plans as another mechanism to lower expenses. Since 2001, the share of self-insured coverage has increased 16 percentage points, and 91% of employers with more than 5,000 employees are self-insured.
+
+ESTIMATED WORKERS COVERED IN SELF-INSURED PLANS BY FIRM SIZE, 2001-2022 EMPLOYER-SPONSORED INSURANCE
+
+MARKET BY COVERAGE TYPE, 2023
+
+100%
+
+96%
+
+91%
+
+90%
+
+82%
+
+79%
+
+80%
+
+35%
+
+160M U.S. Employer
+
+70%
+
+70%
+
+66%
+
+65%
+
+Share of Workers (%)
+
+60%
+
+59%
+
+Sponsored
+
+60%
+
+Lives
+
+52%
+
+65%
+
+50%
+
+49%
+
+50%
+
+40%
+
+30%
+
+Self-Insured Fully Insured
+
+20%
+
+17%
+
+20%
+
+13%
+
+Self-insured coverage is a form of ESI wherein
+
+10%
+
+the employer pays for incurred beneficiary claims and outsources benefit administration
+
+0%
+
+to a third-party administrator.
+
+3-199 200-999 1,000-4,999 >5,000 All Firms
+
+2001 2011 2022
+
+Note: ESI denotes employer-sponsored insurance. Source: Houlihan Lokey Employer-Sponsored Healthcare TPAS and Benefit Solution Providers Sector Spotlight.
+
+112
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Self-Insured Employer Expenditures Alone Account for 16% of Total U.S. Healthcare Expenditures
+
+In 2021, employer-sponsored health insurance expenditures totaled $1.07T, or 25% of all U.S. health expenditures. The selfinsured portion of employer spending totaled $694.7B, or 16% of all spending.
+
+ALL U.S. HEALTH EXPENDITURES BY SOURCE, 2021
+
+$4.5
+
+$4.3T
+
+$4.0
+
+Total U.S. Health Expenditures (in Trillions)
+
+$3.5
+
+All Other
+
+$3.0
+
+Fully Insured,
+
+Self-Insured,
+
+$374.1B
+
+$694.7B
+
+$2.5
+
+Medicaid,
+
+$734.0B
+
+$2.0
+
+0% 20% 40% 60% 80% 100%
+
+Medicare,
+
+$1.5
+
+$900.8B
+
+$1.0
+
+Employer-Sponsored,
+
+$0.5
+
+$1.07T
+
+$0.0
+
+Source: Centers for Medicare and Medicaid Services 2021 National Health Expenditures; Houlihan Lokey Employer-Sponsored Healthcare TPAS and Benefit Solution Providers Sector Spotlight.
+
+113
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Employee Responsibility for Employer-Sponsored Insurance Often Exceeds 10% of Income
+
+Lower-income families with employer-sponsored insurance spend around 10.4% of their income on health costs, and families with at least one member in fair/poor health spend 6.5% of their income on premium contributions — more than those with higher incomes.
+
+AVERAGE SHARE OF FAMILY INCOME GOING
+
+AVERAGE SHARE OF FAMILY INCOME GOING TOWARD
+
+TOWARD EMPLOYER-SPONSORED HEALTH INSURANCE PREMIUM CONTRIBUTIONS AND
+
+EMPLOYER-SPONSORED HEALTH INSURANCE PREMIUM CONTRIBUTIONS AND OUT-OF-POCKET
+
+OUT-OF-POCKET COSTS, 2020
+
+COSTS, BY HEALTH STATUS AND INCOME, 2020
+
+16%
+
+12%
+
+14.0%
+
+10.4%
+
+14%
+
+Average Annual Growth Rate (%)
+
+Average Annual Growth Rate (%)
+
+10%
+
+12%
+
+7.7%
+
+10.0% 9.4%
+
+8%
+
+6.9%
+
+10%
+
+6%
+
+8%
+
+6.6% 5.6%
+
+6.5%
+
+4.8%
+
+6%
+
+4%
+
+3.8%
+
+2.7%
+
+3.3%
+
+4%
+
+2.1%
+
+2%
+
+2%
+
+0%
+
+0%
+
+Premium (employee contribution)
+
+Out-of-pocket
+
+Combined (premium + out-of-
+
+At least one family member
+
+No family member on employer coverage in
+
+payments
+
+in fair/poor health
+
+pocket)
+
+fair/poor health
+
+199% of FPL or less
+
+199% of FPL or less
+
+200% to 399% of FPL
+
+200% to 399% of FPL
+
+400% of FPL or more
+
+All U.S.
+
+Note: FPL denotes Federal Poverty Level. Source: Peterson-Kaiser Family Foundation Health System Tracker.
+
+114
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Negotiated Rates From a Single Payer Vary Substantially for the Same Service
+
+Using MS-DRG 470 as an example, there is substantial variation in the negotiated institutional rates for this service is paid by UnitedHealthcare at U.S. short-term acute care hospitals. The rates range from $12,255 to $64,928. While the median rate is $29,445, the most common rate is $23,524. Will employers continue paying a 5X difference for the same service across their employee populations?
+
+UNITEDHEALTHCARE NEGOTIATED INSTITUTIONAL RATES FOR MS-DRG 470
+
+AT SELECT U.S. SHORT-TERM ACUTE CARE HOSPITALS, 2023
+
+400 Median $29,445
+
+350
+
+300
+
+Number of Hospitals
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+($23,344, $24,730]
+
+($33,047, $34,433]
+
+($37,205, $38,592]
+
+($49,681, $51,067]
+
+($52,453, $53,839]
+
+($16,413, $17,800]
+
+($17,800, $19,186]
+
+($20,572, $21,958]
+
+($21,958, $23,344]
+
+($34,433, $35,819]
+
+($35,819, $37,205]
+
+($41,364, $42,750]
+
+($42,750, $44,136]
+
+($44,136, $45,522]
+
+($51,067, $52,453]
+
+($57,997, $59,383]
+
+($59,383, $60,770]
+
+($60,770, $62,156]
+
+($62,156, $63,542]
+
+[$12,255, $13,641]
+
+($13,641, $15,027]
+
+($15,027, $16,413]
+
+($19,186, $20,572]
+
+($24,730, $26,116]
+
+($26,116, $27,502]
+
+($28,889, $30,275]
+
+($30,275, $31,661]
+
+($31,661, $33,047]
+
+($38,592, $39,978]
+
+($39,978, $41,364]
+
+($45,522, $46,908]
+
+($48,294, $49,681]
+
+($55,225, $56,611]
+
+($56,611, $57,997]
+
+($63,542, $64,928]
+
+($27,502, $28,889]
+
+($46,908, $48,294]
+
+($53,839, $55,225]
+
+Negotiated Rate
+
+Note: Analysis was conducted using negotiated rates for one national payer — UnitedHealthcare. MS-DRG 470 indicates Major Hip and Knee Joint Replacement or Reattachment of Lower Extremity Without Major Complication or Comorbidity. Source: Trilliant Health Health Plan Price Transparency dataset.
+
+115
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Even in the Outpatient Setting, There Is Wide Variance in Published Negotiated Rates
+
+For outpatient services, which are traditionally reimbursed at lower rates than inpatient, there is wide variance in negotiated rates paid by different payers — and even by the same payer — for the same service in the same market. Looking at St. Louis, MO as an example, negotiated rates across all procedures for both payers were higher at SSM Health Medical Group.
+
+PROFESSIONAL OUTPATIENT MEDICAL GROUP RATES IN ST. LOUIS –
+
+ANTHEM BLUECROSS BLUESHIELD VS. UNITEDHEALTHCARE, 2023
+
+Average Reimbursement
+
+SSM Health Medical Group
+
+Mercy Surgical
+
+Signature Medical
+
+Specialists
+
+Group, Inc.
+
+Rate
+
+UnitedHealthcare $2,046 $1,909 $1,627 $1,861
+
+CPT 27130
+
+Anthem BCBS $2,311 $2,245 $2,254 $2,270
+
+UnitedHealthcare $2,101 $1,907 $1,603 $1,870
+
+CPT 27447
+
+Anthem BCBS $2,296 $2,282 $2,254 $2,277
+
+UnitedHealthcare $1,953 $1,733 $1,444 $1,710
+
+CPT 58558
+
+Anthem BCBS $2,085 $2,069 $1,969 $2,041
+
+Note: Analysis was conducted using negotiated professional rates for two national payers — UnitedHealthcare and Anthem BlueCross BlueShield. CPT 27130 denotes total hip arthroplasty with or without autograft or allograft; CPT 27447 denotes total knee arthroplasty; CPT 58558 denotes hysterectomy. Source: Trilliant Health national all-payer claims database; Health Plan Price Transparency dataset.
+
+116
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+A Payer’s Total Cost of Care Varies Widely for an Identical Patient Journey...in the Same Market
+
+Analyzing the same 11 healthcare encounters for a single lung cancer patient journey in New York City (a highly competitive market) across four different oncology providers – as if the patient went to all four providers – reveals a total care cost ranging from $70.2K to $100.5K. While total cost of care was highest at Provider 3, the cost of E&M visits at that provider was lowest among the four providers.
+
+VARIATION IN TOTAL COST OF CARE FOR THE SAME LUNG CANCER TREATMENT ACROSS
+
+FOUR PROVIDERS IN NEW YORK CITY, 2022
+
+Radiology, Chemotherapy,
+
+Chemotherapy,
+
+Chemotherapy,
+
+Chemotherapy,
+
+E&M Visit,
+
+E&M Visit,
+
+E&M Visit,
+
+E&M Visit,
+
+Chemotherapy,
+
+Chemotherapy,
+
+E&M Visit,
+
+Lab work E&M Visit
+
+Lab work
+
+Lab work E&M Visit
+
+Lab work
+
+Lab work
+
+Lab work
+
+Lab work Lab work Lab work
+
+1 2 3 4 5 6 7 8 9 10 11 Patient
+
+Visits
+
+$95.1K
+
+Provider 1
+
+$70.2K
+
+Provider 2
+
+$100.5K
+
+Provider 3
+
+$99.8K
+
+Provider 4
+
+$0 $20,000 $40,000 $60,000 $80,000 $100,000
+
+Note: Analysis was conducted for one national payer — Anthem BlueCross BlueShield; E&M denotes evaluation and management. Source: Trilliant Health national all-payer claims database.
+
+117
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Negotiated Rates for a Single Provider Can Be Substantially Different Across Payers
+
+Different payers routinely pay significantly different amounts to the same provider for the same service. Employers could bend the cost curve substantially merely by steering “away” from a handful of providers who are outliers on price or quality for a particular set of services.
+
+ANTHEM BLUECROSS BLUESHIELD OF ILLINOIS VS. UNITEDHEALTHCARE NEGOTIATED RATES FOR MS-DRG 470 FOR A SINGLE PROVIDER AT TWO LOCATIONS
+
+– INPATIENT AND OUTPATIENT – IN CHICAGO, 2023
+
+BCBS IL PPO RATE UNITEDHEALTHCARE PPO RATE
+
+$30,000
+
+$28,424
+
+$26,555
+
+Code Type
+
+$25,000
+
+Anesthesia
+
+$21,765
+
+Institutional
+
+$20,807
+
+Professional
+
+$20,000
+
+Negotiated Rate
+
+$15,000
+
+$10,000
+
+$5,000
+
+$0
+
+Ascension Saint Joseph Valley ASC Valley ASC
+
+Ascension Saint Joseph
+
+Note: Analysis was conducted using negotiated rates for two payers — UnitedHealthcare and Anthem BlueCross BlueShield of Illinois. MS-DRG 470 indicates Major Hip and Knee Joint Replacement or Reattachment of Lower Extremity Without Major Complication or Comorbidity; CPT 27447 denotes total knee arthroplasty. These two facilities were chosen as an illustrative example but if repeated for any number of facilities across markets and codes, the same finding of variation exists. ASC denotes ambulatory surgery center; PPO denotes preferred provider organization. Source: Trilliant Health Health Plan Price Transparency dataset.
+
+118
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Price and Quality Are Not Correlated in Highly Competitive Markets Like New York…
+
+While the median negotiated rate for hip and knee replacements in New York City is $71,944, the provider receiving the highest rate of almost $140,000 has one of the highest excess readmission ratios compared to all other hospitals. Equipped with this insight, how could employers design employee health benefit networks that more specifically direct employees to the appropriate high-quality, lower-price provider?
+
+QUALITY VS. NEGOTIATED RATE FOR DRG-469 IN NEW YORK CITY, 2023
+
+0
+
+HIGHER QUALITY, LOWER PRICE HIGHER QUALITY, HIGHER PRICE
+
+Lower Quality Higher Quality
+
+0.2
+
+0.4
+
+Mount Sinai Hospital Hackensack University Medical Center
+
+Excess Readmission Ratio
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+LOWER QUALITY, LOWER PRICE LOWER QUALITY, HIGHER PRICE
+
+2
+
+$0 $20 $40 $60 $80 $100 $120 $140
+
+Negotiated Rate (In Thousands)
+
+Note: Analysis was conducted using negotiated rates for a single national payer — UnitedHealthcare. MS-DRG 469 indicates Major Hip and Knee Joint Replacement or Reattachment of Lower Extremity. Source: Trilliant Health’s national all-payer claims database; Provider Directory; Health Plan Price Transparency dataset; Hospital Readmissions Reduction Program data.
+
+119
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+…Or Los Angeles (or Anywhere Else)
+
+Across U.S. markets, many hospitals that are considered “renowned” can also be associated with higher quality services. However, in looking at the distribution of rates and quality metrics for hip and knee replacements, there are multiple hospitals receiving lower payments with equal or higher quality scores as compared to renowned hospitals. Will employers continue to pay a premium for employees to access a “brand name?” Are employers more willing to pay a premium for some services than for others?
+
+QUALITY VS. NEGOTIATED RATE FOR DRG-469 IN LOS ANGELES, 2023
+
+0
+
+HIGHER QUALITY, LOWER PRICE HIGHER QUALITY, HIGHER PRICE
+
+Lower Quality Higher Quality
+
+0.2
+
+0.4
+
+Valley Presbyterian Hospital
+
+Excess Readmission Ratio
+
+0.6
+
+Pomona Valley Hospital
+
+Keck Hospital of USC
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+LOWER QUALITY, LOWER PRICE LOWER QUALITY, HIGHER PRICE
+
+2
+
+$0 $20 $40 $60 $80 $100 $120
+
+Negotiated Rate (In Thousands)
+
+Note: Analysis was conducted using negotiated rates for a single national payer — UnitedHealthcare. MS-DRG 469 indicates Major Hip and Knee Joint Replacement or Reattachment of Lower Extremity. Source: Trilliant Health’s national all-payer claims database; Provider Directory; national Health Plan Price Transparency dataset; Hospital Readmissions Reduction Program data.
+
+120
+
+T R E N D 9 : P A Y I N G M O R E F O R L E S S
+
+Payers and Employers Are Partnering to Lower Healthcare Costs
+
+Health insurers and large employers are investing significantly in high-profile public affairs campaigns against hospitals, alleging monopolistic behaviors to charge higher prices to patients, i.e., their employees. As health plan price transparency data reveals the monopolistic effects of provider M&A are overstated — and often demonstrably false — what responsibility will insurers and brokers take for their part in steering employers to networks with widely variable rates for undifferentiated quality?
+
+COMPOSITION OF BETTER SOLUTIONS FOR HEALTHCARE™ ALLIANCE
+
+WORKING TOGETHER TO LOWER
+
+HEALTHCARE COSTS BY:
+
+• Promoting hospital competition
+
+• Enforcing Federal price transparency laws for hospital charges
+
+• Reining in hospital price mark-ups
+
+• Ensuring honest billing practices
+
+Source: Better Solutions for Healthcare.
+
+121
+
+TREND 1 0
+
+The Market Rate Has Been Revealed, and
+
+It Is Lower Than You Think
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+U.S. Healthcare Spending Is Unsustainable and, with Health Plan Price Transparency, Indefensible
+
+Healthcare spending is expected to maintain its upward trajectory through 2026, affecting public and private payers. As a result, every health economy stakeholder will likely receive more pressure to reduce rates to the “market rate,” which is now widely apparent with health plan price transparency data. While the Medicare Hospital Insurance Trust Fund is projected to be depleted by 2033, this threat has receded for the immediate future due to exogenous and not well-understood factors.
+
+MEDICARE HOSPITAL INSURANCE TRUST FUND ACTUAL AND PROJECTED BALANCES, 2021-2033 HEALTHCARE SPENDING BY PAY TYPE,
+
+2014-2031
+
+$2.5
+
+$250
+
+PRIVATE HEALTH INSURANCE
+
+$2.0
+
+$200
+
+Total Spending (in Trillions)
+
+MEDICARE
+
+Funds (in Billions)
+
+$1.5
+
+$150
+
+MEDICAID
+
+$1.0
+
+$100
+
+$0.5
+
+$50
+
+$0.0
+
+$0
+
+2030
+
+2031
+
+2017
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2029
+
+2032
+
+2033
+
+2014
+
+2015
+
+2016
+
+2019
+
+2020
+
+2021
+
+2027
+
+2028
+
+2030
+
+2031
+
+2018
+
+2021
+
+2022
+
+2023
+
+2024
+
+2028
+
+2027
+
+2025
+
+2026
+
+2029
+
+Source: Centers for Medicare and Medicaid Services 2021 National Health Expenditures Projections; The New York Times, A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.
+
+123
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Cost Containment Efforts Span Decades, but Transparency of Health Plan Rates May Finally Force Stakeholders To Play by the Rules
+
+Over the past 40 years, the Federal government has undertaken various measures to balance affordability, quality and consumer choice while lowering costs. More recently, these efforts have included mandating price transparency for hospitals and health plans and reducing costs and premiums within the Medicare program — initiatives that signal a growing focus on increasing patient and taxpayer power amid sharply rising healthcare costs. Health plan price transparency, which is required pursuant to CMS’s Transparency in Coverage initiative, eliminates longstanding opacity of negotiated rates and is a potential catalyst for employers to bend the healthcare cost curve.
+
+TIMELINE OF SELECT FEDERAL EFFORTS TO LOWER HEALTHCARE COSTS
+
+CMS finalizes the Transparency in Coverage rule, which requires health insurers to provide clear and easy-to-understand information about pricing and coverage details and to offer online tools so consumers can compare costs across plans
+
+Inflation Reduction Act sets deadlines for cost sharing and spending caps, establishes premium stabilization program and authorizes Medicare to negotiate drug prices starting in 2026
+
+Patient Right to Know Drug Prices Act and the Know the Lowest Price Act prohibit “gag clauses” that conceal lower prescription drug prices at pharmacies
+
+Medicaid law amended to require all managed care capitation rates to be set on an actuarially sound basis
+
+Affordable Care Act requires insurers to submit prospective rate hikes for review, establishes CMMI, etc.
+
+CMS adopts DRGs with prospective payment anchored by base rate
+
+DOJ releases guidance on exchanges of price and cost information for healthcare providers
+
+July 1: Health Plan Price Transparency takes effect
+
+1981 1982 1983 1992 1996 2003 2010 2012 2018 2019 2020 2021 2022 2023
+
+Tax Equity and Fiscal Responsibility Act of 1982 establishes capitated payments in Medicare
+
+Medicare Drug, Improvement, and Modernization Act creates prescription drug benefit (Part D) and MA
+
+CMMI introduces value-based payment programs
+
+White House announces price transparency for healthcare
+
+February: DOJ withdraws 1996 safe harbor for healthcare pricing
+
+CMS adopts Physician Fee Schedule for physicians and other professionals
+
+January 1: Hospital Plan Price Transparency takes effect
+
+June 28: After legal battle, site-neutral Medicare payment policy goes into effect, lowering hospital outpatient facility payments for clinicbased visits
+
+Note: CMS denotes Centers for Medicare and Medicaid Services; DRGs denotes Diagnostic Related Groups; DOJ denotes Department of Justice; CMMI denotes CMS Innovation Center; MA denotes Medicare Advantage; OOP denotes out-of-pocket. Source: Centers for Medicare and Medicaid Services.
+
+124
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Hospital Admissions Declining While Expenses Are Rising
+
+Defying the laws of economics, demand for acute medical care is declining, and yet, hospital expenses are continuing to grow. Employers will increasingly demand that every health economy stakeholder–payers, brokers, providers, biopharmaceutical companies — defend their prices that are higher than “market rate.”
+
+HOSPITAL ADMISSIONS AND AVERAGE DAILY CENSUS VS. TOTAL HOSPITAL EXPENSES,
+
+1980-2021
+
+40
+
+$1,400
+
+35
+
+$1,200
+
+Demand Metrics (in Millions)
+
+30
+
+$1,000
+
+Total Expenses (in Billions)
+
+25
+
+$800
+
+20
+
+$600
+
+15
+
+$400
+
+10
+
+$200
+
+5
+
+0
+
+$0
+
+1980 1990 2000 2010 2020 2021
+
+Total Hospital Expenses Hospital Admissions Average Daily Census
+
+Note: Hospital admissions are for nonfederal short-term general hospitals and other special hospitals. Source: American Hospital Association; Centers for Medicare and Medicaid Services.
+
+125
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Negotiated Rates for the Same Service Are Higher, on Average, at Teaching Hospitals
+
+For MS-DRG 871: Septicemia, the median negotiated rate for two major payers is $37,543 and $33,623, respectively, at teaching hospitals and $34,007 and $31,037, respectively, at non-teaching hospitals. Nationally, the range of negotiated rates for MS-DRG 871: Septicemia is as high as 7.3X.
+
+DISTRIBUTION OF UNITEDHEALTHCARE AND ANTHEM BLUECROSS BLUESHIELD NEGOTIATED RATES FOR MS-DRG-871 AT TEACHING AND NON-TEACHING SHORT-TERM
+
+ACUTE CARE HOSPITALS, 2023
+
+$120,000
+
+7.3X
+
+$100,000
+
+5.7X 6.2X
+
+5.7X
+
+$80,000
+
+U.S. Dollars
+
+Median $37,543
+
+$60,000
+
+Median $33,623 Median $34,007
+
+Median $31,037
+
+$40,000
+
+$20,000
+
+$0
+
+TEACHING HOSPITALS NON-TEACHING HOSPITALS
+
+Note: Analysis was conducted using negotiated rates for two national payers — UnitedHealthcare and Anthem BlueCross BlueShield. The states included in the analysis were limited to geographies where both payers have a presence. MS-DRG 871 indicates Septicemia or Severe Sepsis. Teaching hospitals are defined as hospitals with an intern FTE greater than 0.1. Source: Trilliant Health Health Plan Price Transparency dataset.
+
+126
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Rates for Common Evaluation Procedures Like Screening Colonoscopies Range 2.3X Nationally
+
+Even for a common procedure that is preventive and traditionally delivered in the outpatient setting, the state-level median negotiated rate ranges from $368 to $836, with a median rate of $535. Within any given state, the negotiated rates for colonoscopy vary greatly. How will payers and providers continue to justify the large price variation in a routine, preventive service, particularly in light of recent studies that question its efficacy?
+
+UNITEDHEALTHCARE STATE-LEVEL MEDIAN NEGOTIATED RATES FOR CPT 45378, 2023
+
+Median
+
+$535
+
+Median Rate Range
+
+$836
+
+$368
+
+Maximum
+
+$836
+
+Minimum
+
+$368
+
+Note: Analysis was conducted using negotiated professional rates for one national payer — UnitedHealthcare. CPT 45378 denotes Colonoscopy, Flexible Diagnostic. Source: Trilliant Health Health Plan Price Transparency dataset.
+
+127
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Value-Based Payments Do Not Equal Value for Money
+
+Despite over a decade of experimenting with value- and risk-based payments, results have been mixed, with limited uptake. As of 2021, only 19.6% of U.S. healthcare payments for all markets (Medicare Advantage, Medicare FFS, Medicaid, and commercial insurance) flowed through alternative payment models. If employers leverage their purchasing power to force providers and payers to defend their rates, will the health economy be more likely to reduce costs without sacrificing quality?
+
+PERCENT OF U.S. HEALTHCARE MARKET PAYMENTS FLOWING THROUGH ALTERNATIVE PAYMENT MODELS WITH ALL METRICS
+
+LINKED TO QUALITY, 2017-2021
+
+40%
+
+Percentage Point Change 2017-2022
+
+35.2%
+
+Payments Through Alt Payment Models (%)
+
++7.1 All Markets (Medicare Advantage, Medicare FFS, Medicaid and Commercial)
+
+30%
+
+24.0%
+
++11.0 Medicare Advantage
+
+20%
+
++10.3 Medicare FFS +9.2 Medicaid
+
+16.6% 19.6%
+
++2.8 Commercial
+
+12.7%
+
+10%
+
+0%
+
+2017 2018 2019 2020 2021
+
+Note: The Health Care Payment Learning and Action Network categorizes payments into four types: fee for service (FFS) with no link to quality and value (1), FFS with a link to quality and value (2), alternative payment models (APM) built on FFS architecture (3) and population-based payments (4). Within category 3, subcategory A includes APMs with shared savings and subcategory B includes APMs with shared savings and downside risk. Data are inclusive of only categories 3B and 4. This framework was refreshed in 2017, therefore data from before then is not included. Source: Health Care Payment Learning and Action Network Measurement reports.
+
+128
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Federal Policy Options Signal Eventual Changing Tide
+
+CBO’s 2022 analysis signals a broader interest in bending the cost curve beyond public programs alone. The notion of “capped rates” paired with new insights revealed by health plan price transparency data could signal a regression to the mean of negotiated rates, where commercial premium rates for the same or lower quality will no longer be acceptable to patients or employers.
+
+CHANGE IN
+
+CHANGE IN
+
+CHANGE IN
+
+AVERAGE HOSPITAL PRICE PAID BY PRIVATE
+
+HOSPITAL SPENDING ($ BILLIONS )
+
+NATIONAL
+
+HEALT H SPENDING (%)
+
+PLANS (%)
+
+PRICE TRANSPARENCY – VERY SMALL PRICE REDUCTIONS
+
+34% Shoppable Services
+
+-1.7% -8.7B -0.2%
+
+Patient-Driven
+
+43% Shoppable Services -1.4% -11.1B -0.3%
+
+75th Percentile Price
+
+-2.2% -13.2B -0.4%
+
+Employer-Driven
+
+Median Price -4.7% -26.6B -0.7%
+
+INCREASED COMPETITION – SMALL PRICE REDUCTIONS
+
+Small Price Response
+
+-1.6% -9.9B -0.3%
+
+HHI decrease to
+
+Medium Price Response -3.1% -19.7B -0.5%
+
+1,500
+
+Large Price Response -11.2% -68.9B -1.9%
+
+CBO estimates that
+
+1% decrease in prices could lead to
+
+CAPPED RATES IN ALL PRIVATE PLANS – MODERATE
+
+100
+
+-43.2% -246.4B -6.8%
+
+a DECLINE in total
+
+125 -30.8% -178.5B -4.9%
+
+spending on commercial health insurance premiums
+
+% of Medicare
+
+150 -20.5% -119.1B -3.3%
+
+Rates
+
+175 -12.7% -72.8B -2.0%
+
+by $13B by 2032.
+
+200 -7.6% -42.7B -1.2%
+
+Source: Congressional Budget Office, Policy Approaches to Reduce What Commercial Insurers Pay for Hospitals’ and Physicians’ Services, 2022; RAND Corporation Impact of Policy Options for Reducing Hospital Prices Paid by Private Health Plans.
+
+129
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Site-Neutral Payments in Medicare Could Reduce Payments by Over $1B for a Single, Simple Office Procedure
+
+MedPAC recommends aligning payment rates across ambulatory care settings — HOPDs, ASCs and freestanding offices — which would reduce spending without impacting patient care. In the below example, Medicare site-neutral payment for a lumbar epidural injection provided in a hospital outpatient department would reduce payments by $1.1B.
+
+ACTUAL 2023 AND SITE-NEUTRAL PAYMENT RATES FOR EPIDURAL INJECTION RATES IN MEDICARE
+
+A C T U A L 2 0 2 3 P A Y M E N T R A T E S
+
+P A Y M E N T R A T E S U N D E R S I T E - N E U T R A L P O L I C Y
+
+Service in Physician’s Office
+
+Service in Physician’s Office
+
+Physician work $59.91
+
+Physician work $59.51
+
+Non-facility practice expense $190.43
+
+Non-facility practice expense $190.43
+
+Professional liability insurance + $5.95
+
+Professional liability insurance + $5.95
+
+Total payment $255.89
+
+Total payment $255.89
+
+Service in Hospital Outpatient Department (HOPD)
+
+Service in Hospital Outpatient Department (HOPD)
+
+Physician work $59.91
+
+Physician work $59.51
+
+Facility practice expense $31.08
+
+Facility practice expense $31.08
+
+Professional liability insurance + $5.95
+
+Professional liability insurance + $5.95
+
+Payment to physician $96.54
+
+Payment to physician $96.54
+
+Payment to HOPD + $644.34
+
+Payment to HOPD (non-facility PE – facility PE) + $159.35
+
+Total payment $740.88
+
+Total payment $255.89
+
+HOPD Payment Scenario (Current State)
+
+Site-Neutral Payment Scenario (Potential Future State)
+
+Procedure Volume: 2.2M
+
+Procedure Volume: 2.2M
+
+Payment Rate: $740.88
+
+Payment Rate: $255.89 Total Payment: $562.9M
+
+Total Payment: $1.6B
+
+REDUCED MEDICARE PAYMENT: -$1.1B
+
+Note: HOPD denotes hospital outpatient department; ASC denotes ambulatory surgery center. Source: Medicare Payment Advisory Commission June 2023 Report to Congress.
+
+130
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Medicare Inpatient Reimbursement is 3.4X Higher Than Medicare HOPD Reimbursement for Certain High-Volume Surgeries
+
+Reimbursement for the same healthcare service varies significantly by payer, geography and care setting. Within these four high-volume Medicare procedures, inpatient reimbursement is 1.4X higher than hospital outpatient for total joint replacement and hysterectomy, and 3.6X higher for spinal fusion.
+
+MEDICARE REIMBURSEMENT RATES FOR HIGH-VOLUME SURGICAL PROCEDURES
+
+PROCEDURE CATEGORY AVERAGE IP REIMBURSEMENT
+
+AVERAGE HOPD REIMBURSEMENT IP : OP RATIO
+
+CARDIAC PROCEDURES WITH
+
+CARDIAC CATHETERIZATION $9,910 $2,956 3.4X
+
+SPINAL FUSION $23,169 $6,369 3.6X
+
+TOTAL JOINT REPLACEMENT
+
+KNEE/HIP $18,171 $12,559 1.4X
+
+HYSTERECTOMY $13,095 $9,042 1.4X
+
+Note: HOPD denotes hospital outpatient department; IP denotes inpatient; OP denotes outpatient. Source: Trilliant Health national all-payer claims database; Health Plan Price Transparency dataset.
+
+131
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Theoretical Financial Implications of Shifting High-Volume Surgical Services From Inpatient to Outpatient Setting Are Substantial
+
+Although CMS reversed its decision to eliminate the inpatient-only list after President Biden’s election, the migration of care from inpatient to outpatient settings persists. In the hypothetical scenario below, applying median commercial negotiated inpatient rates for projected 2023 surgical volumes and ASC rates to projected 2027 surgical volumes would result in reduced payment of almost $16B for this single common service.
+
+MEDICARE AND COMMERCIAL RATES FOR HIGH-VOLUME SURGICAL PROCEDURE ACROSS SETTINGS, 2023
+
+2023 PR OJECTED PR OCEDUR E
+
+2027 PR OJECTED PR OCEDUR E
+
+MEDIAN COMMER CIAL
+
+MEDIAN COMMER CIAL
+
+MEDIAN COMMER CIAL
+
+HIGH-VOLUME
+
+MEDICAR E
+
+MEDICAR E HOPD R ATE
+
+MEDICAR E
+
+PR OCEDUR E
+
+IP RATE
+
+ASC RATE
+
+IP RATE
+
+HOPD R ATE
+
+ASC RATE
+
+VOLUME
+
+VOLUME
+
+Joint Replacement of
+
+$29,865 $26,096 $17,750 $18,171 $12,559 $8,818 1,285,137 1,286,452
+
+Knee or Hip
+
+(DRG-470)
+
+KNEE/HIP REPLACEMENT
+
+CURRENT SCENARIO (INPATIENT)
+
+2023 Procedure Volume: 1,285,137 Median Commercial Inpatient Negotiated Rate: $29,865
+
+Total Reimbursement: $38.4B
+
+POTENTIAL FUTURE SCENARIO (OUTPATIENT)
+
+2027 Procedure Volume : 1,286,452 Median Commercial ASC Negotiated Rate: $17,750
+
+Total Reimbursement: $22.8B
+
+------------------------------------
+
+REDUCED PAYMENT
+
+-$15.6B
+
+Note: ASC denotes ambulatory surgery center, HOPD denotes hospital outpatient department; IP notes inpatient. Source: Trilliant Health Demand Forecast; Health Plan Price Transparency dataset.
+
+132
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Under a Medicare-Based Price Cap, Reduction in Reimbursement Would Vary by Service
+
+Several state legislatures have considered proposals to set or cap commercial prices at various levels — typically a percentage of Medicare reimbursement rates. While the reduced reimbursement for some services would be less impactful, in this hypothetical example, the reimbursement for coronary bypass with cardiac catheterization procedures would decline by $51.9K per case. In a scenario where that 260% Medicare cap was in place, a hospital performing 500 procedures would lose $26M in revenue.
+
+ACTUAL AND 260% MEDICARE CAPPED RATES FOR SELECT
+
+CORONARY BYPASS WITH CARDIAC CATHETERIZATION
+
+MS-DRG CODES AT AN INDIANA HOSPITAL
+
+PROCEDURES
+
+Esophagitis, Gastroenteritis and Miscellaneous Digestive Disorders
+
+260% Medicare Cap
+
+CURRENT STATE SCENARIO
+
+Kidney and Urinary Tract Infections
+
+Current State
+
+Procedure Volume: 500
+
+Cardiac Arrhythmia and Conduction Disorders
+
+Cellulitis
+
+Negotiated Rate: $88,999
+
+Gastrointestinal Hemorrhage
+
+Intracranial Hemorrhage or Cerebral Infarction
+
+Total Reimbursement: $44.5M
+
+Simple Pneumonia and Pleurisy Pulmonary Edema and Respiratory Failure
+
+260% MEDICARE CAP
+
+Heart Failure and Shock
+
+SCENARIO Procedure Volume: 500
+
+Renal Failure
+
+Acute Myocardial Infarction
+
+Major Hip and Knee Joint Replacement
+
+Negotiated Rate: $37,044
+
+Septicemia or Severe Sepsis
+
+Spinal Fusion Except Cervical Coronary Bypass Without
+
+Total Reimbursement: $18.5M
+
+Cardiac Catheterization
+
+Infectious and Parasitic Diseases with O.R. Procedures
+
+------------------------------------
+
+REDUCED PAYMENT
+
+-$25.9M
+
+$0 $20 $40 $60 $80 $100 $120 Negotiated Rate (In Thousands)
+
+Note: Analysis was conducted using negotiated rates for a single payer — Anthem BlueCross BlueShield. Indiana was chosen as an illustrative example given its state legislature considered a proposal related to a Medicare price cap at hospitals in the state during the 2023 legislative session. Source: Trilliant Health’s national all-payer claims database; Provider Directory; Health Plan Price Transparency dataset.
+
+133
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Unwarranted Price Variation Contributes to Waste, Often Tens of Millions of Dollars for a Single Service in a Single Market
+
+Unlike hospital price transparency, health plan price transparency data reveals the variation in negotiated rates for the same procedure, in the same market, for every provider in the market. If the principle of “regression to the mean” manifests in healthcare as it has in other industries, total spending could be reduced without impacting quality or patient choice.
+
+ACTUAL AND SIMULATED HOSPITAL RATES VS. VOLUME FOR DRG-871 IN
+
+PHILADELPHIA, PA
+
+CURRENT SCENARIO
+
+FUTURE SCENARIO
+
+Total Spending $272M
+
+Total Spending $249M
+
+2,000
+
+2,000
+
+1,500
+
+1,500
+
+Procedure Volume
+
+Procedure Volume
+
+1,000
+
+1,000
+
+500
+
+500
+
+0
+
+0
+
+$0 $20,000 $40,000 $60,000
+
+$0 $20,000 $40,000 $60,000
+
+Simulated Rate ($USD)
+
+Actual Rate ($USD)
+
+Below Median Rate Median Rate Above Median Rate
+
+If hospitals with a negotiated rate for sepsis above the 50th percentile reduced their rate to the median negotiated rate in the market,
+
+this would result in a $23M reduction in spending for the exact same number of procedures, provided by the exact same providers.
+
+Note: Analysis was conducted using negotiated rates for a single national payer — UnitedHealthcare — in the Philadelphia-Camden-Wilmington, PA-NJ-DE-MD CBSA. MS-DRG 871 indicates Septicemia. Source: Trilliant Health’s national all-payer claims database; Provider Directory; Health Plan Price Transparency dataset.
+
+134
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+Will Medicare Negotiations Set the Market Rate for Drugs?
+
+Starting in 2026, Medicare will set rates for ten drugs based on negotiations for fair price with the manufacturers and will add more drugs to this group each year. Will these negotiations establish a market rate for some of the most expensive drugs, or will life science companies, which account for over half of all lobbying spending, be able to maintain current prices?
+
+FIRST 10 PART B DRUGS SUBJECT TO NEGOTIATION
+
+BRAND NAME MANUFACTURER COMMON INDICATION(S) MEDICARE SPENDING
+
+IN 2021
+
+Eliquis Pfizer Stroke Prevention $16.5B Jardiance Boehringer Diabetes Treatment; Heart Failure $7.1B Xarelto Janssen Stroke Prevention $6B Januvia Merck Diabetes Treatment $4.1B
+
+Farxiga AstraZeneca Diabetes Treatment; Heart Failure; Chronic
+
+Kidney Disease $3.3B
+
+Entresto Novartis Heart Failure $2.9B Enbrel Amgen Autoimmune Disorder Treatment $2.8B Imbruvica Pharmacyclics Cancer Treatment $2.7B Stelara Janssen Immunosuppressants $2.6B Fiasp; Fiasp FlexTouch; Fiasp PenFill; NovoLog; NovoLog FlexPen; NovoLog
+
+Novo Nordisk Diabetes Treatment $2.6B
+
+PenFill
+
+TIMELINE FOR MEDICARE DRUG PRICE NEGOTIATIONS
+
+OCTOBER 2023 FEBRUARY 2024 MARCH 2024 SEPTEMBER 2024 JANUARY 2026
+
+CMS will publish maximum fair price for ten selected drugs
+
+Maximum fair prices for 10 selected drugs are made effective
+
+Deadline for companies to sign participation agreements and submit data for CMS to consider in negotiation for maximum fair price
+
+CMS will send initial offers of maximum fair price to participating companies, kicking off negotiation period
+
+Deadline for companies to accept offer of maximum fair price or propose a counteroffer
+
+Source: Centers for Medicare and Medicaid Services Drug Price Negotiation Program; Centers for Medicare and Medicaid Services, Medicare Part D Spending by Drug.
+
+135
+
+T R E N D 1 0 : L O W E R M A R K E T R A T E
+
+What Would Regression to the Mean Entail for the Life Sciences Industry Relative to Providers?
+
+Between 2022 and 2031, the difference between year-over-year growth in hospital expenditures and drug expenditures is expected to reach 1.1 percentage points — down from 3.4 percentage points in 2021. Depending on the factors driving down prices (e.g., employer pressure leading to regression to the mean for prices, wide adoption of site-neutral payments, drug savings from the 2022 Inflation Reduction Act), growth in drug spending could outpace growth for hospital spending.
+
+PRESCRIPTION DRUG AND HOSPITAL EXPENDITURES, 2005-2031
+
+$2.5
+
+20%
+
+Hospital Expenditure Amount
+
+18%
+
+Setting Hospital Prices at the Market Rate
+
+Site-Neutral Payments
+
+% Change Hospital Expenditures YOY
+
+16%
+
+$2.0
+
+U.S. Dollars (in Trillions)
+
+14%
+
+% Change Drug Expenditures YOY
+
+12%
+
+Drug Expenditure Amount
+
+$1.5
+
+10%
+
+8%
+
+$1.0
+
+6%
+
+4%
+
+$0.5
+
+2%
+
+0%
+
+$0.0
+
+-2%
+
+2012
+
+2015
+
+2016
+
+2017
+
+2019
+
+2030
+
+2031
+
+2010
+
+2011
+
+2013
+
+2014
+
+2018
+
+2020
+
+2023
+
+2024
+
+2021
+
+2028
+
+2022
+
+2025
+
+2026
+
+2027
+
+2029
+
+2008
+
+2007
+
+2005
+
+2006
+
+2009
+
+Note: YOY denotes year-over-year. Source: Centers for Medicare and Medicaid Services 2021 National Health Expenditures Projections.
+
+136
+
+CONCL U S ION
+
+The Winners in Healthcare’s Negative-
+
+Sum Game Will Be Those Who Deliver
+
+Value for Money
+
+C O N C L U S I O N
+
+Price Transparency -> Price Discovery-> Setting the Market Rate
+
+In 2001, HHS and CMS first introduced quality measures “to assure quality health care for all Americans through accountability and public disclosure.” Over the last 20 years, the dispersion of quality performance among hospitals and physicians has decreased, even if the level of performance is somewhat lacking, as evidenced by the fact that for FY 2023 CMS penalized 2,273 hospitals for higher-than-expected readmission rates. Statistically speaking, hospital quality performance has a low standard deviation, with a tight clustering of thousands of hospitals around a mean.
+
+In 2019, the White House issued an executive order to improve price and quality transparency to help consumers “find low-cost, highquality care,” which CMS has implemented pursuant to its Transparency in Coverage initiative. The health plan data that is now public under the Transparency in Coverage initiative offers a clear view of the negotiated rates that healthcare providers receive for their services. Because of the limited empirical difference in the quality that providers deliver, health plan price transparency reveals that the value derived from any healthcare service is predominantly dependent on the negotiated rate that is paid for the service.
+
+This new era of price transparency reveals the vast discrepancies that currently exist in rates across different markets, service categories and providers.
+
+QUALITY VS. NEGOTIATED RATE FOR MS-DRG 469 IN CHICAGO, 2023
+
+0
+
+Excess Readmission Ratio
+
+MARKET RATE
+
+0.5
+
+Swedish Hospital
+
+Rush University Medical Center Northwestern Memorial Hospital
+
+1
+
+1.5
+
+University of Chicago Medical Center
+
+2
+
+$20 $25 $30 $35 $40 $45 $50 $55 $60 $65 $70
+
+Negotiated Rate (In Thousands)
+
+The question for every health economy stakeholder is this: will negotiated rates migrate to the maximum price in a market, as the American Hospital Association argued, or instead regress to the mean price in a market, as typically happens with transparency in other industries and as has happened with quality measures.
+
+138
+
+C O N C L U S I O N
+
+Price Transparency -> Price Discovery-> Setting the Market Rate, cont.
+
+If the latter, providers charging premium rates must justify why they receive "Lamborghini rates" for "Buick quality." Conversely, payers must explain the broad range of rates they pay for identical services, especially in cases where they reimburse high-quality providers with lower rates and low-quality providers with higher rates.
+
+DEMAND = FLAT TO DECLINING PRICE ≠ QUALITY
+
+If employers, and possibly CMS, utilized health plan price transparency to leverage their purchasing power to demand value for money, market rates in the health economy could narrow significantly, as happened with airfares after deregulation of the airline industry.
+
+Regression
+
+to the Mean
+
+ALIGNMENT WITH THE MARKET RATE
+
+139
+
+C O N C L U S I O N
+
+The Winners in Healthcare’s Negative-Sum Game Will Be Those Who Deliver Value for Money
+
+According to the laws of economics, when supply exceeds demand or demand is flat or declining relative to supply, price (and therefore yield) goes down. The inverse has been true in healthcare for decades.
+
+Analyzing negotiated rates at the market level reveals the true “market price,” and providers whose rates or quality are outliers will likely be forced to meet that market price to maintain their market share.
+
+The combination of regression to the lower market price with other policy initiatives like site-neutral payments and price caps would further reduce yield.
+
+Hence, health plan price transparency should catalyze unprecedented and frenzied competition to win the hearts and minds of the consumer and the payer that keeps the current U.S. healthcare system afloat: the employer. If it does, the winners in healthcare’s negative sum game will be those who deliver value for money.
+
+140
+
+M E T H O D O L O G Y Study Data
+
+A variety of data sources were leveraged as part of this research, with most insights gleaned from Trilliant Health’s proprietary datasets with visibility into patients and providers across the country. Trilliant Health’s national all-payer claims dataset combines commercial, Medicare Advantage, traditional Medicare, and Medicaid claims, which provides a nationally representative sample accounting for more than 300M American lives on a deidentified basis. Trilliant Health’s consumer dataset includes a range of psychographic (e.g., behaviors, preferences), demographic, social determinants (e.g., broadband) and lifestyle (e.g., wearable) data, inclusive of variables sourced from a variety of third-party datasets.
+
+Trilliant Health’s Demand Forecast leverages General Linear Mixed Models (GLMMs) in combination with more than 100B rows of claims data to project future demand for healthcare services over a 5- and 10-year horizon. Forecasts factor in incidence rates and demographic changes at the county level. Trilliant Health’s Provider Directory enables a direct view into providers and their practice patterns. Trilliant Health’s Health Plan Price Transparency dataset is comprised of health plan machine-readable files that have been parsed. Trilliant Health leverages its Provider Directory and claims data against the Health Plan Price Transparency dataset to reveal the negotiated reimbursement rate between any health plan and any provider for any service rendered at any location.
+
+Additional data were obtained from a variety of publicly available sources (and are noted in respective source notes), including individual health system, health plan and company financial statements, Census Bureau, Kaiser Family Foundation, the Congressional Budget Office, American Hospital Association, American Medical Association, Centers for Disease Control and Prevention, Healthcare Cost Report Information System and the Bureau of Labor Statistics.
+
+Most data are presented with a national view, while some were exclusively focused on counties or the largest markets – defined as the Core-Based Statistical Areas (CBSAs) – to illustrate local variation. This research does not include data from self-pay encounters or encounters provided at no cost through commercial insurers.
+
+M E T H O D O L O G Y Analytic Approach
+
+DATA SOURCE CATEGORY DESCRIPTION FEATURE
+
+Inpatient Visits associated with medical and surgical care delivered inpatient on the campus of a hospital, reflective of all payers.
+
+Outpatient Visits associated with medical and surgical care delivered in the outpatient setting, separating care delivered on the campus of a hospital and in non-hospital settings, reflective of all payers.
+
+Primary Care Visits with providers characterized as general practice, family, internal, geriatric, adolescent and pediatric medicine, excluding hospitalists, reflective of all payers.
+
+Behavioral Health Visits categorized into the Major Diagnostic Categories 19 (Mental Diseases and Disorders) and 20 (Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders), reflective of all payers.
+
+Urgent Care Visits delivered at medical facilities where the site of service was identified as urgent care, reflective of all payers.
+
+Volume
+
+Women’s Health Office-based evaluation and management visits for the purposes of preventive and/or acute women’s healthcare, reflective of all payers.
+
+Telehealth Synchronous audio-video, audio-only, chat-based and asynchronous chat-based and store-andforward encounters, delivered off the campus of a hospital, reflective of all payers.
+
+TRILLIANT
+
+HEALTH NATIONAL ALL-PAYER
+
+Home Health Visits delivered at a patient’s home with the place of service categorized as home health, reflective of all payers.
+
+CLAIMS DATABASE
+
+COVID-19 Visits associated with the prevention, testing, treatment or immunization of COVID-19.
+
+The Federal government utilizes the HHI as the standard measure of market concentration. HHI is calculated by squaring the market share of each firm competing in a market and then summing the resulting numbers. It approaches zero when a market is occupied by several firms of relatively equal size and reaches its maximum value (10,000) when a market is controlled by a single firm (i.e., monopoly). HHI increases both as the number of firms in the market decreases and as the disparity in size between those firms increases. The U.S. Department of Justice (DOJ) and Federal Trade
+
+Competition Herfindahl-Hirschman
+
+Index (HHI)
+
+Commission (FTC) generally consider markets in which the HHI is between 1,500 and 2,500 points to be moderately concentrated and consider markets in which the HHI is in excess of 2,500 points to be highly concentrated. Traditional HHI, which refers to the standard measure of market concentration, inclusive only of inpatient settings, is used throughout the report unless stated otherwise.
+
+Pharmacy Tele-Prescribing Prescriptions resulting from a telehealth visit within three days of an encounter, where the prescribing provider is also the telehealth provider.
+
+© 2 0 2 3 T R I L L I A N T H E A L T H 142
+
+M E T H O D O L O G Y Analytic Approach, cont.
+
+DATA SOURCE CATEGORY DESCRIPTION
+
+As a proxy for total demand, the Demand Forecast analysis was limited to the most common surgical service lines (Heart/Vascular, OB/GYN, Neuro/Spine, Orthopedic, Oncology and Digestive), primary care and behavioral health given the contributory impact (in terms of volume and revenues) for providers. Surgical service lines are either shown as a combination of inpatient and outpatient, inpatient alone or outpatient alone.
+
+Service Lines
+
+TRILLIANT HEALTH DEMAND
+
+Confidence Intervals Forecast outputs for the 25th and 75th incidence rate percentiles are shown to provide a broader understanding of potential outcomes. Forecast projections account for the impact of COVID-19.
+
+FORECAST
+
+Five-Year CAGR Forecasted compound annual growth rate of median incidence rate between 2023 and 2027. Surgical service lines are either shown as a combination of inpatient and outpatient, inpatient alone or outpatient alone.
+
+Net Provider Change The year-over-year delta between providers that stopped practicing and providers that started practicing compared to the total board-certified physician count between 2018 and 2022.
+
+TRILLIANT
+
+Changed Practice
+
+The primary address that a provider performed E&M services in 2021 was different than the primary address where the provider performed these services in 2022, excluding telehealth visits.
+
+HEALTH PROVIDER DIRECTORY
+
+Location
+
+Changed Provider
+
+Organization Instances where the billing organization is different for a provider in 2021 compared to 2022 for E&M services.
+
+TRILLIANT
+
+HEALTH HEATH PLAN
+
+Minimum, median, average or maximum in-network negotiated rates for one or multiple national payers — UnitedHealthcare or Anthem BlueCross BlueShield. Whether the negotiated rates are for professional or institutional services are specified on individual analyses. The MS-DRG or CPT service is specified on individual analyses.
+
+Negotiated Rates
+
+PRICE TRANSPARENCY
+
+DATASET
+
+© 2 0 2 3 T R I L L I A N T H E A L T H 143
+
+M E T H O D O L O G Y Commonly Used Acronyms
+
+ACA: Affordable Care Act
+
+GLP-1: Glucagon-like peptide-1 receptor agonists
+
+ASC: Ambulatory Surgery Center
+
+GDP: Gross Domestic Product
+
+AMI: Acute Myocardial Infarction
+
+HDHP: High-Deductible Health Plan
+
+CAGR: Compound Annual Growth Rate
+
+HHI: Herfindahl-Hirschman Index
+
+CBSA: Core-Based Statistical Area
+
+HOPD: Hospital Outpatient Department
+
+CBO: Congressional Budget Office
+
+ICD-10: International Statistical Classification of Diseases and
+
+CDC: Centers for Disease Control and Prevention
+
+Related Health Problems
+
+CGT: Cell and Gene Therapy
+
+IP: Inpatient
+
+CMMI: CMS Innovation Center
+
+M&A: Mergers and Acquisitions
+
+CMS: Centers for Medicare and Medicaid Services
+
+MA: Medicare Advantage
+
+DOJ: Department of Justice
+
+MedPAC: Medicare Payment Advisory Commission
+
+ESI: Employer-Sponsored Insurance
+
+MS-DRG: Medicare Severity Diagnosis Related Groups
+
+E&M: Evaluation & Management
+
+OP: Outpatient
+
+ED: Emergency Department
+
+OOP: Out-of-Pocket Costs
+
+FDA: Food & Drug Administration
+
+PCP: Primary Care Provider
+
+FPL: Federal Poverty Level
+
+Rx: Prescription
+
+FTC: Federal Trade Commission
+
+TAM: Total Addressable Market
+
+FY: Fiscal Year
+
+M E T H O D O L O L G Y
+
+Acknowledgements
+
+Authors
+
+• Sanjula Jain, Ph.D., Chief Research Officer
+
+• Katie Patton, Research Manager
+
+• Austin Miller, Senior Research Analyst
+
+• Colin Macon, Data Analyst
+
+• Sarah Millender, Senior Research Associate
+
+• Maggie Jackson, Director of Data Visualization
+
+• Allison Oakes, Ph.D., Director of Research
+
+Disclaimer
+
+This presentation and the information contained herein is provided “AS IS”, and Trilliant Health hereby disclaims any and all warranties, whether express or implied, statutory or otherwise, and Trilliant Health specifically disclaims all implied warranties of fitness for a particular purpose, title and non-infringement. In addition, this presentation includes information prepared by third parties that Trilliant Health cannot independently verify.
+
+Gratitude The third annual collection of emerging and evolving health economy trends, informed by both primary and secondary data sources, would not have been possible without the significant contributions of our Trilliant Health colleagues who carved out time for this research in addition to their primary responsibilities.
+
+The information contained herein is based upon what Trilliant Health believes are reasonable assumptions, but there can be no assurance that forward-looking statements or predictions will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. Trilliant Health undertakes no obligation to update forward-looking statements if circumstances or management’s estimates or opinions should change.
+
+Distilling more than 100B medical and pharmacy claim lines — which account for more than 300M lives — into longitudinal data insights, and ingesting, cleaning and analyzing thousands of newly released machine-readable files from national health plans and self-insured employers, is no easy feat. The tremendous efforts of our colleagues in data science and engineering built the foundation upon which we could conduct an analysis of this scale with precision and speed.
+
+We greatly appreciate the expertise and assistance of Jim Browne, Amanda Cole, Ellen Lindsay, Dean McKee, Matt Fili, Matt Ikard, Chris Rash and Lindsey Swearingen in navigating the intricacies of the data.
+
+A special thanks to Matt Eby, Jeff Goldsmith, Ph.D., Anna Jordan, Allaire Kirk, Matt O’Neill, Nancy Organ, Hannah Pike, Cindy Revol, Kendra Rodgers and Kelsey Thomas for their instrumental input and review.
+
+Finally, Hal Andrews, Jason Nardella and David Taylor were invaluable thought partners throughout the entire process from the initial conceptualization of this series in 2021 to pinpointing the trends that will have the most significant impact on health economy stakeholders.
+
+Stay Ahead of Emerging Health Economy Trends with Compass+
+
+Compass+ is an industry-leading resource center, equipping you with a comprehensive toolkit that provides the most up-to-date and data-based information available. The combination of claims-based quantitative analyses, tailored insights, regular policy briefings, and expert perspectives will support you when developing data-driven decisions.
+
+Policy Updates
+
+Tailored Analysis
+
+Strategic Insights
+
+Interactive Data Dashboards
+
+Scan to Learn More
+
+Optional Text
+
+Optional Text
+
+TO STAY UP TO DATE WITH TRILLIANT HEALTH’S PUBLICLY AVAILABLE RESEARCH, VISIT:

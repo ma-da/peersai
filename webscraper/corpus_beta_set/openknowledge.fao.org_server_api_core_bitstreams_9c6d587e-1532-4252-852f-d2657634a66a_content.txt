@@ -1,0 +1,2101 @@
+Nature-based solutions in agriculture: The case and pathway for adoption
+
+FEBRUARY 2021
+
+Nature-based solutions in agriculture The case and pathway for adoption
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE
+
+THE CASE AND PATHWAY FOR ADOPTION
+
+by F. Miralles-Wilhelm and T. Iseman
+
+Published by Food and Agriculture Organization of the United Nations and The Nature Conservancy
+
+Virginia, 2021
+
+Required citation: Iseman, T. and Miralles-Wilhelm, F. 2021. Nature-based solutions in agriculture – The case and pathway for adoption. Virginia. FAO and The Nature Conservancy. https://doi.org/10.4060/cb3141en
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) or The Nature Conservancy (TNC) concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO or TNC in preference to others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of FAO or TNC.
+
+ISBN 978-92-5-133908-4 [FAO] © FAO, 2021
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/ legalcode). Under the terms of this licence, this work may be copied, redistributed and adapted for noncommercial purposes, provided that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be licensed under the same or equivalent Creative Commons license. If a translation of this work is created, it must include the following disclaimer along with the required citation: “This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original English edition shall be the authoritative edition.”
+
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as described in Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the mediation rules of the World Intellectual Property Organization http://www.wipo.int/amc/en/mediation/rules and any arbitration will be in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).
+
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables, figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining permission from the copyright holder. The risk of claims resulting from infringement of any third-partyowned component in the work rests solely with the user.
+
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through publications-sales@fao.org. Requests for commercial use should be submitted via: www.fao.org/contact-us/licence-request. Queries regarding rights and licensing should be submitted to: copyright@ fao.org.
+
+Cover photo: ©Erika Nortemann
+
+4
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+Project Sponsor/Originator/Reviewer:
+
+Graphic Design:
+
+Sasha KooOshima
+
+Karla Vazquez Mendoza
+
+Contributing Authors:
+
+Andrea Erickson
+
+Brooke Atwell
+
+Eric Hallstein
+
+Bob Tansey
+
+Stephen Wood
+
+Shamitha Keerthi
+
+Priya Shyamsundar
+
+Michael Wironen
+
+Susan Cook-Patton
+
+Stan Kang
+
+Ying Li
+
+Andres Felipe Zuluaga Salazar
+
+Manar Abdelmagied
+
+Szilvia Lehel
+
+Nicholas Sitko
+
+Niclas Benni
+
+Christiane Monsieur
+
+Andrea Sanchez-Enciso
+
+Xuechan Ma
+
+Tarub Bahri
+
+Diana Fernandez Reguera
+
+Bernardete Neves
+
+Editor:
+
+Alessandra Clark
+
+5
+
+KEY MESSAGES 6
+
+WHAT’S AT STAKE? 7
+
+8
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+26
+
+SMART POLICY CAN ENABLE AGRICULTURAL NATURE-BASED SOLUTIONS
+
+Nature-based Solutions: Defined 9
+
+Evidence and Data 27
+
+The role and opportunity for NbS in agriculture 12
+
+Coordinated technical assistance and support 28
+
+Benefits of NbS 14
+
+Financial incentives and markets 28
+
+Governance 29
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS 18
+
+Targeted promotional campaigns 30
+
+Policy frameworks 31
+
+Planning and Implementing NbS 19
+
+A Call to Action 32
+
+Private actors can advance the adoption of NbS 20
+
+CASE STUDIES 34
+
+Pathways & incentives for farmer adoption are key 22
+
+Nairobi Water Fund 35
+
+Case Studies show successful models are emerging 24
+
+Silvopastoralism in Colombia: Mainstreaming Sustainable Cattle Ranching 38
+
+Ecosystem Service Marketplace Consortium 41
+
+Qiandao Water Fund 45
+
+REFERENCES 48
+
+© Robert Clark
+
+6
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+KEY MESSAGES
+
+1
+
+Nature-based Solutions (NbS) are cost-effective interventions that can enhance resilience in agriculture and food production, while mitigating climate change and enhancing the environment.
+
+2
+
+Agricultural producers have a critical role in implementing NbS in their operations and can help to shape wider landscape scale approaches to Nature-based Solutions.
+
+3
+
+Policy makers can enable the implementation of nature-based approaches through a variety of means including by law and regulation, economic incentives, capacity building, and communications.
+
+© Robert Clark
+
+7
+
+WHAT’S AT STAKE?
+
+WHAT’S AT STAKE?
+
+national corporations seek a transition to sustainable food and agriculture systems, including crop production, livestock, forestry, and fisheries and aquaculture in the management of natural resources (FAO, 2014).
+
+Food system demands have increased exponentially in recent decades and are estimated to continue growing as global populations increase and economic affluence expands. However, the very foundation of a productive system – healthy lands and soils and clean water supply – is already under immense pressure.
+
+In order to sustain the future of food systems – and by extension, human life – agriculture producers around the globe must lead a transition to agricultural practices that regenerate landscapes. The Food and Land Use Coalition’s Growing Better report (2019) laid out the scientific evidence and economic case for 10 critical transformations of our food system – three of which are Nature-based Solutions – that, by 2030, could help bring climate change under control, safeguard biological diversity, ensure healthier diets for all, drastically improve food security and create more inclusive rural economies (FOLU, 2019). The need for wide-spread transformation of agricultural systems is clear, and Nature-based Solutions can play a key role in a sustainable future of food.
+
+In fact, by the most credible estimates, up to 52% of global agricultural lands are now moderately to severely degraded, with millions of hectares per year degrading to the point they are abandoned by the land manager (Nkonya et al., 2013). The loss of productive land, coupled with increased food demand, pushes agriculture to be the primary driver in 80% of native habitat loss. Agricultural irrigation is driving the majority of water scarcity issues in high-risk basins threatening food systems, community water supplies and ecosystem health (Richter, 2016) These pressures have resulted in the global agriculture sector driving more biodiversity loss, destruction of natural habitat, soil degradation and depletion of natural resources around the world than any other industry.
+
+52%
+
+In addition, land conversion and fossil-fuel dependent agriculture practices are responsible for around a quarter of global emissions (IPCC, 2019; FAO, 2020b), contributing to the climate crisis feedback loop and further amplifying multiple risks (Pinner, Rogers and Samandari, 2020) including to nature-loss, food safety and zoonotic risk spillover (FAO, 2019; FAO, 2020c; WEF, 2019).
+
+of global agricultural lands are now moderately to severely degraded
+
+These pressures have led to widespread and high-level calls for a transition in the way we produce food. Sustainable Development Goal 2.4 states: by 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change. The Food and Agriculture Organization, non-governmental organizations and increasingly multi-
+
+© Haroldo Palo Jr.
+
+8
+
+NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+© Christian Rodriguez
+
+9
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+As part of this transition, agriculture can begin to employ ‘Nature-based Solutions’, which shift productive landscapes from drivers of impact to solution providers.
+
+NATURE-BASED SOLUTIONS: DEFINED
+
+While `Nature-based Solutions´ is a relatively new term, it encompasses a range of practices that in many cases have been used for decades, are based on indigenous knowledge or were known under different names like conservation agriculture. Often, the term `Nature-based Solutions´ is used as an umbrella concept to cover a range of ecosystemrelated approaches including ecosystem-based adaptation, natural climate solutions, and green infrastructure. The term itself has received increased attention, with multiple entities working to consolidate definitions, provide principles, educate partners and advance solutions. One of the most common and widely used definitions of NbS comes from the International Union for Conservation of Nature (IUCN): Nature-based Solutions are defined as actions to protect, sustainably manage, and restore natural or modified ecosystems, that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits (IUCN, 2016).
+
+10
+
+AGRICULTURE NATURE-BASED SOLUTIONS: THE CASE AND PATHWAY FOR ADOPTION
+
+The IUCN has recently released a global standard for properly deploying NbS, which describes 8 criteria, including attention to a societal challenge, economic feasibility, biodiversity gain and inclusive governance. (IUCN, 2016). These criteria and associated indicators help measure the strength of interventions, by ensuring that NbS projects are properly designed and implemented.
+
+could be applied in the agriculture sector to support production, amelioration, conservation and green infrastructure (FAO and ICEM, 2020). The term ‘green infrastructure’ is often used to characterize hybrid systems that use Nature-based Solutions as a substitute for or in conjunction with grey infrastructure, as a subset of Nature-based Solutions (EESI, 2019).
+
+There is a spectrum of nature-based interventions that vary in ecosystem condition – from natural ecosystems to managed or modified ecosystems to novel or artificial ecosystems – as well as in scale, focal purpose and implementing actors (see figure, NbS Spectrum). For example, a constructed or artificial wetland could be used to address a local water quality concern; at the other end of the spectrum, the protection of intact ecosystems could be adopted to generate climate, biodiversity, recreational, food production and human health benefits for communities. There is a range of NbS interventions in between these examples and they differ in terms of the societal challenge addressed, benefits generated, costs incurred and complexity to implement.
+
+Nature-based Solutions are often used in conjunction with other types of strategies, for example regional or watershed planning, policy making, or economic development, to achieve societal purposes (UNEP, 2018). These interventions can enable or complement successful use of Nature-based Solutions.
+
+What all NbS have in common is that they seek to maximize the ability of nature to provide ecosystem services that help address a human challenge, such as climate change adaptation, food production or disaster risk reduction (Matthews et al, 2019).
+
+Further, NbS can range in terms of how natural or engineered a solution is, from protecting a fully intact ecosystem (e.g. an old-growth forest) to restoring degraded ecosystems (e.g. re-establishing traditional agro-forestry) to implementing new ecosystems (e.g. using permeable pavement) (Cohen et al., 2016). In an effort to optimize their use for multiple benefits, more recent NbS planning tools have aimed to further articulate how such solutions have been applied or
+
+Nature-based Solutions are often used in conjunction with other types of interventions
+
+© Ian Shive
+
+11
+
+11
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+Figure: NBS can be used in a spectrum of ecosystem conditions, from artiﬁcial to managed to largely intact ecosystems.
+
+SERVICES FROM NATURAL ECOSYSTEMS
+
+Level of ecological complexity or Optimisation of ecosystem services bundles
+
+ADAPTED FROM EGGERMONT ET AL, 2015
+
+MANAGED OR RESTORED ECOSYSTEM
+
+CREATION OF A NOVEL SYSTEM
+
+Low High
+
+MAINTAIN & ENHANCE NATURAL ECOSYSTEMS
+
+Level of ecosystem transformation
+
+e.g. protecting old growth forests
+
+NBS IN MANAGED ECOSYSTEMS
+
+PROTECTED AREAS
+
+NATURAL FOREST MANAGEMENT
+
+FIRE RISK MANAGEMENT
+
+WETLAND & PETLAND RRESTORATION
+
+NBS IN AG LANDSCAPES
+
+Potential for multiple beneﬁts
+
+TREES IN CROPLAND
+
+NBS IN AG PRODUCTION
+
+GRAZING OPTIMIZATION
+
+CONSERVATION AGRICULTURE
+
+BIOCHAR
+
+IMPROVED RICE CULTIVATION
+
+CROPLAND NUTRIENT MANAGEMENT
+
+DESIGN & MANAGE NEW ECOSYSTEMS e.g. permeable pavement or green roofs
+
+Extent of Human Modiﬁcation Low High
+
+12
+
+AGRICULTURE NATURE-BASED SOLUTIONS: THE CASE AND PATHWAY FOR ADOPTION
+
+THE ROLE AND OPPORTUNITY FOR NATURE-BASED SOLUTIONS IN AGRICULTURE
+
+Nature-based Solutions (NbS) encompass a broad range of practices that can be deployed directly in the context of the production of food and fiber, either by agricultural practitioners or on lands or waters used for production (Miralles-Wilhelm, 2021).
+
+NbS in Agricultural Production (including Forestry, Fisheries and Aquaculture)
+
+Many NbS occur directly in the realm of agricultural production and grazing management and are implemented primarily by farmers or producers. These activities may create direct economic benefit to the producer, in terms of increased yields or reduced costs, in addition to broader societal benefit. If the benefits to the landowner are sufficient, technical assistance and transition funding may be sufficient to achieve lasting changes. Many of these practices align with an emerging field of practice called ‘regenerative agriculture’.
+
+Conservation agriculture is a widely known term that includes a suite of practices like cultivation of cover crops and shifts to reduced-tillage or zerotillage practices; these practices have been deployed on approximately 125 M ha globally (Friedrich, Derpsch, Kassam, 2012). These practices, along with regenerative agriculture, are designed to enhance natural processes that support agricultural productivity. These practices are also an integral part of existing sustainable management and climate-smart approaches. Farmers can also employ practices to better manage nutrients (for example, planting legumes), use biochar to enhance carbon storage, or incorporate trees into croplands. There are also nature-based options in grazing and animal management, for example optimal grazing intensity, adopting silvopasture practices for animal nutrition, shade and fencing, incorporating legumes into planted pasture and improving feed quality. Generally, these measures can avoid carbon emissions and enhance soil carbon storage, as well as deliver significant co-benefits for water quality and availability, habitat, and air quality.
+
+There is a suite of nature-based practices in the realm of forestry and active timber management that can enhance productivity and generate societal benefits. Natural forest management includes extension of logging rotations, reduced-impact logging practices, and voluntary certification practices. There are also practices that enhance plantation management, for example by promoting polycultures over monocultures, native over exotics, disturbance pattern replication, longer rotations, and early thinning. Finally, the adoption of improved efficiency cook stoves or alternative fuels can help to avoid wood fuel harvest, leaving natural materials for food and habitat in forested areas.
+
+Similarly, though outside of what is typically considered agricultural lands, there are Nature-based Solutions that can be deployed in freshwater, coastal or marine environments that can enhance food production and carbon storage. For example, the cultivation of bivalve shellfish and seaweed aquaculture presents a global opportunity to restore coastal habitats and ecosystem function and meet food security goals in low- and middle-income nations (Theuerkauf et al, 2019). In the Mediterranean, planners worked with artisanal fisherman to develop ecosystem-based approaches to fishery management that sustained the commercial resource (IUCN, 2019). 125 M
+
+of ha with practices of conservation agriculture
+
+13
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+NbS in Agricultural Landscapes
+
+Other Nature-based Solutions are implemented at a landscape or ecosystem scale, by diverse stakeholders including public agencies, corporations and private landowners. These NbS still have critical importance to agriculture, as they can generate important benefits in the production of food and fiber and they often include agricultural producers as implementing partners. Even when NbS are being implemented at an individual farm or local project, it is important to plan for landscape scale deployment, both to maximize benefit and to understand impact if actions are scaled up (Cohen et al, 2016).
+
+foregoing production in these areas, and they usually require funding and implementation beyond the scope and footprint of an individual agricultural practitioner. Some of these measures adhere to the criteria of “other effective area-based conservation measures” (OECMs), a spatial approach to in situ conservation of biodiversity that is part of the CBD’s Aichi Target 11.
+
+As an example of landscape-scale NbS, ecosystems can be set aside and protected to preserve their natural functions and services. This can include avoided grassland conversion, avoided forest conversion, and avoided coastal wetland and other aquatic ecosystem impacts (Narayan et al, 2017). Often, these measures are accomplished through the establishment and enforcement of protected areas but can be set asides on agricultural lands as well. Land managers can also undertake reforestation, afforestation, fire management, and restoration of coastal wetlands, aquatic ecosystems, peatlands and forests on either public, tribal or private lands.
+
+Similarly, when it comes to seascapes, area-based fishery management measures can contribute to improving the connectivity and integration of conservation seascapes across wider scales. These measures can be effective nature-based tools to conserve and restore ecosystems that support commercial production of fish, to conserve or rebuild populations, or to limit a wider range of anthropogenic pressures where needed. FAO is supporting its Members by raising awareness about the role that spatial fishery management measures can have in increasing the health, productivity and resilience of aquatic ecosystems (FAO, 2020d).
+
+© Harold E. Malde
+
+While some of these measures can be undertaken in landscapes or seascapes actively used in production, there can be trade-offs. These measures can generate important benefits for food production, for example in water quality and flow regulation; however, they are often undertaken for the broader societal benefits that they generate, may present a higher burden to the producer
+
+Even when NbS are being implemented at an individual farm or local project, it is important to plan for landscape scale deployment
+
+14
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+BENEFITS OF NBS
+
+Nature-based Solutions can provide a triple benefit when deployed properly, in terms of building agricultural production and resilience, mitigating climate change, and enhancing nature and biodiversity. The recognized NbS co-benefits have been increasingly documented in the literature in recent years (Figures 1a and 1b).
+
+RESILIENT FOOD PRODUCTION:
+
+Nature-based Solutions can help farmers adapt and ensure food production is more resilient to future weather extremes like droughts, heavy storms, or coastal flooding by enhancing soil health and water retention, reducing soil erosion and buffering shorelines, as well as enhancing food and nutrition security through diversified production systems and sources of income. They can reduce use of chemical additives, which reduces production costs and creates safer foods (GCA, 2019).
+
+MITIGATING CLIMATE CHANGE
+
+Nature-based Solutions can reduce carbon emissions from the food sector and store carbon, most significantly by avoiding deforestation and conversion of natural habitat, by conserving, restoring and sustainably managing aquatic ecosystems (e.g. watersheds, wetlands, coastal mangroves, seagrass meadows and coral reefs) to enhance their role in carbon sequestration, and also by changing crop residue, cover crop and tilling practices in ways that enhance the carbon retained in plants and soils (Griscom et al., 2017).
+
+ENHANCING NATURE AND BIODIVERSITY
+
+Nature-based Solutions can enhance ecosystems and species by increasing habitat diversity, restoring aquatic ecosystems and wetlands and improving the quality and reliability of water (Abell et al., 2017).
+
+15
+
+15
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+FIGURE 1. NATURE-BASED SOLUTION IN AGRICULTURE
+
+NBS IN AGRICULTURAL PRODUCTION
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+NbS Activity
+
+GRAZING OPTIMIZATION
+
+IMPROVED RICE CULTIVATION
+
+BIOCHAR
+
+CROPLAND NUTRIENT MANAGEMENT
+
+CONSERVATION AGRICULTURE
+
+TREES IN CROPLANDS
+
+IMPROVED PLANTATIONS
+
+Benefits
+
+Improve animal grazing intensity, pasture management and feed practices to reduce GHGs.
+
+Adopt water management techniques, improve drainage, practice residue incorporation.
+
+Increase use of biochar to increase carbon storage
+
+Reduce excesive ferrtilizer and other additives and remove perverse incentives to increase fertilizer use.
+
+Cultivate additional cover crops in fallow period; shift to reduced or zero tillage.
+
+Promote integration of trees into agriculture lands to increase habitat value.
+
+Extend harvest rotation lengths on intensively managed production forests.
+
+Functions
+
+Quantitive
+
+NbS benefits 1.4B
+
+2.9:1
+
+1,102M
+
+44M
+
+4.8B
+
+257M
+
+1,040M
+
+example of
+
+head of cattle of potential; over 90% of cattle on earth
+
+benefit-cost ratio water quality improved
+
+tons CO2/yr
+
+tons of nitrogen per year reduction
+
+hectares of conserrvation land
+
+tons CO2/yr
+
+hectares potential
+
+NBS IN AGRICULTURAL LANDSCAPES
+
+01
+
+02
+
+03
+
+04
+
+05
+
+NbS Activity
+
+AVOIDED FOREST & GRASSLAND CONVERSION; REFORESTATION
+
+AVOIDED COASTAL WETLAND IMPACTS
+
+NATURAL FOREST MANAGEMENT
+
+WETLAND, PETLAND RESTORATION
+
+FIRE RISK MANAGEMENT
+
+Benefits
+
+Improved forest managent practices for carbon storage and biodiversity/ land/water conservation
+
+Coastal wetland conservation causes loss of organic carbon and wate quality in mangroves, saltmmarshes and seagrass ecosystes
+
+Extended logging rotations, voluntary certification, improoved tenure or cease logging
+
+Re-wetting and replanting with native wetlands to address water quality and mitigate floods
+
+Prescribed fire or controlled burns to reduce risk of catastrophic fire and errosion and water quality
+
+Functions
+
+$785-$34,700 in water treatment value per ha; B-C ratio of 3.5:1 in damage prevention from extreme events
+
+Quantitive
+
+NbS benefits 23
+
+1,914M
+
+1.9:1
+
+1M
+
+example of
+
+Pg CO2e/yr of climate mitigation
+
+ha potentia
+
+benefit-cost ratio due to water quality improvements
+
+hectares per year potential
+
+CLIMATE BIODIVERSITY WATER SOIL AIR
+
+16
+
+AGRICULTURE NATURE-BASED SOLUTIONS: THE CASE AND PATHWAY FOR ADOPTION
+
+FAO and TNC have compiled a Literature Review, Naturebased Solutions in Agriculture: Sustainable Management and Conservation of Land, Water and Biodiversity, which documents literature sources associated with a range of nature-based practices. This process yielded a significant body of literature sources with NbS applications across agricultural landscapes for a variety of objectives. In particular, literature sources on NbS related to climate mitigation (i.e., reduction of emissions and carbon sequestration) are far more numerous and delve deeper in analysis than NbS related to climate adaptation, conservation of land, water and biodiversity, and other ecosystem services and co-benefits. This is to be expected given the intense focus on the science of climate change globally and the maturity of efforts centered on mitigation sponsored by UNFCCC (e.g., IPCC, Green Climate Fund) and other global and regional organizations (e.g., World Bank Group, regional development banks).
+
+implemented as a set of integrated practices in rainfed systems in water-limited or water-stressed regions, including potentially on millions of hectares in Sub-Saharan Africa and South Asia. Decisions to adopt conservation agriculture practices can go beyond immediate changes in crop yield, though. For example, a review of farmer adoption of conservation agriculture, identified reduction in farm operation costs, nutrient use and efficiency, water savings, and crop yield stability as additional factors beyond increased crop yield that motivated adoption (Corsi & Muminjanov, 2019).
+
+The review characterizes the strength of literature and estimated extent of application globally by NbS practice. It also reviews the extent of evidence on Return on Investment by practice, which is generally limited or non-existent at a broad scale, often only available in case studies. Finally, it estimates the strength of knowledge by practice by region, illustrating differences among the regions in the study of specific practices. A database of over 300 papers addressing Nature-based Solutions, with links to each paper and an assessment of the attributes and focal geographies for each publication, has been developed (Miralles-Wilhelm, 2021).
+
+The type of practice and the context of application creates a wide variety of results regarding food production benefits and other co-benefits. One example is conservation agriculture, defined by a combination of conservation tillage, crop rotations, and cover crops, which has gained traction in many parts of the world. In some regions, variations on the principles of conservation agriculture have been part of traditional agricultural systems for generations. As of 2011, conservation agriculture had been implemented on approximately 125 million hectares across the world, with the greatest concentrations by far in United States, Brazil, Argentina, Australia, and Canada (Friedrich, Derpsch and Kassam, 2012). The broad extent of this adoption has been cited as evidence of its implicit benefits for farmers (Palm et al., 2013).
+
+© Carlton Ward Jr.
+
+There is clear evidence that conservation agriculture increases soil organic matter and a range of associated processes including improved sediment retention. However, crop yield outcomes vary based on practices employed, climate, crop type, and biophysical conditions (Palm et al., 2013). Available evidence on actual changes in crop yields suggests that conservation agriculture has the greatest potential to increase crop yields when
+
+17
+
+17
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+AGRICULTURE NATURE-BASED SOLUTIONS ENHANCE FOOD PRODUCTION AND THE ENVIRONMENT
+
+Estimated application
+
+Evidence of ROI
+
+Body of literature
+
+Regional Strength of Knowledge
+
+Nature-Based Solution
+
+NA LA-C AFR EUR A-AP
+
+Grazing Optimization Robust Limited High
+
+Improved Rice Cultivation Scarce Limited Moderate
+
+AGRICULTURAL NBS
+
+Biochar Growing Nonexistent Moderate
+
+Cropland Nutrient Management Robust Nonexistent Low
+
+Conservation Agriculture Growing Limited Low
+
+Trees in Croplands Growing Nonexistent Low
+
+Improved plantations Scarce Limited Low
+
+Avoided Forest & Grassland Conversion; Reforestation Robust Limited Moderate
+
+Avoided Coastal Wetland Impacts Scarce Limited High
+
+LANDSCAPE NBS
+
+Natural Forest Managament Growing Nonexistent Moderate
+
+Wetland/ Petland Restoration Scarce Limited Low
+
+Fire Risk Management Robust Nonexistent High
+
+Figure 2: Strength of Knowledge by Practice and Region
+
+INCIPIENT INTERMEDIATE ADVANCED
+
+NA: North America LA-C: Latin America & Caribbean AFR: Africa EUR: Europe A-AP: Asia & Asia Pacific
+
+Yet, even when properly planned, NbS are not a panacea for global sustainability challenges. For example, while NbS can make a substantial contribution to reducing carbon emissions – if fully deployed, they could achieve a third of the Paris goals (Griscom et al., 2017) - they alone cannot deliver the emission reductions needed by 2030 to keep global temperature increases under 2°C. Further, we must take caution in how they are implemented. For example, if reforestation is advanced through regularly harvested plantations rather permanent forest restoration,
+
+it will fall far short of storing sufficient carbon (Lewis et al., 2019). Some NbS approaches could have maladaptive effects, for example if reforestation or afforestation is advanced through monocultures or low diversity plantations, it could reduce habitat and biodiversity (Seddon et al., 2020). NbS must also be implemented in a way that engages traditional, local cultural and scientific knowledge, produces societal benefits in a fair, equitable and transparent way (Seddon et al., 2020).
+
+18
+
+18
+
+AGRICULTURE NATURE-BASED SOLUTIONS: THE CASE AND PATHWAY FOR ADOPTION
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+© Nick Hall
+
+19
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+Agricultural producers are on-the-ground stewards of much of the world’s lands and water resources. Today, however, the global food system is a 10 trillion-dollar economy that connects 7.5 billion consumers and a diverse array of more than 1 billion food producers (farmers, ranchers, pastoralists and fish harvesters). Currently, food production uses over 50% of the earth’s habitable land, with 1.1 billion ha in crop production and another 4 billion ha in livestock, dairy and grazing (Ritchie and Roser, 2013). And global food demand is set to increase by 50% including a 70% increase in protein demand by 2050 (OECD and FAO, 2018). Given the global footprint, the global food system, including investors, corporations and particularly agricultural producers, must play a critical role in addressing our climate and environmental challenges through the promotion and adoption of NbS.
+
+to adopt is inseparable from concerns over food security. Under these conditions, it is extremely difficult to take on the added costs and risks of transitioning to a new way of farming.
+
+Effective policy interventions are required to enable resource poor farmers to adopt nature-based agricultural practices. This certainly involves investments in appropriate research and extension models, as well as changes in incentive structures that often promote input intensive practices. However, this is necessary but insufficient to meet the unique needs of poor farmers, who make up a large share of farmers globally. For these farmers, policy instruments that help to reduce both risk and liquidity constraints are key for achieving widespread adoption of nature-based agricultural practices. Placing a strong emphasis on human and social values and seeking to address inequalities by creating more opportunities for inclusion will be a key element in the transition to resilience.
+
+Transitioning to nature-based agricultural practices can yield significant direct and indirect benefits to society and to farmers. However, for many agricultural producers, this transition involves a fundamental change in the ways in which they use their scarce land, aquatic resources (including freshwater and fish resources), labor and capital. The direct and opportunity costs of these changes are immediate and non-trivial, while the benefits can take years to manifest. This is because the biological processes and knowledge required to restore agricultural ecosystems and leverage natural processes to replace synthetic agricultural inputs take time. In some case, the period of transition can even result in a shortterm reduction in crop, livestock or fish yields and an increase in yield variability.
+
+50%
+
+increase demand for food by 2050
+
+PLANNING AND IMPLEMENTING NBS
+
+As a starting point, Nature-based Solutions carry elements of both private and public benefit, meaning that market forces alone are unlikely to result in a societally optimal adoption of even the most promising approaches. This is particularly critical for agriculture NbS, which will be implemented by farmers and on agricultural lands; in the absence of smart policy and incentives, farmers may still make the economically rational choice of implementing lower cost, near-term solutions, rather than investing in unknown, more expensive and long-term NbS practices, such as terracing and grass buffer strips. Even for those Ag NbS that make economic sense today, adoption and market penetration may be slow due to many factors such as lack of training, awareness, certainty of the financial return on investment, culture, ease of implementation, and non-economic factors. Other Ag NbS may not be adopted because they’re not yet profitable, even on a longer time horizon, in which case policy, novel payment mechanisms and new business models will be needed.
+
+The upfront costs and short-term risks and uncertainty associated with a transition to nature-based agricultural practices pose a significant barrier to adoption. This is particularly the case for poor farmers, many of whom are women, who face significant resource constraints — including for capital, land, access to fisheries, and labor — and frequently are unable to insure themselves against the risks of crop, livestock or fish production failure. For these farmers, the choice of which agricultural practices
+
+© Erich Schegel
+
+20
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+In order to achieve the desired scale and pace of Ag NbS adoption (Jones, Silcock and Uetake, 2015), programs must be designed with recognition of traditional farm practices and to rebalance the incentives for individual farmers. Critical considerations in successfully planning and implementing Ag NbS include:
+
+© Tim Calver
+
+-Planning Scale and Time Horizons: Consider measures and benefits at a regional or watershed scale and examine longer time horizons in order to fully capture the longterm benefits.
+
+-Synergy and Tradeoffs: Examine the synergies of multiple Ag NbS practices (see case studies), the opportunity to pair green and grey projects, and the potential tradeoffs of various practices.
+
+Ultimately, smart policy and program design need to: 1) identify the private benefits and co-benefits of Ag NbS that have a private economic driver in the supply chain, and augment and amplify those with thoughtful policy; and 2) recognize those benefits that are true externalities and/or public goods and tailor policy and financial incentives to level the economics and bolster their adoption. These themes are treated in detail throughout this document and reinforced in the recommendations to this brief.
+
+-Technical Assistance: Provide technical assistance to raise awareness and increase the likelihood of successful implementation of new practices.
+
+-Policy and Regulation: Create policy incentives or regulatory frameworks that can enhance adoption of new NbS practices and deliver additional public benefits and also lead to economic externalities being captured in the pricing of goods and services.
+
+MULTIPLE PRIVATE ACTORS ARE
+
+PROMOTING AND/OR DIRECTLY
+
+INVESTING IN THE ADOPTION OF NBS
+
+IN AGRICULTURE
+
+-Business Models: Enable financial models and new corporate practices that will level the playing field for Ag NbS and enhance investment in these new practices over time.
+
+Government programs are supporting increased research, investing in new practices, and seeking policies that facilitate implementation of NbS. However, given the complex and diverse nature of the global food system, public actions must be complemented by private sector engagement and farm level adoption.
+
+21
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+conservation of natural capital and several have been accused of ‘greenwashing’ (Cooper and Tremolet, 2019). Investors also see a growing opportunity for investment in Nature-based Solutions, particularly in the sustainable agriculture space. In a survey of 62 asset owners and managers who jointly manage more than $3 trillion in assets, approximately 70% of global asset managers surveyed expressed interest in investments in sustainable agriculture and forestry and land use projects (Figure 3) (Cooper and Tremolet, 2019). Lending institutions, such as banks, see major opportunities to expand their lending portfolios for the many NbS activities that improve financial returns along with their environmental benefits.
+
+PRIVATE INVESTORS
+
+Investments in natural capital are increasing. Investors cite a variety of reasons for increasing investment in impact sectors that create a positive return for society. Often, they are based in organizational mission or commitments to sustainability; however, one important reason is that they contribute to a global agenda, such as the UN SDGs or Paris Climate Accord (Mudaliar et al., 2019). Given the critical opportunities for NbS to contribute to climate, environmental/biodiversity and human health and livelihoods (FAO and TNC, 2020), these activities are well positioned to appeal to investor interest.
+
+To date, green bonds have captured significant attention for sustainable investments, but few of them finance the
+
+70% 1 Forestry and land use
+
+2 Sustainable agriculture
+
+3 Fisheries/ Oceans
+
+60%
+
+4 Coastal resilience (e.g. coral reefs, mangroves)
+
+5 Freshwater resources (e.g. wetlands, peatlands)
+
+50%
+
+6 Natural flood defences
+
+40%
+
+7 Biodiversity
+
+8 None of the above
+
+9 Other
+
+30%
+
+20%
+
+10%
+
+WHAT TYPES OF NATURAL CAPITAL ARE YOU MOST INTERESTED IN?
+
+DO YOU EXPECT YOUR CLIENTS’ FUTURE NATURAL CAPITAL-RELATED INVESTMENTS, IF ANY, WILL BE MOSTLY RELATED TO
+
+0%
+
+FIGURE 3. TYPES OF NATURAL CAPITAL ATTRACTING MOST INTEREST AND EXPECTED FUTURE INVESTMENT
+
+22
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+CORPORATIONS
+
+Corporations are also ramping up their investment in Nature-based Solutions. In recent years, the value of environmental sustainability has risen to become a key performance indicator for companies from a range of industries. In addition, the returns of Nature-based Solutions make for compelling financial and environmental incentives, specifically 1) NbS can be more cost-effective to implement than their gray infrastructure alternatives in terms of both capital investment and annual operations; and 2) NbS generally provide important environmental benefits relative to their gray counterparts that can help companies meet regulatory requirements. Less clear is how many of these businesses are incorporating NbS into their operations, though more could surely benefit by partnering with nature.
+
+it defines as agriculture that protects and intentionally enhances natural resources and farming communities – on 1 million acres of farmland by 2030 (General Mills, 2020). Elimination of deforestation from corporate supply chains for commodities such as beef, palm oil, soy and paper also continue to be a major focus for the corporate sector, and one where companies have made aggressive commitments to achieving benefits.
+
+While investor interest is high, there remain barriers to the implementation of Agriculture Nature-based Solutions in practice. From a corporate perspective, barriers to the adoption of NbS can include decentralized business operations, internal resistance to change, lack of in-house expertise to handle site-specific issues with NbS deployment, regulatory risk, company brand concerns, lack of internal resources dedicated to these technologies, and perceived uncertainty in terms of costs and performance of NbS (TNC, 2019b; IUCN, 2018). From the investment side, there is wide agreement on the need for more investment opportunities; banks and other financial intermediaries also highlight concerns about transparency and regulatory issues and the need for derisking investments.
+
+Major food sector companies are leading the way in adopting Agriculture Nature-based Solutions, with an emerging focus on regenerative agriculture. For example, Danone has adopted a three-pillar platform for regenerative agriculture: protecting soils, empowering farmers and promoting animal welfare, and it has supported the 4 per 1000 initiative launched at the COP 21 meeting (Danone, 2020). And General Mills has committed to advance regenerative agriculture – which
+
+BUT WE STILL NEED TO ENHANCE PATHWAYS &
+
+INCENTIVES FOR FARMER ADOPTION
+
+A range of factors can impede the adoption of naturebased agricultural practices by farmers. An immediate and conspicuous obstacle to adoption of NbS is the perceived benefit to farmer livelihoods. Farming is a business, and profitability is essential for affordable food production and to incentivize risky and uncertain changes in practices (Huntley Lafave, Ahren Renton and Sierks, 2020). NbS interventions need to make an economic argument for adoption by farmers that goes beyond public or ecosystem benefits. While literature assessing the financial consequences of NbS adoption at a global scale is limited, case studies illuminate how
+
+23
+
+23
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+© Brian Richter
+
+cost-benefit factors inform farmer adoption. For example, several studies suggest that farmers may not adopt NbS despite having witnessed ecosystem benefits, because of increased initial costs, labour inputs, or customs and preferences (Cerdà et al., 2018; Chapman and Darby, 2016; McWilliam and Balzarova, 2017). Even when an NbS intervention will be profitable over the long-term, a farmer may be unable to finance the up-front costs of adoption, limiting uptake.
+
+Program design should be guided by inclusiveness, local needs, knowledge and aspirations.
+
+24
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+CASE STUDIES SHOW SUCCESSFUL
+
+MODELS ARE EMERGING
+
+Despite the financial, social and programmatic complexities of expanding the use of NbS, we see emerging examples from around the world and in diverse agroeconomic settings that demonstrate farmers are adopting these practices, for the benefit of livelihoods, food production and profits, as well as climate mitigation and environmental enhancement (Figure 4). While implementation varies according to local conditions, the case studies below (detailed Cases in Section 4 of the report) illustrate how farmers adopt practices, the
+
+benefits they generate, and the role of funders and policy makers in enabling uptake. They illustrate that initial investment by public or philanthropic players can prove up the viability of practices and create a pool of demand so local businesses can step in and promote additional uptake. They also illustrate how multiple NbS practices can be deployed concurrently and systematically to maximize benefits to farms and nature. The following case studies are explored at the end of this publication.
+
+FIGURE 4. SELECT CASE STUDIES DEMONSTRATE RANGE OF PRACTICES, BENEFITS AND APPROACHES.
+
+Practices Scale Benefits Replicability
+
+- Riparian management/ buffer zones
+
+- Agroforestry adoption
+
+- Terracing of hill slopes
+
+- Reforestation for degraded lands
+
+- Grass strips in farmlands
+
+- Road erosion mitigation
+
+- Soil conservation and water harvesting
+
+1 million-hectare watershed that supplies 95 percent of Nairobi’s drinking water, provides food for millions of Kenyans, and provides 65% of the country’s hydropower.
+
+Currently there are 41 water funds in 13 countries, and over 80% of cities globally can meaningfully reduce sediment or nutrient pollution through Ag NbS.
+
+A $10m investment over 10 years would yield $21.5M in economic benefits, including up to $3m/yr in increased yield for farmers, over $600k/yr increase hydropower revenue, and a 50% reduction in sediment concentration.
+
+NAIROBI WATER FUND
+
+Watershed management for healthy forests, agriculture, water quality and hydropower
+
+- Scattered trees in pasturelands
+
+- Timber plantations with livestock grazing areas
+
+- Pastures between tree alleys, windbreaks, live fences and shrubs.
+
+- Fodder banks
+
+- 20 percent increase in milk and/or beef production.
+
+- Improved management on 94,864 acres and protected 44,000 acres
+
+- Reduction of 1.5 million tons of GHG emissions
+
+This project was developed in 87 municipalities (12 states) in Colombia covering a total area of 159,811 hectares.
+
+These practices could be deployed in cattle ranching across Colombia with scaling up to 1M Ha by 2030. Could also reduce grazed area by 30% for conservation or other purposes.
+
+COLOMBIA SILVOPASTURE
+
+Using silvopastoral practices to help ranching and ecosystems
+
+25
+
+25
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+FIGURE 4. SELECT CASE STUDIES DEMONSTRATE RANGE OF PRACTICES, BENEFITS AND APPROACHES.
+
+Practices Scale Benefits Replicability
+
+Market value of quantified ecosystem benefits could be as high as $13.9 billion, by reducing C emissions by 190m MT, N runoff by 1.6b pounds, and P runoff by 0.8B pounds.
+
+Goal is to launch a fully functioning national scale ecosystem services market to sell both carbon and water quality and quantity credits for agriculture by 2022.
+
+ECOSYSTEM SERVICE MARKETPLACE CONSORTIUM
+
+ESMC currently conducting pilots in key agricultural regions, including great plains, corn & soy belt, and California fruit and nut.
+
+- No-till or conservation tillage
+
+- Cover crops
+
+- Rotational Grazing
+
+- Crop rotations
+
+- Water use efficiency
+
+Developing markets to enable farmer adoption of NbS
+
+- Cooperative application of fertilizer and pesticide
+
+- Mulching and burying fertilizer
+
+- Cover crops
+
+- Planting nectar source plants
+
+- Reduced loss of nitrogen and phosphorus by 35-40%.
+
+- Increased farmer income by 30-40% for green tea.
+
+QIANDAO WATER FUND
+
+Currently expanding BMPs to broader scale in watershed and exploring other opportunities for Water Fund model in China.
+
+Qiandao Lake watershed is key drinking water source in Yangtze River Delta and for Hangzhou metro area. Targeted sub-watersheds to deploy BMPs on 333ha in 2020.
+
+Innovation plus tradition to engage small holder farmers
+
+of cities globally can meaningfully reduce sediment or nutrient pollution through Ag NbS. 80%
+
+© Nick Hall
+
+26
+
+26
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+SMART POLICY CAN ENABLE AGRICULTUAL NATURE-BASED SOLUTIONS
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+© Michael Yamashita
+
+27
+
+SMART POLICY CAN ENABLE AGRICULTUAL NATURE-BASED SOLUTIONS
+
+Multiple global frameworks and policy initiatives – including the UN Framework Convention on Climate Change (UNFCCC), UN Convention for Combating Desertification (UNCCD), the Convention on Biological Diversity (CBD) and the Sustainable Development Goals – support the use of natural or ecosystem approaches to slow climate change and enhance the environment. The UNFCCC recognizes that the Agriculture, Forestry and Other Land Use sector is responsible for nearly a quarter of GHG emissions per year, and the Koronivia Joint Work on Agriculture (established at the COP in 2017) has identified the need for improved soil and water management practices, nutrient use and livestock management as key to reduce emissions and maintain food security (UNFCCC, 2017). The Sustainable Development goals state the need to embrace sustainable agricultural systems, and the emerging CBD framework calls for the integration of Nature-based Solutions into productive systems. The UNCCD specifically articulates goals to reverse land degradation trends and recognizes that land-based solutions (as part of NbS) are promising options in connection with sequestering carbon and enhancing the resilience of people and ecosystems affected by desertification, land degradation, drought and climate change (UNCCD). The UN General Assembly recently reaffirmed that achieving land degradation neutrality (LDN) can act as an accelerator and integrator for achieving the SDGs and can be a catalyst for attracting sustainable development and climate financing (UNGA, 2019; UNGA, 2018) The way we produce food can play a significant role in meeting these global goals,
+
+specifically through the increased adoption of Naturebased Solutions in food and agriculture systems in order to stem climate change, enhance food production and resilience, and generate co-benefits to ecosystems and biodiversity.
+
+Policy makers and other agriculture sector leaders can help to accelerate the adoption and deployment of NbS in sustainable agriculture through strategic public interventions, private investment and corporate leadership. Agricultural practices, climate risks and local cultures and economies vary by region, and policy recommendations must be tailored appropriately. This section provides a menu of policy approaches can help to establish common enabling conditions while offering flexibility to select interventions appropriate for local conditions.
+
+EVIDENCE AND DATA
+
+The research community and practitioners must continue to build the evidence base for Nature-based Solutions (Raymond et al., 2017). This includes quantifying the benefits to various interventions across economic, environmental and social dimensions, assessing the cost effectiveness of different approaches, evaluating implementation pathways and prioritizing opportunities, and establishing rigorous monitoring and evaluation of NbS. Research that demonstrates the business and economic case for NbS is especially vital, with a particular focus on promoting farmer adoption through incentives and also social mechanisms, learning, and adapting practices to local conditions. Research and development resources should be shifted to support NbS, and adaptive management more broadly, at all levels, from global institutions and leading multi-national agribusinesses to national governments and academic institutions, and with a recognition of the importance of local knowledge from communities and indigenous populations (Global Commission on Adaptation, 2019). While there is a need to grow the evidence base for NbS, certain actions can still move forward in conjunction with smart planning. In data-poor or data-limited agriculture, no-regret or low-regret NbS options, which have the potential to offer benefits now and lay the foundation for addressing projected climate change, could be prioritized, including for example, wetland rehabilitation in areas of high flood risk and establishment of protected areas for vulnerable habitats and threatened species (Watkiss, Ventura, Poulain, 2019).
+
+© Rafael Araujo
+
+28
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+COORDINATED TECHNICAL
+
+ASSISTANCE AND SUPPORT
+
+Many agricultural practitioners are independent – in fact, more than 90 percent of the 570 million farms worldwide are managed by an individual or a family and rely primarily on family labor (FAO, 2020a); and more than 120 million people depend directly on fisheries related activities for their livelihoods, with 97% of them living in developing countries – and they often lack the support, capacity or communications networks to learn about and adopt new practices. Even in advanced food production systems, there is a need to recruit and retrain workers to implement new conservation-oriented or regenerative farm practices (Carlisle et al., 2019). Governments, international agencies, business and NGOs should support capacity and resources in agricultural extension services to advance the implementation of NbS in agriculture in an inclusive and equitable manner. Design of extension services should consider the gender gap in access to
+
+resources and information and choice of communication channels related to NbS. Business leaders and policy makers can and do embrace approaches to promote the adoption of sustainable or resilient supply chains that recognize climate risks and the opportunities to use NbS to enhance the resilience of food and fiber production (BSR, 2018).
+
+90%
+
+of the 570 million farms worldwide are managed by an individual or a family and rely primarily on family labor
+
+FINANCIAL INCENTIVES
+
+AND MARKETS
+
+In order to increase adoption of NbS in agriculture, it will be necessary to realign incentives and provide financial resources to facilitate the adoption of new practices.
+
+First, policy makers can realign existing public subsidies and support for agriculture and fisheries, which total over $700B/yr with only 15% supporting the provision of public goods through Nature-based Solutions (FOLU, 2019). Rather than investing in practices that are often maladaptive – OECD estimates up to $100B/yr in subsidies to agricultural production practices considered potentially environmentally harmful (Karousakis, Diakosavvas and Martini, 2017) – public investments should support agriculturalists to produce food in ways that support nature and mitigate climate change. In the US, for example, the Conservation Title in the Farm Bill can continue to increase funding for source water protection activities that enhance water quality (AWAA, 2019).
+
+© Bridget Besaw
+
+$100B/YR
+
+in subsidies to agricultural production practices considered potentially environmentally harmful
+
+Change makers can also use innovative new approaches to provide bridge or transition funding to agriculture. (See
+
+29
+
+SMART POLICY CAN ENABLE AGRICULTUAL NATURE-BASED SOLUTIONS
+
+A lack of transboundary coordination can undermine the implementation and effectiveness of NbS.
+
+GOVERNANCE
+
+NbS often operate at a landscape, watershed or seascape scale, involving multiple actors, actions and jurisdictions. For example, effective management across watersheds using nature-based approaches requires joint decisionmaking across different levels of government and across multiple agencies that manage agriculture, fisheries, forestry and water resources. Similarly, cross-boundary collaboration is needed across public and private lands in fire risk reduction and in efforts to reduce deforestation and specifically to combat leakage from one region to another. A lack of transboundary coordination can undermine the implementation and effectiveness of NbS. Therefore, governments and policy makers must break down barriers and promote coordination across jurisdictions and with the agricultural, private and NGO sectors to advance NbS (Seddon et al., 2020). UN agencies can be particularly helpful when such boundaries include national divides. Similarly, improving and reinforcing technical capacities in fisheries and aquaculture management institutions, especially at decentralized levels, are essential to the effective implementation of NbS in oceans and freshwater ecosystems (Abdelmagied, Mpheshea, 2020). Local authorities and utilities can promote public-private mechanisms, like the water fund example, in Kenya to overcome jurisdictional divides. Some countries have basin authorities that can act to unite multiple actors under a common framework and direct implementation.
+
+© Graham Marsden
+
+also ‘NbS in Ag: Project Design for Securing Investment’, TNC 2020) These tools include agricultural lending, impact investing, and corporate investment incentives to benefit farmers who adopt NbS practices (Cooper and Tremolet, 2019). New insurance tools that reduce the risk to farmers for adopting NbS or transitioning crop types or practices can help accelerate a transition to NbS. Additionally, expenditures in other sectors could help fund the adoption of NbS in agriculture, for example water and electric utilities could invest up to $45B annually in NbS with a positive return of investment (ROI), if the appropriate tariff reforms are undertaken (Abell et al., 2017).
+
+Finally, governments and policy makers can seek to shift consumer preferences and trade practices of importing nations to favor commodities that do not increase deforestation and to support transparency in tracking food produced in ways that support multiple benefits (Neeff, 2017).
+
+30
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+TARGETED PROMOTIONAL CAMPAIGNS
+
+Champions of NbS in agriculture can convene a concerted campaign in support of awareness and wider adoption of these practices. Multiple organizations – like the United Nations Global Compact, the European Commission, International Union for the Conservation of Nature, the Nature-based Solutions Initiative, and the Global Commission on Adaptation – have supported Nature-based Solutions. However, despite wide recognition of the utility of Nature-based Solutions, very few governments and only 3.3% of nearly 2,000 companies reported using ecosystem-based approaches as part of their climate adaptation strategies (though of those using ecosystem approaches, sustainable agriculture was among the most widely deployed) (Goldstein et al., 2019).
+
+As a first step, leading international bodies, corporate actors, nongovernmental organizations and farmers can continue to coalesce around a common definition and nomenclature for Nature-based Solutions. Key elements of NbS include 1) an ecosystem-based approach; 2) to solve a societal challenge; 3) with social, economic and/or environmental cobenefits. In July 2020, building on their efforts to define NbS, the IUCN rolled out a ‘Global Standard for Nature-based Solutions’, with the goal of aligning partners around a common framework and ensuring the quality and credibility of NbS as adoption increases. Parties should continue working towards agreement around the practices and protocols for NbS, in part to avoid the risk of misleading policy makers, funders or the public about the implementation or benefits of NbS practices.
+
+Given the significant influence of food production on climate, the environment and health, it is critical to reach the agricultural community directly about the need and opportunity for NbS, to understand farmer needs and tailor programs and policies to enable uptake. Lessons learned through case studies show that thoughtful design of outreach campaigns in local community context requires thinking about social groups, motivational champions, and trusted pathways of information exchange. A campaign for NbS could target key venues, reach audiences from consumers to agribusiness to farmers, and highlight messages about the public benefits as well as private productivity and profitability gains from NbS.
+
+31
+
+SMART POLICY CAN ENABLE AGRICULTUAL NATURE-BASED SOLUTIONS
+
+-Prioritize regenerative farming/ranching as a national agenda for existing & new agricultural lands, with an emphasis on building organic content over time.
+
+-Expand Nationally Determined Commitments (NDCs) to encourage soil health, water benefits, regenerative agriculture and Nature-based Solutions1.
+
+© Mark Godfrey
+
+-Adopt national frameworks, like the Brazilian Forest Code, to limit detrimental agricultural practices, and include adequate incentives and enforcement.
+
+-Facilitate restoration or conservation of critical aquatic ecosystems (e.g. mangroves restoration, wetlands and watersheds rehabilitation) that sustain fisheries and aquaculture that local communities depend on for food, nutrition and livelihood security, while minimizing environmental impacts and contributing to ecosystem resilience..
+
+POLICY FRAMEWORKS
+
+NbS have the potential to advance smart expansion of global food production on land and sea without habitat loss or degradation and can be employed to achieve water source protection and management at the basin level accompanied by a transition of food systems from extractive and degrading to more productive and restorative. Achieving such a needed shift requires adoption of policy enabling frameworks for NbS at global and national levels.
+
+-Provide adequate national budgets, often by realigning current programs, plus political will to enforce existing environmental legislation.
+
+Global Frameworks: Multiple frameworks and policy initiatives exist to support natural or ecosystem approaches to slowing climate change and enhancing the environment. These include the UN Framework Convention on Climate Change, the UN Convention on Combating Desertification, the Convention on Biological Diversity and the Sustainable Development Goals, as well as the UN Food Systems Summit 2021 These frameworks and the country-level support that underpins them can be harnessed in support of the advancement of NbS as recommended above. Proponents of NbS can continue to marshal global support for research, capacity, new financing, best practices and high-level communications in support of a nature-based transition in agriculture.
+
+-Shift subsidy frameworks to regenerative outcomes.
+
+-Encourage precision approaches across the board, including for application and use of nutrients, agrochemicals and water.
+
+-Establish limits on non-point source pollution from agriculture, e.g. the U.S. TMDL limits for the Chesapeake drainage area.
+
+-Strengthen national Land Degradation Neutrality targets in favor of regenerative agriculture.
+
+Country-level Frameworks: Individual countries can tailor policies, incentives and programs to local farmer needs, environmental risks and public priorities. Specific areas of country-level support for Ag NbS can include:
+
+32
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+Adoption of global frameworks and national policy environments for NbS and their effective implementation will necessarily involve producers and agribusiness. Markets and value chains will be key to scaling. And more broadly, NbS will need to be linked to the SDGs, demonstrating that productivity and sustainability can be addressed together.
+
+A CALL TO ACTION
+
+Numerous global organizations and leaders are calling for nature-based approaches. Most recently, in September 2019, the UN-convened Climate Action Summit brought renewed attention to the power of Nature-based Solutions (NbS) for climate and sustainable development. The NbS Coalition coled by China and New Zealand launched The Nature-based Solutions for Climate Manifesto with the support of more than 70 governments, private sector, civil society and international organizations. Not only are Nature-based Solutions a key pathway for mitigating climate change, but they are essential to meeting goals of the Convention on Biological Diversity.
+
+Now, however, we must translate this high-level support into action and close the gap between theory and practice to increase the adoption of Nature-based Solutions in agriculture.
+
+Critically, Nature-based Solutions carry elements of both private and public benefit, meaning that market forces alone are unlikely to result in a societally optimal adoption of even the most promising approaches. As a result, increasing their adoption will require concerted action on several fronts and by multiple actors, including policy makers, corporate actors, investors, and farmers and food producers. These efforts can be complemented across the board by compelling communications to raise awareness, provide clarity and promote increase adoption of new practices.
+
+Nature-based Solutions in agriculture provide multiple benefits that are economically valuable, quantifiable and at times monetizable. On-the-ground case studies demonstrate that these solutions can be incorporated into diverse food producing regions, and that when they are linked together in a coordinated approach, they can serve multiple community goals. Together we must commit to accelerating the role of Nature-based Solutions in agriculture.
+
+33
+
+SMART POLICY CAN ENABLE AGRICULTUAL NATURE-BASED SOLUTIONS
+
+© Michael Yamashita
+
+governments, private sector, civil society and international organizations supported by The Nature-based Solutions for Climate Manifesto +70
+
+34
+
+34
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+CASE STUDIES
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+© Michael Yamashita
+
+35
+
+35
+
+AGRICULTURAL PRODUCERS PLAY KEY ROLE IN DELIVERING NBS
+
+CASE STUDIES
+
+© Nick Hall
+
+CASE STUDY
+
+NAIROBI WATER FUND
+
+SYSTEM
+
+The Upper Tana River Basin is of critical importance to the Kenyan economy. Covering an area of about 1.7 million hectares, the Upper Tana supplies 95 percent of Nairobi’s drinking water, sustains important aquatic biodiversity, drives agricultural activities that feed millions of Kenyans, and provides half of the country’s hydropower.
+
+natural wetlands that once stored runoff water and recharged aquifers output.
+
+The largely rain-fed agricultural sector (including permanent crops such as coffee and tea, annual vegetable cash crops and subsistence crops and livestock) forms the dominant source of livelihood and labor employment in the Upper Tana River Basin, with smallholder farms collectively being the largest group of landowners. Unfortunately, the sustainability of small- and large-scale agricultural practices is under growing pressure due to over-cultivation, poor nutrient management, soil erosion on sloped land, low productivity of livestock in the lower reaches of the basin and persistent encroachment of cropland into forested riparian and high slope areas.
+
+The unchecked expansion of farming, quarrying and dirt road construction across the Upper Tana over the last 40 years has led to land degradation. Consequently, elevated sediment loads are entering the river system, impacting the delivery of water to Nairobi water users and reducing the efficiency and lifespan of reservoirs. Reservoir function has been further compromised by reduced dry season flows resulting from increased demand for irrigation water and encroachment on
+
+36
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+PRACTICES
+
+Water Funds are organizations that design and enhance financial and governance mechanisms to unite public, private and civil society stakeholders in delivering Nature-based Solutions for water security. The Nature Conservancy and partners have launched 32 Water Funds initiatives in various stages of development, which provide a steady source of funding for the conservation of more than 7 million acres of watersheds and secure drinking water for nearly 50 million people.
+
+acres of watersheds conserved by Water Funds 7 MILLION
+
+The Upper Tana-Nairobi Water Fund (WF) was established to promote Nature-based Solutions in the agricultural sector as well as other landscape scale Nature-based Solutions. The Fund implements a holistic set of conservation activities with the objectives of increasing water yields, reducing sediment loadings, promoting sustainable food production and increasing household incomes in farming communities across the project areas. Specific interventions include:
+
+-Riparian management such as vegetation buffer zones along riverbanks -Agroforestry adoption -Terracing of hill slopes on steep and very steep farmland -Reforestation for degraded lands on forest edges -Grass strips in farmlands -Road erosion mitigation -Implementing soil conservation and water harvesting structures
+
+TNC mobilized downstream water users to raise funds to establish the WF and pilot conservation interventions that would demonstrate how a WF would solve challenges being faced by the local communities and city residents. By engaging downstream beneficiaries like Coca-Cola, Frigoken Ltd (a member of the Aga Khan Development Network), East Africa Breweries limited, Pentair Inc amongst others, and estimated $4 million was raised to support the WF work. The stakeholders engaged Kenya government through the ministry of environment who prioritized establishment of the Water Fund and allocate $8 million dollars to match the private sector contribution. This offers adequate financial support for the conservation work and seed capital for establishing an endowment fund.
+
+© Nick Hall
+
+37
+
+CASE STUDIES
+
+BENEFITS
+
+ENABLING ENVIRONMENT
+
+The main economic benefits of the practices promoted by the Upper Tana-Nairobi Water Fund include: 1) increased agricultural yield for upstream farmers due to improved soil and water management; i2) reduced water treatment costs due to reduced sediment concentrations; 3) increased hydropower production due to higher water yield; and 4) increased hydropower production due to reduced sedimentation. The Water Fund’s practices also result in additional co-benefits including increased pollinator habitat, carbon storage, biodiversity conservation, and climate change adaptation for small rain- dependent farmers. Practices have been established with over 25,000 farmers and the numbers continue to climb.
+
+Mobilizing support for well-integrated conservation project at the beginning wasn’t easy. Nairobi Water Fund was the first of its kind in Africa. There had been numerous conservation projects in the basin, but they had never been designed, implemented and funded at the scale of the watershed. TNC was able to mobilize $900,000 to start proof of concept for the watershed approach; this initial investment funded project work on three sites through local NGOs, and the rest of funding went to development of a business case for the work.
+
+Only after the launch of the business case in 2015 were other partners like Coca-Cola and government of Kenya able to pledge significant resources for the conservation work. The Nairobi city water utility was for the first time able to incorporate a small fee in their tariff to go towards establishing the endowment fund, targeting to raise $1M over the ten-year implementation period. A target of $7.5M has been set for the endowment that now has $2M raised by an ongoing capitalization campaign.
+
+A comprehensive analysis was conducted which integrated investment-planning techniques with watershed modeling tools in order to prioritize where to work, and concluded that even by conservative estimates, the interventions could deliver a two-toone ROI on average over a 30-year timeframe. The business case for the water fund projects a 30% drop in water supply interruptions caused by sediment spikes, 18% less sediment in Masinga Reservoir, 15% more water in dry season river flows, 30% increase in income across 300,000 farms via irrigation and soil productivity, and 1.6 million tons of carbon saved. KenGen is expected to save $600,000 per year from avoided shutdowns of their hydropower facilities near the capital as result of less silt washing into the dams as well as added water supply. Nairobi City Water & Sewerage Company is also set to save $250,000 a year from reduced filtration and sludge disposal costs because the upstream water is cleaner (TNC, 2015; TNC, 2016: GEF, 2020).
+
+Because of the critical role of the Upper Tana watershed to multiple sectors, including food production, hydropower generation and municipal water supply, there was a shared recognition of the need to address the unchecked degradation of the watershed. By recognizing the multiple embedded values of a healthy watershed, and involving key stakeholder groups, the water fund was able to align public and private sectors and design a collective action program whereby investing together makes the most financial sense.
+
+30%
+
+Increase in income across 300,000 farms via Irrigation and Soil Productivity
+
+38
+
+38
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+© Juan Arredondo
+
+CASE STUDY
+
+SILVOPASTORALISM IN COLOMBIA: MAINSTREAMING SUSTAINABLE CATTLE RANCHING
+
+SYSTEM
+
+Traditional cattle ranching consumes more than a third of Colombia’s territory and is the leading cause of deforestation. The cattle raising system in Colombia is extensive and inefficient, with very few cows occupying a large amount of land. Approximately 89% of the country’s farmland is dedicated to cattle and cattle ranching, often associated with speculative landholding. Often, cattle ranchers cut down trees because they are thought to compete with pasture for sun and water, or because tree and limb fall are perceived as a threat to cattle (World Bank, 2019).
+
+of the country’s farmland is dedicated to cattle and cattle ranching89%
+
+39
+
+CASE STUDIES
+
+BENEFITS
+
+PRACTICES
+
+The Mainstreaming Sustainable Cattle Ranching project seeks to introduce silvopastoral practices into ranching in Colombia and protect natural ecosystems. Silvopastoral systems are a Nature-based Solution that fall under the umbrella of agroforestry, combining fodder plants with shrubs and trees for animal nutrition and other co-benefits (Chará et al., 2019). They can increase yield and productivity, increasing or diversifying farm income, while at the same time enhancing environmental services. Silvopastoral practices include:
+
+Using a Healthy Agricultural Systems (HAS) approach that focuses on increasing production while preserving natural assets – the water, soil and rich biodiversity that make productivity possible —Colombian farmers are restoring habitat while increasing production, profits and climate resilience. Seven years of partnership have resulted in (TNC, 2019a):
+
+-Nearly 4,100 ranchers adopting this new farming paradigm, with a 20 percent increase in milk and/or beef production. -Colombian ranchers have already transformed 94,864 acres to environmentally friendly practices and protected 44,000 acres through conservation agreements with landowners. Nearly three million native trees have been planted. -Meanwhile, participating ranchers report a reduction in the need for fertilizers and pesticides, more productive soils, increased loads (animals per hectare), and an average 17 percent increase in their milk and/or meat production and a reduction of 1.5 million tons of greenhouse gas emissions (comparable to taking 214,000 cars off the road for one year). -To date, farmers have contributed to capture 1.1 million tons of CO2 equivalent (Mt CO2e) by converting degraded pastures into silvopastoral systems and secondary forests and have avoided the emission of around 0.4 Mt CO2e by preserving the natural forests within the project areas. Both contributions are highly significant to Colombia, considering that the NDC commitment for the Cattle Ranching sector is reduced 10.3 Mt CO2e by 2030 and that the NDC for the Forestry sector is 39.0 Mt CO2e by the same year. -In the commitments by Colombia under the Paris Agreement, the total GHG reduction target by 2030 is 67 Mt CO2 e (unconditional goal), of which 10 Mt CO2e corresponds to the goal through implementation of silvopastoral systems. The Sustainable Cattle Ranching project at the end of 2019 will contribute 15% of the GHG emission reduction target related to the implementation of silvopastoral systems.
+
+-Scattered trees in pasturelands -Timber plantations with livestock grazing areas -Pastures between tree alleys, windbreaks, live fences and shrubs. -Fodder banks
+
+These proven practices incorporate trees in various arrangements such as: silvopastoral systems, fodder banks and living fences that include native species that provide wildlife refuge and better income for producers.
+
+94,864
+
+Acres already transformed to environmentally friendly practices
+
+40
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+© Juan Arredondo
+
+ENABLING ENVIRONMENT
+
+Several factors have enabled the successful promotion and adoption of silvopastoral practices.
+
+in partnership with TNC, the Center for Research on Sustainable Agriculture (CIPAV), and Fondo Accion (Lerner et al., 2017).
+
+- Longevity: The Mainstreaming Sustainable Cattle Ranching project has been in place for 10 years, allowing it to build relations and trust with family farmers across the different geographies.
+
+- Direct Support to Farmers: The Sustainable Cattle Ranching – SCR project provided technical assistance to 4,100 farms, payment for environmental services to 1,500 farmers (over 2 million dollars paid to farmers) and training to 24,000 additional farmers in 12 departments.
+
+- Livelihood Benefits: While these projects enhance ecosystems and store carbon, they also provide a financial return to the farmers, in terms of cattle productivity, the quantity and quality of milk, reproduction rates, pasture condition and recovery, and resources that can be cut and saved for the dry season.
+
+1500
+
+- Key Partners: The project has been supported by the World Bank and implemented by Colombia’s National Cattle Ranchers Association (FEDEGAN),
+
+farmers provided with technical assistance and payment for environmental services by SCR project.
+
+41
+
+41
+
+CASE STUDIES
+
+CASE STUDIES
+
+CASE STUDY
+
+ECOSYSTEM SERVICE MARKETPLACE CONSORTIUM
+
+SYSTEM
+
+The Ecosystem Service Marketplace Consortium was established in 2019 to address soil health, natural resource and ecosystem services challenges across agricultural lands in the United States. Recognizing that economic incentives are essential to driving new practices in agriculture, the Consortium’s goal is to launch a fully functioning national scale ecosystem services market to sell both carbon and water quality and quantity credits for the agriculture sector by 2022. The Consortium is a collaboration of members from across the entire agricultural supply chain and value chain – including companies like General Mills, Cargill, and Danone, as well NGOs (like TNC) and academic and research institutes (like Noble Research Institute) – working together to
+
+ensure that the program scales successfully to meet farmer and rancher needs as well as corporate, NGO, consumer and societal needs.
+
+Currently, the ESMC is conducting pilots in several key agricultural regions of the United States, including the southern great plains and Midwest corn belt.
+
+The Consortium’s goal is to launch a fully functioning national scale ecosystem services market to sell both carbon and water quality and quantity credits for the agriculture sector by 2022
+
+42
+
+42
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+ECOSYSTEM SERVICES MARKET CONSORTIUM. HIGH OPPORTUNITY CITIES AND WATERSHED FOR INVESTMENTS IN NATURAL BASED SOLUTIONS FOR SOURCE WATER PROTECTION.
+
+Launched
+
+Planning
+
+Emerging
+
+FIGURE 5. ESMC PILOT PROJECT LOCATIONS (ESMC, 2020)
+
+PRACTICES
+
+The Ecosystem Services Market program will enable the adoption of conservation practices through the establishment of a science-based, standards-based, verified and certified program. The quantified changes in ecosystem services are monetized and sold as ecosystem services credits. The farmers and ranchers who create the ecosystem services are paid for those credits in a national ecosystem services market in which
+
+buyers purchase credits to reduce their environmental and supply chain impacts.
+
+The tools that ESMC develops to enable adoption of conservation practices include:
+
+-Asset Quantification: developing accurate, costeffective and scalable quantification of agricultural
+
+43
+
+CASE STUDIES
+
+management system impacts on soil C, net GHG (carbon, methane and nitrous oxide), water quality and water quantity. -Monitoring, Reporting and Verification: developing accurate, cost-effective and scalable monitoring and verification of agricultural management system impacts on soil C, net GHG (carbon, methane and nitrous oxide), water quality and water quantity. -Protocols: establishing a tiered and modular approach to generate four environmental credits or assets from working agricultural lands: soil carbon, net greenhouse gases (GHGs), water quality, and
+
+water quantity, meeting heterogeneous demand and market needs
+
+Specific Agriculture Nature-based Solutions that will be enabled through the ESMC marketplace include:
+
+-No-till or conservation tillage -Cover crops -Rotational Grazing -Crop rotations -Water use efficiency practices to reduce withdrawals from natural water bodies.
+
+BENEFITS
+
+The ESMC sponsored an economic assessment that determined that market demand for credits that American farmers and ranchers can generate through establishing and maintaining conservation practices that provide quantified ecosystem benefits could be as high as $13.9 billion (IHS Markit, 2018). At this level of market activity, farmers would reduce Carbon emissions by 190 million MT, Nitrogen runoff by 1.6 billion pounds, Phosphorous runoff by 0.8 billion pounds. Benefits have been broken down by agricultural regime and region, for example in this table for Carbon sequestration:
+
+FIGURE 6. POTENTIAL CARBON SEQUESTRATION/GHG REDUCTION BY LAND USE AND REGION in 1,000 Tonnes CO2e
+
+Source: Informa Consulting
+
+Region Field crops Fruit, Vegetable, and Tree nuts Pasture Rangeland Total
+
+NORTHEAST 5,581 1,024 1,743 0 8,528
+
+LAKE STATES 25,374 1,495 2,652 0 29,520
+
+CORN BELT 56,446 344 5,799 13 62,202
+
+NORTHERN PLAINS 46,730 174 2,151 16,414 65,469
+
+APPALACHIA 9,977 427 4,671 0 155,075
+
+SOUTHEAST 5,501 2,050 2,809 686 11,046
+
+DELTA 10,561 129 2,852 60 13,603
+
+SOUTHERN PLAINS 18,475 497 6,660 24,551 50,183
+
+MOUNTAIN 11,798 754 1,982 35,474 50,009
+
+PACIFIC 5,488 6,180 1,018 7,279 19,965
+
+TOTAL 195,931 13,255 32,337 84,477 326,000
+
+44
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+ENABLING ENVIRONMENT
+
+- Learning from existing models: ESMC was conceived and designed to overcome past and current challenges observed in environmental markets. These challenges span policy, technological, economic and social capital categories. ESMC unique market design includes matching supply and demand at multiple levels – voluntary and regulatory – as well as by connecting buyers and sellers from the start, so that they are not required to find each other in disconnected market opportunities in which oneoff transactions randomly occur. Also, ESMC has one integrated approach to asset quantification for multiple ecological outcomes including GHG and water allows ESMC to stack credits and sell the bundled or separately, thus stacking multiple payments for producers. ESMC is also investing in a central platform to measure, report and verify assets – a technologically advanced platform that will make the market scalable and cost-effective to overcome current market challenges in which asset prices have been lower than the costs required to generate and verify the assets themselves.
+
+Several factors have enabled the ESMC to gain traction and will be essential to fully realizing the market potential of ecosystem services in agriculture. Would build on these below.
+
+- Multi-Sector Collaboration across the agricultural sector supply chain and value chain: The ESMC has been built by a coalition of partners including the private sector, non-governmental organizations, farmers and farm groups, and research institutions. The agricultural supply chain and value chain is engaged through this effort to collectively agree to needed R&D investments to build a technologically advanced market that meets supplier (agricultural producer) and buyer (corporates, municipalities, others) needs. Collaborators are also testing the market platform and protocols in pilots in the run-up to the 2022 full market launch.
+
+- Public Support: The ESMC has benefited from a $10.3M grant from the federally funded Foundation for Food and Agriculture Research; as well as additional funding from and close collaboration with USDA NRCS conservation programs, USDA research programs, water quality programs of the US Environmental Protection Agency, and agriculturerelated programs of the US Department of Energy ARPA-e.
+
+ESMC has been enabled by policy and financial support from federal government. For example, the Total Maximum Daily Load (TMDL) limits have enabled water quality and nutrient trading programs to emerge. In turn, the ESMC has been active in making policy recommendations (for example to farm bill policy and funding) that would further enable the adoption of these markets.
+
+- Market Approaches: The ESMC has found widespread support for its focus on marketplace solutions to drive nature-based practices in agriculture, as opposed to regulatory approaches. By designing its program to meet multiple market needs – including voluntary carbon markets and compliancegrade water markets, as well as to help corporate annual sustainability reporting requirements – ESMC’s tiered and modular protocols and program were designed to meet existing and growing demand. ESMC’s stacked assets approach also allows farmers and ranchers to be recognized and rewarded for multiple environmental benefits demanded and desired by society, consumers, corporates, and regulatory programs.
+
+$10.3M
+
+grant from the federally funded Foundation for Food and Agriculture Research shows how public investment can enable private innovation and incentives through the ESMC.
+
+45
+
+45
+
+CASE STUDIES
+
+CASE STUDIES
+
+© Zhou
+
+CASE STUDY
+
+QIANDAO WATER FUND
+
+SYSTEM
+
+originated from sub-watersheds representing just 10% of total watershed area. Moreover, 17% of agricultural fields and orchards are responsible for 64% of total excess nitrogen loading, 68% of total excess phosphorus loading, and 60% of sediment loading.
+
+Qiandao Lake (aka “Thousand Island Lake”) serves as the most important drinking water source in the Yangtze River Delta region in China and is integral in securing domestic water use and drinking water quality for residents in the Hangzhou metropolitan area. The watershed of Qiandao Lake is located within one of thirty-two priority biodiversity conservation areas in the country, acting as a key ecological buffer in the Yangtze River Delta region.
+
+One of the challenges in managing agricultural NPS pollution in China’s watersheds is that the landscape is dominated by smallholder farmers. In Qiandao Lake watershed, smallholder farms—many on steeply sloped land—comprise 70% of the total land area and account for about half of the total nitrogen and phosphorus pollution in the watershed. Tea plantations—a typical land use type contributing to NPS pollution within the area—have been identified as an entry point for promoting sustainable practices and testing a new performance-based compensation mechanism.
+
+Non-point source (NPS) pollution from conventional agricultural practices is increasing, threatening the ecosystem integrity of the Qiandao Lake watershed. Over the last decade, water quality in Qiandao Lake has declined due to nutrient enrichment in particular. In 2017, the World Bank and The Nature Conservation (TNC) jointly conducted a study which identified NPS pollution ‘hot spots’ within Qiandao Lake watershed – an estimated 30% of total NPS pollution
+
+46
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+PRACTICES
+
+To develop a viable long-term governance mechanism for NPS pollution control and integrated watershed management, the World Bank launched the “Zhejiang Qiandao Lake and Xin’an River Basin Water Resources and Ecological Environment Protection Project” in 2018. As part of this project, Alibaba Foundation and Minsheng Life Insurance Foundation partnered with Wanxiang Trust as the trustee and TNC as the scientific advisor. Together, this partnership has collectively secured 10 million CNY philanthropic funding to create the Qiandao Lake Water Fund: an innovative watershed eco-compensation (i.e. payment for ecosystem services) framework.
+
+and transaction costs of participating and providing additional incentives for successful implementation. As of today, the platform has supported implementation of best management practices on farms accounting for more than 1,000 mu (67 ha) of rice paddy fields and is expected to reach at least 5,000 mu (333 ha) in 2020.
+
+30-40% INCREASE
+
+Over the last two years, the Water Fund has promoted the adoption of nature-based practices to stem the decline in water quality, with a focus on smallholder farmers. On a voluntary basis, village-based collective tea cooperatives organize individual tea farmers to commit to a “Three ‘No’ Principle” approach: no herbicides, no fertilizers, and no pesticides should be applied by the farmers on their own. Rather, smallholder tea farmers apply fertilizers and pesticides in coordination with the cooperative and adopt a variety of best management practices (BMPs) such as mulching and burying fertilizers in their fields to reduce NPS pollution from tea plantations. The implementation of these BMPs is supervised by the cooperative, and the Water Fund project staff conduct random checks (including monitoring) to ensure the quality of work.
+
+in farmer income per household from tea plantations participating in the program.
+
+For larger scale (50 mu/3.3 ha) farming (such as rice, corn, rapeseed), the Fund is trying to promote increased adoption of specific nature-based agriculture management practices – like mulching, cover crops, and planting nectar source plants – as well. Prior to establishment of the Fund, most measures to address agricultural NPS in China have targeted this group of farmers through subsidies for reduced fertilization and pesticide applications. The distribution and management processes rely on paper-based transactions that result in high labor costs and low efficiency. The Fund has developed a smart IT platform to optimize the efficiency of compensation distribution and management in watershed protection, by streamlining the process to identify optimal practices, reducing the administrative
+
+© Zhou
+
+47
+
+CASE STUDIES
+
+BENEFITS
+
+According to monitoring data collected by thirdparty research institution in 2019, mulching measures effectively reduced the losses of total nitrogen and phosphorus by 36.55% and 38.11%, respectively. Losses of ammonia and nitrate nitrogen were reduced by 48.7% and 61.59%.
+
+the Water Fund pays farmers a premium fee (called an “ecological water protection compensation fee”) of 2.5 CNY/kg, based on the quality of raw materials (green tea leaves). Farmers participating in the project saw an increase in their income by an average of 800 CNY per mu per household (ca. 53 CNY/ha/household), equivalent to a 30-40% increase in their income from tea plantations.
+
+Additionally, the programs benefitted farmer livelihoods. When the cooperative purchases tea from farmers,
+
+ENABLING ENVIRONMENT
+
+The Qiandao Lake Water Fund has benefited from several key conditions. One was the early institutional support from the World Bank and other key institutional partners like Alibaba, Minsheng Life and Wanxiang Trust. These partners brought resources, credibility and new capacity to the project. They were able to complement the existing institutional capacity in the region, including the village-based tea collectives and the programs to incent reductions in fertilizer and pesticide applications on large scale farms. They also built on the success of a small-scale pilot, the Longwu Water Fund, which preceded the Qiandao Fund and demonstrated many of the governance, practices and farmer engagement efforts that were deployed in Qiandao.
+
+Further, the Fund was able to develop innovative new mechanisms to monitor and deliver Nature-based Solutions. First, they were able to devise a new mechanism to augment compensation for the eco-friendly agricultural products through the payment of the premium fee for the adoption of new NbS practices. Second the Fund built a new platform to optimize the delivery of subsidies for best practices, using blockchain and artificial intelligence to improve the accuracy, transparency, and efficiency for both farmers and government.
+
+48
+
+48
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+PROJECT DESIGN FOR INVESTING IN NATURE-BASED SOLUTIONS
+
+REFERENCES
+
+-Abdelmagied, M. and Mpheshea, M. 2020. Ecosystem-based
+
+-Chapman, A. & Darby, S. 2016. Evaluating sustainable adaptation
+
+adaptation in the agriculture sector – A nature-based solution
+
+strategies for vulnerable mega-deltas using system dynamics
+
+(NbS) for building the resilience of the food and agriculture sector
+
+modelling: Rice agriculture in the Mekong Delta’s An Giang
+
+to climate change. Rome, FAO.
+
+Province, Vietnam. Science of The Total Environment, 559:
+
+326–338. https://doi.org/10.1016/j.scitotenv.2016.02.162
+
+-Abell, R., et al. 2017. Beyond the Source: The Environmental,
+
+-Chará J., Reyes E., Peri P., Otte J., Arce E., Schneider F. 2019.
+
+Economic and Community Benefits of Source Water Protection.
+
+https://www.nature.org/content/dam/tnc/nature/en/
+
+Silvopastoral Systems and their Contribution to Improved
+
+documents/Beyond_The_Source_Full_Report_FinalV4.pdf
+
+Resource Use and Sustainable Development Goals: Evidence
+
+from Latin America. FAO, CIPAV and Agri Benchmark, Cali, 60 pp.
+
+-American Water Works Association (AWWA). 2019. Farm bill
+
+-Cohen-Shacham, E., Walters, G., Janzen, C. and Maginnis,
+
+expands NRCS opportunities for source water protection [online].
+
+S. 2016. Nature-based Solutions to address global societal
+
+https://www.awwa.org/AWWA-Articles/farm-bill-expands-nrcs-
+
+opportunities-for-source-water-protection
+
+challenges. https://portals.iucn.org/library/sites/library/files/
+
+documents/2016-036.pdf
+
+-Buckley, C., Hynes, S. & Mechan, S. 2012. Supply of an
+
+-Cooper, G. & Tremolet, S. 2019. Investing in Nature: Private
+
+ecosystem service—Farmers’ willingness to adopt riparian buffer
+
+zones in agricultural catchments. Environmental Science & Policy,
+
+finance for nature-based resilience. The Nature Conservancy and
+
+24: 101–109. https://doi.org/10.1016/j.envsci.2012.07.022
+
+Environmental Finance. (also available at https://www.nature.
+
+org/content/dam/tnc/nature/en/documents/TNC-INVESTING-
+
+-Business for Social Responsibility (BSR). 2018. Climate and
+
+IN-NATURE_Report_01.pdf).
+
+Supply Chain: The Business Case for Action [online]. https://
+
+-Corsi, S. & Muminjanov, H. 2019. Conservation agriculture:
+
+www.bsr.org/en/our-insights/report-view/climate-change-and-
+
+supply-chain-the-business-case-for-action
+
+training guide for extension agents and farmers in Eastern Europe
+
+and Central Asia. (also available at http://www.fao.org/3/
+
+-Campanhola, C. 2017. Why does sustainable agriculture remain
+
+i7154en/i7154en.pdf).
+
+a challenge? In: Impakter [online]. https://impakter.com/
+
+-Danone. 2020. Regenerative Agriculture [online]. https://www.
+
+sustainable-agriculture-remain-challenge/
+
+danone.com/impact/planet/regenerative-agriculture.html
+
+-Carlisle, L. 2016. Factors influencing farmer adoption of soil
+
+-EESI. 2019. Fact Sheet: Nature as Resilient Infrastructure – An
+
+health practices in the United States: a narrative review.
+
+Agroecology and Sustainable Food Systems, 40(6): 583–613.
+
+Overview of Nature-based Solutions | White Papers | EESI
+
+https://doi.org/10.1080/21683565.2016.1156596
+
+[online]. https://www.eesi.org/papers/view/fact-sheet-nature-
+
+as-resilient-infrastructure-an-overview-of-nature-based-
+
+-Carlisle, L., Montenegro de Wit, M., DeLonge, M.S., Iles, A.,
+
+solutions
+
+Calo, A., Getz, C., Ory, J., Munden-Dixon, K., Galt, R., Melone,
+
+-FAO. 2014. Building a common vision for sustainable food and
+
+B., Knox, R. & Press, D. 2019. Transitioning to Sustainable
+
+Agriculture Requires Growing and Sustaining an Ecologically
+
+agriculture: Principles and Approaches. http://www.fao.org/3/a-
+
+Skilled Workforce. Frontiers in Sustainable Food Systems, 3.
+
+i3940e.pdf
+
+https://doi.org/10.3389/fsufs.2019.00096
+
+-FAO. 2019. The State of the World’s Biodiversity for Food and
+
+-Cerdà, A., Rodrigo-Comino, J., Giménez-Morera, A., Novara,
+
+Agriculture, J. Bélanger & D. Pilling (eds.). FAO Commission on
+
+A., Pulido, M., Kapović-Solomun, M. & Keesstra, S.D. 2018.
+
+Genetic Resources for Food and Agriculture Assessments. Rome.
+
+Policies can help to apply successful strategies to control soil
+
+and water losses. The case of chipped pruned branches (CPB) in
+
+-FAO. 2020a. Family Farming Knowledge Platform [online]. http://
+
+Mediterranean citrus plantations. Land Use Policy, 75: 734–745.
+
+www.fao.org/family-farming/background/en/
+
+https://doi.org/10.1016/j.landusepol.2017.12.052
+
+49
+
+REFERENCES
+
+-FAO. 2020b. FAOSTAT Emissions shares, http://www.fao.org/
+
+P., Putz, F.E., Sanderman, J., Silvius, M., Wollenberg, E. &
+
+Fargione, J. 2017. Natural climate solutions. Proceedings of the
+
+faostat/en/#data/EM.
+
+National Academy of Sciences, 114(44): 11645–11650. https://
+
+-FAO. 2020c. Climate change: Unpacking the burden on food
+
+doi.org/10.1073/pnas.1710465114 https://www.iucn.org/
+
+safety. Food safety and quality series No. 8. Rome. https://doi.
+
+commissions/commission-ecosystem-management/our-work/
+
+org/10.4060/ca8185en
+
+nature-based-solutions
+
+-FAO. 2020d. The State of World Fisheries and Aquaculture
+
+-Huntley Lafave, C., Ahren Renton, C. & Sierks, K. 2020. Show
+
+2020. Sustainability in action. Rome. https://doi.org/10.4060/
+
+Me the Money: Making a Downstream Market for Diverse
+
+ca9229en
+
+Regenerative Crops. In: Conservation Finance Network [online].
+
+-FAO and ICEM. (Forthcoming December 2020). Identifying
+
+https://www.conservationfinancenetwork.org/2020/04/16/
+
+Nature-based Solutions (NbS) and green infrastructure (GI) in
+
+show-me-the-money-making-downstream-market-for-diverse-
+
+the agriculture sector for more resilient rural communities in
+
+regenerative-crops
+
+Asia. Final Research Report. Bangkok, Thailand https://icem.com.
+
+-IHS Markit. 2018. Economic Assessment for Ecosystem
+
+au/portfolio-items/identifying-green-infrastructure-and-nature-
+
+Service Market Credits from Agricultural Working Lands
+
+based-solutions-for-more-resilient-rural-communities/
+
+(Prepared for Ecosystem Services Market Consortium). (also
+
+-FOLU. 2019. Growing Better: Ten Critical Transitions to Transform
+
+available at https://ecosystemservicesmarket.org/wp-content/
+
+Food and Land Use. Food and Land Use Coalition. (also available
+
+uploads/2019/09/Informa-IHS-Markit-ESM-Study-Sep-19.pdf).
+
+at https://www.foodandlandusecoalition.org/wp-content/
+
+-International Union for Conservation of Nature (IUCN). 2018.
+
+uploads/2019/09/FOLU-GrowingBetter-GlobalReport.pdf).
+
+Information Paper: Safeguarding nature through finance. (also
+
+-Friedrich, T., Derpsch, R. & Kassam, A. 2012. Overview of the
+
+available at https://www.iucn.org/sites/dev/files/information_
+
+Global Spread of Conservation Agriculture. Field Actions Science
+
+paper_-_safeguarding_nature_through_finance.pdf).
+
+Reports. The journal of field actions (Special Issue 6). (also
+
+-IUCN. 2016. Nature-based Solutions. In: IUCN [online].
+
+available at http://journals.openedition.org/factsreports/1941).
+
+-IUCN. 2019. Towards Nature-based Solutions in the
+
+-Friedrich, T., Derpsch, R., and Kassam, A. 2012. Overview of the
+
+Mediterranean. (also available at https://www.iucn.org/sites/
+
+Global Spread of Conservation Agriculture. Field Actions Science
+
+dev/files/content/documents/towards_nature-based_solutions_
+
+Reports Special Issue 6; http://factsreports.revues.org/1941).
+
+in_the_mediterranean.pdf).
+
+-General Mills. 2020. Regenerative Agriculture 2020 [online].
+
+-Joffre, O.M., Bosma, R.H., Bregt, A.K., Zwieten, P.A.M. van,
+
+http://www.generalmills.com/Responsibility/Sustainability/
+
+Bush, S.R. & Verreth, J. a. J. 2015. What drives the adoption of
+
+Regenerative-agriculture
+
+integrated shrimp mangrove aquaculture in Vietnam? Ocean
+
+-Global Commission on Adaptation (GCA). 2019. Adapt Now: A
+
+& Coastal Management, 114: 53–63. https://doi.org/10.1016/j.
+
+Global Call for Leadership on Climate Resilience. (also available
+
+ocecoaman.2015.06.015
+
+at https://cdn.gca.org/assets/2019-09/GlobalCommission_
+
+-Jones, J., Silcock, P. & Uetake, T. 2015. Public Goods and
+
+Report_FINAL.pdf).
+
+Externalities: Agri-environmental Policy Measures in the United
+
+-Global Environment Facility (GEF). 2020. Could avocados save
+
+Kingdom. https://doi.org/https://doi.org/10.1787/5js08hw4drd1-
+
+Nairobi’s water? [online]. https://www.thegef.org/news/could-
+
+en
+
+avocados-save-nairobis-water
+
+-Karousakis, K., Diakosavvas, D. & Martini, R. 2017. OECD
+
+-Goldstein, A., Turner, W.R., Gladstone, J. & Hole, D.G. 2019. The
+
+presentation: Insights on the Reform and Greening of
+
+private sector’s climate change risk and adaptation blind spots.
+
+Environmentally Harmful Subsidies and OECD Methods for
+
+Nature Climate Change, 9(1): 18–25. https://doi.org/10.1038/
+
+Measuring Government Support to Agriculture and to Fisheries.
+
+s41558-018-0340-5
+
+Presented at, 2017, BIOFIN Webinar. https://www.slideshare.
+
+-Griscom, B.W., Adams, J., Ellis, P.W., Houghton, R.A., Lomax,
+
+net/OECD_ENV/oecd-presentation-insights-on-the-reform-
+
+G., Miteva, D.A., Schlesinger, W.H., Shoch, D., Siikamäki, J.V.,
+
+and-greening-of-environmentally-harmful-subsidies-and-oecd-
+
+Smith, P., Woodbury, P., Zganjar, C., Blackman, A., Campari,
+
+methods-for-measuring-government-support-to-agriculture-and-
+
+J., Conant, R.T., Delgado, C., Elias, P., Gopalakrishna, T.,
+
+to-fisheries
+
+Hamsik, M.R., Herrero, M., Kiesecker, J., Landis, E., Laestadius,
+
+-Kiptot, E., Franzel, S., Hebinck, P. & Richards, P. 2006.
+
+L., Leavitt, S.M., Minnemeyer, S., Polasky, S., Potapov,
+
+50
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+Sharing seed and knowledge: farmer to farmer dissemination
+
+publication/331473859_Zero_deforestation_initiatives_and_
+
+of agroforestry technologies in western Kenya. Agroforestry
+
+their_impacts_on_commodity_supply_chains).
+
+Systems, 68(3): 167–179. https://doi.org/10.1007/s10457-006-
+
+9007-8
+
+-Nkonya, E., von Braun, J., Mirzabaev, A., Le, Q.B., Kwon, H.Y.
+
+-Kiptot, E., Hebinck, P., Franzel, S. & Richards, P. 2007. Adopters,
+
+& Kirui, O. 2013. Economics of Land Degradation Initiative:
+
+testers or pseudo-adopters? Dynamics of the use of improved
+
+Methods and Approach for Global and National Assessments.
+
+tree fallows by farmers in western Kenya. Agricultural Systems,
+
+SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2343636
+
+94(2): 509–519. https://doi.org/10.1016/j.agsy.2007.01.002
+
+-Ntshangase, N., Muroyiwa, B. & Sibanda, M. 2018. Farmers’
+
+-Knowler, D. & Bradshaw, B. 2007. Farmers’ adoption of
+
+Perceptions and Factors Influencing the Adoption of No-Till
+
+conservation agriculture: A review and synthesis of recent
+
+Conservation Agriculture by Small-Scale Farmers in Zashuke,
+
+research. Food Policy, 32(1): 25–48. https://doi.org/10.1016/j.
+
+KwaZulu-Natal Province. Sustainability. https://doi.org/10.3390/
+
+foodpol.2006.01.003
+
+su10020555
+
+-Lerner, A.M., Zuluaga, A.F., Chará, J., Etter, A. & Searchinger,
+
+-OECD & FAO. 2018. OECD-FAO agricultural outlook 2018-
+
+T. 2017. Sustainable Cattle Ranching in Practice: Moving from
+
+2027. Rome, italy, FAO and OECD. (also available at https://doi.
+
+Theory to Planning in Colombia’s Livestock Sector. Environmental
+
+org/10.1787/agr_outlook-2018-en).
+
+Management, 60(2): 176–184. https://doi.org/10.1007/s00267-
+
+-Palm, C., Blanco-Canqui, H., DeClerck, F., Gatere, L. & Grace,
+
+017-0902-8
+
+P. 2013. Conservation agriculture and ecosystem services: An
+
+-Lewis, S.L., Wheeler, C.E., Mitchard, E.T.A. & Koch, A. 2019.
+
+overview. An overview. Agriculture, Ecosystems & Environment,
+
+Restoring natural forests is the best way to remove atmospheric
+
+187: 87–105.
+
+carbon. Nature, 568(7750): 25–28. https://doi.org/10.1038/
+
+-Pinner, D., Rogers, M. & Samandari, H. 2020. Addressing
+
+d41586-019-01026-8
+
+climate change in a post-pandemic world. McKinsey Quarterly
+
+-Matthews, J., Matthews, N., Simmons, E., & Vigerstol, K. 2019.
+
+[online]. https://www.mckinsey.com/~/media/McKinsey/
+
+Wellspring: Source Water Resilience and Climate Adaptation.
+
+Business%20Functions/Sustainability/Our%20Insights/
+
+https://www.nature.org/content/dam/tnc/nature/en/
+
+Addressing%20climate%20change%20in%20a%20post%20
+
+documents/Wellspring_FULL_Report_2019.pdf
+
+pandemic%20world/Addressing-climate-change-in-a-post-
+
+pandemic-world-v3.pdf
+
+-McWilliam, W. & Balzarova, M. 2017. The role of dairy company
+
+-Raymond, C.M., Berry, P., Breil, M., Nita, M.R., Kabisch, N., Bel,
+
+policies in support of farm green infrastructure in the absence
+
+M.D., Enzi, V., Frantzeskaki, N., Geneletti, D., Cardinaletti, M.,
+
+of government stewardship payments. Land Use Policy, 68:
+
+Lovinger, L., Basnou, C., Monteiro, A., Robrecht, H., Sgrigna,
+
+671–680.
+
+G., Munari, L. & Calfapietra, C. 2017. An impact evaluation
+
+-Miralles-Wilhelm, F. 2021. Nature-Based Solutions in
+
+framework to support planning and evaluation of Nature-based
+
+Agriculture: Sustainable Management and Conservation of Land,
+
+Solutions projects. (also available at http://rgdoi.net/10.13140/
+
+Water, and Biodiversity. The United Nations Food and Agriculture
+
+RG.2.2.18682.08643).
+
+Organization, and The Nature Conservancy.
+
+-Richards, M. & Panfil, S. 2011. Social and Biodiversity Impact
+
+-Mudaliar, A., Bass, R., Dithrich, H. & Nova, N. 2019. 2019
+
+Assessment (SBIA) Manual for REDD+ Projects: Part 1 – Core
+
+Annual Impact Investor Survey. The Global Impact Investing
+
+Guidance for Project Proponents. Climate, Community &
+
+Network. (also available at https://thegiin.org/research/
+
+Biodiversity Alliance, Forest Trends, Fauna & Flora International,
+
+publication/impinv-survey-2019).
+
+and Rainforest Alliance. W. Washington, DC. (also available at
+
+-Narayan, S., Beck, M.W., Wilson, P. et al. 2017. The Value
+
+https://www.forest-trends.org/wp-content/uploads/imported/
+
+of Coastal Wetlands for Flood Damage Reduction in the
+
+sbia-part-1-pdf.pdf).
+
+Northeastern USA. https://doi.org/10.1038/s41598-017-
+
+-Richter, B. 2016. Water Share: Using water markets and impact
+
+09269-z
+
+investment to drive sustainability . In: The Nature Conservancy
+
+-Neeff, T. 2017. Zero deforestation initiatives and their impacts on
+
+[online]. [Cited 19 November 2020]. https://www.nature.org/
+
+commodity supply chains. Paper presented at, 2017, 57th Session
+
+en-us/what-we-do/our-insights/perspectives/investing-our-
+
+of the FAO Advisory Committee on Sustainable Forest-based
+
+way-out-of-the-global-water-crisis/
+
+Industries. (also available at https://www.researchgate.net/
+
+51
+
+REFERENCES
+
+-Ritchie, H. & Roser, M. 2013. Land Use. Our World in Data. (also
+
+int/sites/SubmissionsStaging/Documents/202005261527--
+
+available at https://ourworldindata.org/land-use).
+
+-UNCCD_SBSTA%20Land-Climate%20Dialogue_FINAL%20
+
+(003).pdf [online]
+
+-UNESCO. 2018 - Nature-based Solutions | United Nations
+
+-Rodriguez, J.M., Molnar, J.J., Fazio, R.A., Sydnor, E. & Lowe,
+
+Educational, Scientific and Cultural Organization [online]. http://
+
+M.J. 2009. Barriers to adoption of sustainable agriculture
+
+www.unesco.org/new/en/natural-sciences/environment/water/
+
+practices: Change agent perspectives. Renewable Agriculture and
+
+wwap/wwdr/2018-nature-based-solutions/
+
+Food Systems, 24(1): 60–71.
+
+-UNFCCC. 2017. Report of the Conference of the Parties on
+
+-Seddon, N., Chausson, A., Berry, P., Girardin, C.A.J., Smith, A. &
+
+its twenty-third session, held in Bonn from 6 to 18 November
+
+Turner, B. 2020. Understanding the value and limits of Nature-
+
+2017. (also available at https://unfccc.int/sites/default/files/
+
+based Solutions to climate change and other global challenges.
+
+resource/11a01.pdf).
+
+Philosophical Transactions of the Royal Society B: Biological
+
+-United Nations General Assembly (UNGA). 2018. A/
+
+Sciences, 375(1794): 20190120. https://doi.org/10.1098/
+
+rstb.2019.0120
+
+RES/73/233 [online]. https://undocs.org/en/A/RES/73/233
+
+-Shukla, P.R., Skea, J. & Calvo Buendia, E. 2019. Climate
+
+-United Nations General Assembly. 2019. A/C.2/74/L.41/Rev.1.
+
+Change and Land: an IPCC special report on climate change,
+
+Sustainable development: implementation of the United Nations
+
+desertification, land degradation, sustainable land management,
+
+Convention to Combat Desertification in Those Countries
+
+food security, and greenhouse gas fluxes in terrestrial
+
+Experiencing Serious Drought and/or Desertification, Particularly
+
+ecosystems. IPCC.
+
+in Africa [online]. https://undocs.org/A/C.2/74/L.41/Rev.1
+
+-Simelton, E. & Viet Dam, B. 2014. Farmers in NE Viet Nam rank
+
+-Van der Wolf, J., Jassogne, L., Gilgram, G. & Vaast, P. 2016.
+
+values of ecosystems from seven land uses. Ecosystem Services,
+
+Turning local knowledge on agroforestry into an online decision-
+
+9(C): 133–138.
+
+support tool for tree selection in smallholders’ farms. Cambridge
+
+University Press, 55(S1): 50–66.
+
+-The Nature Conservancy (TNC). 2015. Upper Tana-Nairobi
+
+-Watkiss, P., Ventura, A. and Poulain, F. 2019. Decision-making
+
+Water Fund: A Business Case . (also available at https://www.
+
+nature.org/content/dam/tnc/nature/en/documents/Nairobi-
+
+and economics of adaptation to climate change in the fisheries
+
+Water-Fund-Business-Case_FINAL.pdf).
+
+and aquaculture sector. FAO Fisheries and Aquaculture Technical
+
+Paper No. 650. Rome, FAO.
+
+-The Nature Conservancy (TNC). 2016. LOCAL SPOTLIGHT:
+
+-World Bank. 2019. Trees and Cows Offer Path to Recovery
+
+Upper Tana Watershed, Nairobi, Kenya—Economic benefits of
+
+protecting source watersheds
+
+in Colombia [online]. https://www.worldbank.org/en/news/
+
+feature/2019/07/08/trees-and-cows-offer-path-to-recovery-in-
+
+-The Nature Conservancy (TNC). 2019a. More Food, Less Habitat
+
+colombia
+
+Loss. In: Stories in Colombia [online]. https://www.nature.org/
+
+-World Economic Forum. 2019. The Global Risks Report 2019. No.
+
+en-us/about-us/where-we-work/latin-america/colombia/
+
+stories-in-colombia/our-work-in-colombia-lands/
+
+14. Geneva. (also available at http://www3.weforum.org/docs/
+
+WEF_Global_Risks_Report_2019.pdf).
+
+-The Nature Conservancy (TNC). 2019b. Strategies for
+
+Operationalizing Nature-based Solutions in the Private Sector.
+
+The Nature Conservancy Business Council, Natural Infrastructure
+
+Working Group. (also available at https://www.nature.org/
+
+content/dam/tnc/nature/en/documents/NBSWhitePaper.pdf).
+
+-Theuerkauf, S.J., Jr, J.A.M., Waters, T.J., Wickliffe, L.C.,
+
+Alleway, H.K. & Jones, R.C. 2019. A global spatial analysis
+
+reveals where marine aquaculture can benefit nature and people.
+
+PLOS ONE, 14(10): e0222282. https://doi.org/10.1371/journal.
+
+pone.0222282
+
+-UNCCD. undated. Submission by the UNCCD to the UNFCCC
+
+SBSTA52 “Dialogue on the relationship between land and climate
+
+change adaptation related matters”. In: https://www4.unfccc.
+
+52
+
+52
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+PROJECT DESIGN FOR INVESTING IN NATURE-BASED SOLUTIONS
+
+FIGURE 1 REFERENCES
+
+-Anderson, R., Beatty, R., Russell-Smith, J. & van der Werf,
+
+G.R. 2015. The global potential of indigenous fire management:
+
+findings of the regional feasibility assessments. United Nations
+
+University . (also available at https://static1.squarespace.com/
+
+static/5d2dec96ec6d2f0001211415/t/5d3c2837242c220001b4f
+
+f4b/1564223547588/Final-Report-Findings-Regional-Feasibility-
+
+Assessments-ISFMI.pdf).
+
+-Brown, S., Schroeder, P. & Birdsey, R. 1997. Aboveground
+
+biomass distribution of US eastern hardwood forests and the
+
+use of large trees as an indicator of forest development. Forest
+
+Ecology and Management, 96(1): 37–47. https://doi.org/10.1016/
+
+S0378-1127(97)00044-3
+
+-FAO. 2012. Global Ecological Zones for FAO Forest Reporting:
+
+2010 Update. Rome, Food and Agriculture Organization of the
+
+United Nations. (also available at http://www.fao.org/3/ap861e/
+
+ap861e00.pdf).
+
+-Hosonuma, N., Herold, M., Sy, V.D., Fries, R.S.D., Brockhaus,
+
+M., Verchot, L., Angelsen, A. & Romijn, E. 2012. An assessment
+
+of deforestation and forest degradation drivers in developing
+
+countries. Environmental Research Letters, 7(4): 044009.
+
+https://doi.org/10.1088/1748-9326/7/4/044009
+
+-Intergovernmental Panel on Climate Change & Edenhofer, O.,
+
+eds. 2014. Climate change 2014: mitigation of climate change:
+
+Working Group III contribution to the Fifth Assessment Report of
+
+the Intergovernmental Panel on Climate Change. New York, NY,
+
+Cambridge University Press. 1435 pp.
+
+-Meyer, S., Glaser, B. & Quicker, P. 2011. Technical, Economical,
+
+and Climate-Related Aspects of Biochar Production Technologies:
+
+A Literature Review. Environmental Science & Technology,
+
+45(22): 9473–9483. https://doi.org/10.1021/es201792c
+
+-Strengers, B.J., Van Minnen, J.G. & Eickhout, B. 2008. The role
+
+of carbon plantations in mitigating climate change: potentials and
+
+costs. Climatic Change, 88(3): 343–366. https://doi.org/10.1007/
+
+s10584-007-9334-4
+
+-Trabucco, A., Zomer, R.J., Bossio, D.A., van Straaten, O.
+
+& Verchot, L.V. 2008. Climate change mitigation through
+
+afforestation/reforestation: A global analysis of hydrologic
+
+impacts with four case studies. Agriculture, Ecosystems
+
+& Environment, 126(1): 81–97. https://doi.org/10.1016/j.
+
+agee.2008.01.015
+
+53
+
+Module 3: ORGANIZING THE INSTITUTIONAL ARRANGEMENTS AND GOVERNANCE
+
+NATURE-BASED SOLUTIONS IN AGRICULTURE: THE CASE AND PATHWAY FOR ADOPTION
+
+ISBN 978-92-5-133908-4
+
+CB3141EN/1/02.21

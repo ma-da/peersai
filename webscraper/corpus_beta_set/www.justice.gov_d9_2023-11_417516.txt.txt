@@ -1,0 +1,83 @@
+Trial Exhibit-UPX0203: U.S. and Plaintiff States v. Google LLC
+
+Ex. No.
+
+UPX0203
+
+1:20-cv-03010-APM
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488857
+
+AGENDA
+
+Introduction- JG
+
+Core Search - Emily
+
+Ranking - Eric
+
+News - T rystan
+
+Search Everywhere - Jeff
+
+Assistant - Valerie
+
+Culture & Diversity-JG
+
+Q&A
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488858
+
+RANKING
+
+Eric Le, man
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488904
+
+Search is a great place to start
+
+understanding language.
+
+Success has implications far beyond Search.
+
+Making machines understand human language is a fundamental scientific problem. I believe Google search may be the best setting in the world to attack that problem. If we succeed, we can potentially transfer that technology to many other applications. This is big talk, but I'm going to back it up ... with ... comic strips ... with little ... stick figures.
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488905
+
+We do not understand documents. We fake it.
+
+• Today, our ability to understand documents directly is minimal.
+
+• So we watch how people react to documents and memorize their responses.
+
+Let's start with some background .. A billion times a day, people ask us to find documents relevant to a query. What's crazy is that we don't actually understand documents. Beyond some basic stuff, we hardly look at documents. We look at people.
+
+If a document gets a positive reaction, we figure it is good. If the reaction is negative, it is probably bad. Grossly simplified, this is the source of Google's magic.
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488906
+
+Each searcher benefits from responses of past users ...
+
+• • • • • •
+
+... and contributes responses that benefit future users.
+
+SO ... if you search right now, you'll benefit from the billions of past user reactions we've recorded. And your responses will benefit people who come after you. Search keeps working by induction.
+
+This has an important implication. In designing user experiences, SERVING the user is NOT ENOUGH. We have to design interactions that also allow us to LEARN from users.
+
+Because that is how we serve the next person, keep the induction rolling, and sustain the illusion that we understand.
+
+Looking to the future, I believe learning from users is also the key to TRULY understanding language.
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488907
+
+When fake understanding fails,
+
+we look stupid.
+
+When our fakery fails-- maybe because a document is new, recently-changed, or rarely-shown-- we look stupid.
+
+Let's look at some examples.
+
+Redacted REDACTED FOR PUBLIC FILING & ABRIDGED GOOG-DOJ-08488908

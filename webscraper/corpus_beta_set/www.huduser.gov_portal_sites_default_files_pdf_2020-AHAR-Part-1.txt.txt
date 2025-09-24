@@ -1,0 +1,3767 @@
+The 2020 Annual Homeless Assessment Report (AHAR) to Congress
+
+The U.S. Department of Housing and Urban Development
+
+OFFICE OF COMMUNITY PLANNING AND DEVELOPMENT
+
+The 2020 Annual Homeless Assessment Report (AHAR) to Congress
+
+PART 1: POINT-IN-TIME ESTIMATES OF HOMELESSNESS
+
+JANUARY 2021
+
+Acknowledgements
+
+AUTHORS: Meghan Henry, Tanya de Sousa, Caroline Roddey, Swati Gayen, and Thomas Joe Bednar, Abt Associates
+
+PRINCIPAL INVESTIGATORS: Dr. Jill Khadduri, Abt Associates, and Dr. Dennis Culhane, Professor of Social Policy, University of Pennsylvania
+
+DATA COLLECTION MANAGERS: Anna Robinson and Azim Shivji, Abt Associates
+
+DATA COLLECTORS AND REVIEWERS: Thomas Baker, Thomas Joe Bednar, Hanna Carr, Ciara Collins, Jill Cusick, Tanya de Sousa, Ariel Edelman, Swati Gayen, Nathan Greenstein, Meghan Henry, Rachel Jollie, Anna Mahathey, Brendan Ng, Stephanie Reinauer, Caroline Roddey, Jason Rodriguez, Micah Webster, Abt Associates
+
+PROGRAMMERS/ANALYSTS: Tom McCall and Azim Shivji, Abt Associates, and Jon-Paul Oliva, GIS and Data Quality Consultant
+
+REVIEWERS: Karen DeBlasio, William Snow, and Harper Sutherland, U.S. Department of Housing and Urban Development
+
+DESIGN AND PRODUCTION: David Dupree, Abt Associates
+
+Contents
+
+Key Findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+Definition of Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+
+About this Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+
+SECTION 1 Homelessness in the United States . . . . . . . . . . . . . . . . .5 National Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 State Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 Estimates by CoC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+SECTION 2 Homeless Individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . .18 National Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 State Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 Estimates by CoC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+SECTION 3 Homeless Families with Children . . . . . . . . . . . . . . . . . .30 National Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 State Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 Estimates by CoC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
+SECTION 4 Unaccompanied Homeless Youth . . . . . . . . . . . . . . . . .42 National Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 State Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46 Estimates by CoC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+
+SECTION 5 Homeless Veterans . . . . . . . . . . . . . . . . . . . . . . . . . . . . .52 National Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52 State Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56 Estimates by CoC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+
+SECTION 6 Chronically Homeless Individuals . . . . . . . . . . . . . . . . . .64 National Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64 State Estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 Estimates by CoC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+SECTION 7 National Inventory of Beds . . . . . . . . . . . . . . . . . . . . . . .74
+
+Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .80
+
+ii
+
+Key Findings
+
+On a single night in 2020, roughly 580,000 people were experiencing homelessness in the United States. Six in ten (61%) were staying in sheltered locations—emergency shelters or transitional housing programs—and nearly four in ten (39%) were in unsheltered locations such as on the street, in abandoned buildings, or in other places not suitable for human habitation.
+
+number of veterans experiencing homelessness remained unchanged, following considerable reductions in the population in prior years. Increases in unsheltered veterans occurred in all geographic types.
+
+On a single night in 2020, 34,000 people under the age of 25 experienced homelessness on their own as “unaccompanied youth.” Most (90%) were between the ages of 18 and 24. Compared to all individuals experiencing homelessness, unaccompanied youth were more often non-white (52% of youth vs. 46% of all individuals), Hispanic/Latino (25% vs. 20%), female (39% vs. 29%), or identifying themselves other than as male or female (4% vs. 1%).
+
+For the fourth consecutive year, homelessness increased nationwide. Between 2019 and 2020, the number of people experiencing homelessness increased by two percent. This increase reflects a seven percent increase in people staying outdoors, which more than offset the modest (0.6%) decline in people staying in sheltered locations.
+
+The number of individuals with chronic patterns of homelessness increased by fifteen percent between 2019 and 2020. While increases were reported among both sheltered and unsheltered populations, the sizable increase in the number of unsheltered people with chronic patterns of homelessness (21%) was the key driver.
+
+Nearly 6 of every 10 people experiencing unsheltered homelessness did so in an urban area, with more than half of all unsheltered people counted in the Continuums of Care (CoCs) that encompass the nation’s 50 largest cities (53%). More than one in five people who experienced unsheltered homelessness was in a CoC with a largely suburban population (22%), and one in five was in a largely rural area (20%).
+
+African Americans and indigenous people (including Native Americans and Pacific Islanders) remained considerably overrepresented among the homeless population compared to the U.S. population. People identifying as black or African American accounted for 39 percent of all people experiencing homelessness and 53 percent of people experiencing homelessness as members of families with children but are 12 percent of the total U.S. population. Together, American Indian, Alaska Native, Pacific Islander and Native Hawaiian populations account for one percent of the U.S. population, but five percent of the homeless population and seven percent of the unsheltered population. In contrast, 48 percent of all people experiencing homelessness were white compared with 74 percent of the U.S. population. People identifying as Hispanic or Latino (who can be of any race) are about 23 percent of the homeless population but only 16 percent of the population overall.
+
+2020 marks the first time since data collection began that more individuals experiencing homelessness were unsheltered than were sheltered. Between 2019 and 2020, the number of unsheltered individuals increased by seven percent while the number of sheltered individuals remained largely unchanged. Increases in the unsheltered population occurred across all geographic categories.
+
+The number of unsheltered people in families with children increased for the first time since data collection began. In 2020, just under 172,000 people in families with children were experiencing homelessness. While most people in families with children were in sheltered locations (90%), the number of unsheltered people in families increased by 13 percent. This increase offset a decline in sheltered people in families with children, so the overall level of family homelessness was essentially the same in 2020 as in 2019.
+
+Between 2019 and 2020, the number of unsheltered veterans increased by six percent, offset by a three percent decline in sheltered veterans. Overall, the
+
+1
+
+Definition of Terms Please note: Key terms are used for AHAR reporting purposes and accurately reflect the data used in this report. Definitions of these terms may differ in some ways from the definitions found in the Homeless Emergency Assistance and Rapid Transition to Housing (HEARTH) Act and in HUD regulations.
+
+where there is no person over age 24 in the household.
+
+Chronically Homeless Individual refers to an individual with a disability who has been continuously homeless for one year or more or has experienced at least four episodes of homelessness in the last three years where the combined length of time homeless on those occasions is at least 12 months.
+
+Parenting Youth Household is a household with at least one parenting youth and the child or children for whom the parenting youth is the parent or legal guardian.
+
+People in Families with Children are people who are experiencing homelessness as part of a household that has at least one adult (age 18 and older) and one child (under age 18).
+
+Chronically Homeless People in Families refers to people in families in which the head of household has a disability and has either been continuously homeless for one year or more or has experienced at least four episodes of homelessness in the last three years where the combined length of time homeless on those occasions is at least 12 months.
+
+Point-in-Time Counts are unduplicated onenight estimates of both sheltered and unsheltered homeless populations. The one-night counts are conducted by CoCs nationwide and occur during the last week in January of each year.
+
+Continuums of Care (CoC) are local planning bodies responsible for coordinating the full range of homelessness services in a geographic area, which may cover a city, county, metropolitan area, or an entire state.
+
+Permanent Supportive Housing (PSH) is a housing model designed to provide housing assistance (project- and tenant-based) and supportive services on a long-term basis to people who formerly experienced homelessness. HUD’s Continuum of Care program, authorized by the McKinney-Vento Act, funds PSH and requires that the client have a disability for eligibility.
+
+Emergency Shelter is a facility with the primary purpose of providing temporary shelter for homeless people.
+
+Homeless describes a person who lacks a fixed, regular, and adequate nighttime residence.
+
+Rapid Rehousing is a housing model designed to provide temporary housing assistance to people experiencing homelessness, moving them quickly out of homelessness and into permanent housing.
+
+Housing Inventory Count (HIC) is produced by each CoC and provides an annual inventory of beds that assist people in the CoC who are experiencing homelessness or leaving homelessness.
+
+Safe Havens provide temporary shelter and services to hard-to-serve individuals.
+
+Individual refers to a person who is not part of a family with children during an episode of homelessness. Individuals may be homeless as single adults, unaccompanied youth, or in multiple-adult or multiple-child households.
+
+Sheltered Homelessness refers to people who are staying in emergency shelters, transitional housing programs, or safe havens.
+
+Transitional Housing Programs provide people experiencing homelessness a place to stay combined with supportive services for up to 24 months.
+
+Other Permanent Housing is housing with or without services that is specifically for people who formerly experienced homelessness but that does not require people to have a disability.
+
+Unaccompanied Homeless Youth (under
+
+18) are people in households with only children who are not part of a family with children or accompanied by their parent or guardian during their episode of homelessness, and who are under the age of 18.
+
+Parenting Youth are people under age 25 who are the parents or legal guardians of one or more children (under age 18) who are present with or sleeping in the same place as that youth parent,
+
+2
+
+Unaccompanied Homeless Youth (18-24) are people in households without children who are not part of a family with children or accompanied by their parent or guardian during their episode of homelessness and who are between the ages of 18 and 24.
+
+Veteran refers to any person who served on active duty in the armed forces of the United States. This includes Reserves and National Guard members who were called up to active duty.
+
+Unsheltered Homelessness refers to people whose primary nighttime location is a public or private place not designated for, or ordinarily used as, a regular sleeping accommodation for people (for example, the streets, vehicles, or parks).
+
+3
+
+About This Report
+
+The US Department of Housing and Urban Development (HUD) releases the Annual Homeless Assessment Report to Congress (AHAR) in two parts. Part 1 provides Point-in-Time (PIT) estimates, offering a snapshot of homelessness—both sheltered and unsheltered—on a single night. The one-night counts are conducted during the last 10 days of January each year. The PIT counts also provide an estimate of the number of people experiencing homelessness within particular homeless populations such as individuals with chronic patterns of homelessness and veterans experiencing homelessness.
+
+“Rural” locales, as well as the “Town – Distant” and “Town – Remote” locales).2 Using the percentage of each CoC’s total population3 living in urban, suburban, and rural areas, based on the NCES geographic data, CoCs were classified into categories according to its largest percentage among the three.
+
+In other words, a CoC where a plurality of its population lives in rural areas would be classified as a “largely rural CoC.” That would not imply, however, that all people experiencing homelessness in the largely rural CoC were counted in rural areas. CoCs span large territories (even an entire state in some cases) and may comprise a mixture of urban, suburban, and rural areas. Because PIT estimates are reported for an entire CoC, each person experiencing homelessness in the CoC cannot be classified as staying in an urban, suburban, or rural area. Rather, all people experiencing homelessness in the CoC are classified as staying in a CoC that is largely urban, suburban, or rural.4
+
+To understand our nation’s capacity to serve people who are currently or formerly experiencing homelessness, this report also provides counts of beds in emergency shelters, transitional housing programs, safe havens, rapid rehousing programs, permanent supportive housing programs, and other permanent housing.
+
+In 2020, the PIT estimates of people experiencing homelessness in sheltered and unsheltered locations, as well as the number of beds available to serve them, were reported by 396 Continuums of Care (CoC) nationwide. These 396 CoCs covered virtually the entire United States.
+
+HUD has methodological standards for conducting the PIT counts, and CoCs use a variety of approved methods to produce the counts. The guide for PIT methodologies can be found here: https://www.hudexchange.info/ resource/4036/point-in-time-count-methodology-guide. HUD reviews the data for accuracy and quality prior to creating the estimates for this report.
+
+To better understand how homelessness differs by geography, the AHAR study team categorized CoCs into four groups:
+
+The point-in-time counts of homelessness and the housing inventory information are based on data from January 2020 so do not reflect the health or economic consequences of the COVID-19 pandemic for levels of homelessness or characteristic of people experiencing homelessness. The impacts of the pandemic on homelessness will be explored in future reports.
+
+1. Major city CoCs
+
+2. Other largely urban CoCs
+
+3. Largely suburban CoCs
+
+4. Largely rural CoCs
+
+First, CoCs representing the 50 most populous cities in the United States were assigned to the major city CoC category. Next, the study team used geographic data published by the U.S. Department of Education’s National Center for Education Statistics (NCES)1 to determine the urbanicity of the remaining CoCs. NCES defines 12 geographic locales, which were collapsed into three distinct categories: urban (mapping to the three NCES “City” locales), suburban (mapping to the three NCES “Suburban” locales, as well as the “Town – Fringe” locale), and rural (mapping to the three NCES
+
+2 Definitions for each of the 12 NCES locales are available in the Locale Boundaries User’s Manual: https://nces.ed.gov/ programs/edge/docs/EDGE_NCES_LOCALE_FILEDOC.pdf
+
+3 The study team used population counts from the Census Bureau’s 2010 block-level data. Census blocks are the smallest geographic unit for which the Census reports population counts, and they are the ideal unit for this CoC analysis. Block-level population data are only available in the decennial census reports.
+
+4 The median percentage of the population living in urban areas among major city CoCs was 70 percent. The median urban percentage among other CoCs classified as largely urban was 58 percent. The median suburban percentage among CoCs classified as largely suburban was 65 percent, and the median rural percentage among CoCs classified as largely rural was 71 percent.
+
+4
+
+Estimates of Homelessnes s IN THE UNITED STATES
+
+5
+
+5
+
+National Estimates Homelessness in the United States 1
+
+1
+
+National Estimates Homelessness in the United States
+
+Data source: PIT 2007-2020
+
+EXHIBIT 1.1: PIT Estimates of People Experiencing Homelessness By Sheltered Status, 2007–2020
+
+On a Single Night in January 2020
+
+• 580,466 people – about 18 of every 10,000 people in the United States – experienced homelessness across the United States.
+
+• Six in 10 people experiencing homelessness (61%), were staying in sheltered locations, and nearly four in 10 (39%) were unsheltered.
+
+• More than two-thirds of all people experiencing homelessness were in households with only adults (70%). Households with only adults who were staying in unsheltered locations comprised the largest single segment of the total homeless population (36%), followed by individuals staying in shelters (34%). Thirty percent of people experiencing homelessness did so as part of a family with at least one adult and one child under 18 years of age, and most people in families were sheltered.
+
+• Less than one percent of people experiencing homelessness, 3,598 people, were children under 18 without an adult present.
+
+EXHIBIT 1.2: Homelessness By Household Type and Sheltered Status, 2020
+
+6
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 1.3: Change in Number of People Experiencing Homelessness 2007–2020
+
+Change 2019–2020 Change 2010–2020 Change 2007–2020
+
+# % # % # %
+
+Total 12,751 2.2% -56,611 -8.9% -66,792 -10.3%
+
+Sheltered -2,036 -0.6% -49,157 -12.2% -37,015 -9.5%
+
+Unsheltered 14,787 7.0% -7,454 -3.2% -29,777 -11.6%
+
+EXHIBIT 1.4: Change in Homelessness By Age and Sheltered Status, 2019–2020
+
+All Homeless People Sheltered People Unsheltered People
+
+# % # % # %
+
+Total
+
+Under 18 -705 -0.7% -1,440 -1.5% 735 7.4%
+
+18 to 24 -386 -0.8% -627 -2.2% 241 1.4%
+
+Over 24 13,842 3.3% 31 0.0% 13,811 7.5%
+
+the past five years, with 52,812 more people experiencing unsheltered homelessness in 2020 than in 2015.
+
+• Sheltered homelessness has declined each year since 2014, and was 10 percent lower in 2020 than in 2007.
+
+Changes over Time
+
+• The number of people experiencing homelessness nationwide increased by two percent between 2019 and 2020, or 12,751 more people. This marks the fourth consecutive year that total homelessness has increased in the United States.
+
+• The overall increase was driven by increases in the unsheltered homeless population. Between 2019 and 2020, the number of people counted in unsheltered locations rose by seven percent or 14,787 people. The number of people staying in shelter remained largely unchanged between 2019 and 2020, declining by less than one percent (2,036 fewer people).
+
+• Despite recent increases, the number of people experiencing homelessness on a single night in January is 10 percent lower (66,792 fewer people) than it was in 2007, when these data were first reported.
+
+• Unsheltered homelessness declined by 12 percent (29,777 fewer people) over the longer period, despite the fact that unsheltered homelessness has increased substantially over
+
+Demographic Characteristics of All People Experiencing Homelessness
+
+• The demographic characteristics of people experiencing homelessness vary considerably by household type and shelter status and reflect the large percentage of individuals among the total homeless population. Detailed characteristics are shown separately for individuals in Section 2 of this report and for families with children in Section 3.
+
+• Across both household and shelter types, nearly three-quarters of people experiencing homelessness were adults aged 25 or older (428,859 people), 18 percent were children under the age of 18 (106,364 children). Eight percent were young adults aged 18 to 24 (45,243 young adults).
+
+7
+
+1
+
+National Estimates Homelessness in the United States
+
+Data source: PIT 2007-2020
+
+• Adults aged 25 or older were almost nine of every ten people experiencing unsheltered homelessness, 88 percent of the total number of unsheltered people.
+
+• Children – either in families or on their own – were most often staying in sheltered locations (90%) with only 10,651 children counted in unsheltered locations.
+
+• The gender characteristics of all people experiencing homelessness reflected the high percentage of men in the individual homeless population. Six of every 10 people experiencing homelessness were men or boys (61% or 352,211 men and boys), 39 percent were women or girls (223,578 women and girls), and less than one percent were transgender (3,161 people) or gender-nonconforming (1,460 people).
+
+• Almost 4 of every 10 people experiencing homelessness in January 2020 were black or African American (39% or 228,796 people). A higher percentage of people in shelter were black or African American (47% or 167,205 people) than were people experiencing homelessness in unsheltered locations (27% or 61,591).
+
+• Almost half of all people experiencing homelessness were white (48% or 280,612 people), and white people made up somewhat more than half of the unsheltered population (57%).
+
+• Almost a quarter of all people experiencing homelessness, 23 percent, were Hispanic or Latino (counting people of all races who identify as Hispanic or Latino). The proportion is similar for people staying in sheltered and unsheltered locations (22% and 24%).
+
+EXHIBIT 1.5: Demographic Characteristics of People Experiencing Homelessness 2020
+
+Characteristic All Homeless People Sheltered People Unsheltered People
+
+# % # % # %
+
+Total homeless 580,466 100% 354,386 100% 226,080 100%
+
+Age
+
+Under 18 106,364 18.3% 95,713 27.0% 10,651 4.7%
+
+18 to 24 45,243 7.8% 28,213 8.0% 17,030 7.5%
+
+Over 24 428,859 73.9% 230,460 65.0% 198,399 87.8%
+
+Gender
+
+Female 223,578 38.5% 156,681 44.2% 66,897 29.6%
+
+Male 352,211 60.7% 195,798 55.2% 156,413 69.2%
+
+Transgender 3,161 0.5% 1,412 0.4% 1,749 0.8%
+
+Gender Non-Conforming 1,460 0.3% 439 0.1% 1,021 0.5%
+
+Ethnicity
+
+Non-Hispanic/Non-Latino 450,107 77.5% 277,078 78.2% 173,029 76.5%
+
+Hispanic/Latino 130,348 22.5% 77,297 21.8% 53,051 23.5%
+
+Race
+
+White 280,612 48.3% 151,640 42.8% 128,972 57.0%
+
+Black or African American 228,796 39.4% 167,205 47.2% 61,591 27.2%
+
+Asian 7,638 1.3% 3,836 1.1% 3,802 1.7%
+
+Native American 18,935 3.3% 8,106 2.3% 10,829 4.8%
+
+Pacific Islander 8,794 1.5% 4,208 1.2% 4,586 2.0%
+
+Multiple Races 35,680 6.1% 19,380 5.5% 16,300 7.2%
+
+8
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+fewer people identified as transgender and 44 fewer as gender non-conforming).
+
+• Between 2019 and 2020, the percentage of people experiencing homelessness who were white increased by four percent overall. The number of white people in sheltered locations remained essentially the same, but the number who were unsheltered increased by eight percent, with 9,485 more white people found in unsheltered locations.
+
+• Unsheltered homelessness also increased among African Americans, by nine percent or 5,210 people.
+
+• The number of Hispanic or Latino people experiencing homelessness increased by five percent. This reflects a considerable increase in the number of Hispanic/Latino unsheltered people, which increased by 10 percent between 2019 and 2020.
+
+Changes in Demographic Characteristics of All People Experiencing Homelessness
+
+• National increases in homelessness were driven by increases in the unsheltered population, particularly in the number of people over the age of 25 who were staying outside. The number of unsheltered children increased by only 735, and the number of unsheltered young adults (aged 18 to 24) increased by 241 people. Meanwhile, the number of unsheltered people 25 and older increased by 13,811 people.
+
+• Unsheltered homelessness rose by eight percent among men and boys (10,904 more men and boys), and by seven percent among women and girls (4,197 more women and girls). The small numbers of people in unsheltered locations identifying as transgender or as gender non¬conforming dropped slightly (270
+
+9
+
+1
+
+State Estimates Homelessness in the United States
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 1.6: Estimates of People Experiencing Homelessness By State, 2020
+
+On a Single Night in January 2020
+
+• More than half of all people experiencing homelessness in the country were in four states: California (28% or 161,548 people); New York (16% or 91,271 people); Florida (5% or 27,487 people); and Texas (5% or 27,229).
+
+• California accounted for more than half of all unsheltered people in the country (51% or 113,660 people). This is nearly nine times the number of unsheltered people in the state with the next highest number, Texas. In the 2020 point-in-time count, Texas reported 13,212 people or just six percent of the national total of people in unsheltered locations.
+
+• New York and Hawaii had the highest rates of homelessness, at 47 and 46 people for every 10,000 people in the state. California and Oregon also had very high rates, with 41 and 35 people per 10,000. While Florida and Texas contributed large numbers of homeless people to the national estimates, they had rates of homelessness lower than the national average
+
+of 18 people per 10,000 (13 for every 10,000 people in Florida and 9 for every 10,000 people in Texas).
+
+• States in the West reported the highest percentages of all people experiencing homelessness in unsheltered locations. In California, 70 percent of people experiencing homelessness did so outdoors. Other states with more than half of their homeless population counted in unsheltered locations were: Oregon (61%), Nevada (61%), Hawaii (57%), Arkansas (54%), and Arizona (50%).
+
+• Only one state—New York—sheltered at least 95 percent of people experiencing homelessness.
+
+Changes over Time
+
+• Unlike in prior years, when the rise in the national homeless population reflected large increases in only about a fifth of all states, between 2019 and 2020 the number of people experiencing homelessness increased in
+
+10
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 1.7: States with the Highest and Lowest Percentages of People Experiencing Homelessness who were Unsheltered 2020
+
+EXHIBIT 1.8: Largest Changes in Homelessness by State By State, 2007–2020
+
+2019–2020 2007–2020
+
+Largest Increases
+
+CALIFORNIA 10,270 / 6.8% NEW YORK 28,670 / 45.8%
+
+TEXAS 1,381 / 5.3% CALIFORNIA 22,562 / 16.2%
+
+WASHINGTON 1,346 / 6.2% MASSACHUSETTS 2,848 / 18.8%
+
+ARIZONA 972 / 9.7% DISTRICT OF COLUMBIA 1,060 / 19.9%
+
+NEW JERSEY 800 / 9.0% MINNESOTA 617 / 8.4%
+
+2019–2020 2007–2020
+
+Largest Decreasesa
+
+OREGON -1,221 / -7.7% FLORIDA -20,582 / -42.8%
+
+FLORIDA -841 / -3.0% TEXAS -12,559 / -31.6%
+
+NEW YORK -820 / -0.9% GEORGIA -9,405 / -47.9%
+
+MASSACHUSETTS -496 / -2.7% NEW JERSEY -7,652 / -44.2%
+
+ARKANSAS -351 / -12.9% ILLINOIS -5,056 / -32.6%
+
+11
+
+1
+
+State Estimates Homelessness in the United States
+
+more states than it decreased. Homelessness increased in 30 states and decreased in 19 states and the District of Columbia. One state (Idaho) reported no change.
+
+• States with the largest absolute increases in homelessness between 2019 and 2020 were California (10,270 more people), Texas (1,381), and Washington (1,346). States with the largest percentage increases between 2019 and 2020 were: Delaware (27%), New Hampshire (20%), Iowa (14%) and Montana (14%).
+
+• Between 2019 and 2020, states with the largest absolute decreases in people experiencing homelessness were Oregon (1,221 fewer people), Florida (841), and New York (820). States with the largest percentage decreases were Arkansas (13% fewer people), Oregon (8%), and Mississippi (7%).
+
+• Over the longer period during which these data have been reported, 2007-2020, the number of people experiencing homelessness declined in 34 states. The largest absolute decreases were in Florida (20,582 fewer people) and Texas (12,559 fewer people). The largest percentage decreases were in Kentucky (50%), Georgia (48%), West Virginia (44%) and New Jersey (44%).
+
+• Between 2007 and 2020, the number of people experiencing homelessness increased in 16 states, plus the District of Columbia. The largest absolute increases were in New York (28,670 more people) and California (22,562 more people). New York also had the largest percentage increase (46%), followed by Idaho (32%) and the District of Columbia (20%).
+
+12
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+13
+
+1
+
+Estimates by CoC Homelessness in the United States
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 1.9: Percent of People Experiencing Homelessness By CoC Category and Sheltered Status, 2020
+
+Continuums of Care (CoC) were Divided into Four Geographic Categories
+
+1. Major city CoCs (n=48) cover the CoCs that contain one of the 50 largest cities in the United States. In two cases (Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX), two large cities were located in the same CoC.
+
+2. Other Largely Urban CoCs (n=59) are CoCs in which the population predominantly resides in an urbanized area within a principal city within the CoC (but excludes the nation’s largest cities).
+
+3. Largely Suburban CoCs (n=171) are CoCs in which the population predominantly resides in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+On a Single Night in January 2020
+
+• Slightly more than half of all people experiencing homelessness (52%) were in one of the nation’s 50 largest cities. Nearly onequarter of people experiencing homelessness were in a predominantly suburban CoC (24%), 18 percent were in largely rural CoCs, and the remainder (7%) were in largely urban CoCs that do not contain one of the 50 largest cities.
+
+• One out of every four people experiencing homelessness in the United States did so in either New York City or Los Angeles. A majority of New York City’s homeless population were people in families with children (53%), while a large majority of people experiencing homelessness in Los Angeles were individuals (or people in households without children) (81%).
+
+• Largely rural CoCs had the largest percentage of people experiencing homelessness in unsheltered locations, 44 percent, followed by major city CoCs, 39 percent.
+
+• In three major city CoCs, more than 75 percent of people experiencing homelessness were unsheltered. All three were in California: San Jose (83%), Long Beach (78%), and Oakland (78%).
+
+4. Largely Rural CoCs (n=109) are CoCs in which the population predominantly resides in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural territories.
+
+Note: These definitions have been adapted from definitions used by the US Department of Education’s National Center for Education Statistics to characterize the locations of schools. For information on how they were applied to CoCs, see the About this Report section of this report.
+
+In 2020, one out of every four people experiencing homelessness did so in either New York City or Los Angeles.
+
+14
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+• Ten largely rural CoCs reported unsheltered rates exceeding 75 percent, two with unsheltered rates above 90 percent: Lake County CA, located in Northwest California (94%) and the Jackson/West Tennessee CoC (93%). Eight largely suburban CoCs had unsheltered rates of 75 percent or higher, with Imperial County, CA – on the southern border of California – reporting the highest rate of its category (87%).
+
+EXHIBIT 1.10: All People Sheltered vs. Unsheltered by CoC Category 2020
+
+Changes over Time
+
+• Between 2019 and 2020, homelessness increased across all geographic categories, driven by increases in the number of people counted in unsheltered locations. The number of people experiencing homelessness increased by three percent (or 8,392 people) in major city CoCs and by two percent in largely suburban CoCs and largely rural CoCs.
+
+• While unsheltered homelessness increased in all CoC categories between 2019 and 2020, major city CoCs and largely rural CoCs experienced the largest absolute and percentage increases, both with eight percent more people staying in unsheltered locations.
+
+• Sheltered homelessness dropped in all CoC categories except those with major cities, where the number of sheltered homeless people was essentially the same in 2020 as in 2019.
+
+EXHIBIT 1.11: Percentage of People Experiencing Homelessness by Household Type and CoC Category 2020
+
+EXHIBIT 1.12: Change in Homelessness by Sheltered Status and CoC Category 2019–2020
+
+All People Sheltered Unsheltered
+
+Numeric Change
+
+Percent Change
+
+Numeric Change
+
+Percent Change
+
+Numeric Change
+
+Percent Change
+
+Total 13,530 2.4% -1,921 -0.5% 15,451 7.5%
+
+Major City CoCs 8,392 2.9% 136 0.1% 8,256 7.5%
+
+Other Largely Urban CoCs 360 1.0% -320 -1.2% 680 5.7%
+
+Largely Suburban CoCs 3,094 2.3% -79 -0.1% 3,173 7.1%
+
+Largely Rural CoCs 1,684 1.7% -1,658 -2.8% 3,342 8.3%
+
+15
+
+1
+
+Estimates by CoC Homelessness in the United States
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 1.13: CoCs with the Largest Numbers of People Experiencing Homelessness in each CoC Category 2020
+
+Total People Experiencing Homelessness
+
+Total People Experiencing Homelessness
+
+CoC Name
+
+CoC Name
+
+Major City CoCs Other Largely Urban CoCs
+
+New York City CoC 77,943 Santa Rosa, Petaluma/Sonoma County, CA 2,745
+
+Los Angeles City & County, CA 63,706 St. Petersburg, Clearwater, Largo/Pinellas County, FL 2,226
+
+Seattle/King County, WA 11,751 Oxnard, San Buenaventura/Ventura County, CA 1,787
+
+San Jose/Santa Clara City & County, CA 9,605 Saint Paul/Ramsey County, MN 1,630
+
+Oakland, Berkeley/Alameda County, CA 8,137 Eugene, Springfield/Lane County, OR 1,606
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Santa Ana, Anaheim/Orange County, CA 6,978 Texas Balance of State 9,198
+
+Honolulu City and County, HI 4,448 Washington Balance of State 5,668
+
+Nassau, Suffolk Counties, NY 3,807 Oregon Balance of State 5,642
+
+San Bernardino City & County, CA 3,125 Georgia Balance of State 4,349
+
+Massachusetts Balance of State 2,961 Indiana Balance of State 4,037
+
+16
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 1.14: CoCs with the Highest Percentages of People Experiencing Homelessness who were Unsheltered in each CoC Category 2020
+
+Percent of all homeless people who were unsheltered
+
+Percent of all homeless people who were unsheltered
+
+CoC Name Total homeless people
+
+CoC Name Total homeless people
+
+Major City CoCs Other Largely Urban CoCs
+
+San Jose/Santa Clara City & County, CA 9,605 82.5% Oxnard, San Buenaventura/ Ventura County, CA 1,787 70.8%
+
+Long Beach, CA 2,034 77.8% Napa City & County, CA 464 65.3%
+
+Oakland, Berkeley/Alameda County, CA 8,137 77.6% Eugene, Springfield/Lane County, OR 1,606 64.6%
+
+Fresno City & County/Madera County, CA 3,641 73.6% Bakersfield/Kern County, CA 1,580 63.5%
+
+Los Angeles City & County, CA 63,706 72.3% Santa Rosa, Petaluma/Sonoma County, CA 2,745 62.0%
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Imperial County, CA 1,527 87.4% Lake County, CA 357 94.1%
+
+Fort Pierce/St. Lucie, Indian River, Martin Counties, FL 1,379 86.4% Jackson/West Tennessee 861 93.0%
+
+San Luis Obispo County, CA 1,423 82.4% Hendry, Hardee, Highlands Counties, FL 403 88.1%
+
+Vallejo/Solano County, CA 1,162 80.2% Alpine, Inyo, Mono Counties, CA 184 88.0%
+
+Pasco County, FL 898 76.6% Columbia, Hamilton, Lafayette, Suwannee Counties, FL 578 85.5%
+
+17
+
+1
+
+2
+
+National Estimates Homelessness in the United States 2
+
+Homeless Individuals
+
+National Estimates Homeless Individuals
+
+Data source: PIT 2007–2020
+
+EXHIBIT 2.1: PIT Estimates of Individuals Experiencing Homelessness By Sheltered Status, 2007–2020
+
+increased by three percent (12,846 more people).
+
+• The increase in individual homelessness between 2019 and 2020 was driven by an increase in the number of individuals experiencing unsheltered homelessness. While the number of sheltered individuals remained unchanged (53 fewer people), the number of unsheltered individuals increased by nearly seven percent or 12,899 more people. This is the sixth consecutive year the number of unsheltered individuals has increased.
+
+• In 2020, for the first time, there were more unsheltered individuals than there were sheltered individuals (51% vs. 49%).
+
+• Over a longer time period, 2007 to 2020, individual homelessness declined by one
+
+On a Single Night in January 2020
+
+• 408,891 people experienced homelessness as individuals—that is, people in households that were not composed of both adults and children. Individuals were 70 percent of the total homeless population.
+
+• Slightly over half of all people who experienced homelessness as individuals were staying in unsheltered locations, 51 percent or 209,413 people.
+
+Changes in Individual Homelessness over Time
+
+• The number of people experiencing homelessness as individuals increased for the fourth consecutive year. Between 2019 and 2020, individuals experiencing homelessness
+
+18
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 2.2: Change in Numbers of Homeless Individuals By Sheltered Status, 2007–2020
+
+Change 2018–2019 Change 2010–2019 Change 2007–2019
+
+# % # % # %
+
+Total Homeless Individuals 12,846 3.2% 13,751 3.5% -3,809 -0.9%
+
+Sheltered Individuals -53 0.0% -12,740 -6.0% -13,595 -6.4%
+
+Unsheltered Individuals 12,899 6.6% 26,491 14.5% 9,786 4.9%
+
+EXHIBIT 2.3: Change in Numbers of Homeless Individuals By Age and Sheltered Status, 2019-2020
+
+Total Change Sheltered Change Unsheltered Change
+
+# % # % # %
+
+Under 18 -503 -12.3% -185 -9.3% -318 -15.1%
+
+18 to 24 -283 -0.9% -196 -1.1% -87 -0.6%
+
+Over 24 13,632 3.8% 328 0.2% 13,304 7.4%
+
+EXHIBIT 2.4: Demographic Characteristics of Homeless Individuals 2020
+
+Characteristic All Homeless Individuals Sheltered Individuals Unsheltered Individuals
+
+# % # % # %
+
+Total homeless 408,891 100.0% 199,478 100.0% 209,413 100.0%
+
+Age
+
+Under 18 3,598 0.9% 1,811 0.9% 1,787 0.9%
+
+18 to 24 32,897 8.0% 17,232 8.6% 15,665 7.5%
+
+Over 24 372,396 91.1% 180,435 90.5% 191,961 91.7%
+
+Gender
+
+Female 120,015 29.4% 61,963 31.1% 58,052 27.7%
+
+Male 284,599 69.6% 135,866 68.1% 148,733 71.0%
+
+Transgender 3,067 0.8% 1,343 0.7% 1,724 0.8%
+
+Gender Non-Conforming 1,210 0.3% 306 0.2% 904 0.4%
+
+Ethnicity
+
+Non-Hispanic/Latino 328,720 80.4% 168,059 84.2% 160,661 76.7%
+
+Hispanic/Latino 80,171 19.6% 31,419 15.8% 48,752 23.3%
+
+Race
+
+White 220,572 53.9% 99,290 49.8% 121,282 57.9%
+
+African American 137,714 33.7% 81,426 40.8% 56,288 26.9%
+
+Asian 5,791 1.4% 2,366 1.2% 3,425 1.6%
+
+Native American 15,074 3.7% 5,055 2.5% 10,019 4.8%
+
+Pacific Islander 5,228 1.3% 1,974 1.0% 3,254 1.6%
+
+Multiple Races 24,512 6.0% 9,367 4.7% 15,145 7.2%
+
+19
+
+1
+
+National Estimates Homelessness in the United States 2
+
+National Estimates Homeless Individuals
+
+Data source: PIT 2007-2020
+
+percent (3,809 fewer people). This overall decline is driven by a six percent decline over time in the sheltered population. The unsheltered population has increased by five percent since 2007 (9,786 more people).
+
+• The 2020 point-in-time count marks the first time since 2008 that the number of unsheltered individuals is higher than it was when reporting began in 2007.
+
+• More than a quarter (27%) of individuals experiencing homelessness in 2020 and 35 percent of those found in unsheltered locations had chronic patterns of homelessness, meaning that they experienced homelessness for extended periods of time. (These individuals are discussed in detail in Section 6.)
+
+• About 20 percent of all people experiencing homelessness as individuals in 2020 were Hispanic or Latino. Hispanic individuals were more likely to be in unsheltered locations than sheltered (23% vs. 16%). In contrast, among people experiencing homelessness in families with children, Hispanic individuals were a higher percentage of the sheltered than the unsheltered population (30% vs. 26%).
+
+Changes in Demographics over Time
+
+• People experiencing homelessness as individuals can be children under 18, transition-aged youth (18-24), or adults 25 and older. The increase in the number of individuals experiencing homelessness was driven entirely by an increase of 13,632 individuals ages 25 and older, a four percent increase between 2019 and 2020. Unsheltered individuals accounted for nearly all of this rise (13,304 people).
+
+• In absolute numbers, homelessness increased more among individual men than among women homeless as individuals, 8,692 men vs. 4,380 women. The percentage increase among women was slightly higher than the percentage increase among men, 4 percent vs. 3 percent, but unsheltered homelessness increased at a higher rate for men, with 10,054 more individual men in unsheltered locations in 2020 than in 2019.
+
+• The number of white people experiencing homelessness as individuals increased by five percent overall and by eight percent for white individuals found in unsheltered locations. The number of African American individuals experiencing homelessness also increased slightly, by one percent overall and six percent for unsheltered African American individuals. While the numbers were smaller, Native Americans experienced a five percent rise in individual homelessness (or 776 more people) and an eight percent rise in unsheltered individual homelessness (or 745 people).
+
+Demographic Characteristics of Individual Homelessness
+
+• The typical person experiencing homelessness as an individual in 2020 was 25 years of age or older (91%), a man (70%), identified his race as white (54%), and his ethnicity as non-Hispanic/ non-Latino (80%).
+
+• Very few people experiencing homelessness as individuals were young adults aged 18 to 24, just eight percent or 32,897 people.
+
+• Just under three in ten individuals were women (29%), and one percent of individuals were transgender or gender non-conforming. In contrast, six in ten people experiencing homelessness in families with children were women (60%).
+
+• More than five in ten people experiencing homelessness as individuals identified their race as white (54%), and about a third, 34 percent, identified as black or African American. African American individuals accounted for a higher percentage of sheltered individuals (41%) than of unsheltered individuals (27%).
+
+20
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+• Six percent more people identifying as Latino or Hispanic experienced homelessness as individuals in 2020 than in 2019 (4,640 more people). Driving these overall changes were an eight percent increase in unsheltered Hispanic individuals and a four percent increase in sheltered Hispanic individuals.
+
+21
+
+1
+
+National Estimates Homelessness in the United States 2
+
+State Estimates Homeless Individuals
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 2.5: Estimates of Homeless Individuals By State, 2020
+
+• In two states, more than 70 percent of individuals experiencing homelessness were staying in unsheltered locations: California (79%) and Hawaii (71%).
+
+• In contrast, more than 88 percent of people experiencing homelessness as individuals were sheltered in five states: Nebraska, North Dakota, New York, Maine, and Wisconsin.
+
+On a Single Night in January 2020
+
+• One of every three people in the United States experiencing homelessness as an individual was found in California, 34 percent. California accounted for more than half (52%) of all individuals counted in unsheltered locations.
+
+• Other states with large numbers of homeless individuals were New York (11% of the national total or 43,283 people), Texas (5% or 21,115 people), and Florida (5% or 20,344).
+
+Changes over Time
+
+• The number of individuals experiencing homelessness increased in more than half of all states between 2019 and 2020, 35 states and the District of Columbia. The largest absolute increase was in California (6,994 people), followed by Texas (1,504 people) and New York (1,170 people). The states with the largest percentage increases were Delaware (30%), New Hampshire (26%), and Iowa (18%).
+
+• Between 2019 and 2020, the number of
+
+2020 marks the first time that there were more unsheltered individuals than there were sheltered individuals.
+
+22
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 2.6: States with the Highest and Lowest Percentages of Homeless Individuals who were Unsheltered 2020
+
+EXHIBIT 2.7: Largest Changes in Homeless Individuals By State, 2007–2020
+
+2019–2020 2007–2020
+
+Largest Increases
+
+CALIFORNIA 6,994 / 5.4% CALIFORNIA 24,819 / 22.4%
+
+TEXAS 1,504 / 7.7% NEW YORK 15,227 / 54.3%
+
+NEW YORK 1,170 / 2.8% WASHINGTON 2,909 / 21.9%
+
+ARIZONA 742 / 9.8% OREGON 2,124 / 21.5%
+
+OHIO 595 / 8.5% MINNESOTA 1,457 / 44.6%
+
+2019–2020 2007–2020
+
+Largest Decreasesa
+
+FLORIDA -921 / -4.3% FLORIDA -12,696 / -38.4%
+
+OREGON -359 / -2.9% TEXAS -5,191 / -19.7%
+
+NEVADA -233 / -3.5% GEORGIA -4,825 / -38.5%
+
+ARKANSAS -230 / -10.0% TENNESSEE -2,789 / -33.0%
+
+MARYLAND -222 / -4.8% NEW JERSEY -2,559 / -28.5%
+
+23
+
+23
+
+1
+
+National Estimates Homelessness in the United States 2
+
+National Estimates Homeless Individuals
+
+homeless individuals declined in 15 states. The largest absolute declines occurred in Florida (921 fewer people) and Oregon (359 fewer people). The largest percentage declines were in Idaho (13%), Mississippi (11%), and Arkansas (10%).
+
+• Over the longer period, 2007-2020, the number of individuals experiencing homelessness increased in 25 states and the District of Columbia. The largest absolute increases were in California (24,819 more people or 22%) and New York (15,227 more people or 54%).
+
+• During the same time period, 25 states experienced a decline in the number of homeless individuals. The largest declines were reported in Florida (12,696 fewer people or 38%) and Texas (5,191 fewer people or 20%).
+
+24
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+25
+
+1
+
+National Estimates Homelessness in the United States 2
+
+Estimates by CoC Homeless Individuals
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 2.9: Sheltered vs. Unsheltered Individuals By CoC Category and Sheltered Status, 2020
+
+Continuums of Care (CoC) were divided into four geographic categories
+
+1. Major city CoCs (n=48) are CoCs that contain one of the 50 largest cities in the United States. In two cases, Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX, two of the largest U.S. cities are located in the same CoC.
+
+2. Other largely urban CoCs (n=59) are CoCs in which the population lives predominately in an urbanized area within the CoC’s principal city or cities, but the CoCs does not include one of the nation’s 50 largest cities.
+
+On a Single Night in January 2020
+
+• More than half of all people experiencing homelessness as individuals (52%) did so in a major city. Nearly one-quarter of individuals experiencing homelessness (23%) were in largely suburban areas.
+
+• Los Angeles had the largest number of individuals experiencing homelessness, 51,290 people, followed by New York City, 36,394. The order is reversed for all people experiencing homelessness, as New York City has large numbers of homeless people in families.
+
+• Major city CoCs accounted for 54 percent of the national total of unsheltered individuals and 50 percent of the national total of sheltered individuals. Major cities and largely rural CoCs had the highest percentages of individuals experiencing homelessness counted in unsheltered locations, both with 53 percent. Other largely urban CoCs (those that do not contain one of the nation’s largest cities) and largely suburban CoCs sheltered somewhat more than half of individuals experiencing homelessness.
+
+• In five major city CoCs, more than 80 percent of homeless individuals were unsheltered: San Jose (87%), Los Angeles (84%), Fresno (84%), Oakland (82%), and Long Beach (81%).
+
+• Twelve largely suburban CoCs reported rates of unsheltered individuals greater than 80 percent, with two reporting rates of over 90 percent: Ft. Pierce, FL (93%) and Imperial County, CA (92%).
+
+3. Largely suburban CoCs (n=171) are CoCs in which the population lives predominantly in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+4. Largely rural CoCs (n=109) are CoCs in which the population lives predominantly in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural areas.
+
+Note: These definitions have been adapted from definitions used by the U.S. Department of Education’s National Center for Education Statistics to characterize the locations of schools. For detailed information on how they were applied to CoCs, see the About the Report section of this report.
+
+EXHIBIT 2.8: Percent of Homeless Individuals By CoC Category and Sheltered Status, 2020
+
+26
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 2.10: Demographic Characteristics of Homeless Individuals by CoC Category 2020
+
+Major City CoCs
+
+Other Largely Urban CoCs
+
+Largely Suburban CoCs
+
+Largely Rural CoCs
+
+(n=48)
+
+(n=59)
+
+(n=171)
+
+(n=109)
+
+Total 211,021 29,637 93,570 71,509
+
+Age
+
+Under 18 0.7% 1.4% 0.8% 1.5%
+
+18 to 24 8.2% 6.9% 7.8% 8.6%
+
+Over 24 91.2% 91.7% 91.4% 89.9%
+
+Gender
+
+Female 28.1% 28.0% 29.7% 33.4%
+
+Male 70.3% 71.4% 69.9% 66.1%
+
+Transgender 1.2% 0.4% 0.3% 0.3%
+
+Gender Nonconforming
+
+0.4% 0.2% 0.2% 0.2%
+
+Ethnicity
+
+Non-Hispanic/Latino 75.9% 86.9% 83.4% 89.1%
+
+Hispanic/Latino 24.1% 13.1% 16.6% 10.9%
+
+Race
+
+White 43.8% 60.3% 60.6% 73.4%
+
+Black 43.5% 27.2% 28.3% 15.0%
+
+Asian 1.7% 1.0% 1.5% 0.6%
+
+Native American 3.6% 4.4% 2.2% 5.7%
+
+Pacific Islander 1.2% 0.7% 1.7% 0.9%
+
+Multiple Races 6.2% 6.4% 5.8% 4.5%
+
+• Thirteen largely rural CoCs reported unsheltered rates above 80 percent, with Hendry, Hardee, and Highlands Counties, which abut Lake Okeechobee in Florida, reporting all individuals experiencing homelessness staying in unsheltered locations. Other CoCs with rates over 90 percent were: Gulf Port, MS (97%), Lake County in Northwest California (96%), the CoC on the California-Nevada border comprised of Alpine, Inyo, and Mono Counties (96%), and the Jackson/West Tennessee CoC (93%).
+
+Demographic Differences by CoC Category
+
+• Individuals experiencing homelessness in largely rural CoCs were somewhat more likely to be women (33%) than those in a major city, other urban, or suburban CoCs.
+
+• Nearly three in four of people experiencing homelessness as individuals in largely rural areas were white (73%) compared with 44 percent in major city CoCs. Conversely, African Americans account for 44 percent of individuals experiencing homelessness in major cities compared with only 15 percent in rural areas.
+
+• In largely rural CoCs, seven percent of individuals experiencing homelessness were Native Americans or Pacific Islanders, the
+
+27
+
+1
+
+National Estimates Homelessness in the United States 2
+
+Estimates by CoC Homeless Individuals
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 2.11: CoCs with the Largest Numbers of Homeless Individuals by CoC Category 2020
+
+CoC Name Homeless Individuals CoC Name Homeless Individuals
+
+Major City CoCs Other Largely Urban CoCs
+
+Los Angeles City & County CoC, CA 51,290 Santa Rosa, Petaluma/Sonoma County, CA 2,510
+
+New York City 36,394 St. Petersburg, Clearwater, Largo/Pinellas County, FL 1,876
+
+San Jose/Santa Clara City & County, CA 8,802 Oxnard, San Buenaventura/Ventura County, CA 1,574
+
+Seattle/King County, WA 8,008 Eugene, Springfield/Lane County, OR 1,362
+
+Oakland, Berkeley/Alameda County, CA 7,646 Bakersfield/Kern County, CA 1,360
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Santa Ana, Anaheim/Orange County, CA 5,499 Texas Balance of State 7,194
+
+Honolulu City and County, HI 3,227 Oregon Balance of State 4,304
+
+San Bernardino City & County, CA 2,744 Washington Balance of State 4,063
+
+Riverside City & County, CA 2,643 Georgia Balance of State 2,987
+
+Stockton/San Joaquin County, CA 2,160 Indiana Balance of State 2,841
+
+highest percentage of indigenous people of the geographic categories.
+
+• In major city CoCs, nearly one quarter of individuals experiencing homelessness were Hispanic or Latino (24%), a higher proportion than were reported in other largely urban, largely suburban , and largely rural CoCs, which ranged from 11 to 17 percent.
+
+counted in 2020 than in 2019, an increase of 3 percent. Largely suburban areas experienced the largest percentage increase, 5 percent or 4,282 people.
+
+• All CoC categories reported increases in the number of unsheltered individuals. Major cities reported 5,815 more individuals staying outside, followed by largely suburban CoCs, with 3,530 more unsheltered individuals.
+
+• Modest declines in sheltered individuals in other urban CoCs and largely rural CoCs were more than offset by these increases in the unsheltered population in those places.
+
+• While the number of individuals experiencing homelessness increased nationally, 40 percent of communities experienced decreases or no change in the number of homeless individuals between 2019 and 2020. Between 2019 and 2020, the number of individuals experiencing homelessness increased in all CoC types.
+
+Changes over Time by CoC Category
+
+• Homelessness among individuals increased across most CoC categories and shelter statuses. The largest absolute increase was in major cities, where 5,859 more individuals were
+
+28
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 2.12: CoCs with the Highest Percentages of Homeless Individuals who were Unsheltered By CoC Category, 2020
+
+Percent who were unsheltered
+
+Percent who were unsheltered
+
+CoC Name Homeless Individuals
+
+CoC Name Homeless Individuals
+
+Major City CoCs Other Largely Urban CoCs
+
+San Jose/Santa Clara City & County, CA 8,802 87.2% Fayetteville/Cumberland County, NC 172 95.9%
+
+Los Angeles City & County, CA 51,290 84.1% Oxnard, San Buenaventura/ Ventura County, CA 1,574 78.6%
+
+Fresno City & County/Madera County, CA 3,094 84.0% Bakersfield/Kern County, CA 1,360 72.5%
+
+Oakland, Berkeley/Alameda County, CA 7,646 82.2% Glendale, CA 104 72.1%
+
+Long Beach, CA 1,771 81.3% Mobile City & County/Baldwin County, AL 470 70.6%
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Fort Pierce/St. Lucie, Indian River, Martin Counties, FL 809 93.2% Hendry, Hardee, Highlands Counties, FL 260 100.0%
+
+Imperial County, CA 1,364 91.6% Gulf Port/Gulf Coast Regional, MS 191 97.4%
+
+Pasco County, FL 687 88.9% Lake County, CA 337 95.5%
+
+Clackamas County, OR 235 88.1% Alpine, Inyo, Mono Counties, CA 155 95.5%
+
+San Luis Obispo County, CA 1,240 87.7% Jackson/West Tennessee 493 92.5%
+
+EXHIBIT 2.13: Change in Individual Homelessness By Sheltered Status and CoC Category, 2019–2020
+
+All Homeless Individuals Sheltered Homeless Individuals
+
+Unsheltered Homeless Individuals
+
+Numeric Change
+
+Percent Change
+
+Numeric Change
+
+Percent Change
+
+Numeric Change
+
+Percent Change
+
+Total (not including territories) 13,028 3.3% 62 0.0% 12,966 6.7%
+
+Major City CoCs 5,859 2.9% 44 0.0% 5,815 5.5%
+
+Other Largely Urban CoCs 580 2.0% -150 -0.9% 730 6.4%
+
+Largely Suburban CoCs 4,282 4.8% 752 1.6% 3,530 8.6%
+
+Largely Rural CoCs 2,307 3.3% -584 -1.7% 2,891 8.3%
+
+29
+
+1
+
+3
+
+National Estimates Homelessness in the United States 3
+
+Homeless Families with Children
+
+National Estimates Homeless Families with Children
+
+Data source: PIT 2007-2020
+
+EXHIBIT 3.1: PIT Estimates of Homeless People in Families with Children By Sheltered Status, 2007–2020
+
+On a Single Night in January 2020
+
+• 171,575 people experienced homelessness as part of a family with at least one adult and one child under the age of 18, 30 percent of the total homeless population.
+
+• Nine in ten people experiencing homelessness in families with children were sheltered, 154,908 people. Only 10 percent of people in families with children, 16,667 people, were found in unsheltered locations.
+
+• The average family size was 3.2 people, and just under 54,000 family households were experiencing homelessness.
+
+Changes in Family Homelessness over Time
+
+• The overall number of people in families with children who were experiencing homelessness on a single night was essentially the same in 2019 and 2020, following year-to-year declines
+
+EXHIBIT 3.2: Change in Number of Homeless People in Families with Children By Sheltered Status, 2007-2020
+
+Change 2019-2020 Change 2010-2020 Change 2007-2020
+
+Number Percent Number Percent Number Percent
+
+People in families -95 -0.1% -70,362 -29.1% -62,983 -26.9%
+
+Sheltered People -1,983 -1.3% -36,417 -19.0% -23,420 -13.1%
+
+Unsheltered People 1,888 12.8% -33,945 -67.1% -39,563 -70.4%
+
+Family households 47 0.1% -25,703 -32.4% -24,796 -31.6%
+
+30
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 3.3: Demographic Characteristics of Homeless People in Families with Children 2020
+
+Characteristic All Homeless People in Families Sheltered People in Families Unsheltered People in Families
+
+# % # % # %
+
+People in families 171,575 100% 154,908 100% 16,667 100%
+
+Age
+
+Under 18 102,766 59.9% 93,902 60.6% 8,864 53.2%
+
+18 – 24 12,346 7.2% 10,981 7.1% 1,365 8.2%
+
+Over 24 56,463 32.9% 50,025 32.3% 6,438 38.6%
+
+Gender
+
+Female 103,563 60.4% 94,718 61.1% 8,845 53.1%
+
+Male 67,612 39.4% 59,932 38.7% 7,680 46.1%
+
+Transgender 94 0.1% 69 0.0% 25 0.1%
+
+Gender Non-conforming 250 0.1% 133 0.1% 117 0.7%
+
+Ethnicity
+
+Non-Hispanic/Latino 121,387 70.7% 109,019 70.4% 12,368 74.2%
+
+Hispanic/Latino 50,177 29.2% 45,878 29.6% 4,299 25.8%
+
+Race
+
+White 60,040 35.0% 52,350 33.8% 7,690 46.1%
+
+Black or African American 91,082 53.1% 85,779 55.4% 5,303 31.8%
+
+Asian 1,847 1.1% 1,470 0.9% 377 2.3%
+
+Native American 3,861 2.3% 3,051 2.0% 810 4.9%
+
+Pacific Islander 3,566 2.1% 2,234 1.4% 1,332 8.0%
+
+Multiple Races 11,168 6.5% 10,013 6.5% 1,155 6.9%
+
+EXHIBIT 3.4: Number of People in Parenting Youth Households 2020
+
+Parents in Households Children in Households Total People in Households
+
+Parenting Youth (Under 18) 125 95 220
+
+Parenting Youth Age (18 to 24) 7,230 9,400 16,630
+
+Total Parenting Youth 7,355 9,495 16,850
+
+over the previous several years.
+
+• The number of people in families who were experiencing homelessness in 2020 was 27 percent lower than in 2007, 62,983 fewer people. The number of family households that were experiencing homelessness dropped by 32 percent over that period, 24,796 fewer households.
+
+• The overall decline in family homelessness between 2007 and 2020 reflects a substantial decrease in families experiencing
+
+homelessness in unsheltered locations. Between 2007 and 2020, unsheltered family homelessness declined by 70 percent (39,563 fewer people). The number of people in families with children staying in shelters dropped by 13 percent (23,420 fewer people).
+
+• While considerably lower in 2020 than in 2007, the number of unsheltered people in families with children increased between 2019 and 2020 for the first time since these data were collected.
+
+31
+
+1
+
+National Estimates Homelessness in the United States 3
+
+National Estimates Homeless Families with Children
+
+Data source: PIT 2007-2020
+
+Demographic Characteristics of Family Homelessness
+
+• Children under the age of 18 made up 60 percent of people experiencing homelessness in families in 2020. Another 33 percent were adults over the age of 24, and seven percent were young adults between 18 and 24 years of age.
+
+• Some people in the 18 to 24-year-old age group were the parent of the family (59 percent), while 41 percent were young adults in a family with another adult and at least one child under 18.
+
+• Families found in unsheltered locations had fewer children than those found in shelter. Of people in families found in unsheltered locations, 53 percent were under 18 years of age, compared to 61 percent of those found in shelter.
+
+• Six in 10 people in families were women and girls, and about four in 10 were men and boys. Women and girls were somewhat less likely to be found in unsheltered locations.
+
+• Of people in families experiencing homelessness in 2020, 53 percent were black or African American, and 35 percent were white, with the remaining 12 percent identifying as another race or multiple races.
+
+• People identifying as white made up 34 percent of sheltered families but 46 percent of unsheltered families.
+
+• People who were Native American or Pacific Islander made up larger percentages of family members experiencing homelessness in unsheltered than in sheltered locations (13% vs. 3%).
+
+• Nearly 3 in 10 people in families with children experiencing homelessness were Hispanic/ Latino (29% or 50,177 people).
+
+Changes in Demographics of Family Homelessness over Time
+
+• Between 2019 and 2020, homelessness remained largely unchanged for all age groups, with an overall decline of just 0.1 percent (95 fewer people).
+
+• The small increase in unsheltered homelessness among people in families between 2019 and 2020 affected all age groups, but the largest increase was for children under the age of 18, 1,053 more children (a 14% increase).
+
+• The number of women and girls in families experiencing homelessness declined by 2 percent (1,646 fewer women and girls) in sheltered locations and increased by 12 percent (933 more women and girls) in unsheltered locations. Similarly, the number of men and boys in families experiencing homelessness declined by one percent (518 fewer people) in sheltered locations and increased by 12 percent (850 more people) in unsheltered locations.
+
+• Family homelessness increased by two percent among people who were Hispanic or Latino (1,093 more people). This was driven by a 46 percent increase, 1,353 more people in unsheltered homelessness. Sheltered homelessness for Hispanic people in families decreased by one percent (260 fewer people).
+
+• Family homelessness increased for African Americans by two percent (1,738 more people) and stayed essentially the same for people who were white (243 fewer people). Sheltered family homelessness among people who were black or African American decreased by one percent (502 fewer people), while unsheltered homelessness increased by 73 percent (2,240 more people).
+
+32
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+FULL PAGE PHOTO
+
+33
+
+1
+
+National Estimates Homelessness in the United States 3
+
+State Estimates Homeless Families with Children
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 3.5: Estimates of Family Homelessness By State, 2020
+
+On a Single Night in 2020
+
+• Half of all people experiencing homelessness as part of a family with children were in three states: New York, California, and Massachusetts. About 3 in 10 (28%) were in New York (47,988 people), and they were essentially all sheltered. Seven percent (11,742 people) were in Massachusetts and, similarly, virtually all were sheltered.
+
+• California accounted for 15 percent of people in families experiencing homelessness in the U.S. This was a much lower percentage than for people homeless as individuals, 34 percent of whom were in California. In California, 24 percent of people experiencing homelessness as part of a family were unsheltered.
+
+• Washington, Oregon, and Florida also have substantial number of people in families found in unsheltered locations, 1,884 in Washington, 1,405 in Oregon, and 1,210 in Florida. Idaho, Tennessee, and South Carolina, have smaller numbers of people experiencing homelessness
+
+as part of a family but high rates at which homeless families found in unsheltered locations.
+
+Changes over Time
+
+• Between 2019 and 2020, homelessness experienced by people in families with children increased in 27 states. The largest absolute increases were in California (3,276 more people or 15%), Washington (1,133 more people or 20%), and New Jersey (282 more people or 10%).
+
+• Family homelessness dropped between 2019 and 2020 in 23 states and the District of Columbia. . The largest absolute decrease was in New York, with 1,990 fewer people homeless of part of a family in 2020 than in 2019.
+
+• Over a longer period, 2007-2020, family homelessness increased in 6 states and the District of Columbia. The largest percentage increases were in Massachusetts, Idaho, and the District of Columbia. The largest absolute
+
+34
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 3.6: States with the Highest and Lowest Percentages of People in Families with Children who were Unsheltered By State, 2020
+
+EXHIBIT 3.7: Largest Changes in Homeless People in Families By State, 2007–2020
+
+2019–2020 2007–2020
+
+Largest Increases
+
+CALIFORNIA 3,276 / 14.6% NEW YORK 13,443 / 38.9%
+
+WASHINGTON 1,133 / 20.3% MASSACHUSETTS 4,907 / 71.8%
+
+NEW JERSEY 282 / 9.5% DISTRICT OF COLUMBIA 828 / 51.7%
+
+ARIZONA 230 / 9.3% IDAHO 348 / 53.8%
+
+IDAHO 196 / 24.5% DELAWARE 83 / 24.1%
+
+2019–2020 2007–2020
+
+Largest Decreasesa
+
+NEW YORK -1,990 / -4.0% FLORIDA -7,886 / -52.5%
+
+OREGON -862 / -24.5% TEXAS -7,368 / -54.7%
+
+MASSACHUSETTS -470 / -3.8% NEW JERSEY -5,093 / -61.1%
+
+OHIO -285 / -8.6% OREGON -5,059 / -65.5%
+
+ILLINOIS -250 / -6.8% GEORGIA -4,580 / -64.3%
+
+35
+
+1
+
+National Estimates Homelessness in the United States 3
+
+State Estimates Homeless Families with Children
+
+increases were in New York (or 13,443 more people, Massachusetts (4,907 more people, and the District of Columbia (828 more people).
+
+• Between 2007 and 2020, family homelessness dropped in 44 states. The largest absolute decreases were in Florida (7,886 fewer people) and Texas (7,368 fewer people).
+
+36
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+37
+
+1
+
+National Estimates Homelessness in the United States 3
+
+Estimates by CoC Homeless Families with Children
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 3.8: Percent of Homeless People in Families with Children By CoC Category and Sheltered Status, 2020
+
+Continuums of Care (CoC) were divided into four geographic categories
+
+1. Major city CoCs (n=48) are CoCs that contain one of the 50 largest cities in the United States. In two cases, Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX, two of the largest U.S. cities are located in the same CoC.
+
+2. Other largely urban CoCs (n=60) are CoCs in which the population lives predominately in an urbanized area within the CoC’s principal city or cities, but the CoCs does not include one of the nation’s 50 largest cities.
+
+3. Largely suburban CoCs (n=170) are CoCs in which the population lives predominantly in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+EXHIBIT 3.9: Sheltered vs. Unsheltered People in Families with Children By CoC Category, 2020
+
+4. Largely rural CoCs (n=114) are CoCs in which the population lives predominantly in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural areas.
+
+Note: These definitions have been adapted from definitions used by the U.S. Department of Education’s National Center for Education Statistics to characterize the locations of schools. For detailed information on how they were applied to CoCs, see the About the Report section of this report.
+
+On a Single Night in January 2020
+
+• More than half (53%) of all people in families with children experiencing homelessness in the United States did so in one of the nation’s 50 largest cities. However, a much smaller share of unsheltered people in families with children were counted in major cities (36%) than sheltered people in families with children (55%). This is very different from the pattern for individuals, with 54 percent of unsheltered individuals found in major city CoCs.
+
+• Nearly a quarter of all people in families with children experiencing homelessness in the
+
+country were in New York City (41,549 people).
+
+• Largely rural CoCs had more than a third of all unsheltered people in families with children (39% or 5,970 people). In largely rural CoCs, more than a fifth of people experiencing homelessness in families were unsheltered (21%).
+
+• In major cities, only six percent of all people in families experiencing homelessness in major cities were unsheltered, and in other largely urban CoCs only five percent.
+
+• Of major city CoCs, only one reported that more than 50 percent of people in families were
+
+38
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 3.10: CoCs with the Largest Numbers of People Experiencing Family Homelessness By CoC Category, 2020
+
+People in Families with Children
+
+People in Families with Children
+
+CoC Name
+
+CoC Name
+
+Major City CoCs Other Largely Urban CoCs
+
+New York City 41,549 Saint Paul/Ramsey County, MN 587
+
+Los Angeles City & County, CA 12,416 St. Louis City, MO 423
+
+Boston, MA 3,965 Spokane City & County, WA 363
+
+Seattle/King County, WA 3,743 St. Petersburg, Clearwater, Largo/Pinellas County, FL 350
+
+District of Columbia 2,431 Madison/Dane County, WI 278
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Nassau, Suffolk Counties, NY 2,679 Texas Balance of State 2,004
+
+Massachusetts Balance of State 2,003 Washington Balance of State 1,605
+
+Springfield/Hampden County, MA 1,810 Georgia Balance of State 1,362
+
+Santa Ana, Anaheim/Orange County, CA 1,479 Oregon Balance of State 1,338
+
+Honolulu City and County, HI 1,221 Wisconsin Balance of State 1,267
+
+unsheltered (Long Beach with 54% of people in families with children staying outside). Four largely suburban CoCs had a majority of homeless families with children staying outside: Fort Pierce, FL (77%), Vancouver, WA (54%), Imperial County, CA (52%), and Santa Cruz, CA (51%).
+
+• Thirteen largely rural CoCs had percentages of unsheltered people in families with children exceeding 50 percent. In Jackson/West Tennessee, more than 9 in 10 people in families experiencing homelessness were unsheltered.
+
+• CoCs that are largely suburban had a quarter (25%) of all people in families with children experiencing homelessness, slightly higher than their share of individuals experiencing homelessness (24%).
+
+Changes over Time by CoC Category
+
+• Family homelessness declined in three of the four CoC categories between 2019 and 2020, with major city CoCs the only category reporting increases. Family homelessness increased by three percent (or 2,533 people) in major cities. This increase was driven by increases in the unsheltered population, which increased by 79 percent (or 2,441 people).
+
+• Sheltered homelessness decreased for families with children in nearly all CoC categories between 2019 and 2020 and stayed essentially the same in major cities. The largest drop was in largely rural CoCs, which had 1,074 fewer people in families in staying in shelters in 2020 than in 2019.
+
+• Unsheltered family homelessness increased in largely rural CoCs (by 8%) and major city CoCs, but declined in other urban CoCs (by 11%) and largely suburban CoCs (by 10%).
+
+39
+
+1
+
+National Estimates Homelessness in the United States 3
+
+Estimates by CoC Homeless Families with Children
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 3.11: CoCs with the Highest Percentages of People Experiencing Family Homelessness who were Unsheltered By CoC Category, 2020
+
+Homeless People in Families with Children
+
+Percent who were unsheltered
+
+Homeless People in Families with Children
+
+Percent who were unsheltered
+
+CoC Name
+
+CoC Name
+
+Major City CoCs Other Largely Urban CoCs
+
+Long Beach, CA 263 54.4% Eugene, Springfield/Lane County, OR 244 36.1%
+
+Sacramento City & County, CA 1,148 49.4% Mobile City & County/Baldwin County, AL 161 19.9%
+
+San Jose/Santa Clara City & County, CA 803 30.3% Little Rock/Central Arkansas 115 19.1%
+
+Seattle/King County, WA 3,743 29.3% Portage, Kalamazoo City & County, MI 267 14.2%
+
+Los Angeles City & County, CA 12,416 23.7% Oxnard, San Buenaventura/ Ventura County, CA 213 13.1%
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Fort Pierce/St. Lucie, Indian River, Martin Counties, FL 570 76.7% Jackson/West Tennessee 368 93.8%
+
+Columbia, Hamilton, Lafayette, Suwannee Counties, FL
+
+Vancouver/Clark County, WA 372 53.5%
+
+205 84.9%
+
+Imperial County, CA 163 51.5% Oregon Balance of State 1,338 76.8%
+
+Watsonville/Santa Cruz City & County, CA 436 51.1% Central Oregon 274 69.0%
+
+Yuba City & County/Sutter County, CA 163 48.5% Hendry, Hardee, Highlands Counties, FL 143 66.4%
+
+Demographic Characteristics by CoC Category
+
+• The race and ethnicity of people in families with children experiencing homelessness vary geographically. In major cities, 23 percent of people in families experiencing homelessness were white, compared with 61 percent in largely rural CoCs. More than two-thirds of people experiencing homelessness in families in major cities were African American, 68 percent, compared with 23 percent in largely rural CoCs.
+
+• More than one-third of people in families with children experiencing homelessness in major cities were Hispanic/Latino, 36 percent, the
+
+highest rate among the CoC categories. In largely suburban CoCs, 26 percent of people in families were Hispanic/Latino. In largely rural CoCs and other urban CoCs 18 percent of people experiencing family homelessness identified as Hispanic/Latino.
+
+• Seven percent of people in families with children in rural areas were Native American or Pacific Islanders, compared with only two percent in major cities.
+
+• The gender and age characteristics all people in families with children experiencing homelessness do not vary much by CoC category.
+
+40
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 3.12: Change in Family Homelessness By Sheltered Status and CoC Category, 2019-2020
+
+All People in Families with Children
+
+Sheltered People in Families with Children
+
+Unsheltered People in Families with Children
+
+# % # % # %
+
+Total 502 0.3% -1,983 -1.3% 2,485 19.4%
+
+Major City CoCs 2,533 2.9% 92 0.1% 2,441 78.5%
+
+Other Largely Urban CoCs -220 -2.6% -170 -2.1% -50 -11.4%
+
+Largely Suburban CoCs -1,188 -2.7% -831 -2.1% -357 -9.6%
+
+Largely Rural CoCs -623 -2.1% -1,074 -4.4% 451 8.2%
+
+EXHIBIT 3.13: Demographic Characteristics of Homeless People in Families with Children By CoC Category, 2020
+
+Major City CoCs
+
+Other Largely Urban CoCs
+
+Largely Suburban CoCs
+
+Largely Rural CoCs
+
+(n=48)
+
+(n=59)
+
+(n=171)
+
+(n=109)
+
+Number of People 90,253 8,258 42,284 29,182
+
+Age
+
+Under 18 59.1% 62.0% 61.3% 60.2%
+
+18 to 24 8.2% 5.8% 6.1% 5.8%
+
+Over 24 32.7% 32.2% 32.6% 34.0%
+
+Gender
+
+Female 60.4% 60.5% 61.1% 59.7%
+
+Male 39.5% 39.3% 38.7% 39.7%
+
+Transgender 0.0% 0.1% 0.1% 0.1%
+
+Gender Nonconforming
+
+0.1% 0.0% 0.1% 0.3%
+
+Ethnicity
+
+Non-Hispanic/Latino 64.3% 81.7% 73.7% 82.3%
+
+Hispanic/Latino 35.7% 18.3% 26.3% 17.7%
+
+Race
+
+White 23.4% 38.0% 42.4% 61.0%
+
+Black 68.2% 46.3% 44.9% 22.7%
+
+Asian 0.9% 1.0% 1.2% 0.7%
+
+Native American 1.2% 4.3% 1.5% 6.0%
+
+Pacific Islander 1.1% 1.1% 2.5% 1.4%
+
+Multiple Races 5.3% 9.3% 7.5% 8.1%
+
+41
+
+1
+
+4
+
+National Estimates Homelessness in the United States 4
+
+Unaccompanied Homeless Youth National Estimates
+
+National Estimates Unaccompanied Homeless Youth
+
+Data source: PIT 2017-2020
+
+HUD’s Point-in-Time (PIT) count data collection includes information on the number of young adults and children, people under the age of 25, who are experiencing homelessness “unaccompanied”—that is, without a parent or guardian present. Children and youth who experience homelessness on their own are just 23 percent of all people under the age of 25 experiencing homelessness.
+
+On a Single Night in January 2020
+
+• 34,210 unaccompanied youth were reported to be experiencing homelessness in the United States. These unaccompanied youth were just over six percent of the total population of people experiencing homelessness and eight percent of all people experiencing homelessness as individuals.
+
+• Another 7,335 youth were experiencing homelessness as parents, with at least one child under the age of 18. (More detail on parenting youth is in Section 3 of this report, Homeless Families with Children.)
+
+• Nine of every 10 unaccompanied homeless youth identified in January 2020 were between the ages of 18 and 24 (90% or 30,821 people). The remaining 10 percent (3,389 people) were children (under the age of 18) experiencing homelessness on their own.
+
+• Just over half of unaccompanied homeless youth were unsheltered (50%), a similar percentage as people experiencing homelessness as individuals but a higher percentage than for all people experiencing homelessness, which includes people experiencing homelessness as part of a family.
+
+In addition to not experiencing homelessness with a parent, unaccompanied youth are not themselves parents homeless together with one or more children. Thus, unaccompanied youth are a subset of the population that experiences homelessness as individuals.
+
+EXHIBIT 4.1: PIT Estimates of Unaccompanied Homeless Youth By Age and Sheltered Status, 2020
+
+Total Unaccompanied Homeless Youth
+
+Unsheltered Unaccompanied Youth # % # % # %
+
+Sheltered Unaccompanied Youth
+
+Total Homeless Youth (under 25)
+
+34,210 100% 17,271 100% 16,939 100%
+
+Demographic Characteristics of Unaccompanied Youth
+
+• The characteristics of unaccompanied homeless youth differ from those of the overall population experiencing homelessness as individuals. Unaccompanied homeless youth were less likely to be white and more likely to be female than all homeless individuals.
+
+• Just under 40 percent of unaccompanied youth experiencing homelessness were women or girls (39%). By contrast, only 29 percent of all individuals experiencing homelessness were women or girls.
+
+• Youth identifying as transgender or as someone who does not identify as male, female, or
+
+Homeless Youth (under 18)
+
+3,389 9.9% 1,682 9.7% 1,707 10.1%
+
+Homeless Youth (18-24)
+
+30,821 90.1% 15,589 90.3% 15,232 89.9%
+
+EXHIBIT 4.2: Sheltered and Unsheltered Unaccompanied Homeless Youth By Sheltered Status, 2020
+
+42
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+transgender accounted for four percent of the unaccompanied youth population, compared with one percent of the individual homeless population.
+
+• Unaccompanied youth experiencing homelessness were slightly more likely to be African American (35%) than all individuals experiencing homelessness (34%). African American unaccompanied youth accounted for a larger share of the sheltered population of unaccompanied youth, 43 percent, than the unsheltered population, 26 percent. This is similar to the African American shares of all sheltered and unsheltered individuals.
+
+• One-quarter of unaccompanied homeless youth were Hispanic or Latino (25%), compared with 20 percent of all homeless individuals. Hispanic youth make up a larger percentage of the unsheltered population, 29 percent.
+
+• Multiracial youth accounted for 11 percent of all unaccompanied homeless youth, compared with 6 percent of all homeless individuals.
+
+• Compared with all homeless individuals, unaccompanied youth were more likely to identify as a race other than white or African American (17% versus 12%).
+
+Changes over Time
+
+• The number of unaccompanied youth reported by communities has declined in each of the past three years. Between 2019 and 2020, the number of unaccompanied youth declined by two percent (or 828 fewer people). The overall decline resulted from decreases in both the number of unaccompanied youth in sheltered locations (3% or 437) and unsheltered unaccompanied youth (2% or 391 youth).
+
+EXHIBIT 4.3: Demographic Characteristics of Unaccompanied Youth Experiencing Homelessness 2020
+
+All Unaccompanied Youth Sheltered Unaccompanied Youth
+
+Unsheltered Unaccompanied Youth
+
+# % # % # % Total 34,210 100% 17,271 100% 16,939 100% Age
+
+Under 18 3,389 9.9% 1,682 9.7% 1,707 10.1% 18 to 24 30,821 90.1% 15,589 90.3% 15,232 89.9% Gender
+
+Female 13,298 38.9% 7,456 43.2% 5,842 34.5% Male 19,730 57.7% 9,350 54.1% 10,380 61.3% Transgender 742 2.2% 315 1.8% 427 2.5% Gender non-conforming 440 1.3% 150 0.9% 290 1.7% Ethnicity
+
+Non-Hispanic/Latino 25,773 75.3% 13,757 79.7% 12,016 70.9% Hispanic/Latino 8,437 24.7% 3,514 20.3% 4,923 29.1% Race
+
+White 16,359 47.8% 7,465 43.2% 8,894 52.5% African American 11,918 34.8% 7,496 43.4% 4,422 26.1% Asian 471 1.4% 179 1.0% 292 1.7% Native American 1,375 4.0% 433 2.5% 942 5.6% Pacific Islander 478 1.4% 145 0.8% 333 2.0% Multiple Races 3,609 10.5% 1,553 9.0% 2,056 12.1%
+
+43
+
+1
+
+National Estimates Homelessness in the United States 4
+
+National Estimates Unaccompanied Homeless Youth
+
+Data source: PIT 2020; Excludes PR and U.S. territories
+
+• Between 2017 (the baseline year for youth experiencing homelessness in the PIT count) and 2020, there has been an 11 percent decline in the overall number of unaccompanied youth reported nationally (or 4,093 fewer youth). This reflects a seven percent decline in the number of sheltered unaccompanied youth (1,271 fewer people) and a 14 percent decline in unsheltered unaccompanied youth (2,822 fewer people).
+
+EXHIBIT 4.4: Change in Numbers of Unaccompanied Youth 2017–2020
+
+Change 2019–2020 Change 2017–2020
+
+# % # %
+
+Total Unaccompanied Youth -828 -2.4% -4,093 -10.7%
+
+Sheltered Unaccompanied Youth -437 -2.5% -1,271 -6.9%
+
+Unsheltered Unaccompanied Youth -391 -2.3% -2,822 -14.3%
+
+44
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+45
+
+1
+
+National Estimates Homelessness in the United States 4
+
+State Estimates Unaccompanied Homeless Youth
+
+Data source: PIT 2019-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 4.5: Estimates of Unaccompanied Homeless Youth By State, 2020
+
+• Four states reported that two-thirds or more of unaccompanied homeless youth were staying in unsheltered locations: California (78%), Hawaii (70%), Arkansas (66%), and Oregon (66%).
+
+On a Single Night in January 2020
+
+• California reported the largest numbers of homeless unaccompanied youth (12,172 people), accounting for over a third of all unaccompanied youth nationally (36%). Other states with large numbers of homeless unaccompanied youth were New York (3,072 or 9%), Washington (1,777 or 5%), Texas (1,408 or 4%), Florida (1,331 or 4%), and Oregon (1,314 or 4%). Together, these six states account for more than 6 in every 10 unaccompanied youth across the country.
+
+• California accounted for 56 percent of all unsheltered homeless unaccompanied youth (9,510 people). Washington (972), Oregon (864), and Texas (622) had the next largest numbers of unsheltered unaccompanied youth, with each accounting for between four and six percent of the national total.
+
+Changes over Time
+
+• Homelessness among unaccompanied homeless youth increased in 24 states between 2019 and 2020. The largest absolute increases were in Missouri (187 more unaccompanied homeless youth) and California (179 more youth). The largest percentage increases were in Missouri (39%), Hawaii (35%), and Louisiana (31%).
+
+• Homelessness declined for unaccompanied homeless youth in 26 states and the District of Columbia between 2019 and 2020. The largest absolute decrease by far was in Nevada, with 715 fewer youth experiencing homelessness
+
+46
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 4.6: States with the Highest and Lowest Percentages of Unaccompanied Youth who were Unsheltered By State, 2020
+
+EXHIBIT 4.7: Largest Changes in Unaccompanied Homeless Youth By State, 2019–2020
+
+on their own in 2020 than in 2019. Oregon had the next largest absolute decrease (276 fewer youth), followed by Alabama (145 fewer youth). Nevada also experienced the largest percentage decline, with the unaccompanied youth population dropping by 56 percent.
+
+Largest Increases
+
+MISSOURI 187 / 39.2%
+
+CALIFORNIA 179 / 1.5%
+
+NEW YORK 94 / 3.2%
+
+OHIO 93 / 14.5%
+
+HAWAII 77 / 34.7%
+
+Largest Decreases
+
+NEVADA -715 / -55.6%
+
+OREGON -276 / -17.4%
+
+ALABAMA -145 / -45.3%
+
+WASHINGTON -134 / -7.0%
+
+FLORIDA -119 / -8.2%
+
+47
+
+1
+
+National Estimates Homelessness in the United States 4
+
+Estimates by CoC Unaccompanied Homeless Youth
+
+Data source: PIT 2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 4.8: Percentage of Unaccompanied Homeless Youth By CoC Category and Sheltered Status, 2020
+
+Continuums of Care (CoC) were divided into four geographic categories
+
+1. Major city CoCs (n=48) are CoCs that contain one of the 50 largest cities in the United States. In two cases, Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX, two of the largest U.S. cities are located in the same CoC.
+
+2. Other largely urban CoCs (n=59) are CoCs in which the population lives predominately in an urbanized area within the CoC’s principal city or cities, but the CoCs does not include one of the nation’s 50 largest cities.
+
+EXHIBIT 4.9: Sheltered vs Unsheltered Unaccompanied Homeless Youth By CoC Category, 2020
+
+3. Largely suburban CoCs (n=171) are CoCs in which the population lives predominantly in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+4. Largely rural CoCs (n=109) are CoCs in which the population lives predominantly in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural areas.
+
+Note: These definitions have been adapted from definitions used by the U.S. Department of Education’s National Center for Education Statistics to characterize the locations of schools. For detailed information on how they were applied to CoCs, see the About the Report section of this report.
+
+On a Single Night in January 2020
+
+• About half (50%) of all unaccompanied youth were counted in the nation’s major cities. Los Angeles and New York City had the largest numbers of unaccompanied youth in the country, reporting 3,098 people and 2,418 people under the age of 25 and homeless on their own. The major cities with the next highest numbers are all on the West Coast.
+
+• Major cities had the highest percentage of unaccompanied youth found staying in unsheltered locations (53%), followed by largely rural CoCs (50%).
+
+• Three major city CoCs had percentages of unaccompanied youth staying in unsheltered locations exceeding 75 percent: San Jose, CA
+
+(96%), San Francisco, CA (80%), and Oakland, CA (77%).
+
+• Four largely suburban CoCs had rates of unsheltered unaccompanied youth of 95 percent or higher, and all four were in California: Marin County (97%), San Luis Obispo (97%), Santa Cruz (97%), and Imperial County (95%).
+
+• The largely rural CoCs with the highest rates of unaccompanied youth staying in unsheltered locations were the Arkansas Balance of State CoC (95%) and the Salinas/Monterey CoC covering San Benito County in California (91%).
+
+• In all categories of CoCs, nearly all
+
+48
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+unaccompanied homeless youth were between the ages of 18 and 24. Largely rural CoCs and other largely urban CoCs had the highest percentages of unaccompanied homeless youth under the age of 18 (15%), and major city CoCs had the lowest percentage (8%).
+
+• Major cities had the highest percentage of transgender or gender non-conforming unaccompanied homeless youth (5%), compared with two percent in largely rural or largely suburban CoCs.
+
+• Unaccompanied youth found in major city CoCs were three times as likely to be black compared with unaccompanied youth in predominately rural CoCs (45% vs 14%). They were also more likely to identify as Hispanic or Latino.
+
+Changes over Time by Coc Category
+
+• Between 2019 and 2020, the number of unaccompanied homeless youth declined in all CoC categories except for largely suburban areas, which saw a two percent increase (174 more people). This increase was driven by a six percent increase in the number of unsheltered youth experiencing homelessness in those CoCs (190 people).
+
+• While partially offset by moderate increases in the numbers of unaccompanied youth in Los Angeles, Kansas City, and New York, there was a considerable drop reported by Las Vegas (from 737 people in 2019 to 42 people in 2020) driving the overall decline in the major cities category.
+
+• The number of youth experiencing sheltered homelessness decreased across all CoC types
+
+EXHIBIT 4.10: CoCs with the Largest Numbers of Unaccompanied Homeless Youth By CoC Category, 2020
+
+CoC Name Unaccompanied Homeless Youth CoC Name Unaccompanied Homeless Youth
+
+Major City CoCs Other Largely Urban CoCs
+
+Los Angeles City & County, CA 3,098 Santa Rosa, Petaluma/Sonoma County, CA 358
+
+New York City 2,418 Spokane City & County, WA 128
+
+San Jose/Santa Clara City & County, CA 1,848 Anchorage, AK 122
+
+San Francisco, CA 1,178 Amarillo, TX 106
+
+Seattle/King County, WA 955 Oxnard, San Buenaventura/ Ventura County, CA 99
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Watsonville/Santa Cruz City & County, CA 610 Oregon Balance of State 734
+
+Riverside City & County, CA 353 Texas Balance of State 437
+
+Santa Ana, Anaheim/Orange County, CA 245 Washington Balance of State 427
+
+Honolulu City and County, HI 226 Salinas/Monterey, San Benito Counties, CA 316
+
+San Bernardino City & County, CA 218 Georgia Balance of State 230
+
+49
+
+1
+
+National Estimates Homelessness in the United States 4
+
+Estimates by CoC Unaccompanied Homeless Youth
+
+Data source: PIT 2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 4.11: CoCs with the Highest Rates of Unaccompanied Homeless Youth who were Unsheltered By CoC Category, 2020
+
+Percent who were unsheltered
+
+Percent who were unsheltered
+
+CoC Name Unaccompanied Homeless Youth
+
+CoC Name Unaccompanied Homeless Youth
+
+Major City CoCs Other Largely Urban CoCs
+
+San Jose/Santa Clara City & County, CA 1,848 96.0% Santa Rosa, Petaluma/ Sonoma County, CA 358 84.9%
+
+San Francisco, CA 1,178 80.1% Spokane City & County, WA 128 39.1%
+
+Oakland, Berkeley/Alameda County, CA 768 76.6% Amarillo, TX 106 18.9%
+
+Austin/Travis County, TX 116 71.6%
+
+Los Angeles City & County, CA 3,098 68.4%
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Marin County, CA 104 97.1% Arkansas Balance of State 138 94.9%
+
+San Luis Obispo County, CA 173 97.1% Salinas/Monterey, San Benito Counties, CA 316 90.8%
+
+Watsonville/Santa Cruz City & County, CA 610 96.7% Oregon Balance of State 734 80.9%
+
+Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties, CA
+
+Imperial County, CA 148 94.6%
+
+104 79.8%
+
+El Dorado County, CA 120 87.5% Georgia Balance of State 230 68.7%
+
+between 2019 and 2020, with largely rural areas reporting the largest declines (9% percent fewer sheltered unaccompanied youth or 337 fewer people).
+
+• The number of unsheltered unaccompanied youth declined in all CoC categories except for largely suburban areas, which increased by six percent.
+
+50
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 4.12: Demographic Characteristics of Unaccompanied Homeless Youth By CoC Category, 2020
+
+Major City CoCs
+
+Other Largely Urban CoCs
+
+Largely Suburban CoCs
+
+Largely Rural CoCs
+
+(n=48)
+
+(n=59)
+
+(n=171)
+
+(n=109)
+
+Total 17,059 2,374 7,799 6,911
+
+Age
+
+Under 18 7.6% 15.3% 8.9% 14.9%
+
+18 to 24 92.4% 84.7% 91.1% 85.1%
+
+Gender
+
+Female 38.5% 39.6% 38.0% 40.7%
+
+Male 56.3% 58.0% 60.4% 57.6%
+
+Transgender 3.3% 1.3% 0.9% 1.0%
+
+Gender Non-Conforming
+
+1.8% 1.2% 0.7% 0.7%
+
+Ethnicity
+
+Non-Hispanic/Latino 69.2% 80.6% 78.7% 85.4%
+
+Hispanic/Latino 30.8% 19.4% 21.3% 14.6%
+
+Race
+
+White 34.6% 53.8% 53.6% 72.2%
+
+Black 45.4% 26.7% 32.4% 14.4%
+
+Asian 1.8% 0.7% 1.4% 0.6%
+
+Native American 4.1% 5.9% 2.0% 5.4%
+
+Pacific Islander 1.4% 1.1% 2.1% 0.6%
+
+Multiple Races 12.8% 11.8% 8.4% 6.8%
+
+EXHIBIT 4.13: Change in Unaccompanied Homeless Youth By Sheltered Status and CoC Category, 2019–2020
+
+Unaccompanied Homeless Youth
+
+Sheltered Unaccompanied Youth
+
+Unsheltered Unaccompanied Youth
+
+# % # % # %
+
+Total -824 -2.4% -431 -2.4% -393 -2.3%
+
+Major Cities -295 -1.7% -31 -0.4% -264 -2.9%
+
+Other Largely Urban CoCs -335 -12.4% -47 -3.3% -288 -22.6%
+
+Largely Suburban CoCs 174 2.3% -16 -0.4% 190 5.8%
+
+Largely Rural CoCs -368 -5.1% -337 -8.9% -31 -0.9%
+
+51
+
+1
+
+5
+
+National Estimates Homelessness in the United States 5
+
+Homeless Veterans National Estimates
+
+National Estimates Homeless Veterans
+
+Data source: PIT 2009–2020
+
+EXHIBIT 5.1: PIT Estimates of Homeless Veterans By Sheltered Status, 2009–2020
+
+in 814 family households with children. A few veterans were in households without children but with more than one adult. Overall, 40,897 people experiencing homelessness were in households that included a veteran.
+
+On a Single Night in January 2020
+
+• 37,252 veterans were experiencing homelessness in the U.S., eight percent of all homeless adults.
+
+• Of every 10,000 veterans in the United States, 21 were experiencing homelessness.
+
+• Nearly all veterans were experiencing homelessness as individuals, 98 percent. Of those individuals, 27 percent (9,794 veterans) had chronic patterns of homelessness.
+
+• Fewer than six in 10 veterans experiencing homelessness were staying in sheltered locations (59% or 22,048 veterans). This is higher than the share of all individuals experiencing homelessness who were sheltered, only 49 percent.
+
+• A very small share of veterans experiencing homelessness, 828 people or two percent, were
+
+Changes in Veteran Homelessness over Time
+
+• Between 2019 and 2020, the number of veterans experiencing homelessness increased by less than one percent (167 more people). The increase was entirely among veterans staying in unsheltered places (859 more veterans).
+
+• However, in 2020 36,115 fewer veterans were experiencing homelessness than in 2009, when these data were first reported, a drop of nearly 50 percent.
+
+• Fewer veterans were found in both sheltered and unsheltered locations in 2020 than in 2009.
+
+52
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+Between 2009 and 2020, both sheltered and unsheltered veteran homelessness dropped by almost half (49%) a reduction of 21,361 sheltered veterans and 14,754 unsheltered veterans.
+
+• The share of adults experiencing homelessness who were veterans also continued a steady decline. In 2020, veterans represented less than eight percent of adults experiencing homelessness, down from 12 percent in 2013 – the first-year data were collected on the age of people experiencing homelessness at a pointin-time.
+
+homelessness were more likely to be found in unsheltered locations than their male counterparts (47% vs. 40%).
+
+• A higher percentage of veterans experiencing homelessness were white (57%) than of all people experiencing homelessness (48%) or individuals experiencing homelessness (54%).
+
+• African Americans were considerably overrepresented among the homeless veteran population. Veterans who were black or African American comprised one-third of veterans experiencing homelessness and a quarter of veterans experiencing unsheltered homelessness compared with 12 percent of all U.S. veterans. Conversely, while 57 percent of veterans experiencing homelessness were white, they were underrepresented compared to their share of all U.S. veterans (81%).
+
+• The number of veterans experiencing homelessness who identify as Hispanic/ Latino was considerably smaller than the percentage of Hispanic/Latinos among people experiencing homelessness as individuals (11% vs. 20%), although higher than the share of all U.S. veterans who were Hispanic/Latino (7%).
+
+• The percentage of all Hispanic or Latino veterans experiencing homelessness who were
+
+Demographic Characteristics
+
+• Men accounted for more than nine of every ten veterans experiencing homelessness in 2020 (91% or 33,862 veterans), the same as the share of all veterans in the U.S., which is also 91 percent.
+
+• Women veterans experiencing homelessness were much more likely to be in a household with a child under 18 years of age (12%) than their male counterparts (1%).
+
+• In contrast to the population of homeless individuals, in which women were more likely to be sheltered, women veterans experiencing
+
+EXHIBIT 5.2: Proportion of Adults Experiencing Homelessness who were Veterans By Sheltered Status, 2020
+
+% of Adults Experiencing Homelessness who were Veterans Total 37,252 474,102 7.9% Sheltered 22,048 258,673 8.5% Unsheltered 15,204 215,429 7.1%
+
+Sheltered Status # of Veterans Experiencing Homelessness
+
+# of Adults Experiencing Homelessness
+
+EXHIBIT 5.3: Change in Numbers of Veterans Experiencing Homelessness By Sheltered Status, 2009–2020
+
+Change 2019 to 2020 Change 2009 to 2020 # % # %
+
+53
+
+1
+
+National Estimates Homelessness in the United States 5
+
+National Estimates Homeless Veterans
+
+Data source: PIT 2009-2020
+
+counted outdoors (55%) was higher than the percentage of white veterans (42%) or black veterans (31%).
+
+who were men rose by one percent (370 veterans). The increase in the number of male veterans, resulted entirely from the increase in unsheltered veterans (by 938 veterans or 7%).
+
+Changes in Demographics over Time
+
+• The increase in the number of veterans experiencing homelessness between 2019 and 2020 largely reflected an increase in veterans experiencing unsheltered homelessness who were white, non-Hispanic/non-Latino men, followed by black men.
+
+• The number of Hispanic or Latino veterans experiencing homelessness declined between 2019 and 2020, by four percent, while the number of non-Hispanic veterans increased by one percent. The number of veterans who were not Hispanic or Latino and were staying in unsheltered locations increased by 1,002 people, or eight percent.
+
+• The number of veterans experiencing homelessness who were women declined by five percent (or 166 veterans), while the number
+
+EXHIBIT 5.4: Demographic Characteristics of Veterans Experiencing Homelessness 2020
+
+Characteristic All Veterans Sheltered Veterans Unsheltered Veterans # % # % # % Total Veterans 37,252 100% 22,048 100% 15,204 100% Gender
+
+Female 3,126 8.4% 1,662 7.5% 1,464 9.6% Male 33,862 90.9% 20,324 92.2% 13,538 89.0% Transgender 155 0.4% 49 0.2% 106 0.7% Gender Non-conforming 109 0.3% 13 0.1% 96 0.6% Ethnicity Non-Hispanic/Latino 33,190 89.1% 20,234 91.8% 12,956 85.2% Hispanic/Latino 4,062 10.9% 1,814 8.2% 2,248 14.8% Race White 21,160 56.8% 12,187 55.3% 8,973 59.0% Black or African American 12,186 32.7% 8,380 38.0% 3,806 25.0% Asian 450 1.2% 189 0.9% 261 1.7% Native American 1,082 2.9% 418 1.9% 664 4.4% Pacific Islander 370 1.0% 159 0.7% 211 1.4% Multiple Races 2,004 5.4% 715 3.2% 1,289 8.5%
+
+54
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+55
+
+1
+
+National Estimates Homelessness in the United States 5
+
+State Estimates Homeless Veterans
+
+Data source: PIT 2009-2020
+
+EXHIBIT 5.5: Estimates of Homeless Veterans By State, 2020
+
+On a Single Night in January 2020
+
+• California accounted for 31 percent of all veterans experiencing homelessness in the United States (11,401 veterans) and more than half of all unsheltered veterans (53% or 7,996 veterans).
+
+• Seven in ten veterans experiencing homelessness in unsheltered locations were in four states: California (53%), Florida (6%), Texas (6%), and Washington (5%).
+
+• In four states, more than half of all veterans experiencing homelessness were unsheltered: California (70%), New Mexico (55%), Oregon (51%), and Georgia (51%).
+
+• California, Hawaii, and Oregon had the highest rates of homelessness among all veterans, far exceeding the national rate of 21 of every 10,000 veterans. The highest rate was in California, where 77 of every 10,000 veterans were experiencing homelessness, followed by Hawaii and Oregon (54 and 50 of every 10,000 veterans).
+
+• In 14 states, 90 percent or more of homeless veterans were staying in sheltered locations. States with very small percentages of homeless veterans who were unsheltered were New York (3%) and Massachusetts (4%).
+
+Changes over Time
+
+• Veteran homelessness decreased in 28 states between 2019 and 2020. Oregon, North Carolina, and Tennessee had the largest absolute decreases, with 109 fewer veterans experiencing homelessness in each state. The largest percentage decrease was in Utah (46%), followed by South Dakota (35%), and West Virginia (24%).
+
+• The number of veterans experiencing homelessness increased in 19 states and the District of Columbia between 2019 and
+
+2020. The largest absolute increases were in California (421 more veterans or 4%). The largest percentage increase (and second largest absolute increase) was in Nevada, which saw
+
+56
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+57
+
+1
+
+National Estimates Homelessness in the United States 5
+
+State Estimates Homeless Veterans
+
+Data source: PIT 2009-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 5.6: States with the Highest and Lowest Percentages of Homeless Veterans who were Unsheltered 2020
+
+an increase of 250 veterans experiencing homelessness between 2019 and 2020 (a 37% rise). The next largest percentage increase was in Delaware (20%).
+
+• Since 2009, the number of veterans experiencing homelessness has increased in only two states: Oregon (by 52 people), and Vermont (by 10 people).
+
+• Between 2009 and 2020, the number of veterans experiencing homelessness decreased in 48 states plus the District of Columbia, with the largest absolute decreases in California (6,572 fewer veterans), Florida (4,699), and New York (4,628). States with large percentage decreases were Louisiana (81%), Mississippi (81%), and New York (79%).
+
+58
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 5.7: Largest Changes in Homeless Veterans By State, 2019-2020 and 2009-2020
+
+2019–2020 2009–2020
+
+Largest Increases
+
+CALIFORNIA 421 / 3.8% OREGON 52 / 4.1%
+
+NEVADA 250 / 37.1% VERMONT 10 / 16.0%
+
+TEXAS 142 / 7.9%
+
+PENNSYLVANIA 120 / 14.0%
+
+OHIO 54 / 8.0%
+
+2019–2020 2009–2020
+
+Largest Decreases
+
+NORTH CAROLINA -109 / -12.0% CALIFORNIA -6,572 / -36.6%
+
+OREGON -109 / -7.6% FLORIDA -4,699 / -65.9%
+
+TENNESSEE -109 / -16.1% NEW YORK -4,628 / -78.7%
+
+UTAH -97 / -46.0% TEXAS -3,543 / -64.5%
+
+MASSACHUSETTS -81 / -8.8% GEORGIA -1,996 / -72.3%
+
+Note: Figures from 2009-2020 exclude North Dakota, Colorado, South Dakota, Wyoming, and Michigan. All figures exclude Puerto Rico and the U.S. territories.
+
+59
+
+1
+
+National Estimates Homelessness in the United States 5
+
+Estimates by CoC Homeless Veterans
+
+Data source: PIT 2009-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 5.8: Percent of Homeless Veterans By CoC Category and Sheltered Status, 2020
+
+Continuums of Care (CoC) were divided into four geographic categories
+
+1. Major city CoCs (n=48) are CoCs that contain one of the 50 largest cities in the United States. In two cases, Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX, two of the largest U.S. cities are located in the same CoC.
+
+2. Other largely urban CoCs (n=59) are CoCs in which the population lives predominately in an urbanized area within the CoC’s principal city or cities, but the CoCs does not include one of the nation’s 50 largest cities.
+
+3. Largely suburban CoCs (n=171) are CoCs in which the population lives predominantly in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+EXHIBIT 5.9: Sheltered vs. Unsheltered Veterans in each CoC Category 2020
+
+4. Largely rural CoCs (n=109) are CoCs in which the population lives predominantly in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural areas.
+
+Note: These definitions have been adapted from definitions used by the U.S. Department of Education’s National Center for Education Statistics to characterize the locations of schools. For detailed information on how they were applied to CoCs, see the About the Report section of this report.
+
+On a Single Night in January 2020
+
+• Veterans were less likely than all people experiencing homelessness to be in major cities and more likely to be in suburban areas. Major city CoCs accounted for nearly half of the homeless veterans nationwide (49%), a slightly smaller share than all individuals experiencing homelessness (52%). Conversely, CoCs that were largely suburban accounted for just over one-quarter (26%) of homeless veterans, slightly higher than the 23 percent share for all individuals.
+
+• Los Angeles and San Diego had the largest number of veterans experiencing homelessness, with 3,681 (or 10%) and 940
+
+homeless veterans (or 3%).
+
+• About 17 percent of homeless veterans were counted in largely rural CoCs, and eight percent were counted in other largely urban CoCs, similar to the percentage of all individuals experiencing homelessness.
+
+• The five major city CoCs with the highest percentages of homeless veterans staying in unsheltered locations were in California, and all had unsheltered rates greater than 70 percent. Los Angeles had the highest percentage unsheltered, 76 percent.
+
+• The five largely suburban CoCs with the highest percentages of veterans staying in
+
+60
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+unsheltered locations had higher rates than any CoCs in the other three categories, with all five exceeding 80 percent. In Imperial County, CA and San Luis Obispo, CA, more than 95 percent of veterans were staying outside (98% and 96%).
+
+• Among largely rural CoCs. New Mexico Balance of State and Hawaii Balance of State, had the highest percentages of homeless veterans who were unsheltered (75% and 74%).
+
+The number of veterans experiencing homelessness declined by nearly 50 percent since 2009.
+
+EXHIBIT 5.10: Demographic Characteristics of Veterans By CoC Category, 2020
+
+Major City CoCs
+
+Other Largely Urban CoCs
+
+Largely Suburban CoCs
+
+Largely Rural CoCs
+
+(n=48)
+
+(n=59)
+
+(n=171)
+
+(n=109)
+
+Total 18,118 3,093 9,546 6,364
+
+Gender
+
+Female 8.6% 6.4% 8.1% 9.0%
+
+Male 90.3% 93.2% 91.5% 90.7%
+
+Transgender 0.6% 0.3% 0.2% 0.2%
+
+Gender Non-Conforming
+
+0.4% 0.1% 0.1% 0.2%
+
+Ethnicity
+
+Non-Hispanic/ Latino
+
+86.9% 93.1% 90.1% 92.8%
+
+Hispanic/Latino 13.1% 6.9% 9.9% 7.2%
+
+Race
+
+White 47.7% 62.8% 61.1% 73.9%
+
+African American
+
+40.6% 29.6% 29.9% 16.1%
+
+Asian American 1.6% 0.7% 1.1% 0.5%
+
+Native American/ American Indian
+
+3.1% 2.8% 1.6% 4.4%
+
+Pacific Islander 0.9% 0.5% 1.4% 0.7%
+
+Multiple Races 6.1% 3.6% 4.9% 4.4%
+
+61
+
+1
+
+National Estimates Homelessness in the United States 5
+
+Estimates by CoC Homeless Veterans
+
+Data source: PIT 2009-2020
+
+Changes over Time by CoC Category
+
+• Across all CoC categories, the number of veterans experiencing homelessness remained essentially the same between 2019 and
+
+2020. In major cities, the number of veterans increased only slightly, by 116 people or one percent. Similarly, the number of veterans experiencing homelessness increased by 100 people in largely rural CoCs (a 2% rise). Other urban CoCs saw a 50 person decline, and largely suburban CoCs reported no change in homeless veterans.
+
+• The number of veterans staying in sheltered locations declined across all CoC types. These declines were offset by increases in the numbers of unsheltered veterans across all CoC types. The largest increases among unsheltered veterans were observed in major cities (413 people or 5%) and largely rural CoCs (253 people or 10%).
+
+EXHIBIT 5.11: CoCs with the Largest Numbers of Veterans Experiencing Homelessness By CoC Category, 2020
+
+CoC Name Homeless Veterans CoC Name Homeless Veterans
+
+Major City CoCs Other Largely Urban CoCs
+
+Los Angeles City & County, CA 3,681 St. Petersburg, Clearwater, Largo/Pinellas County, FL 265
+
+San Diego City and County, CA 940 Eugene, Springfield/Lane County, OR 167
+
+Seattle/King County, WA 813 Reno, Sparks/Washoe County, NV 158
+
+Las Vegas/Clark County, NV 734 St. Louis City, MO 143
+
+Oakland, Berkeley/Alameda County, CA 722 Spokane City & County, WA 143
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Honolulu City and County, HI 353 Texas Balance of State 555
+
+Santa Ana, Anaheim/Orange County, CA 342 Washington Balance of State 394
+
+San Bernardino City & County, CA 234 Oregon Balance of State 329
+
+Riverside City & County, CA 233 Indiana Balance of State 309
+
+Chester County, PA 222 Georgia Balance of State 295
+
+62
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 5.12: CoCs with the Highest Percentages of Homeless Veterans who were Unsheltered By CoC Category, 2020
+
+Percent who were Unsheltered
+
+Percent who were Unsheltered
+
+CoC Name Homeless Veterans
+
+CoC Name Homeless Veterans
+
+Major City CoCs Other Largely Urban CoCs
+
+Los Angeles City & County, CA 3,681 76.2% Oxnard, San Buenaventura/ Ventura County, CA 117 80.3%
+
+Sacramento City & County, CA 646 75.5% Eugene, Springfield/Lane County, OR 167 67.7%
+
+Oakland, Berkeley/Alameda County, CA 722 75.5% Santa Rosa, Petaluma/ Sonoma County, CA 139 66.2%
+
+Fresno City & County/Madera County, CA 377 74.8% Bakersfield/Kern County, CA 108 49.1%
+
+San Jose/Santa Clara City & County, CA 613 72.6% Little Rock/Central Arkansas 121 46.3%
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Imperial County, CA 112 98.2% New Mexico Balance of State 109 75.2%
+
+San Luis Obispo County, CA 145 95.9% Hawaii Balance of State 132 74.2%
+
+Vallejo/Solano County, CA 135 87.4% Georgia Balance of State 295 70.2%
+
+Santa Maria/Santa Barbara County, CA 210 81.0% Texas Balance of State 555 67.7%
+
+Watsonville/Santa Cruz City & County, CA 159 80.5% Oregon Balance of State 329 63.5%
+
+EXHIBIT 5.13: Change in Veteran Homelessness By Sheltered Status and CoC Category, 2019–2020
+
+All Homeless Veterans Sheltered Homeless Veterans
+
+Unsheltered Homeless Veterans
+
+% # %
+
+Total (excluding U.S. territories) 166 0.4% -691 -3.0% 857 6.0%
+
+Major City CoCs 116 0.6% -297 -2.9% 413 5.3%
+
+Other Largely Urban CoCs -50 -1.6% -77 -3.4% 27 3.0%
+
+Largely Suburban CoCs 0 0.0% -164 -2.6% 164 5.2%
+
+Largely Rural CoCs 100 1.6% -153 -4.0% 253 10.4%
+
+63
+
+1
+
+Chronically Homeless Individuals National Estimates 6
+
+National Estimates Homelessness in the United States 6
+
+National Estimates Chronically Homeless Individuals
+
+Data source: PIT 2007–2020
+
+EXHIBIT 6.1: PIT Estimates of Chronically Homeless Individuals By Sheltered Status, 2007–2020
+
+On a Single Night in January 2020
+
+• 110,528 people experiencing homelessness as individuals in January 2020 were reported to have chronic patterns of homelessness, just over one-quarter of all homeless individuals. This is the first time since 2011 that the number of people with chronic patterns of homelessness exceeded 100,000.
+
+• Two thirds of individuals with chronic patterns of homelessness were counted in unsheltered locations (66% or 73,417 people), a higher unsheltered rate than for all individuals (51%).
+
+Changes over Time
+
+• The number of individuals with chronic patterns of homelessness increased for the
+
+EXHIBIT 6.2: Change in Numbers of Chronically Homeless Individuals By Sheltered Status, 2007–2020
+
+Change 2018–2019 Change 2010–2019 Change 2007–2019
+
+# % # % # %
+
+Total Chronically Homeless Individuals
+
+14,387 15.0% 4,466 4.2% -9,285 -7.7%
+
+Sheltered Chronically Homeless Individuals
+
+1,911 5.4% -6,218 -14.4% -4,657 -11.1%
+
+12,476 20.5% 10,684 17.0% -4,628 -5.9%
+
+Unsheltered Chronically Homeless Individuals
+
+64
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+fourth consecutive year. The increase between 2019 and 2020 was 14,387 people, or fifteen percent.
+
+• This most recent increase was driven by increases among the unsheltered population (21% or 12,476 more people).
+
+• The 15 percent increase in individuals with chronic patterns of homelessness between 2019 and 2020 was greater than for all individuals experiencing homelessness, three percent.
+
+• Over the longer period, 2007 to 2020, the number of individuals experiencing chronic homelessness dropped by eight percent
+
+(9,285 fewer people). However, the number of chronically homeless individuals in 2020 is the highest recorded since 2009 and the third highest number since 2008 (120,115 individuals) and 2007 (119,813 individuals).
+
+• The share of all individuals experiencing homelessness who had chronic patterns of homelessness declined from 29 percent of all individuals experiencing homelessness in 2007 to a low of 22 percent in 2016. Since that time, the share of individuals with chronic patterns of homelessness has risen steadily and was 27 percent in 2020.
+
+65
+
+1
+
+National Estimates Homelessness in the United States 6
+
+State Estimates Chronically Homeless Individuals
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 6.3: Estimates of Chronically Homeless Individuals By State, 2020
+
+District of Columbia also had a high rate (34%).
+
+On a Single Night in January 2020
+
+• Four of every 10 individuals with chronic patterns of homelessness in the United States were in California (48,812 people). Among those who were unsheltered, more than half (56%) were in California.
+
+• In ten states, more than two-thirds of chronically homeless individuals were staying in unsheltered locations: California (84%), Arkansas (78%), Hawaii (78%), Oregon (77%), Montana (76%), Mississippi (75%), Arizona (74%), Wyoming (70%), Texas (70%), Florida (69%), and Georgia (68%).
+
+• The extent to which individuals experiencing homelessness have chronic patterns varies by state. The highest rate was in New Mexico where over half of individuals experiencing homelessness had chronic patterns (51%). Other states with chronic patterns higher than the national average of 27 percent of all individuals were: Colorado (37%), Washington (37%), California (36%), Oregon (34%), New Hampshire (34%), and Oklahoma (34%). The
+
+Changes over Time
+
+• Thirty-six states experienced an increase in the number of individuals with chronic patterns of homelessness between 2019 and
+
+2020. California had the largest increase by far: in 2020, 9,537 more chronically homeless individuals were counted than in 2019. The next largest absolute increase was in Washington, where 1,497 more chronically homeless individuals were counted than in
+
+2019. Nevada had the largest percentage increase (96%, or 652 individuals), followed by New Hampshire (87%, or 164 more individuals).
+
+• Fourteen states and the District of Columbia experienced a decrease in the number of individuals with chronic patterns of homelessness between 2019 and 2020. The largest absolute decreases occurred in Florida, where 531 fewer people were chronically homeless in 2020 than in 2019 and Oregon, with 486 fewer people. The largest percentage
+
+66
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 6.4: States with the Highest and Lowest Percentages of Chronically Homeless Individuals who were Unsheltered 2020
+
+EXHIBIT 6.5: Largest Changes in Chronically Homeless Individuals By State, 2007–2020
+
+2019–2020 2007–2020
+
+Largest Increases
+
+CALIFORNIA 9,537 / 24.3% CALIFORNIA 8,471 / 21.0%
+
+WASHINGTON 1,497 / 33.7% WASHINGTON 3,340 / 128.3%
+
+COLORADO 728 / 34.6% OREGON 1,294 / 45.7%
+
+NEVADA 652 / 96.0% HAWAII 749 / 96.3%
+
+ILLINOIS 525 / 34.2% NEW MEXICO 585 / 82.3%
+
+2019–2020 2007–2020
+
+Largest Decreases
+
+FLORIDA -531 / -10.2% TEXAS -4,069 / -51.3%
+
+OREGON -486 / -10.5% FLORIDA -2,813 / -37.7%
+
+ARKANSAS -190 / -28.1% TENNESSEE -1,675 / -60.5%
+
+OHIO -107 / -13.3% OHIO -1,608 / -69.7%
+
+IDAHO -87 / -24.4% MASSACHUSETTS -1,331 / -47.7%
+
+67
+
+1
+
+National Estimates Homelessness in the United States 6
+
+State Estimates Chronically Homeless Individuals
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+decreases were in Mississippi (36%) and Arkansas (28%).
+
+• Between 2007 and 2020, 27 states and the District of Columbia recorded decreases in chronic homelessness, 10 states fewer than in the time between 2007 and 2019. Texas experienced the largest decline in the number of chronically homeless individuals, with 4,069 fewer chronically homeless individuals counted in 2020 than in 2007. Florida had the next absolute largest decline, with 2,813 fewer chronically homeless individuals. West Virginia and Connecticut had the largest percentage declines (86% and 83%) over this longer period.
+
+• Of the 23 states that experienced increases in the number of individuals with chronic patterns of homelessness between 2007 and 2020, the largest absolute increase occurred in California, with 8,471 more chronically homeless individuals in 2020 than in 2007. Other states with large absolute increases were Washington (3,340 more chronically homeless individuals) and Oregon (1,294). In six states, the number of chronically homeless individuals has more than doubled over the longer period: Idaho (183% more individuals with chronic patterns of homelessness), Montana (146%), Maine (135%), Washington (128%), Kansas (126%), and Wyoming (113%).
+
+68
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+69
+
+1
+
+6
+
+National Estimates Homelessness in the United States
+
+Estimates by CoC Chronically Homeless Individuals
+
+Data source: PIT 2007-2020, Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 6.6: Individuals with Chronic Patterns of Homelessness By CoC Category and Sheltered Status, 2020
+
+Continuums of Care (CoC) were divided into four geographic categories
+
+1. Major city CoCs (n=48) are CoCs that contain one of the 50 largest cities in the United States. In two cases, Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX, two of the largest U.S. cities are located in the same CoC.
+
+2. Other largely urban CoCs (n=59) are CoCs in which the population lives predominately in an urbanized area within the CoC’s principal city or cities, but the CoCs does not include one of the nation’s 50 largest cities.
+
+3. Largely suburban CoCs (n=171) are CoCs in which the population lives predominantly in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+EXHIBIT 6.7: Sheltered vs. Unsheltered Individuals with Chronic Patterns of Homelessness By CoC Category, 2020
+
+4. Largely rural CoCs (n=109) are CoCs in which the population lives predominantly in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural areas.
+
+Note: These definitions have been adapted from definitions used by the U.S. Department of Education’s National Center for Education Statistics to characterize the locations of schools. For detailed information on how they were applied to CoCs, see the About the Report section of this report.
+
+On a Single Night in January 2020
+
+• More than half (57%) of individuals with chronic patterns of homelessness were counted in CoCs that include one of the nation’s 50 largest cities, 52 percent of all those in sheltered locations and 59 percent of those who were unsheltered.
+
+• Chronic homelessness is more concentrated in the nation’s largest cities than individual homelessness overall, with 52 percent of all people experiencing homelessness as individuals found in major city CoCs and 54 percent of those in unsheltered locations.
+
+• Largely rural CoCs had a smaller share of individuals with chronic patterns of homelessness than of all individuals experiencing homelessness, 14 vs. 18 percent.
+
+• Los Angeles had, by far, the largest number of individuals with chronic patterns of homelessness in the country (23,075 people or 21% of the national total). New York City had the second largest number of chronically homeless individuals, 5,524 people (or 5% of the total). In Los Angeles, more than 9 in 10 chronically homeless individuals are unsheltered, while in New York City only about a quarter (24%) are unsheltered.
+
+70
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 6.8: CoCs with the Largest Numbers of Chronically Homeless Individuals By CoC Category, 2020
+
+Chronically Homeless Individuals
+
+Chronically Homeless Individuals
+
+CoC Name
+
+CoC Name
+
+Major City CoCs Other Largely Urban CoCs
+
+Los Angeles City & County, CA 23,075 St. Petersburg, Clearwater, Largo/Pinellas County, FL 572
+
+New York City 5,524 Eugene, Springfield/Lane County, OR 519
+
+Seattle/King County, WA 2,847 Santa Rosa, Petaluma/Sonoma County, CA 518
+
+San Francisco, CA 2,754 Spokane City & County, WA 464
+
+San Jose/Santa Clara City & County, CA 2,381 Oxnard, San Buenaventura/Ventura County, CA 419
+
+Largely Suburban CoCs Largely Rural CoCs
+
+Santa Ana, Anaheim/Orange County, CA 2,739 Washington Balance of State 1,367
+
+Riverside City & County, CA 989 Texas Balance of State 1,089
+
+Honolulu City and County, HI 896 Oregon Balance of State 1,045
+
+San Bernardino City & County, CA 750 New Mexico Balance of State 765
+
+Stockton/San Joaquin County, CA 734 Hawaii Balance of State 631
+
+• Urban CoCs without one of the nation’s largest cities had the lowest unsheltered rate of the four types of CoCs, 54 percent. In the three other types of CoCs, roughly twothirds of individuals with chronic patterns of homelessness are unsheltered.
+
+• In the largely suburban CoC of Massachusetts Balance of State and the largely rural CoC of Indiana Balance of State, no individuals found in unsheltered locations had chronic patterns or homelessness..
+
+• While major cities in California were among those with high unsheltered rates for individuals with chronic patterns of homelessness, Columbus OH and Houston TX also had unsheltered rates greater than 80 percent. For Columbus, the overall number of individuals with chronic patterns of homelessness was not large, 177 people.
+
+Changes over Time by CoC Category
+
+• Major city CoCs experienced the largest increase in individuals with chronic patterns of homelessness between 2019 and 2020 (10,938 more people or 21%). Most of this increase (10,438 more people) was among unsheltered chronically homeless individuals.
+
+• In 2020, the number of unsheltered chronically homeless individuals in major cities was the highest number recorded since data collection started in 2007, with 42,843 individuals.
+
+• Largely suburban CoCs had the second largest increase (2,641 more individuals with chronic patterns or 12%). This increase was driven by rises in both sheltered and unsheltered individuals (1,027 more sheltered and 1,614 more unsheltered).
+
+• The number of individuals with chronic patterns of homelessness who were in shelters during the point-in-time count increased in
+
+71
+
+1
+
+National Estimates Homelessness in the United States 6
+
+Estimates by CoC Chronically Homeless Individuals
+
+Data source: PIT 2007-2020; Excludes Puerto Rico and U.S. territories
+
+EXHIBIT 6.9: CoCs with the Highest Percentages of Chronically Homeless Individuals who were Unsheltered By CoC Category, 2020
+
+Chronically Homeless Individuals
+
+Percent who were Unsheltered
+
+Chronically Homeless Individuals
+
+Percent who were Unsheltered
+
+CoC Name
+
+CoC Name
+
+Major City CoCs Other Largely Urban CoCs
+
+Los Angeles City & County, CA 23,075 92.2% Oxnard, San Buenaventura/ Ventura County, CA 419 81.6%
+
+Long Beach, CA 646 88.5% Little Rock/Central Arkansas 272 80.9%
+
+San Jose/Santa Clara City & County, CA 2,381 85.5% Savannah/Chatham County, GA 286 76.9%
+
+Columbus/Franklin County, OH 177 83.6% Eugene, Springfield/Lane County, OR 519 76.5%
+
+Houston, Pasadena, Conroe/ Harris, Ft. Bend, Montgomery, Counties, TX
+
+780 82.7% Napa City & County, CA 200 74.0%
+
+Suburban CoCs Rural
+
+Palm Bay, Melbourne/Brevard County, FL 231 98.7% Amador, Calaveras, Mariposa, Tuolumne Counties, CA 220 99.1%
+
+Visalia/Kings, Tulare Counties, CA 513 98.6% Arkansas Balance of State 126 96.0%
+
+El Dorado County, CA 107 98.1% Gainesville/Alachua, Putnam Counties, FL 203 93.1%
+
+Imperial Count, CA 708 97.2% Salinas/Monterey, San Benito Counties, CA 574 92.9%
+
+Clackamas County, OR 137 94.9% Myrtle Beach, Sumter City & County, SC 149 91.3%
+
+every CoC category between 2019 and 2020, with largely suburban CoCs seeing the largest increase, 13 percent.
+
+In 2020, 27 percent of individuals experiencing homelessness had chronic patterns of homelessness.
+
+72
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 6.10: Individuals with and without Chronic Patterns of Homelessness in Major City CoCs 2007–2020
+
+EXHIBIT 6.11: Change in Numbers of Chronically Homeless Individuals By Sheltered Status and CoC Category, 2019–2020
+
+All Chronically Homeless Individuals
+
+Sheltered Chronically Homeless Individuals
+
+Unsheltered Chronically Homeless Individuals
+
+# % # % # %
+
+Total 14,416 15.1% 1,943 5.5% 12,473 20.7%
+
+Major Cities 10,938 21.3% 500 2.7% 10,438 32.2%
+
+Other Largely Urban CoCs 155 2.1% 84 2.5% 71 1.8%
+
+Largely Suburban CoCs 2,641 11.9% 1,027 13.0% 1,614 11.3%
+
+Largely Rural CoCs 682 4.7% 332 6.8% 350 3.7%
+
+73
+
+7
+
+National Estimates Homelessness in the United States 7
+
+1
+
+Inventory of Beds in the United States
+
+Inventory of Beds in the United States
+
+Data source: HIC 2007–2020
+
+EXHIBIT 7.1: Project Types for Homeless and Formerly Homeless People
+
+SHELTER FOR HOMELESS PEOPLE Emergency Shelter (ES): provides temporary or nightly shelter beds to people experiencing homelessness Transitional Housing (TH): provides homeless people with up to 24 months of shelter and supportive services Safe Haven (SH): provides temporary shelter and services to hard-to-serve individuals
+
+PERMANENT HOUSING FOR FORMERLY HOMELESS PEOPLE Rapid Rehousing (RRH): provides short-term rental assistance and stabilizing services to formerly homeless people Permanent Supportive Housing (PSH): provides long-term housing with supportive services for formerly homeless people with disabilities, and often those with chronic patterns of homelessness Other Permanent Housing (OPH): provides housing with or without services that is specifically for formerly homeless people but that does not require people to have a disability
+
+Types of Programs in the National Inventory Communities across the country submit data each year on their residential programs for people experiencing homelessness and their programs that help people leave homelessness. The two basic types of programs are those that provide shelter and temporary accommodations (emergency shelter, transitional housing, and safe havens), and those that provide permanent housing (rapid rehousing, permanent supportive housing, and other permanent housing).
+
+EXHIBIT 7.2: Distribution of Bed Inventory By Type, 2020
+
+1. Shelter is intended to serve people currently experiencing homelessness and is comprised of two main types of programs, emergency shelters (ES) and transitional housing programs (TH). Conceptually, ES is shorter-term and provides less intensive services than TH.5 Shelter also includes a small number of programs for hard-to-serve individuals called safe havens (SH).
+
+Note: a small percentage of safe haven beds (0.3%) are in the national inventory, but not included in the exhibit.
+
+2. Permanent housing is intended to serve people who were homeless at the time they were admitted to a program. Once they enter the program, they are in housing that is permanent in the sense that they have a lease (or similar agreement) and may be able to stay in the same housing unit long-term. This category includes rapid rehousing (RRH), a short-term subsidy in which the individual or family may be able to remain after the subsidy ends; permanent supportive housing (PSH),
+
+5 Some transitional housing programs provide housing in which the individual or family may be able to stay after the transitional period with intensive services ends (sometimes called “transition-in-place”), and some emergency shelters have intensive services. Communities decide how to categorize their programs when reporting data to HUD.
+
+74
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 7.3: Inventory of Beds for Homeless and Formerly Homeless People 2007–2020
+
+Note: The small share of Safe Haven beds (0.3%) is not included in this exhibit.
+
+housing with supportive services for formerly homeless people with disabilities; and other permanent housing (OPH), which also is intended for people leaving homelessness but is not restricted to people with disabilities.
+
+formerly homeless people, and somewhat less than half, 42 percent, provided shelter for people currently experiencing homelessness.
+
+• Of the 396,149 beds for people currently experiencing homelessness, 76 percent were in emergency shelters, and 23 percent were in transitional housing programs. Less than one percent (0.6%) were provided through safe havens.
+
+• Of the 545,722 beds in programs that help people leave homelessness, 68 percent were in permanent supportive housing, 23 percent were in rapid re-housing programs, and nine percent were in other permanent housing.
+
+The National Inventory as of January 2020
+
+• A total of 941,871 beds were dedicated to serving homeless or formerly homeless people in communities across the nation.
+
+• Somewhat more than half of the beds, 58 percent, were for permanent housing for
+
+75
+
+National Estimates Homelessness in the United States 7
+
+1
+
+Inventory of Beds in the United States
+
+Data source: HIC 2007–2020
+
+EXHIBIT 7.4: Change in National Inventory of Beds for Homeless Shelter and Permanent Housing Projects 2007-2020
+
+Change 2019-2020 Change 2007-2020
+
+# % # %
+
+Total Beds 30,214 3.3% 330,579 54.1%
+
+Emergency Shelter 9,752 3.3% 90,138 42.6%
+
+Transitional Housing -3,188 -3.3% -118,947 -56.3%
+
+Safe Haven 36 1.6%
+
+Rapid Rehousing 9,854 8.7%
+
+Permanent Supportive Housing 3,737 1.0% 184,394 97.8%
+
+Other Permanent Housing 10,023 25.1%
+
+decrease was in transitional housing, with 115,759 fewer beds in 2020 than in 2007, a 56 percent decrease. The number of beds in emergency shelter rose by 43 percent or 90,138 beds.
+
+• Communities began reporting data on rapid rehousing programs in 2013, when rapid rehousing was a relatively new program model. Since that time, the number of beds in rapid rehousing increased almost fivefold and reached almost 123,000 beds.
+
+Changes to the National Inventory, 2007-2020
+
+• Much of the growth in the national inventory has been in permanent supportive housing for formerly homeless people, with the number of beds in 2020 nearly double the number in 2007, 184,394 more beds.
+
+• During the same period, the number of beds in emergency shelters or transitional housing programs dropped by eight percent. All of the
+
+Recent Changes to the National Inventory
+
+• Permanent supportive housing continued to grow between 2019 and 2020, but only by one percent or 3,737 beds. Other permanent
+
+EXHIBIT 7.5: Inventory of Beds By Household Type, 2020
+
+Beds for Adult-Only Households
+
+Beds for People in Families
+
+Beds for Child-Only Households
+
+Total Year-Round Beds
+
+# % # % # % # %
+
+Emergency Shelter 153,095 50.8% 146,083 48.4% 2,411 0.8% 301,589 100.0%
+
+Transitional Housing 48,311 52.4% 43,324 47.0% 623 0.7% 92,258 100.0%
+
+Safe Haven 2,282 99.8% 5 0.2% 2,187 100.0%
+
+Rapid Rehousing 34,703 28.3% 88,049 71.7% 63 0.1% 122,815 100.0%
+
+Permanent Supportive Housing 244,812 65.6% 128,076 34.3% 142 0.0% 373,030 100.0%
+
+Other Permanent Housing 21,273 42.7% 28,547 57.2% 57 0.1% 49,877 100.0%
+
+Total Beds 504,476 53.6% 434,079 46.1% 3,301 0.4% 941,871 100.0%
+
+76
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+EXHIBIT 7.6: Inventory of Beds Dedicated to Speciﬁc Populations 2020
+
+Beds Dedicated to People with Chronic Patterns of Homelessness
+
+Beds Dedicated to Veterans
+
+Beds Dedicated to Youth*
+
+Bed Type Total Beds
+
+# % # % # %
+
+Emergency Shelter 301,589 4,209 1.4% 6,276 2.1%
+
+Transitional Housing 92,258 12,538 13.6% 9,499 10.3%
+
+Safe Haven 2,302 1,211 52.6% 29 1.3%
+
+Rapid Rehousing 122,815 13,152 10.7% 5,510 4.5%
+
+Permanent Supportive Housing 373,030 179,569 48.1% 105,841 28.4% 5,179 1.1%
+
+Other Permanent Housing 49,877 1,607 3.2% 751 1.5%
+
+Total Beds 941,871 179,569 19.1% 138,558 14.7% 27,244 2.9%
+
+housing saw a more marked increase in the most recent year, growing by 25 percent or more than 10,000 beds.
+
+• Emergency shelter beds also continued to increase between 2019 and 2020, while beds in transitional housing programs continued to drop, by more than 3,000 beds or three percent.
+
+• Rapid rehousing also continued to grow between 2019 and 2020, by nine percent, or almost 10,000 beds.
+
+percent to families. Less than 1 percent were for child-only households.
+
+• While rapid re-housing was originally designed as an intervention for families experiencing homelessness, it has increasingly been used by communities to provide permanent housing to individuals as well. As of 2020, almost threequarters (72%) of rapid re-housing beds were targeted to people in families, and more than a quarter (28%) of beds were for individuals. Individuals usually are homeless on their own, while rapid re-housing for families requires multiple beds, so the share of rapid re-housing units for individuals is greater.
+
+• Two-thirds of permanent supportive housing beds were for individuals. Individuals were more likely to have had chronic patterns of homelessness in 2020 (27% of individuals compared to 6% of families). However, about a third of PSH beds (34%) are targeted to families. Again, it is important to keep in mind the distinction between beds and housing units.
+
+• The percentage of other permanent housing— beds without a restriction to people with disabilities—reported by communities to be for families is even higher, 57 percent.
+
+Beds Serving Individuals and Families in 2020 Just as this report has separate sections on families (households with at least one adult and one child under 18) and on individuals (homeless people who are not part of a family), communities report on their program inventory in those categories.
+
+• Emergency shelter beds were about evenly split between beds intended for families (48%) and beds for people experiencing homelessness as individuals (51%). Less than one percent were for people experiencing homelessness as children under 18 without a parent present.
+
+• Similarly, 52 percent of transitional housing beds were targeted to individuals and 47
+
+77
+
+National Estimates Homelessness in the United States 7
+
+1
+
+Inventory of Beds in the United States
+
+Data source: HIC 2007–2020
+
+EXHIBIT 7.7: Inventory of PSH Beds for Chronically Homeless People 2007-2020
+
+Beds Targeted to Veterans and Youth
+
+• Fifteen percent of all beds in the national inventory (138,558 beds in total) were dedicated to veterans experiencing homelessness and their family members. More than three in four beds for veterans (76%) were in permanent supportive housing projects. Although the number of safe haven beds was small (2,302 beds in total), more than half were dedicated to veterans.
+
+• In 2020, 27,244 beds were for unaccompanied youth or for families with young parents (all members of the household are under the age of 25). Of these beds, 58 percent were for youth currently experiencing homelessness, with 35 percent in transitional housing projects and 23 percent in emergency shelters. Overall, beds targeted to youth represented only three percent of the total inventory of beds available for people experiencing homelessness.
+
+• The total number of beds dedicated to veterans continued to increase between 2019 and 2020 across all project types, by 3,982 beds overall or three percent. The total number of beds for youth also increased, by 3,534 beds. In this case, the percentage increase was substantial, 15 percent.
+
+Beds Targeted to Individuals with Chronic Patterns of Homelessness
+
+• Permanent supportive housing programs may dedicate all or a portion of their beds to people with chronic patterns of homelessness, and (if funded by the federal government) must serve people with disabilities. In 2020, 48 percent of beds in PSH programs (179,569 of the 373,030 total beds) were for people experiencing chronic homelessness.
+
+• The number of PSH beds for people with chronic patterns of homelessness was 4 times greater in 2020 than in 2007, when these data were first collected (a 375% increase).
+
+EXHIBIT 7.8: Distribution of Beds By Type and CoC Category, 2020*
+
+78
+
+The 2020 Annual Homeless Assessment Report to Congress: Part 1
+
+beds, accounting for 28 percent of bed for people experiencing homelessness and 72 percent were emergency shelter beds.
+
+• Across all CoC categories, permanent supportive housing was the dominant type of permanent housing for formerly homeless people. Major cities and other urban areas had the highest percentage of PSH beds among permanent housing inventory, both with 71 percent.
+
+• Rapid re-housing beds were a relatively larger share of permanent housing beds in rural CoCs than across all categories of CoCs (35% vs. 22%), RRH also comprises a relatively large share of the total inventory of residential programs for current and formerly homeless people in rural areas, 18 percent compared to 13 percent across all geographic categories of CoCs.
+
+Beds by CoC Category, 2020
+
+Continuums of Care (CoC) were divided into four geographic categories
+
+1. Major city CoCs (n=48) are CoCs that contain one of the 50 largest cities in the United States. In two cases, Phoenix and Mesa, AZ, and Arlington and Fort Worth, TX, two of the largest U.S. cities are located in the same CoC.
+
+2. Other largely urban CoCs (n=59) are CoCs in which the population lives predominately in an urbanized area within the CoC’s principal city or cities, but the CoCs does not include one of the nation’s 50 largest cities.
+
+3. Largely suburban CoCs (n=171) are CoCs in which the population lives predominantly in suburban areas, defined as urbanized areas outside of a principal city or urban clusters within 10 miles of urbanized areas.
+
+4. Largely rural CoCs (n=109) are CoCs in which the population lives predominantly in urban clusters that are more than 10 miles from an urbanized area or in Census-defined rural areas.
+
+Note: These definitions have been adapted from definitions used by the U.S. Department of Education’s National Center for Education Statistics to characterize the locations of schools. For detailed information on how they were applied to CoCs, see the About the Report section of this report.
+
+• The distribution of beds for people currently experiencing homelessness varies modestly across categories of CoCs. All types of communities had many more emergency shelter beds than transitional housing beds in 2020. The difference was greatest in major city CoCs, where 81 percent of beds for people experiencing homelessness were in emergency shelters, and only 19 percent in transitional housing programs. Largely rural CoCs had the highest percentage of transitional housing
+
+79
+
+Appendix
+
+Appendix
+
+ALABAMA
+
+Estimates of Homelessness
+
+2,497
+
+individuals
+
+people in families with children 854
+
+unaccompanied homeless youth 175
+
+veterans 329
+
+chronically homeless individuals 483
+
+ALASKA
+
+Estimates of Homelessness
+
+1,445
+
+individuals
+
+people in families with children 504
+
+unaccompanied homeless youth 188
+
+veterans 94
+
+chronically homeless individuals 327
+
+ARIZONA
+
+Estimates of Homelessness
+
+8,280
+
+individuals
+
+people in families with children 2,699
+
+unaccompanied homeless youth 633
+
+veterans 921
+
+chronically homeless individuals 1,959
+
+10,979
+
+80
+
+Appendix
+
+ARKANSAS
+
+Estimates of Homelessness
+
+2,073
+
+individuals
+
+people in families with children 293
+
+unaccompanied homeless youth 262
+
+veterans 188
+
+chronically homeless individuals 486
+
+CALIFORNIA
+
+Estimates of Homelessness
+
+135,771
+
+individuals
+
+people in families with children 25,777
+
+unaccompanied homeless youth 12,172
+
+veterans 11,401
+
+chronically homeless individuals 48,812
+
+COLORADO
+
+Estimates of Homelessness
+
+7,579
+
+individuals
+
+people in families with children 2,267
+
+unaccompanied homeless youth 562
+
+veterans 1,044
+
+chronically homeless individuals 2,834
+
+81
+
+Appendix
+
+CONNECTICUT
+
+Estimates of Homelessness
+
+1,973
+
+individuals
+
+people in families with children 932
+
+unaccompanied homeless youth 148
+
+veterans 199
+
+chronically homeless individuals 171
+
+DELAWARE
+
+Estimates of Homelessness
+
+737
+
+individuals
+
+people in families with children 428
+
+unaccompanied homeless youth 43
+
+veterans 78
+
+chronically homeless individuals 215
+
+DISTRICT OF COLUMBIA
+
+Estimates of Homelessness
+
+3,949
+
+individuals
+
+people in families with children 2,431
+
+unaccompanied homeless youth 253
+
+veterans 302
+
+chronically homeless individuals 1,337
+
+82
+
+Appendix
+
+FLORIDA
+
+Estimates of Homelessness
+
+20,344
+
+individuals
+
+people in families with children 7,143
+
+unaccompanied homeless youth 1,331
+
+veterans 2,436
+
+chronically homeless individuals 4,650
+
+GEORGIA
+
+Estimates of Homelessness
+
+7,696
+
+individuals
+
+people in families with children 2,538
+
+unaccompanied homeless youth 504
+
+veterans 764
+
+chronically homeless individuals 1,305
+
+HAWAII
+
+Estimates of Homelessness
+
+4,568
+
+individuals
+
+people in families with children 1,890
+
+unaccompanied homeless youth 299
+
+veterans 485
+
+chronically homeless individuals 1,527
+
+83
+
+Appendix
+
+IDAHO
+
+Estimates of Homelessness
+
+1,320
+
+individuals
+
+people in families with children 995
+
+unaccompanied homeless youth 90
+
+veterans 178
+
+chronically homeless individuals 269
+
+ILLINOIS
+
+Estimates of Homelessness
+
+6,995
+
+individuals
+
+people in families with children 3,436
+
+unaccompanied homeless youth 671
+
+veterans 736
+
+chronically homeless individuals 2,058
+
+INDIANA
+
+Estimates of Homelessness
+
+4,117
+
+individuals
+
+people in families with children 1,508
+
+unaccompanied homeless youth 266
+
+veterans 530
+
+chronically homeless individuals 370
+
+84
+
+Appendix
+
+IOWA
+
+Estimates of Homelessness
+
+1,852
+
+individuals
+
+people in families with children 795
+
+unaccompanied homeless youth 141
+
+veterans 154
+
+chronically homeless individuals 335
+
+KANSAS
+
+Estimates of Homelessness
+
+1,751
+
+individuals
+
+people in families with children 698
+
+unaccompanied homeless youth 153
+
+veterans 203
+
+chronically homeless individuals 360
+
+KENTUCKY
+
+Estimates of Homelessness
+
+3,116
+
+individuals
+
+people in families with children 895
+
+unaccompanied homeless youth 221
+
+veterans 399
+
+chronically homeless individuals 629
+
+85
+
+Appendix
+
+LOUISIANA
+
+Estimates of Homelessness
+
+2,591
+
+individuals
+
+people in families with children 582
+
+unaccompanied homeless youth 246
+
+veterans 378
+
+chronically homeless individuals 405
+
+MAINE
+
+Estimates of Homelessness
+
+1,289
+
+individuals
+
+people in families with children 808
+
+unaccompanied homeless youth 139
+
+veterans 103
+
+chronically homeless individuals 228
+
+MARYLAND
+
+Estimates of Homelessness
+
+4,430
+
+individuals
+
+people in families with children 1,930
+
+unaccompanied homeless youth 227
+
+veterans 464
+
+chronically homeless individuals 1,203
+
+86
+
+Appendix
+
+MASSACHUSETTS
+
+Estimates of Homelessness
+
+6,233
+
+individuals
+
+people in families with children 11,742
+
+unaccompanied homeless youth 481
+
+veterans 836
+
+chronically homeless individuals 1,459
+
+MICHIGAN
+
+Estimates of Homelessness
+
+5,267
+
+individuals
+
+people in families with children 3,371
+
+unaccompanied homeless youth 484
+
+veterans 639
+
+chronically homeless individuals 947
+
+MINNESOTA
+
+Estimates of Homelessness
+
+4,726
+
+individuals
+
+people in families with children 3,214
+
+unaccompanied homeless youth 746
+
+veterans 315
+
+chronically homeless individuals 1,504
+
+87
+
+Appendix
+
+MISSISSIPPI
+
+Estimates of Homelessness
+
+853
+
+individuals
+
+people in families with children 254
+
+unaccompanied homeless youth 51
+
+veterans 68
+
+chronically homeless individuals 139
+
+MISSOURI
+
+Estimates of Homelessness
+
+4,416
+
+individuals
+
+people in families with children 2,111
+
+unaccompanied homeless youth 664
+
+veterans 453
+
+chronically homeless individuals 909
+
+6,527
+
+MONTANA
+
+Estimates of Homelessness
+
+996
+
+individuals
+
+people in families with children 549
+
+unaccompanied homeless youth 79
+
+veterans 165
+
+chronically homeless individuals 204
+
+88
+
+Appendix
+
+NEBRASKA
+
+Estimates of Homelessness
+
+1,722
+
+individuals
+
+people in families with children 682
+
+unaccompanied homeless youth 149
+
+veterans 153
+
+chronically homeless individuals 406
+
+NEVADA
+
+Estimates of Homelessness
+
+6,381
+
+individuals
+
+people in families with children 519
+
+unaccompanied homeless youth 570
+
+veterans 924
+
+chronically homeless individuals 1,331
+
+NEW HAMPSHIRE
+
+Estimates of Homelessness
+
+1,023
+
+individuals
+
+people in families with children 652
+
+unaccompanied homeless youth 65
+
+veterans 116
+
+chronically homeless individuals 352
+
+89
+
+Appendix
+
+NEW JERSEY
+
+Estimates of Homelessness
+
+6,413
+
+individuals
+
+people in families with children 3,249
+
+unaccompanied homeless youth 514
+
+veterans 595
+
+chronically homeless individuals 1,603
+
+NEW MEXICO
+
+Estimates of Homelessness
+
+2,555
+
+individuals
+
+people in families with children 778
+
+unaccompanied homeless youth 215
+
+veterans 252
+
+chronically homeless individuals 1,296
+
+NEW YORK
+
+Estimates of Homelessness
+
+43,283
+
+individuals
+
+people in families with children 47,988
+
+unaccompanied homeless youth 3,072
+
+veterans 1,251
+
+chronically homeless individuals 6,427
+
+90
+
+Appendix
+
+NORTH CAROLINA
+
+Estimates of Homelessness
+
+6,756
+
+individuals
+
+people in families with children 2,524
+
+unaccompanied homeless youth 485
+
+veterans 798
+
+chronically homeless individuals 1,174
+
+NORTH DAKOTA
+
+Estimates of Homelessness
+
+371
+
+individuals
+
+people in families with children 170
+
+unaccompanied homeless youth 35
+
+veterans 49
+
+chronically homeless individuals 87
+
+OHIO
+
+Estimates of Homelessness
+
+7,636
+
+individuals
+
+people in families with children 3,019
+
+unaccompanied homeless youth 736
+
+veterans 730
+
+chronically homeless individuals 700
+
+91
+
+Appendix
+
+OKLAHOMA
+
+Estimates of Homelessness
+
+3,162
+
+individuals
+
+people in families with children 770
+
+unaccompanied homeless youth 290
+
+veterans 325
+
+chronically homeless individuals 1,083
+
+OREGON
+
+Estimates of Homelessness
+
+11,995
+
+individuals
+
+people in families with children 2,660
+
+unaccompanied homeless youth 1,314
+
+veterans 1,329
+
+chronically homeless individuals 4,123
+
+PENNSYLVANIA
+
+Estimates of Homelessness
+
+8,585
+
+individuals
+
+people in families with children 4,790
+
+unaccompanied homeless youth 716
+
+veterans 977
+
+chronically homeless individuals 1,689
+
+92
+
+Appendix
+
+RHODE ISLAND
+
+Estimates of Homelessness
+
+723
+
+individuals
+
+people in families with children 381
+
+unaccompanied homeless youth 23
+
+veterans 92
+
+chronically homeless individuals 196
+
+SOUTH CAROLINA
+
+Estimates of Homelessness
+
+3,432
+
+individuals
+
+people in families with children 855
+
+unaccompanied homeless youth 202
+
+veterans 428
+
+chronically homeless individuals 819
+
+SOUTH DAKOTA
+
+Estimates of Homelessness
+
+743
+
+individuals
+
+people in families with children 315
+
+unaccompanied homeless youth 67
+
+veterans 43
+
+chronically homeless individuals 119
+
+93
+
+Appendix
+
+TENNESSEE
+
+Estimates of Homelessness
+
+5,673
+
+individuals
+
+people in families with children 1,583
+
+unaccompanied homeless youth 353
+
+veterans 570
+
+chronically homeless individuals 1,092
+
+TEXAS
+
+Estimates of Homelessness
+
+21,115
+
+individuals
+
+people in families with children 6,114
+
+unaccompanied homeless youth 1,408
+
+veterans 1,948
+
+chronically homeless individuals 3,862
+
+UTAH
+
+Estimates of Homelessness
+
+2,150
+
+individuals
+
+people in families with children 981
+
+unaccompanied homeless youth 194
+
+veterans 114
+
+chronically homeless individuals 643
+
+94
+
+Appendix
+
+VERMONT
+
+Estimates of Homelessness
+
+738
+
+individuals
+
+people in families with children 372
+
+unaccompanied homeless youth 99
+
+veterans 71
+
+chronically homeless individuals 165
+
+VIRGINIA
+
+Estimates of Homelessness
+
+3,959
+
+individuals
+
+people in families with children 1,998
+
+unaccompanied homeless youth 234
+
+veterans 395
+
+chronically homeless individuals 775
+
+WASHINGTON
+
+Estimates of Homelessness
+
+16,198
+
+individuals
+
+people in families with children 6,725
+
+unaccompanied homeless youth 1,777
+
+veterans 1,607
+
+chronically homeless individuals 5,943
+
+95
+
+Appendix
+
+WEST VIRGINIA
+
+Estimates of Homelessness
+
+1,156
+
+individuals
+
+people in families with children 185
+
+unaccompanied homeless youth 112
+
+veterans 104
+
+chronically homeless individuals 157
+
+WISCONSIN
+
+Estimates of Homelessness
+
+2,677
+
+individuals
+
+people in families with children 1,838
+
+unaccompanied homeless youth 193
+
+veterans 337
+
+chronically homeless individuals 484
+
+WYOMING
+
+Estimates of Homelessness
+
+427
+
+individuals
+
+people in families with children 185
+
+unaccompanied homeless youth 91
+
+veterans 51
+
+chronically homeless individuals 81
+
+96
+
+The U.S. Department of Housing and Urban Development

@@ -1,0 +1,423 @@
+no_title
+
+RESOLUTION NO. 21-17
+
+A RESOLUTION OF THE CITY OF MALIBU ADOPTING ENGINEERING, DESIGN AND LOCATION STANDARDS, CONDITIONS OF APPROVAL AND BASIC APPLICATION REQUIREMENTS FOR WIRELESS COMMUNICATIONS FACILITIES ON LAND OTHER THAN PUBLIC RIGHT-OF-WAY; AND FINDING THE SAME EXEMPT FROM THE CALIFORNIA ENVIRONMENTAL QUALITY ACT
+
+The City Council of the City of Malibu does hereby find, resolve and order as follows:
+
+SECTION 1. Recitals
+
+A. Malibu Municipal Code (MMC) Chapter 17.46 governs the permitting, installation, and regulation of wireless communications facilities in the City, other than those in the public right-of-way, which are subject to MMC Chapter 12.02.
+
+B. Section 17.46.060(D) provides that “[a]ll applicants shall engineer, design and locate the wireless communications facilities in accordance with the standards and wireless regulations set forth separately though the resolution adopted by the City Council.”
+
+C. Being authorized to do so, the City wishes to establish engineering, design and development standards applicable to wireless installations.
+
+D. The City also wishes to set standard conditions of approval and basic application requirements applicable to wireless permits.
+
+E. On April 12, 2021 the City Council conducted a duly noticed public hearing and received testimony from City staff and all interested parties regarding the and the standards, conditions and requirements.
+
+SECTION 2. Purpose. The purpose of this document is to (1) establish design and location standards (Standards) for wireless communications facilities on land other than public right-ofway; (2) set standard conditions of approval for Wireless Permits (WPs); and (3) set basic application requirements for WPs.
+
+SECTION 3. Definitions. For the purposes of these Standards, the definitions set forth in Malibu Municipal Code (MMC) Section 17.46.040 are incorporated by reference into this Resolution and in addition the following definitions apply:
+
+A. “Park” A parcel, parcels of land or a portion of a parcel intended for active public recreation uses. Parks may include sports fields, playgrounds community buildings and unique or specialized activity areas. Land dedicated for open space and trails are not considered parks for the purposes of this Chapter.
+
+Resolution No. 21-17 Page 2 of 27
+
+B. “Playground” A portion of land used for and equipped with public facilities for recreation specially by children. A playground includes the sand or rubberized floor around the apparatus.
+
+C. “Pole-mounted facility” means a wireless communications facility that is, or is proposed to be, attached to or contained in a pole.
+
+D. “School” any building, campus or sports field which is designed, constructed or used for education, instruction or school sports, whether public or private, in any branch of knowledge.
+
+E. “Stealth facility” (or “stealth facilities”) means a wireless communications facility designed to look like something other than a wireless tower or base station.
+
+SECTION 4. General Standards for all Facilities The following general requirements apply at all times to all wireless communications facilities located in all zoning districts:
+
+A. All wireless communications facilities shall be engineered and designed to minimize the visual impact by means of placement, screening, camouflaging, painting and texturing and to be compatible with existing architectural elements, building materials and other site characteristics. The applicant shall use the smallest and least visible antenna possible to accomplish the facility’s objectives. All antennas and support structures shall be painted and/or textured to achieve architectural compatibility with the structures for which they are attached and/or located.
+
+B. Each facility must comply with any and all applicable provisions of the Malibu Municipal Code, including but not limited to provisions of the California Building Code, California Electric Code, California Plumbing Code, California Mechanical Code, and California Fire Code, and any conditions of approval imposed as part of the approval process.
+
+C. Each facility must comply with any and all applicable regulations and standards promulgated or imposed by any state or federal agency, including, but not limited to, the Federal Communications Commission (FCC) and the Federal Aviation Administration (FAA). Further, all wireless communications facilities, associated equipment and services shall comply with Americans with Disabilities Act (ADA) requirements.
+
+D. Fire and Electrical Safety Standards. All wireless communications facilities shall contain:
+
+1. Surge protection for lightning discharge or other significant electrical disturbances; and
+
+Resolution No. 21-17 Page 3 of 27
+
+2. Signage as required by the permit conditions, the National Electric Code or the Los Angeles County Fire Department Chief or their designee.
+
+E. The facility must at all times comply with all applicable health requirements and standards pertaining to radio frequency emissions.
+
+F. All antennas shall meet the minimum siting distances to habitable structures required for compliance with FCC regulations and standards governing the environmental effects of radio frequency emissions.
+
+G. Noise. Wireless communications facilities and equipment must comply with the City’s noise ordinance in MMC Chapter 8.24, or any successor provisions, and be designed to prevent noise and sound from being plainly audible at a distance of fifty (50) feet from the facility or within ten (10) feet of any residence.
+
+H. Signs. No facility may display any signage or advertisement unless it is expressly allowed by this paragraph, necessary for stealth concealment purposes, or required by law or a permit condition. Every facility shall at all times display signage that accurately identifies the facility owner and provides the owner’s unique site number and a local or toll-free telephone number to contact the facility owner’s operations center.
+
+Landscaping. Where appropriate, facilities shall be installed so as to maintain and enhance existing landscaping on the site, including trees, foliage and shrubs, whether or not utilized for screening. In addition to any landscaping used for concealment or screening purposes, the applicant shall replace any existing landscaping displaced during construction or installation ofthe applicant’s facility. The applicant’s landscaping plan shall be subject to the City’s review and approval but shall, at a minimum, match the existing landscaping and foliage surrounding the installation site consistent with MMC Section 17.53.090. The permittee shall ensure that any vegetation allowed to remain in place under the Fire Code, including vegetation provided for screening, is properly maintained and watered.
+
+J. All electrical support equipment located within cabinets, shelters, or similar structures shall be screened from public view. Roof-mounted electrical support equipment shall be discouraged. Ground-mounted electrical support equipment shall be encouraged. In addition, under grounding of support equipment is required wherever practicable.
+
+K. All antennas shall be located such that any person walking adjacent to the transmitting surface of the antenna will be walking on a grade that is a minimum of eight and one-half feet below the transmitting surface.
+
+Resolution No. 21-17 Page 4 of 27
+
+L. Lighting of antenna structures and their electrical support equipment is prohibited, except as required by any order or regulation of the FCC or the FAA and except for manually operated emergency lights for use when official operating personnel are on site.
+
+M. A backup power supply must be required for all new wireless communications facilities to the extent allowed by law and in compliance with California Fire Code 1206.2.2.
+
+SECTION 5. Location Standards for All Facilities The location standards for all wireless communications facilities, other than those that qualify as eligible facilities requests, are as follows:
+
+A. No wireless telecommunication facility shall be located within five hundred (500) feet of any school, playground, or park unless a finding is made, based on technical evidence acceptable to the reviewing authority showing a clear need for the facility and that no technically feasible alternative site exists. Except for facilities installed on the same pole or tower as an existing wireless telecommunication facility, wireless telecommunication facilities located within any residential zone district shall not be located within one thousand (1,000) feet of any other wireless communications facility, except from those facilities placed on utility poles along Pacific Coast Highway, unless a waiver is granted.
+
+B. All new freestanding wireless communications facilities and monopoles shall be set back a minimum distance of at least one hundred and twenty (120) percent of the height of the facility or monopole from any property line abutting a residentially zoned property. This minimum setback is not subject to the waivers allowed under Section 7 of this Resolution.
+
+C. Location preference for wireless communications facilities should be given to the following:
+
+1. Property designated non-residential (except for public open space and recreational vehicle park zoning districts), unless otherwise prohibited pursuant to this title.
+
+2. Facilities attached or sited adjacent to existing structures. Whenever possible, facilities shall be located on and/or inside existing structures. Appropriate types of existing structures may include, but are not limited to: buildings, water tanks, telephone poles and utility towers and poles, sign standards, light standards and roadway overpasses.
+
+3. Sites with minimum separation. Sites that are more than five hundred (500) feet from school, playgrounds, and parks.
+
+Resolution No. 21-17 Page 5 of 27
+
+4. Sites that are not highly visible from adjacent roadways.
+
+5. Unless otherwise indicated in MMC Chapter 17.46 or these Standards, no wireless facility shall be installed on an exposed ridgeline unless the facility blends with the surrounding existing natural and man-made environment and a finding is made that no other location is technically feasible.
+
+6. The City expressly designates residential, public open space and recreational vehicle park zoning districts, parks and schools as the least appropriate possible locations, and the absolute last choices for siting.
+
+SECTION 6. Engineering and Design Standards for all Facilities The general design standards for wireless communications facilities subject to MMC Chapter 17.46 are as follows:
+
+A. Basic Requirements. The proposed wireless facility and its supporting structure (if needed) shall be limited to the minimum size necessary to serve the defined service objectives of the wireless service provider or providers that will be using the facility, except where a larger facility has superior concealment elements.
+
+B. Materials. The materials used shall be non-reflective and non-flammable.
+
+C. Cabinet doors and other openings must be designed to stay securely closed, and openings in all facilities shall be shielded or made the smallest size feasible to protect against fire and wind-blown embers.
+
+D. The tower, or other support structure, and all equipment shall be designed to withstand forces from seismic events. To that end, all wireless facility sites must be built to the applicable standards of Hardening Requirements including but not limited to APCO ANSI 2.106.1—2019, or their replacements. The telecommunications tower, pole or structure when fully loaded with antennas, transmitters, and other equipment and camouflaging shall be designed as determined by the Building Official. All equipment mounting racks and equipment used shall be anchored in such a manner that such a quake will not tip them over, throw the equipment off its shelves, or otherwise act to damage it.
+
+E. All connections between various components of the facility, power lines, and conduit shall be designed in a manner to protect against damage by a natural disaster, a vehicular accident, an act ofvandalism or similar external forces.
+
+F. Stealth. The wireless facility shall be stealth. Stealth elements and techniques should be used to blend the facility with surrounding materials
+
+Resolution No. 21-17 Page 6 of 27
+
+and colors of the support structure and make the facility appear to be something other than a wireless facility. Stealth elements include, but are not limited to, the following:
+
+1. Radio frequency (RF) transparent screening or shrouds;
+
+2. Matching the color of the existing support structure by painting, coating, or otherwise coloring the wireless facility, equipment, mounting brackets, and cabling;
+
+3. Placing cables and wires inside the pole or beneath conduit of the smallest size possible;
+
+4. Minimizing the size of the site;
+
+5. Installing new infrastructure that matches existing infrastructure in the area surrounding the proposed site; and
+
+6. Using paint of durable quality.
+
+7. Built with weather-resistant materials while permitting weathered treatment for aesthetic reasons and to avoid reflective material.
+
+0. Minimum Height. All antennas shall be located such that: (1) any person walking adjacent to the transmitting surface of the antenna will be walking on a grade that is a minimum of eight and one-half feet below the transmitting surface; and (2) no person at ground level will be exposed to an exposure level that is higher than allowed by the FCC’s general population exposure rules.
+
+H. Facade-Mounted Equipment. Facade-mounted antennas and equipment shall be architecturally integrated into the building, or other support structure, design and otherwise made as unobtrusive as possible so that the facility does not appear to be a wireless facility. Antennas and equipment should be located entirely within an existing or newly created architectural feature so as to be completely screened from view. Facade-mounted facilities shall generally not extend more than eighteen (18) inches out from and may not project above the building face. Façade-mounted wireless telecommunication facilities shall not exceed twenty-eight (28) feet in height above the ground. However, antenna elements, mounted flush on the facade of an existing structure that exceeds twenty-eight (28) feet, may have a height equal to the height of the building.
+
+Ground-Mounted Equipment. Outdoor ground-mounted equipment associated with base stations shall be avoided whenever feasible. In locations visible or accessible to the public, applicants shall conceal outdoor
+
+Resolution No. 21-17 Page 7 of 27
+
+ground-mounted equipment, including ancillary power generation equipment, with opaque fences or landscape features that mimic the adjacent structure(s) (including, but not limited to, dumpster corrals and other accessory structures) and by painting, texturing, or otherwise concealing the facility as much as possible. Ground-mounted wireless communications facilities shall be located near existing structures or trees at similar heights for screening purposes where feasible. Not more than one ground-mounted antenna, provided that licensed amateur radio station antennas consistent with MMC 1 7.46.020(B)(2), shall also be permitted on each site.
+
+J. Roof-Mounted Facilities. Roof-mounted antennas and necessary equipment shall be screened from above if visible from higher elevations. Rooftopmounted wireless telecommunication facilities shall not exceed twentyeight (28) feet in height or three (3) feet above the roof parapet from which they are attached, whichever is less restrictive. Associated roof-mounted equipment cabinets shall not extend more than three (3) feet above the roof from which it is attached and shall be set back a minimum of ten (10) feet from the edge of the roof. All roof-mounted equipment cabinets shall be located behind a mechanical screen wall. In the event that a roof parapet wall screens the equipment cabinets, a mechanical screen wall will not be required.
+
+K. Freestanding Facilities. Freestanding facilities requiring a new monopole or other new support structure shall be stealth facilities. Further, they shall be located as close as possible to existing above-ground utilities, such as electrical towers or utility poles (which are not scheduled for removal or under grounding for at least 18 months after the date of application), light poles, trees of comparable heights, and in areas where they will not detract from the appearance of the City.
+
+1. Freestanding wireless telecommunication facilities, including monopoles, shall not exceed twenty-eight (28) feet in height and shall not extend higher than the top of the ridgeline nearest the antenna. The height of a freestanding facility shall be measured from the natural undisturbed ground surface below the center of the base of the tower itself to the tip of the highest antenna or piece of equipment attached thereto.
+
+2. Aside from the antenna itself, no additional equipment may be visible. All cables, including, but not limited to, electrical and utility cables, shall be run within the interior of the freestanding facility and shall be camouflaged or hidden to the fullest extent feasible without jeopardizing the physical integrity of the facility.
+
+Resolution No. 21-17 Page 8 of 27
+
+3. Monopole installations shall be situated so as to utilize existing natural or man-made features including topography, vegetation, buildings, or other structures to provide the greatest amount of visual screening.
+
+4. All antenna components and accessory wireless equipment shall be treated with exterior coatings of a color and texture to match the predominant visual background or existing architectural elements so as to visually blend in with the surrounding development. Subdued colors and non-reflective materials that blend with surrounding materials and colors shall be used.
+
+5. Monopoles shall be no greater in diameter or other cross-sectional dimensions than is necessary for the proper functioning of the facility.
+
+L. All wireless telecommunication facilities shall be designed to prevent unauthorized climbing and graffiti.
+
+M. Fire Safety Standards. All wireless facilities designs shall include:
+
+1. a power shut off, such as by means of rapid entry Knox or similar type systems shall be installed;
+
+2. surge protection devices capable of mitigating a direct or partial direct lightning discharge; and
+
+3. surge protection devices capable of mitigating significant electrical disturbances that may enter the facility via conductive cables.
+
+N. Satellite dish or parabolic antennas shall be situated as close to the ground as possible to reduce visual impact without compromising their function.
+
+0. Support equipment pads, cabinets, shelters and buildings require architectural, landscape, color, fencing, or other camouflage treatment to minimize visual impacts to the extent deemed necessary by the Planning Director. Landscaping screening should also be provided if irrigation water is available.
+
+P. No freestanding facility or ancillary support equipment may be located between the face of a building and a public street, bikeway, park or residence.
+
+Resolution No. 2 1-17 Page 9 of 27
+
+SECTION 7. Waivers of These Standards.
+
+A. A waiver of one or more ofthese Standards may be granted in the following circumstances:
+
+1. Pursuant to MMC Section 17.46.060(D), if an applicant demonstrates to the Planning Commission through clear and convincing evidence that denial of an application would, within the meaning offederal law, prohibit or effectively prohibit the provision of personal wireless services, or otherwise violate applicable laws or regulations;
+
+2. If an applicant demonstrates to the Planning Commission through clear and convincing evidence set forth in a feasibility study that compliance with a requirement of these Standards would be technically infeasible and the proposed wireless facility complies with the requirements of these Standards to the greatest extent technically feasible. For example, an exception to a requirement to conceal antennas in a shroud may be granted if shrouding is shown to be technically infeasible and an alternative concealment such as a colored film wrap is proposed; or
+
+3. If an applicant demonstrates to the Planning Commission with clear and convincing evidence that the particular engineering, design or location proposed involves an alternative that better meets the purposes of Chapter 17.46 and only minor non-compliance with a requirement of these design Standards and results in no increase in public visual impact to the community or provides other benefits. For example, an exception to the wireless facility location limitations may be granted when the applicant can demonstrate that the placement is less visible from viewsheds of residences or shielded by vegetation or existing infrastructure (such as barriers), or is less physically intrusive (for example, less impactfiul to tree roots or reduces noise). Among other factors, in deciding whether or not to grant an exception, the Planning Commission may consider the impact of expansions to the facility that the applicant would be entitled to make as of right if granted.
+
+B. Waivers may only be requested at the time an application is initially submitted for a discretionary permit. The request must include both the specific provision(s) from which waiver is sought and the basis of the request, including all supporting evidence on which the applicant relies. Any request for waiver after the City has deemed an application complete constitutes a material change to the proposed wireless facility and shall be considered a new application. A request for waiver from one or more
+
+Resolution No. 21-17 Page 10 of 27
+
+requirements does not relieve the applicant from compliance with all other applicable provisions of law or of MMC Section 17.46.060.
+
+SEC1 ION 8. Standard Conditions of Approval for Permits Under MMC Chapter 17.46.
+
+A. Generally. In addition to any supplemental conditions imposed by the Planning Director or Planning Commission, as the case may be, all development permits or conditional use permits granted for wireless communications facilities subject to this Chapter 17.46 shall be subject to the following conditions, unless modified by the approving authority:
+
+1. The permittee shall defend, indemnify, and hold harmless the city or any of its boards, commissions, agents, officers, and employees from any claim, action or proceeding against the city, its boards, commission, agents, officers, or employees to attack, set aside, void, or annul, the approval of the project, or to hold the City liable in whole or in part as a result of the engineering, design, construction or operation of the facility. The City shall promptly notify the provider(s) of any such claim, action or proceeding if the city bears its own attorney’s fees and costs, and the city defends the action in good faith.
+
+2. The permittee shall be strictly liable for interference caused by its facilities with city communications systems. The permittee shall be responsible for costs for determining the source of the interference, all costs associated with eliminating the interference (including but not limited to filtering, installing cavities, installing directional antennas, powering down systems, and engineering analysis), and all costs arising from third party claims against the city attributable to the interference.
+
+3. Subsequent submittals for this project shall be in substantial compliance with the plans date-stamped received by the Planning Department on ______________. The project shall comply with all conditions of approval stipulated in the referral sheets attached to the agenda report for this project. In the event the project plans conflict with any condition of approval, the condition shall take precedence and revised plans shall be submitted and approved by the Planning Director prior to the Environmental Sustainability Department for plan check.
+
+4. The permit and rights conferred in this approval shall not be effective until the permittee signs, notarizes and returns the Acceptance of Conditions Affidavit accepting the conditions set forth herein. The applicant shall file this form with the Planning Department within 30 days of this decision or prior to issuance of
+
+Resolution No. 21-17 Page 11 of27
+
+any development, conditional use, building, electrical or encroachment permit.
+
+5. The applicant shall digitally submit a complete set of plans, including the items required in Condition No. 6 to the Planning Department for consistency review and approval prior to plan check and again prior to the issuance of any building or development permits.
+
+6. The Notice of Decision (including the signed and notarized Acceptance of Conditions Affidavit) shall be copied in its entirety and placed directly onto a separate plan sheet(s) to be included in the development plans prior to submitting any development permits from the City of Malibu Environmental Sustainability Department and encroachment permit.
+
+7. A development permit or conditional use permit, as applicable, shall be valid for a period often (10) years from issuance, unless pursuant to another provision of the Code or these conditions, it expires sooner or is terminated. At the end often (10) years from the date of issuance, such development or conditional use permit shall automatically expire, unless an extension or renewal has been granted. A person holding a development permit or conditional use permit must either (1) remove the facility within thirty (30) days following the permit’s expiration (provided that removal of support structure owned by City, a utility, or another entity authorized to maintain a support structure need not be removed, but must be restored to its prior condition, except as specifically permitted by the City); or (2) prior to expiration, submit an application to renew the permit, which application must, among all other requirements, demonstrate that the impact of the wireless facility cannot be reduced. The wireless facility must remain in place until it is acted upon by the City and all appeals from the City’s decision exhausted.
+
+8. The installation and construction authorized by a permit shall be completed within three (3) years after its approval, or it will expire without further action by the City unless prior to the three (3) years the applicant submit an extension request and the City, in its sole discretion, grants a time extension for due cause. The installation and construction authorized by a permit shall conclude, including any necessary post-installation repairs and/or restoration to the property, within thirty (30) days following the day construction commenced. The permittee must provide written notice to City within ten (10) days after completing construction, and may not begin operations until all City and Fire Department (if applicable) inspections have been completed and the project is found to be
+
+Resolution No. 2 1-17 Page 12 of27
+
+consistent with the permit. The expiration date shall be suspended until an appeal and/or litigation regarding the subject permit is resolved.
+
+9. The Planning Director may grant up to four one-year extensions of the timeline, in Condition 7 above, for completing the installation and construction authorized by a development or condition use permit, if the Planning Director finds that the conditions, including but not limited to changes in the wireless ordinance under which the permit approval was issued, have not significantly changed.
+
+10. Any questions of intent or interpretation of any condition of approval will be resolved by the Planning Director upon written request of such interpretation.
+
+11. All structures shall conform to the requirements of the Environmental Sustainability Department, City Public Works Department, FCC and Los Angeles County Fire Department requirements, as applicable. Notwithstanding this review, all required permits, including but not limited to an encroachment permit from the City, shall be secured.
+
+12. Minor changes to the approved plans or the conditions of approval may be approved by the Planning Director, provided such changes achieve substantially the same results and the project is still in compliance with the MMC. An application with all required materials and fees shall be required.
+
+Cultural Resources
+
+13. In the event that potentially important cultural resources are found in the course of geologic testing, work shall immediately cease until a qualified archaeologist can provide an evaluation ofthe nature and significance of the resources and until the Planning Director can review this information. Where, as a result of this evaluation, the Planning Director determines that the project may have an adverse impact on cultural resources, a Phase II Evaluation of cultural resources shall be required pursuant to MMC Section
+
+1 7.54.040(D)(4)(b).
+
+14. If human bone is discovered, the procedures described in Section 7050.5 of the California Health and Safety Code shall be followed. These procedures require notification of the coroner. If the coroner determines that the remains are those of a Native American, the applicant shall notif~’ the Native American Heritage Commission by phone within 24 hours. Following notification of the Native
+
+Resolution No. 21-17 Page 13 of27
+
+American Heritage Commission, the procedures described in Section 5097.94 and Section 5097.98 of the California Public Resources Code shall be followed.
+
+Wireless Facility Conditions
+
+15. All antennas shall meet the minimum siting distances to public/uncontrolled areas required for compliance with the FCC regulations and standards governing the environmental effects of radio frequency emissions. Permittee shall keep up-to-date on current information from the FCC in regards to maximum permissible radio frequency exposure levels. In the event that the FCC changes its guidelines for human exposure to radio frequency, permittee shall, within 30 days after any such change, submit to the Planning Director a report prepared by a qualified engineer that demonstrates actual compliance with such changed guidelines. The Director may, at permittee’s sole cost, retain an independent consultant to evaluate the compliance report and any potential modifications to the permit necessary to conform to the FCC’s guidelines. Failure to submit the compliance report required under this condition, or failure to maintain compliance with the FCC’s guidelines for human exposure to radio frequency at all times shall constitute grounds for permit revocation.
+
+16. All antennas shall be located so that any person walking adjacent to the transmitting surface of the antenna will be walking on a grade, which is a minimum of eight and one-half feet below the transmitting surface.
+
+17. All antennas, equipment, and support structures shall be engineered and designed to prevent unauthorized climbing.
+
+18. The wireless facility shall be erected, operated, and maintained in compliance with the general requirements set forth in the Standards and any specific requirements in the permit.
+
+19. The antenna and electrical support equipment shall, at all times, be operated in a manner that conforms to the applicable health and safety standards, including those imposed by MMC Chapter 17.46 and this Resolution.
+
+20. Wireless communications facilities and equipment must comply with the City’s noise ordinance in MMC 8.24, or any successor provisions, and prevent noise and sound from being plainly audible at a distance of fifty (50) feet from the facility or within ten (10) feet of any residence.
+
+Resolution No. 21-17 Page 14 of 27
+
+21. The Planning Director’s approval is required if a generator is to be placed onsite for temporary or permanent use.
+
+22. All non-ground-mounted equipment associated with the application shall be located no lower than eight feet above grade or ground level on the monopole or support structure.
+
+23. The City or its designee may enter onto the facility area to inspect the facility upon 48 hours prior notice to the permittee. The permittee shall cooperate with all inspections and may be present for any inspection of its facility by the City. The City reserves the right to enter or direct its designee to enter the facility and support, repair, disable, or remove any elements of the facility in emergencies or when the facility threatens imminent harm to persons or property. The City shall make an effort to contact the permittee prior to disabling or removing any facility elements, but in any case, shall notify permittee within 24 hours of doing so.
+
+24. Testing of any equipment shall take place on weekdays only, and only between the hours of 8:30 a.m. and 4:30 p.m., except that testing is prohibited on holidays that fall on a weekday. In addition, testing is prohibited on weekend days.
+
+25. Permittee shall obtain and maintain throughout the term of the permit commercial general liability insurance with a limit of five million dollars ($5,000,000) per occurrence for bodily injury and property damage and six million dollars ($6,000,000) general aggregate including premises operations, contractual liability, personal injury, and products completed operations. The relevant policy(ies) shall name the City, its elected/appointed officials, commission members, officers, representatives, agents, and employees as additional insureds. A true and correct copy of the policy of insurance shall constitute proof of insurance required by this Subsection. Permittee shall use its best efforts to provide thirty (30) days’ prior notice to the City of to the cancellation or material modification of any applicable insurance policy. Failure to maintain insurance consistent with this Condition shall automatically void the permit, and the permittee shall immediately deenergize and remove the facility from operation. The policy shall not have a pollution or other exclusion which excludes injuries or damages from EMF/RF exposures.
+
+26. Prior to issuance of a City permit or encroachment permit, the permittee shall file with the City, and shall maintain in good standing throughout the term of the approval, a performance bond or other surety or another form of security for the removal of the
+
+Resolution No. 21-17 Page 15 of27
+
+facility in the event that the use is abandoned or the permit expires, or is revoked, or is otherwise terminated. The security shall be in the amount equal to the cost of physically removing the facility and all related facilities and equipment on the site, based on the higher of two contractor’s quotes for removal that are provided by the permittee. The pennittee shall reimburse the city for staff time associated with the processing and tracking of the bond, based on the hourly rate adopted by the City Council. Reimbursement shall be paid when the security is posted and during each administrative review.
+
+27. Permittee shall not move, alter, temporarily relocate, change, or interfere with any existing structure, improvement, or property without the prior consent of the owner of that structure, improvement, or property. No structure, improvement, or property owned by the City shall be moved to accommodate a permitted activity or encroachment, unless the City determines that such movement will not adversely affect the City or any surrounding businesses or residents, and the Permittee pays all costs and expenses related to the relocation of the City’s structure, improvement, or property. Prior to commencement of any work pursuant to any permit, the permittee shall provide the City with documentation establishing to the city’s satisfaction that the permittee has the legal right to use or interfere with any other structure, improvement, or property to be affected by permittee’s facilities.
+
+28. No possessory interest is created by a Wireless Permit. However, to the extent that a possessory interest is deemed created by a governmental entity with taxation authority, permittee acknowledges that City has given to permittee notice pursuant to California Revenue and Taxation Code Section 107.6 that the use or occupancy of any public property pursuant to a development or conditional use permit may create a possessory interest which may be subject to the payment of property taxes levied upon such interest. Permittee shall be solely liable for, and shall pay and discharge prior to delinquency, any and all possessory interact taxes or other taxes, fees, and assessments levied against permittee’ s right to possession, occupancy, or use of any public property pursuant to any right of possession, occupancy, or use created by this development or conditional use permit.
+
+29. If not already completed, permittee shall enter into the appropriate agreement with the City, as determined by the City, prior to
+
+Resolution No. 2 1-17 Page 16 of27
+
+constructing, attaching, or operating a facility on municipal infrastructure. This permit is not a substitute for such agreement.
+
+30. If a facility is not operated for a continuous period of three (3) months, the Wireless Permit and any other permit or approval therefor shall be deemed abandoned and terminated automatically, unless before the end of the three (3) month period (i) the Director has determined that the facility has resumed operations, or (ii) the City has received an application to transfer the permit to another service provider. No later than ninety (90) days from the date the facility is determined to have ceased operation, or the permittee has notified the Director of its intent to vacate the site, the permittee shall remove all equipment and improvements associated with the use and shall restore the site to its original condition to the satisfaction of the Director. The permittee shall provide written verification of the removal of the facilities within thirty (30) days of the date the removal is completed. If the facility is not removed within thirty (30) days after the permit has been discontinued pursuant to this subsection, the site shall be deemed to be a nuisance, and the City may cause the facility to be removed at permittee’s expense or by calling any bond or other financial assurance to pay for removal. If there are two (2) or more users of a single facility or support structure, then this provision shall apply to the specific elements or parts thereof that were abandoned but will not be effective for the entirety thereof until all users cease use thereof.
+
+31. In the event the City determines that it is necessary to take legal action to enforce any of these conditions, or to revoke a permit, and such legal action is taken, the permittee shall be required to pay any and all costs of such legal action, including reasonable attorney’s fees, incurred by the City, even if the matter is not prosecuted to a final judgment or is amicably resolved, unless the City otherwise agrees, in its complete discretion, to waive said fees or any part thereof.
+
+32. Interference with city communications systems and other governmental emergency systems is prohibited. Further, no permits issued pursuant to this chapter of the City Code establish any guarantee or warranty that Licensee’s facility will be free from interference from city or third-party communication systems.
+
+Construction
+
+33. Installation hours shall be limited to Monday through Friday from 7:00 a.m. to 7:00 p.m. and Saturdays from 8:00 a.m. to 5:00 p.m. No installation activities shall be permitted on Sundays and City-
+
+Resolution No. 21-17 Page 17 of27
+
+designated holidays. The restricted work hours described in this condition do not apply to emergency maintenance necessary to protect health or property. The City of Malibu may issue a Stop Work Order if permittee violates this condition. Construction activities shall be conducted in compliance with, and abide by, all applicable safety codes and permit conditions.
+
+34. All sites must be designed and build to the standards ofANSI/APCO Public Safety Grade Site Hardening Requirements, also referred to as “APCO ANSI 2.106.1-2019”.
+
+Site Specific Conditions
+
+35. In the event that the electric service provider does not currently offer an alternative metering option, the permittee shall remove the above-grade electric meter when such option becomes available. Prior to removing the above-grade electric meter, the permittee shall apply for any encroachment and/or other ministerial permit(s) required to perform the removal. Upon removal, the permittee shall restore the affected area to its original condition that existed prior to installation of the equipment.
+
+36. The permittee acknowledges that the City specifically includes conditions of approval related to (a) painting, coloring or finishing the equipment to match the monopole or support structure; (b) undergrounding all equipment to the extent possible; (c) installing equipment within shrouds, conduits and risers as concealment elements engineered and designed to integrate the wireless facility with the surrounding built and natural environment; and (d) specific structural, seismic, electrical, fire and operating/maintenance requirements. Any future modifications to the permittee’ s wireless facility must maintain or improve all concealment elements and safety precautions.
+
+37. Before the permittee submits any applications for construction, encroachment, excavation or other required permits in connection with this permit, the permittee must incorporate a true and correct copy of this permit, all conditions associated with this permit and any approved photo simulations into the project plans (collectively, the “Approved Plans”). The permittee must construct, install and operate the wireless facility in substantial compliance with the Approved Plans as determined by the Director or the Director’s designee. Any substantial or material alterations, modifications or other changes to the Approved Plans, whether requested by the permittee or required by other departments or public agencies with jurisdiction over the wireless facility, must be submitted in a written
+
+Resolution No. 21-17 Page 18 of27
+
+request subject to the Director’s prior review and approval, who may refer the request to the original approval authority if the Director finds that the requested alteration, modification or other change substantially deviates from the Approved Plans or implicates a significant or substantial land-use concern.
+
+38. The permittee shall install and at all times maintain in good condition a “Network Operations Center Information” and “RF Caution” sign on the utility pole no less than three (3) feet below the antenna (measured from the top of the sign) and no less than nine (9) feet above the ground line (measured from the bottom of the sign). Signs required under this condition shall be installed so that a person can clearly see the sign as he or she approaches within three (3) feet of the antenna structure. If any person on or within the property is or may be exposed to emissions that exceed applicable FCC uncontrolled/general population limits at any time the sign shall expressly so state, and provide instructions on how persons can avoid any such exposure. The sign shall also include the name(s) of the facility owner(s), equipment owner(s) and operator(s)/carrier(s) ofthe antenna(s), property owner name, as well as emergency phone number(s) for all such parties. The sign shall not be lighted, unless applicable law, rule or regulation requires lighting. No signs or advertising devices other than required certification, warning, required seals or signage, other signage required by law, this Chapter, any City or applicable state code or the Los Angeles County Fire Department Chief or his or her designee shall be permitted. The sign shall be no larger than two (2) square feet.
+
+39. The permittee shall ensure that all signage complies with FCC Office of Engineering and Technology Bulletin 65, CPUC General Order 95 or American National Standards Institute C95.2 for color, symbol, and content conventions. All such signage shall at all times provide a working local or toll-free telephone number to its network operations center, and such telephone number shall be able to reach a live person who can exert transmitter power-down control over this site as required by the FCC.
+
+40. In the event that the FCC changes any of radio frequency signage requirements that are applicable to the project site approved herein or ANSI Z535.1, ANSI Z535.2, and ANSI C95.2 standards that are applicable to the project site approved herein are changed, the permittee, within 30 days of each such change, at its own cost and expense, shall replace the signage at the project site to comply with the current standards.
+
+Resolution No. 21-17 Page 19 of 27
+
+41. The permittee shall maintain the paint, color and finish ofthe facility in good condition at all times.
+
+42. All improvements, including foundations, and appurtenant ground wires, shall be removed from the property and the site restored to its original pre-installation conditions within 90 days of cessation of operation or abandonment of the facility.
+
+43. Build-Out Conditions.
+
+a. Permittee shall not commence any excavation, construction, installation or other work on the project site until and unless it demonstrates to the City Public Works Department that the project complies with these Conditions along with all applicable laws, regulations, codes and other rules related to public health and safety, including without limitation all applicable provisions in California Public Utilities Commission General Order 95 and MMC Chapters 8.12, 8.24 and 15.08.
+
+b. To the extent that a pole owner or any provision in the MMC or this resolution require greater or more restrictive standards than California Public Utilities Commission General Order 95, if applicable, those standards shall control.
+
+44. Permittee shall at all times maintain compliance with all applicable federal, State and local laws, regulations, ordinances and other rules, including Americans with Disabilities Act (ADA) requirements.
+
+45. The permittee shall cooperate with all inspections. The City and its designees reserve the right to support, repair, disable or remove any elements of the facility in emergencies or when the facility threatens imminent harm to persons or property.
+
+46. Permittee shall at all times maintain accurate contact information for all parties responsible for the facility, which shall include a phone number, street mailing address and email address for at least one natural person. All such contact information for responsible parties shall be provided to the Planning Department at the time of permit issuance and within one business day of permittee’s receipt of City staffs written request.
+
+47. Permittee shall undertake all reasonable efforts to avoid undue adverse impacts to adjacent properties and/or uses that may arise
+
+Resolution No. 21-17 Page 20 of 27
+
+from the construction, operation, maintenance, modification and removal of the facility.
+
+48. The site and the facility must be maintained in a neat and clean manner and in accordance with all approved pians and conditions of approval.
+
+49. Permittee shall promptly remove any graffiti on the wireless facility at permittee’ s sole expense within 48 hours after notice.
+
+Prior to Operation
+
+50. The applicant shall request a final Planning Department inspection and final building inspection by the City of Malibu Environmental Sustainability Department immediately after the wireless facility has been installed and prior to the commencement of services.
+
+51. Within thirty (30) calendar days following the installation of any wireless communications facilities, the applicant shall provide to the Planning Department with a field report prepared by a qualified engineer verifying that the unit has been inspected, tested, and is operating in compliance with FCC standards. Specifically, the onsite post-installation radiofrequency (RF) emissions testing must demonstrate actual compliance with the FCC OET Bulletin 65 RF emissions safety guidelines for general population/uncontrolled RF exposure in all sectors. For this testing, the transmitter shall be operating at maximum operating power, and the testing shall occur outwards to a distance where the RF emissions no longer exceed the uncontrolled/general population limit. Such report and documentation shall include the make and model (or other identifying information) of the unit tested, the date and time of the inspection, a certification that the unit is properly installed and working within applicable FCC limits, and a specific notation of the distance from the transmitter at which the emissions are equal to or less than the uncontrolled/general population limit.
+
+52. The operation of the approved facility shall commence no later than one (1) month after the City completes its post-installation inspections of the facility, any issues with the facility are resolved, and the City receives the RF testing report required in the condition ofapproval above, or the development or conditional use permit will expire without further action by the City.
+
+Resolution No, 21-17 Page 21 of27
+
+Fixed Conditions
+
+53. Violation of any ofthe conditions of this approval shall be cause for revocation and termination of all rights thereunder.
+
+Eligible Facilities Requests
+
+All permits for an eligible facilities requests under MMC Chapter 17.46 shall be subject to the following conditions and all ofthe other conditions ofapproval placed on a Wireless Permit, unless modified by the approving authority:
+
+54. Any permit granted in response to an application qualifying as an eligible facilities request shall be subject to the terms and conditions of the underlying permit.
+
+55. The City’s grant or grant by operation of law of an eligible facilities request permit constitutes a federally-mandated modification to the underlying permit or approval for the subject tower or base station. Notwithstanding any permit duration established in another permit condition, the City’s grant or grant by operation of law of a eligible facilities request permit will not extend the permit term for the underlying permit or any other underlying regulatory approval, and its term shall be coterminous with the underlying permit or other regulatory approval for the subject tower or base station.
+
+56. The City’s grant or grant by operation of law of an eligible facilities request does not waive, and shall not be construed to waive, any standing by the City to challenge Section 6409(a) of the Spectrum Act, any FCC rules that interpret Section 6409(a) of the Spectrum Act, or any modification to Section 6409(a) of the Spectrum Act.
+
+Small Cell Facilities
+
+In addition to the other conditions of approval placed on a Wireless Permit, all permits for a small cell facility under MMC Chapter 17.46 shall be subject to the following additional condition, unless modified by the approving authority:
+
+57. The City’s grant of a permit for a small cell facility request does not waive, and shall not be construed to waive, any standing by the city to challenge any FCC orders or rules related to small cell facilities, or any modification to those FCC orders or rules.
+
+SECTION 9. Basic Application Requirements for Permits Under MMC Chapter 17.46.
+
+A. Generally. In addition to providing all required fees, all wireless telecommunication facility carriers or providers shall provide the information required by a separate application form published, and updated
+
+Resolution No. 21-17 Page 22 of 27
+
+from time to time, by the City. If no such form is available, then the applicant must submit all documents, information, and any other materials necessary to allow the City to make required findings and ensure that the proposed facility will comply with applicable laws and not endanger the public health, safety, or welfare. Such information may include:
+
+1. Contact information for: a. Applicant and their representatives b. Owner of proposed wireless communications facility c. If different from facility owner, the identity of the person or entity responsible for operating the proposed wireless facility d. The property owner or owner of the structure on which the proposed wireless facility would be installed e. Names, addresses, telephone numbers, and email addresses of anyone acting on behalf ofthe applicant with regard to the application; f. The name, address and phone number of all persons that prepared or assisted in preparing the application and any required reports; g. The postal address, parcel number, or utility pole identifier of the property; h. The location of the schools, playgrounds and parks within 500 feet of the project site; i. Local contact person for emergencies j. Assessor’s Parcel Number 2. Purpose of new wireless communications facility or amendment 3. Type of Application (Select all that apply) a. Eligible Facilities Request b. Small Cell — Collocation
+
+C. Small Cell — New Structure d. Collocation (Non-Small Cell) e. All Other Wireless Communications Facilities f. Permit Renewal g. Waiver 4. Letter of authorization signed by the property owner authorizing the applicant to submit and process the application, including executed copies of any leases, letters of agency, or proof of ownership, of private property involved in the project. 5. Authorizations, and Licenses 6. Provide previous approvals, if applicable, and Certificate of Completion. Site inspection fees may apply if a final inspection was never requested 7. Identif~,r all other required permits and approvals for the subject facility.
+
+Resolution No. 21-17 Page 23 of 27
+
+8. Electrical and Structural Safety Information. The following engineering documents prepared under the responsible charge of and sealed by a California licensed Professional Engineer must be included in the application: a. A short circuit and coordination study (“SCCS”) calculated pursuant to the IEEE 551-2006: Recommended Practice for Calculating AC Short-Circuit Currents in Industrial and Commercial Power Systems or the latest version of that standard. The study must demonstrate the protection devices will ensure the equipment enclosure will not be breached. The SCCS must include analysis of Voltage Transient Surges due to contact of conductors of different voltages; b. A one-line diagram of the electrical system; c. Voltage Drop & Load Flow Study; d. Load Calculation; e. Panel Directories; f. A plot plan showing the location of the mounting structure including address, or structure designation, or GPS location on the front sheet; g. A plot plan showing the location ofthe service disconnecting means; and h. An elevation drawing of the equipment and the service disconnecting means. 9. Structural Safety Information. The structural/civil engineering documents prepared under the responsible charge of and sealed by a California licensed professional civil engineer. a. Photo simulations, from at least three different angles, showing the pole and streetscape before and after installation. In some cases, more than three different angles may be required; b. The azimuth, size and center-line height location of all proposed and existing antenna(s) on the supporting structure; c. The number, type and model of the antenna(s) that will be used with a copy of the specification sheet; d. The make, model, type and manufacturer of any tower involved and a design plan stating the tower’s capacity to accommodate multiple users; e. Site and Construction Plans. Complete and accurate plans, drawn to scale, signed, and sealed by a California-licensed engineer, land surveyor, and/or architect, which include the following items. (1) A site plan and elevation drawings for the facility as existing and as proposed with all height and width measurements explicitly stated.
+
+Resolution No. 21-17 Page 24 of 27
+
+(2) A site plan describing the proposed tower and antenna(s) and all related fixtures, structures, appurtenances and apparatus, including height above pre-existing grade, materials, color and lighting; (3) A depiction, with height and width measurements explicitly stated, of all existing and proposed transmission equipment. (4) A depiction of all existing and proposed utility runs and points of contact. (5) A depiction of the leased or licensed area of the site with all rights-of-way and easements for access and utilities labeled in plan view. f. Detailed map with locations ofthe poles or other property on which equipment is to be located, including specific pole identification number, if applicable, and the areas it will service; g. Description as to why the desired location is superior to other similar locations, from a community perspective, including, but not limited to: (1) Proximity to residential buildings and descriptions of efforts to prevent any blocking of views of impressive scenes; and (2) Written documentation demonstrating a good faith effort to locate the proposed facility in the least intrusive location in accordance with the location requirements of this Resolution. h. A description in writing and a visual rendering demonstrating effective screening of all ground-mounted or roof-mounted equipment of the facility from view. Color-coded carrier-generated RF Coverage (propagation) maps, at a scale no smaller than 1 inch (1”) to a quarter (1/4) mile with all appropriate legends, showing the coverage for the highest and lowest frequencies to be used by the facility. Frequencies are to be stated numerically, not qualitatively. Provide a represented value in dB of each colors it specifically represents. j. If the project involves, modifies or will use an existing facility or structure, a description of the type of structure (e.g., guyed, self-supporting lattice or monopole), and a report on the physical condition of the facility certified by a professional engineer licensed in the state of California. k. If the application is for a new tower, clear and convincing technical evidence by a carrier or wireless service provider justifying the total height of the proposed facility and the need for such to the exclusion of all reasonable alternatives.
+
+Resolution No. 2 1-17 Page 25 of 27
+
+Evidence in the form ofpropagation studies must include all modeling data and assumptions used to produce the studies at the requested height and should take into consideration the ability to collocate other carriers in the future. A siting analysis which identifies other feasible locations within or outside the City which could serve the area intended to be served by the facility, unless the applicant provides compelling technical reasons for providing fewer than the minimum. m. An affirmation, under penalty of perjury, that the proposed installation will be FCC compliant, in that it will not cause members of the general public to be exposed to RF levels that exceed the emissions levels deemed safe by the FCC. A copy of the fully completed FCC form “A Local Government Official’s Guide to Transmitting Antenna RF Emission Safety: Rules, Procedures, and Practical Guidance: Appendix A” titled “Optional Checklist for Determination of Whether a Facility is Categorically Excluded” for each frequency band of RF emissions to be transmitted from the proposed facility upon the approval of the application. All planned radio frequency emissions on all frequency bands must be shown on the Appendix A form(s) attached to the application. All planned radio frequency emissions are to be entered on each Appendix A form only in wattage units of “effective radiated power.” n. A statement detailing the frequency, modulation and class of service of radio or other transmitting equipment; o. A copy ofthe FCC license applicable for the intended use of the proposed facilities; p. A HazMat Business Plan for all new generators, and any storage and/or use ofhazardous materials during the project, to include: i. A list of toxic substances that may develop during arcing or fire that may impede fire suppression efforts; ii. A list of hazards that may develop during arcing or fire that may impede fire suppression efforts; q. A demolition plan, if applicable. r. A written statement of the applicant’s willingness to allow other carriers to co-locate on the proposed personal wireless service facility where technically and economically feasible and aesthetically desirable, subject to the qualification that colocation should not occur when public exposures from the resulting higher cumulative sources would exceed FCC limits.
+
+Resolution No. 21-17 Page 26 of 27
+
+s. Such other information as the Director shall establish. t. A statement signed by a person with legal authority to bind the applicant attesting under penalty of perjury to the accuracy of the information provided in the application. If attester not an authorized employee ofthe applicant, then the attester must demonstrate that it is an authorized agent ofthe applicant, with lawful Power ofAttorney from the applicant.
+
+SECTION 10. Environmental Review
+
+This Resolution is not a project within the meaning of Section 15378 of the State of California Environmental Quality Act (CEQA) Guidelines, because it has no potential for resulting in physical change in the environment, directly or indirectly. The Resolution does not authorize any specific development or installation on any specific piece ofproperty within the City’s boundaries. Moreover, when and if an application for installation is submitted, the City will at that time conduct preliminary review of the application in accordance with CEQA. Alternatively, even if the Resolution is a “project” within the meaning of State CEQA Guidelines section 15378, the Resolution is exempt from CEQA on multiple grounds. First, the Resolution is exempt CEQA because the City Council’s adoption of the Resolution is covered by the general rule that CEQA applies only to projects which have the potential for causing a significant effect on the environment. (State CEQA Guidelines, § 15061(b)(3)). That is, approval of the Resolution will not result in the actual installation of any facilities in the City. In order to install a facility in accordance with this Resolution, the wireless provider would have to submit an application for installation of the wireless facility. At that time, the City will have specific and definite information regarding the facility to review in accordance with CEQA. And, in fact, the City will conduct preliminary review under CEQA at that time. Moreover, in the event that the Resolution is interpreted so as to permit installation of wireless communications facilities on a particular site, the installation would be exempt from CEQA review in accordance with either State CEQA Guidelines section 15302 (replacement or reconstruction), State CEQA Guidelines section 15303 (new construction or conversion of small structures), and/or State CEQA Guidelines section 15304 (minor alterations to land).
+
+SECTION 11. This Resolution will become effective immediately upon adoption.
+
+SECTION 12. The City Clerk shall certif~’ to the passage and adoption ofthis resolution and enter it into the book of original resolutions.
+
+PASSED, APPROVED, and ADOPTED this 12th day of April 2021. ///~//~
+
+~fi}~WF~PIE1~SON, Mayor
+
+Resolution No. 21-17 Page 27 of 27
+
+ATTEST:
+
+KELSEY i~ fTIJOITf\~, Actfng~ty Clerk (seal)
+
+APPROVED AS TO FORM:
+
+JOHNj~OTTI, Interim City Attorney
+
+I CERTIFY THAT THE FOREGOING RESOLUTION NO.21-17 was passed and adopted by the City Council of the City of Malibu at the Regular meeting thereof held on the l2~ day of April 2021 by the following vote:
+
+AYES: 5 Councilmembers: Farrer, Silverstein, Ubring, Grisanti, Pierson NOES: 0 ABSTAIN: 0 ABSENT: 0
+
+KELSEY P~T!J~YHN, Actihg C~tyCierk (seat)

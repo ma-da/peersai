@@ -1,0 +1,239 @@
+Management Alert- ICE Cannot Monitor All Unaccompanied Migrant Children Released from DHS and U.S. Department of Health and Human Services' Custody
+
+OIG-24-46 August 19, 2024
+
+FINAL MANAGEMENT ALERT Management Alert - ICE Cannot Monitor All Unaccompanied Migrant Children Released from DHS and U.S. Department of Health and Human Services' Custody
+
+OFFICE OF INSPECTOR GENERAL
+
+U.S. Department of Homeland Security
+
+Washington, DC 20528 www.oig.dhs.gov |
+
+August 19, 2024
+
+MEMORANDUM FOR: Patrick J. Lechleitner
+
+Deputy Director and Senior Official Performing the Duties of the Director U.S. Immigration and Customs Enforcement
+
+FROM:
+
+Joseph V. Cuffari, Ph.D.
+
+Inspector General
+
+SUBJECT:
+
+Management Alert – ICE Cannot Monitor All Unaccompanied Migrant Children Released from DHS and U.S. Department of Health and Human Services’ Custody
+
+Attached is our final management alert, U.S. Immigration and Customs Enforcement (ICE) Cannot Monitor All Unaccompanied Migrant Children Released from DHS and U.S. Department of Health and Human Services’ (HHS) Custody. This alert informs you of an urgent issue we discovered during an ongoing audit and the actions ICE has taken to address the issues. Specifically, we found ICE cannot always monitor the location and status of unaccompanied migrant children who are released from DHS and HHS custody.
+
+Your office concurred with our recommendations in the draft management alert. Based on information in your office’s response to the draft management alert, we consider recommendation one open and unresolved and recommendation two open and resolved. We did not receive any technical comments from ICE requiring revisions to the report. We have appended your office’s response verbatim to this final management alert.
+
+As prescribed by Department of Homeland Security Directive 077-01, Follow-Up and Resolutions for the Office of Inspector General Report Recommendations, within 90 days of the date of this memorandum, please provide our office with a written response that includes, for each recommendation, any update to your concurrence or nonconcurrence and any planned corrective action with a targeted completion date or completed corrective action. Also, please include information on responsible parties and any other supporting documentation necessary to inform us about the current status of the recommendation.
+
+Please send your response or closure request to OIGAuditsFollowup@oig.dhs.gov.
+
+Consistent with our responsibility under the Inspector General Act of 1978, we will provide copies of our alert to congressional committees with oversight and appropriation responsibility over the
+
+OIG Project No. 23-044-AUD-ICE (a)
+
+Department of Homeland Security. We will post the alert on our website for public dissemination.
+
+Please contact me with any questions, or your staff may contact Kristen Bernard, Deputy Inspector General for Audits, at (202) 981-6000.
+
+Attachment
+
+Office of Inspector General U.S. Department of Homeland Security | Washington, DC 20528 | www.oig.dhs.gov 2
+
+Summary of Issues
+
+U.S. Immigration and Customs Enforcement (ICE) could not monitor the location and status of all unaccompanied migrant children (UCs) or initiate removal proceedings as needed. During our ongoing audit to assess ICE’s ability to monitor the location and status of UCs who were released or transferred from the custody of the Department of Homeland Security and U.S. Department of Health and Human Services (HHS), we learned ICE transferred more than 448,000 UCs to HHS from fiscal years 2019 to 2023. However, ICE was not able to account for the location of all UCs who were released by HHS and did not appear as scheduled in immigration court. ICE reported more than 32,000 UCs failed to appear for their immigration court hearings from FYs 2019 to 2023.
+
+Additionally, even though HHS is responsible for the care and custody of UCs, ICE did not always inform HHS’ Office of Refugee Resettlement (ORR) when UCs failed to appear in immigration court after release from HHS’ custody. ICE Enforcement and Removal Operations (ERO) officers at only one of the eight field offices we visited stated they attempted to locate the UCs. ICE also did not serve a Notice to Appear (NTA) on all UCs, after release from HHS custody, who warranted placement in removal proceedings under 8 U.S. Code Section 1229(a). As of May 2024, ICE had not served NTAs on more than 291,000 UCs who therefore do not yet have an immigration court date.
+
+These issues occurred, in part, because ICE does not have an automated process for sharing information internally between the Office of the Principal Legal Advisor (OPLA) and ERO, and externally with stakeholders, such as HHS and the Department of Justice (DOJ), regarding UCs who do not appear in immigration court. Additionally, ICE ERO has not developed a formal policy or process to follow up on UCs who did not appear in court, has limited oversight for monitoring UCs, and faced resource limitations.
+
+ICE must take immediate action to ensure the safety of UCs residing in the United States. Based on our audit work and according to ICE officials, UCs who do not appear for court are considered at higher risk for trafficking, exploitation, or forced labor. Although we identified more than 32,000 UCs who did not appear for their immigration court dates, that number may have been much larger had ICE issued NTAs to the more than 291,000 UCs who were not placed into removal proceedings. By not issuing NTAs to all UCs, ICE limits its chances of having contact with UCs when they are released from HHS’ custody, which reduces opportunities to verify their safety. Without an ability to monitor the location and status of UCs, ICE has no assurance UCs are safe from trafficking, exploitation, or forced labor.
+
+www.oig.dhs.gov 1 OIG-24-46
+
+Background
+
+ICE enforces U.S. immigration laws to preserve national security and public safety. Within ICE, ERO protects the homeland by arresting and removing individuals who undermine the safety of our communities and the integrity of our immigration laws. OPLA represents DHS in immigration proceedings involving noncitizens, including UCs. The Homeland Security Act of 20021 defines UCs as minors who have no lawful immigration status in the United States, have not attained 18 years of age, and have no parent or legal guardian in the country available to provide care and physical custody. Once migrants, including UCs, are released from DHS custody, ICE ERO is responsible for managing and monitoring their immigration cases, and initiating removal proceedings where appropriate.
+
+After DHS apprehends UCs, they are generally transferred by ICE to HHS ORR. Pursuant to the Homeland Security Act of 2002,2 ORR is responsible for the care and custody of UCs awaiting immigration proceedings. This includes placing UCs in shelters and with qualified sponsors. ORR usually retains custody until UCs are released to the care of a sponsor, transferred to foster care, or turn 18 years old. According to ICE data, ICE transferred 448,820 UCs into the care and custody of HHS ORR from FY 2019 through FY 2023. Table 1 shows the number of UCs ICE transferred to ORR by FY.
+
+Table 1. UCs transferred to ORR, FYs 2019-2023
+
+FY UCs released to ORR FY 2019 67,987 FY 2020 15,128 FY 2021 120,859 FY 2022 127,057 FY 2023 117,789
+
+Total 448,820
+
+Source: DHS OIG analysis of ICE data
+
+Although ORR is responsible for the care and custody of UCs, ICE retains responsibility for managing their immigration cases.3 ERO officers and Field Office Juvenile Coordinators are
+
+1 Homeland Security Act of 2002, Pub. L. No. 107-296, Section 462(g)(2). 2 Homeland Security Act of 2002, Pub. L. No. 107-296, Section 462(a). This responsibility was also outlined in the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, Pub. L. 110–457, Title II, Subtitle D, §235(b)(1).
+
+www.oig.dhs.gov 2 OIG-24-46
+
+responsible for managing UC dockets, or cases, in their local area of responsibility, including ensuring UCs are properly served NTAs for immigration court. According to ERO’s Field Office Juvenile Coordinator handbook, proper case management includes monitoring the status of UCs in immigration proceedings and documenting case updates in ICE systems. ERO is also responsible for removing UCs who have final orders of removal from DOJ or who have been granted voluntary departure.
+
+4
+
+ICE Cannot Monitor Location and Status of All Unaccompanied Migrant Children Released from HHS’ Custody
+
+In 2008, Congress mandated certain Federal agencies, including DHS, HHS, and DOJ, establish policies and programs to ensure UCs are protected from traffickers and other persons who seek to victimize UCs in criminal, harmful, or exploitative activity.5 In December 2023, OPLA implemented new guidance6 to promote consistency in handling UCs in immigration proceedings. Per the new guidance, if a UC fails to appear in court, OPLA must re-check the UC’s address information,7 in coordination with ERO. OPLA officials further explained attempts to identify a UC’s current location should include external coordination with HHS and updating its case management system. Additionally, ERO officers should disclose information on UCs who fail to appear in court to HHS officials via email.
+
+Despite its responsibilities for overseeing UCs through the immigration process, we found ICE cannot always monitor the location and status of UCs once they were released from DHS and HHS custody. Even though OPLA issued new guidance to verify the location of UCs who failed to appear for their court hearings and improve
+
+ICE reported from FY 2019 to 2023, more than 32,000 UCs failed to appear for their immigration hearings.8
+
+3 Memorandums of Agreement (MOA) between DHS and HHS outline each agency’s responsibilities for UCs. The most recent MOA from 2021 removed information sharing provisions from the terminated 2018 MOA. The removed provisions related to the sponsor vetting process between ORR and DHS. For example, the MOA from 2021 eliminated the requirement that ORR provide ICE with biographic and biometric (fingerprints) information for all potential sponsors and adult members of their household.
+
+4 Juvenile and Family Residential Management Unit Field Office Juvenile Coordinator Handbook (2017, revised in November 2021).
+
+5 William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, Pub. L. 110–457, Title II, Subtitle D, § 235(c)(1) (codified at 8 U.S.C. § 1232(c)(1)).
+
+6 OPLA Memorandum on Guidance for Handling Juvenile Matters (December 21, 2023). 7 Although it is generally incumbent on a noncitizen to inform DOJ and DHS of any change of address after being issued an NTA by 8 U.S.C. § 1229(a)(1)(F)(ii) and 8 C.F.R § l003.15(d)(2), OPLA will re-verify a UC’s address information after an initial failure to appear to determine whether an address reflected in its records is different than the address on the NTA or the address on file with DOJ.
+
+www.oig.dhs.gov 3 OIG-24-46
+
+coordination with HHS, we found ICE often neither followed this guidance nor issued corresponding guidance for its officers in the field.9 We conducted site visits at four ICE locations across the country after the OPLA guidance was issued, but observed no change in local procedures based on the guidance. We met with ERO personnel at 10 field offices, including some virtually. Officers at only one location stated they attempted to locate UCs who did not appear in immigration court.
+
+ICE did not always alert HHS when UCs did not appear for immigration hearings. According to an ICE official, ICE is not required to share this information with HHS. HHS headquarters staff noted they were not made aware when UCs failed to appear in court but that having the information would be helpful. Although HHS has an electronic message inbox for ERO offices to inform HHS when UCs do not appear, an ERO headquarters official we interviewed was unaware if local ERO offices were using the inbox or how often ERO field staff sent information on court absences to the inbox. An HHS official we interviewed said despite the new process for increased coordination between ICE and HHS, ICE did not coordinate when UCs in the local area did not appear for court hearings. HHS officials stated they would like to collaborate more with DHS locally to help UCs.
+
+Finally, ICE has not served all UCs with NTAs. The William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 established requirements for UCs DHS seeks to remove to be placed in removal proceedings under Section 240 of the Immigration and Nationality Act, 8 U.S. Code Section 1229(a).10 Serving UCs with NTAs that are properly filed with DOJ initiates this process. As of May 2024, ICE had not served an NTA or scheduled a court date for more than 291,000 UCs. In each ICE location we visited, ERO could not serve NTAs on all UCs. At one location we visited, 34,823 (84 percent) of 41,638 UCs in the local area had not been served NTAs to initiate immigration proceedings.
+
+Factors Contributing to ICE’s Inability to Monitor Unaccompanied Migrant Children
+
+More than 90,000 of these UCs without NTAs crossed the border in 2021 and still do not have a date to appear in court.
+
+ICE does not have an automated process for sharing information internally between OPLA and ERO and externally with stakeholders, such as HHS and DOJ, regarding UCs who do not appear in immigration court. Further, ICE ERO has limited oversight for monitoring UCs and has not developed a formal policy or process to follow up on UCs who did not appear in court. As we
+
+9 According to an ERO official, ERO Headquarters is in the process of drafting field guidance to align with OPLA’s guidance.
+
+www.oig.dhs.gov 4 OIG-24-46
+
+noted in a previous audit report,11 ICE still lacks adequate staffing, which can limit officers’ time and ability to check the location or immigration case status of migrants. Resource constraints also impact ERO’s ability to issue NTAs to all UCs after their release from HHS’ custody.
+
+ICE Cannot Accurately or Effectively Share Court Information on Unaccompanied Migrant Children Released from DHS and HHS Custody
+
+ICE did not have an accurate, effective, or automated process for sharing information internally between OPLA and ERO, and externally with stakeholders, such as HHS and DOJ, for UCs who fail to appear for immigration hearings. When a UC fails to appear, OPLA is responsible for manually updating its case management system, the Principal Legal Advisor’s Network (PLAnet), to indicate the UC’s absence. However, ICE data did not include all UCs failing to appear in court. We conducted data analysis and determined OPLA data only included 28,000 UCs who did not appear for their court date. ERO officials reported a difference of more than 4,000 UCs who did not appear in court based on DOJ data.12 Although OPLA data is what ERO officers in the field relied on to determine court appearances, OPLA officials acknowledged the data is unreliable.
+
+Neither ERO’s ENFORCE Alien Removal Module (EARM) nor OPLA’s PLAnet automatically notifies ERO or ORR when UCs do not appear in court. Instead, ICE relies on manual, multi-step processes to share information on UCs who do not appear in court.13 As part of the process, ERO officers search for each UC in PLAnet, as time allows, to determine whether the UC appeared and then enter the UC’s status into EARM.
+
+Due to lack of automated information sharing processes, ICE field offices developed manual techniques to share information about UCs who did not appear in court. At one field office, an OPLA attorney created a local workaround with a spreadsheet to monitor the status of UCs and shared this information via email with local ERO officers. ICE officials in the field and at headquarters noted automatic sharing of this information between EARM and PLAnet would help reduce reliance on manual workarounds such as spreadsheets and emails. ICE and ORR also rely on email to share information about UCs who do not appear for their hearings, if the information is shared at all. ERO periodically analyzes UCs cases in a DOJ system. According to an ICE official, ICE does not have an automated process for receiving information from DOJ to determine UCs who failed to appear for immigration hearings.
+
+11 DHS Does Not Have Assurance That All Migrants Can be Located Once Released into the United States, OIG-23-47, September 2023.
+
+www.oig.dhs.gov 5 OIG-24-46
+
+ICE Had Limited Oversight and Guidance for Unaccompanied Migrant Children Who Fail to Appear in Court
+
+ICE ERO has limited oversight of UCs and did not have a policy or process to address UCs who failed to show up for their immigration court hearings. Unlike adult migrants, UCs are not required to check in with ERO at any point between their apprehension and court appearance. In some cases, HHS personnel14 and ERO officers15 said they never see the UCs before or after HHS releases the UCs to sponsors. OPLA staff may be the only ICE officials UCs ever see in person, and this touchpoint only occurs if the UCs are served NTAs and appear for their hearings.
+
+OPLA created guidance16 for handling immigration proceedings involving UCs, including procedures when UCs do not appear in court. Although the OPLA guidance references ERO,17 ERO has not formalized the process with steps to take after UCs fail to appear, such as checking to see if the UC has a new address or notifying HHS. OPLA officials explained DOJ, HHS, and DHS OPLA and ERO agreed to coordinate when a UC fails to appear for court, however this agreement and related process has not been documented in a formal policy or guidance. Without a formal policy, ERO field offices did not have a standard process to follow up on UCs who did not appear for court. According to an ERO official, field offices may be creating local procedures to handle this process. ICE personnel were also unsure what OPLA’s guidance required once a UC did not show up for court. For example, at one location we visited in April 2024, OPLA attorneys said there was limited guidance on responsibilities based on OPLA’s December 2023 guidance.
+
+According to OPLA officials, ICE ERO has no authority over UCs beyond managing their immigration cases. Therefore, even if ICE were to identify UCs in unsafe conditions, the agency has limited authority to respond. ICE personnel at two field offices affirmed this and explained they had identified UCs in unsafe conditions but were unable to intervene. One ICE officer expressed concern with not being able to take action in a case involving a UC whose sponsor claimed the UC was in an inappropriate relationship with her husband.
+
+14 According to HHS personnel, HHS’ contractors are responsible for the care of UCs in HHS custody. Contractors are also responsible for the evaluations and checks to determine placement locations with sponsors.
+
+15 ERO officers may see a UC under 14 years old when personally serving an NTA to the person in charge of the ORR facility where the UC is housed.
+
+16 OPLA Memorandum on Guidance for Handling Juvenile Matters (December 21, 2023).
+
+17 The guidance states OPLA will inform the local ERO Field Office Juvenile Coordinator of the juvenile noncitizen’s failure to appear. While ERO searches for an alternate address for the juvenile noncitizen, OPLA will simultaneously review the A-file, databases, and Verification of Release form to verify the address of record, as well as the address included in the NTA. If either OPLA or ERO locates an alternate address for the juvenile noncitizen, ERO will complete a Form I-830, Notice to Executive Office for Immigration Review: Alien Address, and provide it to OPLA to file with the immigration court.
+
+www.oig.dhs.gov 6 OIG-24-46
+
+Conclusion
+
+Based on our audit work and according to ICE officials, UCs who did not appear in immigration court are considered more at risk for trafficking, exploitation, or forced labor. Immigration court hearings are often ICE’s only opportunity to observe and screen UCs for trafficking indicators or other safety concerns. By not issuing NTAs to all UCs, ICE limits its chances of having contact with UCs when they are released from HHS’ custody, which reduces opportunities to verify their safety. Similarly, when ICE does not share information with HHS regarding UCs who did not appear for hearings, HHS personnel are unable to determine if UCs need wellness checks or postrelease services for individuals at an increased risk of being trafficked. Without an ability to monitor the location and status of UCs, ICE has no assurance UCs are safe from trafficking, exploitation, or forced labor.
+
+Recommendations
+
+Recommendation 1: We recommend the Deputy Director and Senior Official Performing the Duties of the Director for ICE evaluate the use of manual processes for information sharing within ICE and with other stakeholders, such as the Department of Justice; identify funding; then develop and implement an automated system to document court appearances and maintain address information of unaccompanied migrant children.
+
+Recommendation 2: We recommend the Deputy Director and Senior Official Performing the Duties of the Director for ICE develop and implement a formal process to identify unaccompanied migrant children who fail to appear for immigration hearings, and share this information internally within ICE and externally with the U.S. Department of Health and Human Services.
+
+Management Comments and OIG Analysis
+
+ICE concurred with our recommendations. Appendix B contains a copy of ICE’s response in its entirety. We did not receive any technical comments from ICE requiring revisions to the report. We consider recommendation 1 open and unresolved and recommendation 2 open and resolved. A summary of ICE’s response to the recommendations and our analysis follows.
+
+ICE Response to Recommendation 1: Concur. ICE ERO will evaluate options to automate internal data sharing between ICE OPLA, ERO systems, and other stakeholders such as the Department of Justice. Once identified, options will be briefed to ICE leadership to decide whether to pursue implementing an automated system given competing mission priorities and demands, as well as the availability of resources and funding. Estimated Completion Date (ECD): December 31, 2024.
+
+www.oig.dhs.gov 7 OIG-24-46
+
+OIG Analysis: ICE’s corrective action plan to evaluate options to automate internal data sharing between ICE OPLA, ERO systems, and other stakeholders meets the intent of the recommendation. However, we consider this recommendation open and unresolved until ICE confirms when it will implement the automated process for sharing information to address the challenges laid out in this alert. Implementation of an automated system to share data with ICE stakeholders is essential to share up to date and accurate court appearance information.
+
+ICE Response to Recommendation 2: Concur. ICE ERO and OPLA created a new formal process to identify UCs who did not appear for immigration hearings, which will include notifying ORR. ICE ERO will disseminate a broadcast message in August 2024 requiring notification to ORR when a UC fails to appear at a scheduled hearing. ORR has established a public-facing email inbox for ICE to communicate with ORR about UCs failures to appear. ECD: December 31, 2024.
+
+OIG Analysis: ICE provided a corrective action plan and an ECD that satisfy the intent of the recommendation. We consider this recommendation resolved and open until we receive documentation demonstrating the deployment and use of the new formal process to identify UCs who did not appear for immigration hearings.
+
+www.oig.dhs.gov 8 OIG-24-46
+
+Appendix A Objective, Scope, and Methodology
+
+The Department of Homeland Security Office of Inspector General was established by the Homeland Security Act of 2002 (Pub. L. No. 107−296) by amendment to the Inspector General Act of 1978.
+
+We issued this management alert as part of an ongoing audit of ICE’s ability to monitor UCs who were released from DHS and HHS custody between FYs 2019 and 2023. The objective of our ongoing audit is to determine ICE’s ability to monitor the location and status of UCs once released or transferred from DHS and HHS’ custody. As part of our audit, between October 2023 and May 2024, we:
+
+• Interviewed more than 100 officials from ICE ERO, OPLA, Homeland Security Investigations, and the Center for Countering Human Trafficking, as well as external stakeholders from DOJ and HHS. The interviews included meetings with ICE field offices located in Miami, Los Angeles, St. Paul (Minnesota), Philadelphia, San Diego, Baltimore, Houston, Dallas, New York, and Chicago.
+
+• Reviewed relevant laws, reports, and policies, such as the Homeland Security Act of 2002, Immigration and Nationality Act, appropriations acts, prior DHS and HHS OIG reports, and internal ICE policies and handbooks. Additionally, we reviewed and analyzed multiple memorandums of agreement between DHS and HHS regarding UCs.
+
+• Reviewed and analyzed ICE data to determine the number of UCs ICE released to ORR from FY 2019 through FY 2023, UCs not served NTAs to date, and UCs who did not appear in court.
+
+We conducted this work pursuant to the Inspector General Act of 1978, 5 U.S.C. §§ 401-424, and in connection with an ongoing audit being performed according to generally accepted government auditing standards. Those standards require we plan and perform our audit work to obtain sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+
+Additional information and recommendations related to the issues addressed in this management alert may be included in the report resulting from our audit.
+
+www.oig.dhs.gov 9 OIG-24-46
+
+DHS OIG Access to DHS Information
+
+During this audit, DHS provided timely responses to the information we requested and did not delay or deny DHS OIG’s access to DHS information.
+
+www.oig.dhs.gov 10 OIG-24-46
+
+Appendix B: ICE Comments on the Draft Management Alert
+
+www.oig.dhs.gov 11 OIG-24-46
+
+www.oig.dhs.gov 12 OIG-24-46
+
+www.oig.dhs.gov 13 OIG-24-46
+
+Appendix C: Alert Distribution
+
+Department of Homeland Security
+
+Secretary Deputy Secretary Chief of Staff Deputy Chiefs of Staff General Counsel Executive Secretary Director, GAO/OIG Liaison Office Under Secretary, Office of Strategy, Policy, and Plans Assistant Secretary for Office of Public Affairs Assistant Secretary for Office of Legislative Affairs ICE Deputy Director and Senior Official Performing the Duties of the Director ICE Component Liaison
+
+Office of Management and Budget
+
+Chief, Homeland Security Branch DHS OIG Budget Examiner
+
+Congress
+
+Congressional Oversight and Appropriations Committees
+
+www.oig.dhs.gov 14 OIG-24-46
+
+Additional Information
+
+To view this and any other DHS OIG reports, Please visit our website: www.oig.dhs.gov
+
+For further information or questions, please contact the DHS OIG Office of Public Affairs via email: DHS-OIG.OfficePublicAffairs@oig.dhs.gov
+
+DHS OIG Hotline
+
+To report fraud, waste, abuse, or criminal misconduct involving U.S. Department of Homeland Security programs, personnel, and funds, please visit: www.oig.dhs.gov/hotline
+
+If you cannot access our website, please contact the hotline by phone or mail:
+
+Call: 1-800-323-8603
+
+U.S. Mail: Department of Homeland Security Office of Inspector General, Mail Stop 0305 Attention: Hotline 245 Murray Drive SW Washington, DC 20528-0305

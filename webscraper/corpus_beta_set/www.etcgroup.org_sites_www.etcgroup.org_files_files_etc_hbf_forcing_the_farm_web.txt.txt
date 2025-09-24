@@ -1,0 +1,731 @@
+no_title
+
+FORCING THE FARM How Gene Drive Organisms Could Entrench Industrial Agriculture and Threaten Food Sovereignty
+
+About ETC Group: ETC Group works to address the socioeconomic and ecological issues surrounding new technologies that could have an impact on the world’s marginalized people. It operates at the global political level and works closely with partner civil society organizations (CSOs) and social movements, especially in Africa, Asia and Latin America. ETC Group is headquartered in Val David, Canada, and Davao, Philippines, with offices in Mexico City and Guelph, Canada.
+
+ETC Group acknowledges support from the Frontier Co-op Giving Fund, the CS Fund, the AgroEcology Fund, the 11th Hour Project, Threshold Foundation and Nell Newman Foundation in our ongoing work on synthetic biology. Contact us at: www.etcgroup.org and via email at etc@etcgroup.org Report design: Cheri Johnson Cover design: Stig Gene-Driven Farm Infographic: Garth Laidlaw
+
+Heinrich Boll Foundation: Fostering democracy and upholding human rights, taking action to prevent the destruction of the global ecosystem, advancing equality between women and men, securing peace through conflict prevention in crisis zones, and defending the freedom of individuals against excessive state and economic power – these are the objectives that drive the ideas and actions of the Heinrich Böll Foundation. We maintain close ties to the German Green Party (Alliance 90 / The Greens) and as a think tank for green visions and projects, we are part of an international network encompassing well over 100 partner projects in approximately 60 countries. The Heinrich Böll Foundation works independently and nurtures a spirit of intellectual openness. www.boell.de/en
+
+Forcing The Farm
+
+How Gene Drive Organisms Could Entrench Industrial Agriculture and Threaten Food Sovereignty
+
+October, 2018
+
+Contents
+
+In Brief............................................................................................................................................................................... 2
+
+1. Introduction....................................................................................................................................................................4
+
+2. A technical fix déjà vu................................................................................................................................................ 6
+
+3. Behind rare bird............................................................................................................................................................. 8
+
+4. Gene drive visions warp future of farming.......................................................................................................13
+
+a) Weeds and Pests.....................................................................................................................................................13
+
+i. Fruit flies — Drosophila suzukii.....................................................................................................................17
+
+ii. Moths......................................................................................................................................................................18
+
+iii. Aphids...................................................................................................................................................................19
+
+iv. Plant hopper.......................................................................................................................................................19
+
+v. Red flour beetle..................................................................................................................................................19
+
+vi. Whitefly...............................................................................................................................................................20
+
+vii. Rodents..............................................................................................................................................................20
+
+viii. Nematodes.......................................................................................................................................................21
+
+ix. Candida albicans..............................................................................................................................................21
+
+b) Engineering pests to avoid crops.....................................................................................................................21
+
+c) Herbicide resistance..............................................................................................................................................22
+
+d) Enabling new (and old) agricultural chemicals..........................................................................................22
+
+e) Speeding up breeding/spreading GMO traits.............................................................................................22
+
+f) Controlling and directing ‘ecological services’............................................................................................23
+
+g) Removing genetic pollution...............................................................................................................................24
+
+5. Technology out of control?....................................................................................................................................25
+
+Biosafety threats and ecological risks.................................................................................................................25
+
+Implications for agroecological, organic and peasant agriculture and the need for free prior and informed consent.....................................................................................................................................28
+
+6. Acting ethically........................................................................................................................................................... 30
+
+Eight Recommendations........................................................................................................................................ 30
+
+1. Stop ‘driving’ – call for a moratorium on gene drive release........................................................... 30
+
+2. Agree safe containment rules.......................................................................................................................31
+
+3. Put in place monitoring and assessment and demonstrate reversal methods.........................31
+
+4. Ensure free, prior and informed consent of all affected communities.........................................31
+
+5. Prohibit military ‘dual use’ and protect the right to food..................................................................31
+
+6. Learn from history – enable society to reflect on the past..............................................................32
+
+7. Practice Precautionary Science...................................................................................................................32
+
+8. Examine the implications for World Food Security and the Right to Food and Nutrition..........................................................................................................................................32
+
+References.....................................................................................................................................................................33
+
+In brief: Gene drives, food and agriculture
+
+aren’t quite as well behaved as their Mendelian models intended. What if genes for female sterility, for instance, which have been shown to eliminate mosquito populations in the lab, transferred to species that pollinate our crops or are a food source for birds, reptiles, even humans? What if genes that were beneficial became disabled, or if genetic disruption increased the prevalence or altered patterns of diseases?
+
+ISSUE
+
+The first attempt to use genetic engineering technologies on the farm involved altering common crops to be resistant to pests or weed-killers. This genetically modified (GM) crop approach ran into problems when many consumers didn’t buy GM foods and farmers found the promised benefits only materialised, if at all, in the shortterm. Now biotechnologists are contemplating a new strategy – to engineer newly developed invasive forms of genetic modifications to control insects, weeds and create new monopolies. Their plan is to use what has been dubbed a gene drive or ‘genetic forcer’ (see Box 1). Experiments with Gene Drive Organisms (GDOs) are aimed at designing creatures that automatically spread their engineered genes across whole habitats and ecosystems. They could, it is claimed, make some of our key agricultural pests extinct, reduce the need for pesticides and speed up plant breeding programmes. According to some of their proponents, gene drives could even be compatible with non-GMO and organic farming.
+
+Once the gene drive genie has been let out of the bottle, no one has actually worked out how it might be put back in again.
+
+The logic of using GDOs in agriculture relies on the continued deception that exceedingly complex problems in the food system can be resolved simply by new high-tech innovations.
+
+ACTORS
+
+Currently, publicly announced gene drive projects are funded with a quarter of a billion US dollars, led by the military research agency of the United States government (DARPA), the Bill and Melinda Gates Foundation, The Tata Trusts and the Facebook-backed Open Philanthropy Project. Yet leading gene drive promoters acknowledge in private and in their patents that the commercial goal will be in agribusiness.
+
+RISK
+
+The potential for the creation of invasive GDOs capable of spreading engineered genes in the wild takes one of the worst scenarios envisaged for genetically modified organisms (GMOs) and turns it into a deliberate industrial strategy. While firstgeneration GMOs mostly spread engineered genes by accident, GDOs will be designed to do their own engineering among wild populations out in the real world. Their spread to those populations would be deliberate. Scientists behind gene drives have only just begun to ask what would happen if the genes
+
+It is no surprise then that a low-profile network of agriculturally driven gene drive research is growing. The world’s first start-up company focused on agricultural gene drives, Agragene, is joined by a clutch of crop commodity groups such as the California Cherry Board and the US Citrus Research
+
+Board, as well as livestock breeders, who see gene drives as an exciting magic bullet for their onfarm challenges. Meanwhile, major agribusinesses such as Monsanto-Bayer, Syngenta-ChemChina, DowDuPont (now Corteva Agriscience) and Cibus lurk in the shadows of gene drive policy discussions, advised by scientists and PR advisers to keep a low profile for now.
+
+and international levels, questions of technology assessment and societal consent have yet to be formally addressed.
+
+The UN Convention on Biological Diversity has moved the question of gene drive governance to the centre of its deliberations and the topic will dominate talks in Egypt in November 2018, where a moratorium will be on the table as well as calls for free prior and informed consent by affected peoples including farmers.
+
+POLICIES
+
+Gene drives are designed to be invasive: to persist and to spread. While gene drive developers claim that there may be ways to effectively contain gene drive organisms in the future, these hypothetical claims and assumptions need to be rigorously examined and tested. In the meantime, precaution and justice requires a moratorium on any releases. Strict laboratory handling and containment rules for all gene drive research must be internationally agreed and put into practice before further research can proceed even in the lab. At present, it appears possible to develop new GDOs without them being subject to any specific biosafety regulations. In some jurisdictions, such as Brazil, it is not even clear whether they will be subject to the weak biosafety rules that controlled the development and use of GMOs.
+
+This report is being issued as an alert to governments, civil society organisations and grassroots movements. It points to how gene drives, while promoted as a tool for medicine and conservation, will find their real use in food and farming by agribusiness. It calls for a pause in applied research in gene drives and a halt on releases to the environment until a thorough and public process of dialogue has taken place and rules are established that ensure clear consent and defence of food sovereignty.
+
+Technologies that originate in the laboratory, such as GMOs and now gene drives, ignore deepseated injustices and power imbalances which require political answers and democratic scrutiny, rather than technical quick-fixes. At both national
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 3
+
+1. Introduction
+
+Half a century ago, bioscientists made the first deliberate snip in the genetic code of a living organism. By developing techniques to remove and insert sections of DNA ribbon, they launched a new phase in the industrialisation of life that has already begun to modify food, trade, land use, livelihoods, cultures and the genetic characteristics of the living world. The uptake by farmers of genetically modified organisms (GMOs), often without their fully informed consent and usually with mixed results, still makes billions of dollars for huge agrichemical corporations, such as Monsanto (now Bayer) and Syngenta (now Sinochem-ChemChina). More recently, however, uptake of GMOs has levelled off as the predicted risks have become evident, such as the intensification of the treadmill of increased use of toxic chemicals.1 With the arrival of so-called ‘gene editing’ techniques, and particularly what their proponents call ‘gene drives,’ Big Ag is shifting strategy and hopes to pick up the pace once again.
+
+experiments, this technology is so potentially powerful and disruptive that Big Ag cannot afford not to undertake research on its potential. Moreover, gene drives offer agribusiness new potential opportunities to generate income from the problems faced by farmers.
+
+Figure 1: How gene drives differ from normal (i.e. Mendellian) inheritance, using flies as an example.
+
+Normal inheritance in 4 generations of flies:
+
+Modified Insect Wild Insect
+
+NATURAL PROCESS
+
+Altered gene does not spread to all offspring
+
+Gene drive inheritance in 4 generations of flies:
+
+Gene drive organisms (GDOs) are organisms that are supposed to reliably force one or more genetic traits onto future generations of their own species. The term for gene drives used by French scientists, ‘Forçage Génétique’ (genetic forcer) makes the intention clear: to force a human-crafted genetic change through an entire population or even an entire species. If they work, and that is not guaranteed at present, GDOs could accelerate the distribution of corporate-engineered genes from the lab to the rest of the living world at dizzying speed and in a potentially irreversible process.
+
+Insect with Gene Drive Wild Insect
+
+GENE DRIVE
+
+Altered gene always spreads to all offspring
+
+As this powerful technique has burst upon science, handmaidens of the biotech industry have worked to spread promises that GDOs can be harnessed for the common good – from grand dreams of stopping malaria to saving seabird eggs from rodents. However, the area of endeavour most likely to be impacted by the gene drive invention, with potentially dramatic consequences, has barely been whispered: agriculture and fisheries – the way we feed ourselves – could be fundamentally transformed by gene drives.
+
+The gene drive above is designed to change the colour of flies. Once it is inserted into a single fly, the gene drive will force that fly’s offspring to inherit and express this genetic trait and reliably pass it on to their offspring. In time, the coloured fly trait will spread to the full population of flies. Image: Friends of the Earth
+
+The foundational patents for gene drives are largely written with agricultural applications in mind. One of the first two start-up companies working on gene drives (Agragene) is focused specifically on agriculture. Agri-giants with investments in the underlying gene editing technology such as Bayer, Syngenta-Chemchina and Corteva (Dow/DuPont) have been quietly lobbying policymakers. Crop commodity groups are becoming bolder, funnelling public and private dollars into agricultural gene
+
+In fact, for all the rhetoric of using gene drives ‘in the wild,’ the industrial farm may prove to be the landscape where gene drives first make their impact. Though unproven outside a few lab
+
+drive experiments. Agricultural players and public labs are joining hands to develop agri-applications.
+
+Foregrounding only the best-case scenarios for a new technology makes for good public relations but bad governance. This was a painful lesson learned by governments following the global resistance to GMOs. Farmers and the wider public are so far being kept in the dark about gene drives, unable to judge the potential implications of a gene-forced food system.
+
+Despite these tell-tale signs, almost no one in food and farm policy fora has yet discussed GDOs in public. This report is an attempt to correct that omission, arguing that the technology should not applied without a full process of informed public consent.
+
+If GDOs are expected to play their biggest part in agriculture and food systems (as well as in possible military applications) then it follows that the global debate on gene drives should be led by considering the food and farming implications. Popular movements, farmers and those who care about farming, the right to safe healthy food and sustainable agriculture should demand an urgent and public debate on GDOs now.
+
+The absence of agriculture in discussions of gene drives to date is not an oversight. Mindful of the strong global opposition to genetic engineering in the food and agriculture sectors, promoters of this technology have stage-managed which of the narrowly-framed applications should be announced to the public and policymakers first so that proposals with greater likelihood of public support (those involving medical or conservation applications) lead and shape the public reception of the technology.
+
+Box 1: KEY TERMS
+
+Gene drive
+
+The term ‘gene drive’ refers to a technique intended to alter the genetic make-up of populations or a whole species by release of ‘engineered selfish genes.’ The term ‘selfish’ refers to the way one or more genetic traits spread across a population automatically with each successive generation. One of the pioneers of gene drives, Austin Burt of Imperial College, London, reported in 2003 that the technology raised the possibility of ‘manipulating natural populations’ and potentially ‘eradicating or genetically modifying particular species.’2
+
+Normally, offspring of sexually reproducing organisms have a 50:50 chance of inheriting a gene from their parents. Gene drives are designed to be an invasive technology, ensuring that, within a few generations, an organism’s entire offspring will bear the desired engineered gene (see Figure 1).
+
+The interest in harnessing gene drives has surged with the advent of CRISPR-Cas9 gene editing, which can be used to copy a mutation from one chromosome into another, creating synthetic or engineered gene drives.
+
+Gene drive organisms
+
+Gene drive organisms (GDOs) are organisms containing engineered gene drives. They are designed, over time, to replace non-GDO organisms of the same species in a population via an uncontrolled chain reaction. This ability may make them a far more dangerous biohazard than genetically modified organisms (GMOs). Samson Simon and colleagues at the German Federal Agency for Nature Conservation have found a total of five levels on which GDOs differ from the currently released GMOs.Their research concludes that “a clear understanding and analysis of these differences is crucial for any risk assessment regime and a socially acceptable and ethical evaluation that is vital for the application of [GDO] technology.”3
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 5
+
+There is a chance that gene drives could go nowhere – at least for the next decade. The manufacture of hype enables scientists to justify funding for projects that promise to be magic bullets,4,5 and gene drives certainly fit the pattern previously seen with the promotion of nuclear power too-cheap-to-meter, GMOs to feed the world and biofuels to solve global climate change. It may even be possible that some within the scientific community who still wish to impose GMOs onto food systems see a strategic benefit in the growing controversy about gene drives, believing that it can serve as a distraction in which older GMO technologies are repositioned as a less “radical” option than GDOs.
+
+2. A technical-fix déjà-vu
+
+Gene drive organisms are merely the latest in a volley of high-tech “magic bullets” that have been imposed on agricultural systems by industrial agriculture players as supposed solutions to ongoing food and agriculture crises. On the heels of failed promises of improved seed, pesticides and fertilizers in the Green Revolution, a series of genetically engineered crops was produced in the 1990s and 2000s. But the promised benefits largely failed to materialise.
+
+The idea that the life sciences might be able to harness what is now called a gene drive to alter populations at will was first raised in the 1960s.6 Now, recently-developed techniques in gene editing have made real, at least in the lab, what was previously only a theoretical possibility.
+
+While the media spotlight now rests on the potential for gene drives to be used to eliminate the species of mosquito that causes malaria in West Africa, another set of multimillion-dollar investments is focused on the development of GDOs for use in agriculture. Our report is thus intended to provide information that can support a strong precautionary response from civil society organisations and policymakers to the threats posed to agroecosystems and human health.
+
+The key genetic breakthrough that turned gene drives from theory to prototype came with a genetic engineering technique called CRISPR-Cas9. Not to be confused with the British word for potato chips, CRISPRs are genetic constructs that contain snippets of RNA derived from bacteria. Consisting
+
+of a guiding molecule called the single-guide RNA and the molecular scissors Cas9, the system can be programmed to cut DNA at a specific location and hence target specific sequences. So far, CRISPR-Cas9 has been shown to work in every organism that can be transformed with foreign DNA. The process is what some geneticists refer to as gene editing.
+
+natural genetic systems out in nature. Another example is the RNAi spray (where small strands of RNA are sprayed on the field to interfere with genetic systems in real time).9
+
+The CRISPR-Cas9 system of gene editing is now being used to make many types of GMOs (not just GDOs). However, using CRISPR-Cas9 (hereafter CRISPR for short) to produce deliberately engineered GDOs is the application technology with potentially the farthest-reaching consequences for agriculture.
+
+‘On a recent morning in San Francisco, CRISPR co-inventor Jennifer Doudna made a prediction: If she had to guess, CRISPR’s greatest effect on the planet will be in agriculture, she said.’7
+
+The first working gene drive using CRISPR was developed in 2014 by Ethan Bier and Valentino Gantz, insect geneticists from the University of California at San Diego. Working with fruit flies, they designed an operational CRISPR gene drive that turned all the flies and their offspring in their lab experiment yellow. Bier and Gantz dubbed this technique the ‘mutagenic chain reaction’ (because one genetic change in the population starts a chain reaction of changes across the generations). They also grandly described their breakthrough as the dawn of a new era of what they call ‘active genetics.’8 Unlike genetically engineering organisms in a laboratory, active genetics shifts the main site of genetic transformation from the lab to the natural environment – that is, the parent organism effectively genetically engineers its offspring. If they work, gene drive organisms would be effective because they actively change the genetics of populations when they are released in the environment (that is, replacing a population of one genotype with that of another genotype).
+
+‘Although CRISPR-Cas9 gene drives are constructed in the laboratory, GDOs are designed to genetically modify organisms [that live] in the wild. In fact, gene drives imply a shift from the release of a finished and tested [GMO] product to the release of an adjustable tool for genetic modification that is released into ecosystems.’
+
+GDOs are just part of new wave of genetic technologies that actively alter and interfere with
+
+—Simon et al., 201810
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 7
+
+application is taken up describing agricultural applications for the technology. Yet, in 2016 Esvelt told ETC Group that “agricultural applications should wait on public health and conservation applications simply because the benefits aren’t as clear to ordinary citizens and we will not repeat the GMO mess if I have anything to say about it.”In the phone interview, Esvelt was clear that in his view it would be a bad idea to talk publicly about the agricultural uses listed in his patent such as reversing herbicide resistance in weeds (see below). He explained colourfully that he “would not touch that with a ten-foot barge pole because it would only benefit Monsanto.”15
+
+3. Behind rare birds and woolly mammoths – How Big Ag hides its role
+
+Since their emergence in 2014, gene drives have become a public relations poster-child for the biotech industry. After the PR disaster that was GM crops, industry has used the technology to re-launch itself as socially useful. It has become an increasingly important investment vehicle, keeping funds flowing as income from chemicals and GM crops risk a long-term decline, as GM-free markets boom and consumer lawsuits proliferate.11
+
+Esvelt has expressed that he personally is not opposed in theory to private companies commercializing gene drives for agricultural purposes. Indeed, he expects there will eventually be for-profit companies using the technology for agriculture. In an interview for this report, Esvelt claimed that he had spoken with Monsanto (now Bayer), which had agreed to “steer well clear” of gene drive development until it was first established in applications related to health and conservation. A subsequent license on CRISPR technology granted to Bayer-Monsanto by The Broad Institute, which is associated with Esvelt’s current and previous employers, Harvard and MIT, explicitly excludes the commercial use of CRISPR for gene drive applications at this time.16
+
+Multimillion-dollar grants for gene drive development from the Bill & Melinda Gates Foundation, the Foundation for the National Institutes of Health, the Open Philanthropy Institute, the Wellcome Trust and the US Defense Advanced Research Projects Agency have included generous allowances for public message testing, public engagement exercises, lobbying and communications activities. For example, a key industrial agricultural lobbying firm, Emerging Ag Inc., received $1.6 million from the Bill & Melinda Gates Foundation to lead lobbying and communication activities to promote gene drives and influence UN meetings, including the creation of a ‘Gene Drive Outreach Network.’12 Curiously, despite the name and role of its host (Emerging Ag also administers the World Farmers’ Organisation – a well-known lobby group for agribusiness giants), the Outreach Network’s website and factsheets entirely fail to mention any proposed agricultural uses of gene drives, focusing only on ‘global health’ and ‘conservation’ uses.13 The public is promised that rare birds’ eggs can be protected by reducing rodent populations. Elsewhere, similar techniques are touted as meaning that woolly mammoths, driven to extinction by early humans, could potentially be brought back to life.14
+
+Esvelt is not alone. Freedom of Information documents obtained by a coalition of civil society organisations (of which ETC Group was a member) show gene drive developers warning each other that it would be counterproductive to talk about agricultural uses.17 In a July 2017 email to the GBIRd (Global Biocontrol of Invasive Rodents) gene drive team, Dan Tompkins of Landcare Research (New Zealand) said he favoured not mentioning gene drives in relation to agriculture because “many see conservation use as a backdoor for adoption for agricultural purposes, and this may expose the current GBIRd focus to undue flak.”
+
+This omission of agricultural uses in the promotion of GDOs is not accidental. It fits exactly with the priorities expressed by gene drive pioneers such as Kevin Esvelt of MIT. Esvelt is the named “inventor” on one of two key foundational patents on gene drives. More than a quarter of his 38-page patent
+
+GDO developers may be warning agribusiness and each other to keep a low profile on gene drives, but agribusiness is still actively engaging on the topic. If Bayer-Monsanto are indeed ‘steering well clear’ of gene drives it would be instructive to
+
+know what Tom Adams, Monsanto’s VP of Global Biotechnology, told a closed meeting of military scientists in June 2017. Emails obtained via requests made under US Freedom of Information laws reveal that a secretive group of military advisors known as the JASON Group produced a classified study on gene drives in 2017 that was commissioned by the US government. This study, which remains undisclosed to the public, was tasked to address “what might be realizable in the next 3-10 years, especially with regard to agricultural applications.”18 Emails show that the JASON study was informed by an initial two-day meeting of a select group of 12 invited gene drive researchers to which Tom Adams of Bayer-Monsanto gave an undisclosed presentation on crop science and gene drives.19 Among the handful of experts called to give evidence was Greg Gocal, Chief Scientific Officer of
+
+Cibus, an agricultural biotechnology firm that sells gene-edited canola and other crops.
+
+It is not clear what Cibus’s or Bayer-Monsanto’s precise interest or activities in gene drives are, but it appears they are not the only commercial actors closely tracking the field. Agribusiness majors including Syngenta and Corteva Agroscience have also been closely involved in US gene drive policy discussions.20 Towards the end of 2017, gene drive start-up Agragene was established in California under the same leadership as ‘active genetics’ company Synbal. According to MIT Technology Review, Agragene, whose co-founders are Ethan Bier and Valentino Gantz of University of California at San Diego, “intends to alter plants and insects” using gene drives.21
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 9
+
+Box 2: The commercial importance of going ‘local’
+
+Although still based in the lab, the first CRISPR-Cas9 gene drive organisms (GDOs) have been designed to spread and keep spreading. CRISPR-based GDOs are ‘global’ because they could spread indefinitely, which spurred for much alarm. In response, a theoretical set of ‘local’ GDOs are now being designed and are intended to spread only in a limited or targeted manner. Those promoting gene drives have repeatedly held up the promise of theoretical ‘local drives’ as a response to biosafety concerns about the dangers of permanent forms of ecological damage and associated economic disruption. MIT’s ‘Sculpting Evolution’ research group led by Kevin Esvelt is working on what they call a ‘daisy drive’ to solve this problem.22 Omar Akbari’s lab at University of California San Diego is working on a non-CRISPR alternative.23 However, to date no working ‘local’ or targeted drives have been reported and it is not possible to know whether either CRISPR or non-CRISPR GDOs could be localised in this manner.
+
+The very ‘localising’ techniques that proponents hope will make gene drives more acceptable to the public will also have the effect of making GDOs of far greater interest to both commercial and military players. Consider a gene drive that spreads to eradicate a pest, weed or even enhance a food crop. If it spreads by itself without stopping, then the developer can theoretically only sell it once, limiting its economic value. However, if the gene drive product spreads for only a limited area or time span, then the developer can sell the GDO to the same farmer repeatedly, just as seeds and pesticides are currently sold.
+
+As economists writing in the Journal of Responsible Innovation recently pointed out, “self-limiting gene drive applications would seem to be a pre-requisite for a purely commercial gene drive industry to develop and mature. With self-limiting technologies, individual releases would have spatial and temporal limits, so that a gene drive market could develop to service multiple locations or to deliver multiple releases over time in the same region.”24
+
+The same authors also observed that less limited gene drives could still be of interest to regional trade groups: “agricultural producers in a region could potentially fund a gene drive application privately, or with a mix of public and private funds, with deployment managed by local cooperatives or non-profit corporations, all potentially in a partnership with a government agency or for-profit enterprises.” Indeed, this model already appears to be emerging.
+
+Since 2013, the California Cherry Board (a producer group) has spent about one third of its budget on research to develop synthetic gene drives in the spotted wing fruit fly Drosophila suzukii and are now establishing a for-benefit corporation to manage the potential deployment of that technology. The US Citrus Research Board (CRB) is similarly undertaking research into gene drives in aphids that affect citrus crops. The Screwworm Barrier Maintenance Program in Panama (COPEG) is another semi-governmental regional research entity funded by the US that is experimenting with genetically engineered insects and showing interest in GDO approaches to this common pest that affects intensively-farmed livestock herds.
+
+It is hardly surprising that agribusiness players are interested in creating GDOs. With the technology being hyped as the next logical step in the intensification of agriculture, agribusiness leaders may feel they cannot afford to ignore it, lest their competitors gain a head start in the race to dominate the market. As a group of French researchers led by Virginie Courtier-Orgogozo recently concluded:
+
+and extractivism is a perfect match for the operating mode of gene drive.25
+
+Courtier-Orgogozo and her colleagues suggest that “in the future, gene drive could become a commonplace management technique for agribusiness, big or small, to edit the genome of the livings beings that hamper productivity.”26 Major agribusinesses are particularly well placed to move into the field since the technology originally emerged from insect geneticists – a research community with a long and deep affiliation with the pesticide industry. Two GM insects, the pink bollworm and diamondback moth, are already being tested commercially (without gene drives for now) on US farmland for agricultural purposes.27
+
+The time frame of gene drive perfectly fits the economic development strategies dominant today in agribusiness, with a focus on shortterm return on investments and disdain for long-term issues. The current economic system based on productivity, yields, monoculture,
+
+Figure 2: Select Investments in Gene Drives (2017)
+
+Funder Recipient Value (US $)
+
+DARPA Various projects including ‘Safe Genes’ 65-100 million
+
+Gates Foundation Target Malaria 75 million
+
+Tata Trusts Center for Active Genetics 70 million
+
+Open Philanthropy Project Target Malaria 17.5 million
+
+Gates Foundation Foundation for the National Institutes of Health 9.43 million
+
+Gates Foundation Massachusetts General Hospital Corporation 2.587 million
+
+Open Philanthropy Project NEPAD/African Union 2.35 million
+
+Gates Foundation Emerging Ag Inc 1.6 million
+
+Paul G Allen Frontiers Group Center for Active Genetics 1.5 million
+
+California Cherry Board UC Riverside 500,000 so far (approx)
+
+MaxMind MIT and George Washington University (for
+
+100,000
+
+Schistosomiasis)
+
+Funding for gene drives research, in order of value
+
+Source: African Centre for Biodiversity, ETC Group and Third World Network, ”Synthetic Gene Drives: Genetic Engineering Gone Wild,” Building International Capacity in Synthetic Biology Assessment and Governance Briefing, 2018.
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 11
+
+Box 3: Genomes as spectrum – a new business model for gene drives in agriculture?
+
+Releasing limited local or targeted gene drive organisms as a service may be the most obvious business model for agricultural use, but making money from ‘global drives’ may also be possible for gene drive companies. Some early proposals for GDO development hint at a more radical business model that borrows the imagery of apps and internet 2.0 from the world of broadcast media. Software companies commonly distribute their apps freely online or bundled with widely distributed operating systems but then require users to pay to unlock certain valuable features or uses. In the same way, biotech companies may choose to freely and widely release their biotech apps as GDOs that integrate themselves into the genomes of wild organisms but are designed so that taking advantage of the GDO requires paying for a proprietary co-product that unlocks its value.
+
+Two examples illustrate this approach: Esvelt and others have proposed that so-called ‘sensitizing’ gene drives could be released into weed or pest species that make those species susceptible to a particular chemical compound, such as a herbicide or pesticide – for example, re-sensitizing pigweed (Amaranthus palmeri) to Bayer-Monsanto’s Roundup (glyphosate) or to a new proprietary chemical. This approach would enable the manufacturer of the compound (in this case Bayer-Monsanto) to sell their proprietary chemical as perfectly matched to the wild weed species. Whereas Bayer-Monsanto previously made its crop seeds ‘Roundup Ready’ (that is, resistant to glyphosate) to boost glyphosate sales, now it is the weed itself that becomes ‘ready’ to wilt in response to Roundup. When weeds are not totally eradicated, they may evolve to become resistant once again to the herbicide of interest. In such a situation the gene drive is only a temporary solution and would have to be applied repeatedly. Such a strategy could be part of the business model corporations like Bayer-Monsanto have in mind.
+
+A second dramatic, if speculative, example is a patent associated with Elwha LLC (see Section 4f below) that proposes releasing an optogenetic (light controlled) gene via gene drive into all honey bees or into certain pest species so that the bees or pests become susceptible to particular light frequencies. In one possible gene drive scenario, farmers could be sold a proprietary light beam to attract these gene drive bees into their fields to pollinate crops, or alternatively to repel wild GDOequipped pests. The wider the gene drive spreads in wild insect populations, the more valuable it is to those selling the proprietary light beam.28
+
+In effect, proposals such as these would treat the genomes of wild organisms including weeds and insects like the electromagnetic spectrum in broadcast industries – a broadcast medium free for commercial companies to exploit to serve their business strategies. In this scenario, gene drive developers who can lodge their genetic ‘apps’ into this ‘genome spectrum’ of wild species via global gene drives may seize an advantage in selling their associated proprietary compounds, molecules, genetic molecules, and light beams into the agricultural marketplace. If such a broadcast model were to take hold, it would be possible to foresee competing gene drive developers jostling for space on the genomes of different wild species for their speculative profit-making ‘apps.’ It may become necessary to introduce regulation and licensing of wild ‘genomic spectrum’ much as broadcast regulators allocate the public spectrum of electromagnetic frequencies or as the Internet Corporation for Assigned Names and Numbers regulates the granting of internet domains. The ecological and biosafety implications of jamming wild organism genomes with multiple competing gene drive ‘apps’ are likely to be alarming.
+
+‘Given the lack of reliable modelling, it is safe to assume that normalising the use of CRISPR-based gene drive could lead to an ecological cacophony: every interest group in the agro-food industry editing the genome of those they call pests, spreading various mutations through gene drive, and causing long-term effects on the dynamics of ecosystems—and on the human populations depending on them.’
+
+—Virginie Courtier-Orgogozo et al.29
+
+this technology. Proposed targets for insect pest eradication using GDOs share many of the same targets as programmes using the sterile insect technique (SIT). Those developing GDOs are also interested in eradicating mammals that threaten storage of farmed goods such as the red flour beetle, mink or rodents that may cause damage to standing crops and stored grains.
+
+4. Gene drive visions warp the future of farming
+
+Gene drive scientists are rapidly beginning to explore a range of GDO applications, several of which are relevant to agriculture. The following section examines how GDOs are being seen as solutions to weed and pest problems and briefly describes nine example organisms that illustrate how agribusiness may envision gene drives being applied in the future of farming.
+
+While much gene drive development is currently being undertaken in insects and mammals, proponents also believe that theoretical ‘local drives’ may offer the opportunity to suppress and eradicate plant weed populations. Although to date no scientist has published proof of a working
+
+a) Weeds and Pests
+
+‘Wouldn’t it be lovely if we didn’t need to spray herbicides and pesticides in general but instead could just engineer the pests to suppress the local [pest] population or even better yet tweak them so they just didn’t like the taste?’
+
+­—Kevin Esvelt, Head of MIT Sculpting Evolution Group30
+
+Agribusiness has a long history of looking for products that will suppress or eliminate ‘pests,’ ’weeds’ and other organisms that disrupt the efficiency of industrial agricultural production. Insect geneticists have begun to explore whether GDO insects could carry auto-extinction genes (see Box 4) that would cause an agricultural or other ‘pest’ to be suppressed or eradicated.31
+
+Options for using gene drives to eradicate insects are most advanced because it is insect geneticists who have done the most work on developing
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 13
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 15
+
+gene drive in a plant species. Weed scientist Patrick Tranel at the University of Illinois. Tranel told The Western Producer that he is interested in introducing gene drives to dioecious weeds (that is, weeds where male and female parts occur in different plants).32 “We could (hypothetically) control maleness and make males the dominant trait in these weeds. We could release some males that are modified so that all of their progeny would be males,” according to Tranel. Tranel envisions that after a few generations it would be possible to eliminate female weeds from the population to drive the species to extinction. Tranel does have concerns about applying auto-extinction genes into weed species, however: ‘‘Maybe an argument could be made to (make) a mosquito extinct, but I’m not sure we could make an argument saying we want a (certain) weed species extinct,” noting that birds eat weed seeds and that weeds are part of the ecosystem. (See Box 5)
+
+patent application by Ethan Bier and Valentino Gantz lists more than 600 agricultural pests as targets.34 These patent applications demonstrate clearly how agricultural uses are firmly central in the thinking of gene drive developers.
+
+Box 4: Auto-extinction genes (AEGs)
+
+The release of GDOs, if they ‘work’, sets off a potentially unstoppable chain reaction. The release of a GDO containing genes to eradicate a particular species (e.g. a pest) could lead to the eventual extinction of that species worldwide. We use the term ‘auto-extinction genes’ (AEGs) to highlight the potentially uncontrollable nature of this process. It is important to recognize that extinction may not be the end result, even if it is desired. A phenomenon called ‘gene drive resistance’ may emerge to thwart the plans of would-be extinctors (see Box 6 below).
+
+The foundational patent application on RNAguided gene drives by Esvelt lists more than 180 agricultural weed species that might be targeted by CRISPR gene drives as well as 160 insect, mollusc and nematode pest species relevant to agriculture.33 A similarly foundational gene drive
+
+Each of the nine organisms has a reality-meter (Figure 3) as a rough indication of how far the technology has progressed towards release in the wild.
+
+Figure 3: A gene drive reality-meter
+
+Indicates how close gene drive organisms are to being released into agro-ecosystems, based on information in the public domain.
+
+KEY:
+
+Theoretical model: Model for use of gene drives in one or more species has been published.
+
+A
+
+C
+
+B D
+
+Funding and/or patent: Funding obtained or patent published.
+
+B
+
+Lab trials begun: Experiments to test the gene drive in the laboratory have begun.
+
+C
+
+A E
+
+Lab trials complete: Experiments to test the gene drive in the laboratory have been completed.
+
+D
+
+Release: Gene drive organism has been released in agro-ecosystems.
+
+E
+
+North America, and Europe. It has become a major new pest species in North America and Europe.
+
+i. Fruit flies — Drosophila suzukii
+
+This is the first time a commercially important pest species has begun to be modified in this way. Akbari claims GDOs are a precision tool that will be able to eliminate one species among thousands of others.36
+
+C
+
+B D
+
+More recently, a step towards the design of a gene drive has been taken in another genus of fruit fly, the medfly (Ceratitis capitata), a native of sub-Saharan Africa that has spread invasively to many parts of the world, including Australasia and North and South America. Angela Meccariello and colleagues report the successful adaptation of CRISPR-Cas9-based gene disruption in the medfly, which assists “progress towards novel genetic strategies for control of pest insects, such as gene drive.”37
+
+A E
+
+(Genus: Drosophila, Ceratitis and others)
+
+With an annual budget of $100,000 provided by the California Cherry Board since 2013, scientists at University of California, San Diego led by Research Data Analyst Anna Buchman and Omar Akbari, Assistant Professor of Entomology, have begun the process of transforming an invasive pest, the spotted wing fruit fly (Drosophila suzukii) into a GDO. They see this as a new method for manipulating populations of these invasive pests, which, according to Buchman, “don’t belong here in the first place.”35
+
+Building on earlier work in flour beetles and Drosophila melanogaster, the Akbari lab claims to have made a variation on gene drive that is a step towards reducing the risk of release of GDOs into the environment with the consequent risk of uncontrolled extinctions.38 He has bred Drosophila suzukii containing MEDEA (Maternal Effect Dominant Embryonic Arrest).39 A GDO featuring MEDEA would, in theory, require a large number of insects for the auto-extinction chain reaction to begin and hence be less prone to the extinction
+
+Drosophila suzukii is a pest that affects the productivity of peach, cherry and plum plantations in areas of industrialised agriculture in East Asia,
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 17
+
+of a species through accidental release. Akbari’s claims for MEDEA have not been replicated for Drosophila suzukii in any other lab. Nor has it been shown that a GDO containing MEDEA in Drosophila suzukii will act as expected when combined with an extinction gene, even in the laboratory.
+
+ii. Moths
+
+C
+
+B D
+
+Akbari has filed a US patent that covers the use of MEDEA not only in Drosophila suzukii but also in the Mexican fruit fly (Anastrepha ludens), the Caribbean fruit fly (Anastrepha suspense), the olive fruit fly (Bactrocera oleae, Dacus oleae), the West Indian fruit fly (Anastrepha oblique), the yellow fever mosquito (Aedes aegypti) and the mosquito Anopheles gambiae, one of the major vectors for malaria in sub-Saharan Africa.40
+
+A E
+
+The larval stages (often called worms) of many moths are pests of many cultivated plants and crops.
+
+A recent paper has used mathematical modelling to predict how a similar auto-extinction method might theoretically be confined.41 However, at this stage there is no evidence that such mechanisms would prevent the extinction chain reaction outside the lab.
+
+Fotini Koutroumpa and others at the French government’s National Institute for Agricultural Research (INRA) labs, have reported demonstrating that the CRISPR-Cas9 system is highly efficient for genome editing in the African cotton leafworm Spodoptera littoralis. This species has been labelled as a quarantine pest by the European and Mediterranean Plant Protection Organization and has also been listed as a highly invasive species in the United States.
+
+There are grounds for thinking a GDO could pass on auto-extinction genes (AEGs – see Box 4) to related species.42 Species boundaries are unclear or unknown for many species and interbreeding between closely related species (also referred to as sub-species) has been reported in some insects.43,44 Such interbreeding might not lead to any detrimental effect in non-GDOs. However, the self-replicating properties of GDOs and the potentially unlimited spread of AEGs in both time and space increases their potential to drive related species of fly to extinction, with potentially disastrous consequences for ecosystems and the human populations who rely on them.45,46
+
+Koutroumpa et al. believe they have made a step towards a potential gene drive in this species.47 Once this process has succeeded in one moth species, it will be easier to adapt the technology for other moth pests such as the gypsy moth, the larvae of which consume the leaves of more than 500 species of trees, shrubs and plants. The olfactory system of this species (Lymantria dispar) has already been lined up for gene drive treatment by the Esvelt lab.48 Another team at UC Irvine propose using gene drives to control the Fall Armyworm (Spodoptera frugiperda).49
+
+The diamondback moth (Plutella xylostella Linnaeus) is also a crop pest that affects broccoli, cauliflower and Brussels sprouts. Responsible for an estimated $5 billion worth of damage every year in the US, the diamondback moth has been proposed as a prime candidate to become a GDO because it is an example of a pest that is itself the direct cause of damage to the crop and is already a
+
+iv. Plant hopper
+
+subject of genetic engineering.50 However, without a comprehensive understanding of the relationship between released GDO insects and natural pest species, it would appear impossible to restrict the GDO to a single country. Researchers have already raised concerns about contamination related to the release of GM insects as part of pest control strategies.51 The potential use of GDOs raises even more serious issues relating to the risk of transboundary contamination of agricultural systems across the globe.52
+
+C
+
+B D
+
+A E
+
+iii. Aphids
+
+C
+
+e.g. Brown plant hopper (BPH) Nilaparvata lugens
+
+B D
+
+This is one of the most important pests of rice worldwide because of the damage it causes by feeding on plants and its transmission of viruses. It has been identified by Maxwell Scott and colleagues as a prime target for the use of gene drives.54
+
+A E
+
+v. Red flour beetle
+
+C
+
+e.g. Asian citrus psyllid (Diaphorina citri)
+
+B D
+
+This sap-sucking, jumping aphid is an important citrus pest, as it is one of only two confirmed vectors of the Huanglongbing (HLB) citrus greening disease. It is widely distributed in southern Asia and has now spread to other citrusgrowing regions. In 2018, the US Citrus Research Board reported that it is working on trying to introduce gene drive systems into the Asian citrus psyllid that would make the aphid unable to transmit citrus greening disease.53
+
+A E
+
+This beetle has also been proposed for GDO development by Scott et al. It is a global pest of stored grains and cereals (particularly prone to large infestations in poorer countries) and has a genetic system suited to becoming a GDO.55
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 19
+
+vi. Whitefly
+
+vii. Rodents
+
+C
+
+C
+
+B D
+
+B D
+
+A E
+
+A E
+
+Rats and mice cause billions of dollars of damage annually to field crops, stored grains and agricultural machinery and they can carry more than 60 diseases that may spread to livestock as well as humans.57 In the United States alone, it is estimated that rats cost the economy more than $27 billion per year. As such, they are a prominent target for gene drive eradication efforts on behalf of agribusiness. Two teams are targeting rats and mice with auto-extinction genes: A team at Britain’s Roslin Institute is developing a GDO that they call X-shredder (because it destroys X chromosomes thereby preventing female rats from being born). Lead researchers MacFarlane and Whitelaw justify their work on eradicating rodents with gene drives on agricultural grounds.58 A second project known as GBIRd (Genetic Biocontrol of Rodents), funded by US Defence Advanced Research Projects Agency, foregrounds its efforts to release gene drive rodents on islands as a conservation application: but emails from within the consortium (acquired through Freedom of Information Act requests) show that some of the team also regard their technology as appropriate to use on mainland farms.59
+
+e.g. Silverleaf whitefly, Bemisia tabaci
+
+This fly has been proposed by Scott et al. as “an ideal situation for developing and testing gene drive systems in general,” and as “a potential model system for exploring these technologies in meaningful ways.”56 The authors cite containment of the GDO as a likely concern during the early phases of development. The larvae of this fly are particularly devastating pests because they feed on more than 500 plant species. Common hosts are agricultural crops including tomatoes, squash, broccoli, cauliflower, cabbage, melons, cotton, carrots, sweet potato, cucumber, and pumpkin, and ornamental plants such as poinsettia, crepe myrtle, garden roses, lantana, and lilies. They can cause specific damage to certain host plants, like ‘silverleaf’ on squash, irregular ripening of tomatoes, white stalk in broccoli and cauliflower, white stem in poinsettia, and light root in carrots.
+
+The first mice harbouring a CRISPR-Cas9 gene drive that successfully targets a gene altering pigmentation have been reported recently.60
+
+viii. Nematodes
+
+ix. Candida albicans
+
+C
+
+C
+
+B D
+
+B D
+
+A E
+
+A E
+
+Nematodes are microscopic unsegmented roundworms that are one of the most numerous life forms on earth. While many species of nematode are free-living and play an important part in organic matter recycling, other species are parasitic to either plants or animals. Plant parasitic nematodes live in plant roots and other plant parts, causing disease. They are seen as a major constraint to future food security and cause an estimated US$80 billion in losses per year globally. Scientists in Kevin Esvelt’s lab are working to develop gene drives in Caenorhabditis elegans, which is a renowned test system for geneticists worldwide and the first multicellular organism to have its whole genome sequenced.61 Success with C. elegans would facilitate the transfer of the technology to other nematodes. A patent application by Bier and Gantz names 66 plant pathogenic nematodes against which gene drives could be used.62 Parasitic insect nematodes (which target insect pests) are also commercially valuable to agriculture but earlier genetic engineering has flagged the need for better persistence in the field63 – a characteristic that gene drives might address.
+
+Although at an early stage, some scientists see GDOs as potentially able to help eliminate fungal pathogens from crops and livestock. Rebecca Shapiro’s lab at Columbia University has used a modified CRISPR-based gene drive to facilitate the rapid creation of genetic knock-outs in the fungus Candida albicans (a form of yeast).64 This yeast is the most common cause of yeast infections – occurring not only in humans but also farm animals such as pigs, cattle and chicken.
+
+b) Engineering pests to avoid crops
+
+Another proposed approach to managing pest populations using gene drives is to alter the behaviour of the pests so that they are repelled by agriculturally important crops and livestock. In this scenario, a gene drive would be released into the pest population that changed the pests’ response to odour or some other chemical signals. In 2017, Professor Andrew Nuss of Department of Agriculture, Nutrition and Veterinary Science at University of Nevada at Reno received half a million dollars from the US Defence Advanced Research Projects Agency to develop techniques, including the release of GDOs, to change the odour receptors in mosquitoes.65 He reported to a closed DARPA gene drive meeting that the aim is to make mosquitoes attracted by odours of animals other than humans.66 Nuss’s co-investigator works with fruit flies and the same approach could potentially be used to try to direct pests including insects away from crops and livestock. A related approach is to release GDOs in an attempt to disrupt pest swarming behaviour. In 2016, scientists in Beijing
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 21
+
+reported that they had used CRISPR to disrupt odour-sensing genes that are responsible for locust swarming behaviour.67 It has been suggested that gene drives could be used to spread this genetic edit in grasshoppers to protect crops from damaging locust swarms.
+
+drives may be used to adapt weed species to be more compliant under the influence of many agricultural poisons. The foundational Esvelt patent application on RNA Guided gene drives lists 167 common herbicides, including their commercial names and producers, to which plants could be made susceptible via a gene drive.
+
+c) Herbicide resistance
+
+d) Enabling new (and old) agricultural chemicals
+
+A particularly enticing proposal for the agricultural use of GDOs is to overcome resistance to herbicides in common weed species. Herbicide resistance in weeds arises when the weeds selectively evolve to withstand ever-higher doses of chemical herbicides after repeated exposure to those chemicals. Herbicide resistance in field crops has become a major agronomic headache for industrial farmers in the past few years. According to Bayer-Monsanto, herbicide-resistant weeds in Australia are increasing costs by about 27 percent per acre because of increased management costs and yield loss, while US growers are paying up to $150 per acre for hand weeding where no better weed control options exist.68
+
+Spreading ‘sensitizing’ gene drives in weed or pest species could also be a way of giving new uses to a range of proprietary chemicals and creating new markets. In a review of the uses of gene drives, four researchers from MIT’s Sculpting Evolution GDO research group propose that this strategy could open up new avenues in sustainable, non-toxic agriculture: ‘sensitizing drives’ might confer vulnerability to new compounds, perhaps ones that are otherwise biologically inert and hence completely non-toxic to humans and the environment. This strategy would allow pests to be locally removed without affecting any other species or populations elsewhere.71 While the MIT researchers do not specify which non-toxic compounds they have in mind, such claims should be carefully examined by advocates of sustainable and organic agriculture.
+
+Foremost among herbicide resistance challenges is the development of widespread resistance to Roundup (glyphosate), Bayer-Monsanto’s popular weedkiller, which is spreading in weeds such as pigweed (also known as Amaranthus palmeri, ragweed or water hemp).
+
+Although organic production uses a limited number of non-toxic compounds, the underlying approach of confronting an organism with an external compound belongs more to an industrial agriculture paradigm than to agroecology. Nor is there any reason biotechnology companies would necessarily choose to adapt weeds to low-toxicity compounds which may not be very effective. With billions of dollars locked into existing chemical production facilities it makes more economic sense to manipulate weeds and pests to heighten their susceptibility to existing proprietary toxins whose mechanism of action is already well understood.
+
+In a landmark report on gene drives by the US National Academies of Sciences, Engineering, and Medicine, the only agricultural case study examined was a proposal to spread gene drives in pigweed that would render it once again susceptible to Roundup.69 Since the molecular basis of Roundup resistance is very well understood (because of its use in Bayer-Monsanto’s Roundup Ready Soybean), a so-called ‘sensitizing drive’ could be designed to disrupt this mechanism. As the NASEM report noted, “If the gene drive succeeded and susceptibility became fixed, glyphosate could then be used again as a tool to limit Palmer amaranth populations.”70 The report noted that modifying an Amaranthus species held the risk that the gene drive varieties could displace Latin American amaranth varieties used for food and may disrupt them in some way impacting food security.
+
+e) Speeding up breeding/spreading GMO traits
+
+To date, public discussions of gene drives have focused on their use as a tool to spread engineered genes into pests, weeds and invasive species in nature. However, it may turn out that the biggest use of gene drives will be as an agricultural breeding tool of crops and livestock. Since gene
+
+Ultimately, it is not just Roundup. In theory, gene
+
+drives are designed to ensure that a trait moves efficiently from one generation to the next, both plant and livestock breeders may want to use the technology to ensure that their chosen trait is reliably passed on to offspring or quickly enters stocks of seed and animal breeding lines.
+
+Box 5: Gene drives in plants – a hype too far?
+
+Despite claims by Patrick Tranel and others (see above) about developing gene drives in weed species, the nature of plant genomes makes CRISPR gene drives much less straightforward. Organisms may use different mechanisms to repair DNA damage, and CRISPR gene drives harness one of those common repair mechanisms (called ‘homology directed repair’) in order to copy the gene drive into both chromosomes. However, in plants another mechanism (known as ‘non-homologous end joining’) is predominant. This means that the plant can repair breaks in the DNA in a way that does not integrate the gene drive so there is a higher chance that the ‘drive’ will not pass on. This challenge means that currently CRISPR-based gene drives cannot be easily developed in plants.
+
+Livestock researchers from the UK’s Roslin Institute have examined how gene drives could be used to speed up ‘genetic gain’ (improved performance) in livestock breeding. In a recent paper using pigs as an example (see Figure 4a and 4b), Serap Gonen and colleagues concluded that “gene drives could be used to increase the speed at which edited gene variants are spread across livestock populations.”72 They recommend gene drives as an efficient breeding tool for spreading new CRISPR alterations.
+
+Figure 4a and 4b: Gene drives in livestock
+
+f) Controlling and directing ‘ecological services’
+
+Many wild species, including so-called ‘pests,’ perform valuable ‘ecological services’ in agricultural ecosystems. Bees and insects pollinate crops; worms and nematodes improve soil fertility; and so-called weeds fix nitrogen in the soil. An alternative approach to using gene drives in agriculture may be to try to manipulate some of these ‘ecological services’ – for example spreading nitrogen-fixing genes in weed species or interfering with pollination.
+
+Diagram shows a) Inheritance with genome editing and b) inheritance with genome editing with gene drives (taken from Gonen et al. 2017).
+
+Elwha LLC is a US company associated with Intellectual Ventures, a company some consider to be a ‘patent troll,’ established by Microsoft chief technology Officer Nathan Myhrvold.73 Elwha has been named by CNBC as among “the top 5 holders of bitcoin patents and/or patent applications.”74 It has filed a patent (US2016/0310754A1) for genetically modifying the western honey bee (Apis mellifera), the most common honey bee worldwide, and Apis cerana indica, the Indian honey bee, and installing gene drives to transform these insects into GDOs. Specifically, the patent proposes a hypothetical scheme to install into the honey bee population engineered ‘optogenetic’ genes that would theoretically be switched on and off by an
+
+In crops too, gene drives could potentially be regarded as a means to speed up the introduction of engineered genes. Biotechnology companies currently must undergo a complicated series of seed multiplication trials to build up larger stocks of GM seeds. This process may take several years. Theoretically, adding a gene drive to a new GM trait could be used to drive the trait more quickly into seed-breeding lines.
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 23
+
+external light beam. The patent claims that such a light beam can control insect behaviour by tricking the insect into thinking it detects certain scents, potentially drawing the honey bees to farmers’ fields to pollinate. Because the honey bees would be affected by the light beam, according to the patent, it would operate as a ‘tractor beam.’ Elwha’s genetic tractor beam is entirely theoretical and honey bee experts the authors have consulted express profound scepticism that it would ever be possible to control honey bee behaviour in this way. However, the effort put into filing such a patent points to what critic Sainath Suryanarayanan calls the “stunning hubris” with which private companies are discussing potential attempts to use gene drives to commercially control basic ecological functions such as pollination, despite the current crisis in both honey bee and wild bee populations.75
+
+billion dollars to address StarLink contamination and Mexican peasant communities initiating an intense multi-year process to identify and remove genetically modified varieties from their traditional Milpa crop-growing system.
+
+While using GDOs to remove such pollution caused by GMOs may seem counterintuitive, at least one promoter of engineered gene drives is proposing exactly that. Esvelt and his colleagues are proposing that their experimental ‘local drive’ system, the daisy drive, could be employed in a way such that GDOs interbreed with genetically modified varieties in the wild and then weaken them so that wild-type varieties can gain the upper hand again – removing genetic pollution. Dubbed the ‘daisy restoration’ system, the work is being developed with funding from the US military’s DARPA agency, but Esvelt and his colleagues claim it could also be used to remove genetic pollution. “This is something we could use to potentially restore the wild type to any population with any engineered genes at all,” says Esvelt, “whether they leaked from some other species that we meant to engineer or whatever reason.”77
+
+‘It’s a stunning piece of hubris with no proof-of-concept in the proposed target organisms’ – Sainath Suryanarayanan, author of Vanishing Bees: Science, Politics, and Honeybee Health, describing Elwha’s Gene Drive Bee patent.76
+
+This is not the first time that biotechnologists have proposed using high-tech genetic engineering approaches to removing GMOs. Some years ago, ETC Group reported on a system dubbed the ‘Exorcist’ which promised to engineer crops and then remove the engineered genes. Exorcist technology did not find many fans among food movements or peasants worried about genetic contamination and probably neither will ‘daisy restoration.’ Using the same unpredictable technology that caused a problem in the first place is not grounds for confidence. In the case of Mexican maize contamination, after careful deliberation, peasant communities chose not to clean up their native seed varieties using hightech genetic identification approaches – preferring instead to develop indigenous methods of identification and restoration developed with their own traditional knowledge.78
+
+g) Removing genetic pollution
+
+After 20 years of use in agriculture, the first generation of GMOs has resulted in low- and high-profile cases of unwanted genetic pollution – where engineered genes spread into wild and domesticated species unintentionally. From 2000-2001, more than 300 food products were recalled because as much as half of the US corn supply could have become contaminated with an unapproved genetically engineered corn variety called StarLink that was linked to possible allergies. At approximately the same time, scientists discovered that GMO traits had spread into indigenous corn varieties in Mexico’s global centre of origin and diversity for maize, even though no planting was allowed in the country. Both incidents galvanized extensive (and expensive) clean-up operations, with US industry spending up to a
+
+and which have potentially wide geographic and ecological differences. Because GDOs persist and spread, it may not be possible to reliably assess the potential impacts of GDOs on different ‘receiving environments’ or to foresee how mutations might create unexpected traits that may also emerge and spread.
+
+5. A technology out of control?
+
+Like GMOs, the debate over risks and threats from GDOs started as the technology was being developed in the lab. In late 2014, GDO developers published a paper in Science that outlined some of the issues they foresaw with CRISPR gene drives and the need for national and global regulation; but the regulation hasn’t kept pace with the technology.79 As more gene drive applications are nearing environmental release, policymakers must urgently address the disruptive impacts of GDOs. This section outlines those concerns.
+
+Because synthetic gene drives harness the CRISPR gene editing system which has been observed to create unexpected ‘off-target’ effects, there is good reason to be concerned about unanticipated changes and mutations. This risk will reoccur anew with every generation as the CRISPR system will be continually re-developed, not in the lab but in the wild.82
+
+Biosafety threats and ecological risks
+
+Many of the current gene drive projects, in agriculture and elsewhere, aim to eradicate or remove species. Removing a pest may seem attractive from the point of view of efficient monoculture food production, but even pests have their place in the food chain and may in other contexts (particularly outside of farmland) turn out to be essential or keystone species for maintaining biodiversity.
+
+As novel organisms explicitly intended for environmental release, GDOs carry at least the same biosafety risks as other GMOs. However, the gene drive mechanism raises major additional concerns. Like all GMOs, they carry the potential for unanticipated behaviours, traits and effects. Previously, biotechnologists have argued that even if unanticipated effects arose, their GM organisms would not persist and spread beyond controlled or domesticated use nor cause significant changes to wild ecosystems. By contrast, GDOs are expressly designed to spread, persist, create large-scale changes in wild populations and intentionally impact entire ecosystems.80
+
+To date, not enough attention has been given to how gene drive constructs – particularly autoextinction genes – may move out of the target species into closely-related species. For example, a GDO released with the intention of eradicating an agricultural weed may pass on the auto-extinction capabilities to related wild crops, with harmful effects on biodiversity.
+
+A study published by Esvelt surveyed results from existing gene drive projects and concluded that GDOs are likely to become invasive in wild populations: “The bottom line is that making a standard, self-propagating CRISPR-based gene drive system is likely equivalent to creating a new, highly invasive species,” wrote Esvelt and his coauthor. “Both will likely spread to any ecosystem in which they are viable, possibly causing ecological change.”81
+
+Recently, the gene conferring resistance to glyphosate in a turfgrass species widely used on golf courses has been shown to be also present in a hybrid originating from a cross with another grass species, the rabbitfoot grass, demonstrating that artificial gene constructs can pass to other species via hybridization.83
+
+Unlike agricultural GMOs, where a farmer acquires new seed from season to season, GDOs are expected to persist and pass on their modifications over several generations of both wild and domestic species, increasing the opportunity for mutations and, in the case of use in insects and other ‘pests,’ would move between managed and unmanaged ecosystems, many of which are poorly understood
+
+Eradicating one species might unpredictably create space for the expansion of another species which may carry diseases, affect pollination or otherwise threaten biodiversity. Even trying to target the hosts of livestock and human diseases (e.g. mosquitoes) may force the causal agent of the disease (e.g. parasites) to shift hosts, opening up new health and farming threats. Changing
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 25
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 27
+
+insect behaviour, animals’ sense of smell or weed physiology may all also have ramifications. There are many cautionary ecological lessons from previous ‘biocontrol’ experimentation where organisms introduced for narrow agricultural control purposes became invasive organisms in their own right.84
+
+Implications for agroecological, organic and peasant agriculture and the need for free prior and informed consent
+
+Big agribusiness players may be quietly eyeing up the gene drive tool kit as a future boon to their profits, but the prospect of genetically modified traits being aggressively driven through agricultural and wild ecosystems should be causing alarm for both traditional and organic farmers who follow agroecological farming principles.
+
+Box 6: Will gene drives even work? Evolution fights back.
+
+The first-generation of GMOs continues to pose a serious existential threat to organic agriculture production which bills itself as ‘GMO-free,’ requiring complex defence measures against genetic pollution and ongoing vigilance. It is not clear how organic, non-GMO and peasant farmers will be able to defend their farming system against GDO bugs, weeds, crops or pollinators that move onto their land, hybridise, pollinate crops or lay eggs and larvae in organic produce. Several organic movements, including IFOAM and the US government’s National Organic Standards Board (NOSB), have reaffirmed that organisms developed through CRISPR and other gene editing approaches are considered genetically engineered and excluded from organic standards. In September 2018, the Court of Justice of the European Union declared that gene edited organisms including those modified using CRISPR techniques are subjected to the same regulation as other GMOs.91
+
+For all the elaborate designs of GDO developers, synthetic gene drives may not work as effectively or precisely as proponents initially hoped – especially once out of the artificial environment of the lab. As with any living evolving organism, gene drive organisms will mutate and change over time. Within barely a year of the invention of CRISPR gene drives, researchers working on mosquitoes already witnessed the emergence of gene drive resistance, as evolution selects mutations that disable or alter the gene drive.85 An early review in the journal Genetics concluded that “resistance to standard CGD [CRISPR gene drive] approaches should evolve almost inevitably in most natural populations” unless specific strategies to overcome resistance were developed.86 Researchers are now trying to design means to overcome resistance, rendering gene drives potentially more powerful and invasive.87 Gene drive mutations may potentially also change the nature of the trait that is driven through a population.88 Unfortunately a lack of technical effectiveness may not by itself slow the development or release of agricultural GDOs. First-generation GM crops were also riddled with technical problems and failures. Despite this, the dominance of the high-tech vision of agriculture, along with market-rigging and coercion at a local level, meant that GM crops such as Bt cotton were planted on millions of acres across the globe from 2000-2010 with disastrous consequences. This catastrophe was foreseen by local people,89 but is only now being documented in academic papers.90
+
+The presence of CRISPR-based GDOs could thus threaten the GMO-free status of organic farmland. They could also threaten the rapidly growing non-GMO market in food and fibre. The US-based Non-GMO Project, for example, has taken a clear stand against allowing gene-edited products (including CRISPR) under their ‘butterfly’ certification, which currently appears on more than 50,000 food, cosmetic, textile and household items. The Non-GMO Project certification alone covers a market of US$26 billion.
+
+Some promoters of gene drives argue that the organic and non-GMO movement should cease its resistance and embrace the opportunity that GDOs may offer to organic and sustainable agriculture systems. They say that a reduction of
+
+pest numbers without chemical sprays using GDOs could have a ‘halo effect’ for organic farmers who will also benefit from reduced pest pressure.86 The notion that weeds and pests could be modified to be susceptible to ‘non-toxic’ compounds is offered as an opportunity to transition to a kinder, gentler agriculture while doing away with toxic agrochemicals. However, naming wild organisms as ‘pests’ or ‘weeds’ and then modifying them to exterminate them is an approach that fits firmly in the simplistic paradigm of industrial monoculture farming. Instead of defining these elements of the farm landscape as an enemy to be vanquished with chemical or genetic weapons, agroecological practitioners, such as peasant and indigenous communities, work instead with the diversity of plants and insects that arise in a farmer’s field to create locally specific management strategies.
+
+precondition to GDO release:
+
+Given the current uncertainties regarding engineered gene drives, a precautionary approach and cooperation with all countries and stakeholders that could be affected, taking into account the need for the free, prior and informed consent of indigenous peoples and local communities, might be warranted in the development and release of organisms containing engineered gene drives, including experimental releases, in order to avoid potential significant and irreversible adverse effects to biodiversity.93
+
+This sentiment was subsequently echoed by the Subsidiary Science Body to the UN Convention on Biological Diversity (SBSTTA) in a July 2018 decision.
+
+As has been well documented with GMOs, the development of GDOs contradicts the precautionary principle.94 They are also diametrically opposed to the principles of Food Sovereignty laid out in the Nyeleni Declaration of the Forum for Food Sovereignty (2007 and 2015),95 which calls for a switch to systems that “drastically reduce our use of externally-purchased inputs that must be bought from industry.” While the Nyeleni Declaration demands “peoples’ control of the research agenda, objectives and methodology,” “stewardship of biodiversity” and “taking back control of seeds and reproductive material,” gene drives appear to be another means of driving farmers and fisher-folk towards more monocultural methods and reliance on proprietary inputs and specialized scientific knowledge. Just as GMOs go against the principles of agroecology, GDOs constitute yet another of what the Nyeleni Declaration cites as “false solutions and dangerous new technologies.” They contain traits designed in a distant laboratory and are not, nor could they conceivably ever be, in the control of local farmers.
+
+“We should keep in mind that gene drive can also be used to serve the economic interests of particular groups with little concern for the general interest. There is no such thing as a ‘pest’ per se: a population is only a pest with respect to specific interests, which does not mean these interests are illegitimate, only that they are relative. The species some call ‘pests’ may be the pollinators and the food of other species or may play an important ecological role for the local economy.”92
+
+—Virginie Courtie-Orgogozo et al.
+
+The threat of GDOs moving into the land of peasants and Indigenous Peoples is also a direct affront to indigenous sovereignty and the rights to free prior and informed consent over development activities in indigenous territories (as enumerated in the UN Declaration on the Rights of Indigenous Peoples). In December 2017, a UN expert group on Synthetic Biology proposed that the informed consent of Indigenous Peoples may be a
+
+GDOs appear to be inspired by the philosophy that has emerged out of Silicon Valley that technology should ‘move fast and break things.’96 When combined with the vision for agriculture driven by ‘big data,’ gene drives could become a tool to allow what is identified as a pest species by a GPS-linked tractor in a field to be controlled by a release of a GDO version of that pest species. It thus further
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 29
+
+adds to the genetic treadmill, each turn of which adds to the stock price of the trans-national corporation that controls this ‘precision’ system.
+
+Emails released under Freedom of Information laws show that key funders of potential GDOs are now spending millions of dollars on a public relations and lobbying assault to prevent a moratorium.103 In addition, $2.3 million have been awarded to the African Union’s NEPAD for “promoting the use of gene drives.”104
+
+6. Acting ethically in a governance vacuum
+
+Eight Recommendations
+
+We suggest that now is the time to consider whether synthetic biology may be a wicked solution, creating problems of its own, some of which may be undesirable or even unacceptable.
+
+1. Stop ‘driving’ – call for a moratorium on gene drive release
+
+A range of international civil society organizations and leading voices in the global food movement are recommending that the UN Convention on Biological Diversity (CBD) or an equivalent UN-level body place an immediate moratorium on applied research, development and release of GDOs, including field trials. If GDOs were ever released from the laboratory, regulating them would likely be a far greater challenge than regulating GMOs, as the spread of a genetic modification is an integral part of their design and intent. Like industrial emissions, GDOs would constitute a trans-boundary problem that could potentially reproduce indefinitely, raising thorny dilemmas for governance.
+
+—Kent H. Redford, William Adams, Georgina M. Mace, 2013.97
+
+A recent IUCN draft report called “Genes for Nature?” acknowledges that synthetic biology (a term that includes gene drives) are “a perfect illustration of a ‘wicked problem’: ill-defined, with no right answer, and dependent upon context and political judgement for resolution.”98,99 However, as Kent Redford and his colleagues pointed out in their seminal 2013 paper, cures for our ills that are based on synthetic biology could turn out to be worse than the disease.100
+
+There is no internationally agreed process for the effective governance of transboundary effects arising from the release of a GDO. Since such organisms are likely to eventually spread across political boundaries, this is a very significant governance gap that has recently been highlighted by the US National Academies of Sciences, Engineering, and Medicine.105 The CBD has previously recognised the environmental, cultural and human health risks posed by living organisms that have been genetically modified.106 The principle of prior informed consent with respect to the transboundary movement of modified organisms has been established through the Cartagena Protocol on Biosafety.107 This puts a duty on a party exporting such a modified organism to seek prior informed consent from the destination country. The procedures are designed to cover intended movement across the border between two neighbouring nations. Having been designed for GMOs, which are not meant to spread in the
+
+Many scientists and policymakers who supported GMOs refused to accept that ethical issues related to their development constituted a ‘wicked’ problem. Instead they promised that GMOs would be an easy route to increasing food yields and hence ‘feed the world.’ The result of GM proponents’ over-simplification of both problems and their supposed solutions has been a lax regulatory regime, creating problems that are even more wicked than those genetic engineering was meant to solve. The GM ‘cure’ proved to be worse than the disease for many farmers, consumers and the environment.101
+
+Less than five years after the first proof-of-concept laboratory experiments, the topic of gene drive governance has moved rapidly to the centre of international biodiversity negotiations, with calls from more than 170 organizations for a moratorium on gene drive release and experimentation.102
+
+environment, they are clearly unsuited to the movement of a GDO, for which an inherent part of the design is to spread, potentially globally, without respect for international borders.
+
+4. Ensure free, prior and informed consent of all affected communities
+
+Besides the provisions of the Cartagena Protocol requiring that parties should obtain prior and informed consent before transboundary movement of a living modified organism that is released into the wild, there are additional duties placed upon states that could impact the invasion of GDOs into the land and territories of Indigenous Peoples and local communities.
+
+Because GDOs are deliberately designed to either change or remove species, and because these target species are distributed across political borders, transboundary effects would be likely to arise across multiple countries. If a GDO was proposed for release in one country, it follows that all potentially affected countries would need to jointly deliberate the issues through procedures that do not yet exist.
+
+The concept of Free, Prior and Informed consent (FPIC) is one of the fundamental aspects enshrined in the UN Declaration on the Rights of Indigenous Peoples (see above). This need to obtain FPIC for gene drive projects was explicitly flagged by the UN’s Ad Hoc Technical Expert Group on Synthetic Biology in its December 2017 report and further raised by the twenty-second meeting of the CBD’s Subsidiary body on Scientific, Technical and Technological Advice.110
+
+2. Agree safe containment rules
+
+Gene drives are designed to persist and spread. While GDO developers claim that there may in the future be technical and geographical means to effectively contain GDOs, these hypothetical claims and assumptions need to be rigorously examined.108 Current laboratory tests carry an inevitable risk of accidental release.109 Strict laboratory handling and containment rules for all gene drive research should be internationally agreed and put into practice before further research can proceed even in the lab.
+
+5. Prohibit military ‘dual use’ and protect the right to food
+
+Very little information is available about the potential military use of gene drives, even though it is established that the US defence agencies are among the biggest investors in this area of research and that closed meetings have been convened to discuss military impacts of agricultural gene drives. The early predominance of military involvement in the field is unlike the case of GMOs where most investment was from large agribusiness corporations and energy firms. Using GDOs as biological control agents in agriculture also allows the military to develop the technology for warfare. If a gene drive mechanism can wipe out an insect, it might also be able to be targeted on a predator of that pest or, worse still, a particular food crop. The ability to wipe out whole species in a selected location, which is the explicit aim of the ‘local gene drive’ system, could thus conceivably be used as a weapon of war to starve an enemy state by denying their people the right to food.
+
+3. Put in place monitoring and assessment and demonstrate reversal methods
+
+Before any release of GDOs, even for field trials, internationally accepted procedures would have to be developed not only for monitoring and assessing impacts, but also tracking the spread of gene drive constructs in the wild. This would involve developing practical means to detect engineered gene drives in wild populations and obtaining agreement on the scope of effects that should be monitored and, importantly, the methodologies to be used. Also, verified means of removing and reversing gene drives in the wild would need to exist and be made available to communities and farmers. Without detailed research into these topics, it is not practical to begin to frame management agreements. Research is also needed into how responsibility for the costs of monitoring should be distributed and how liability rules would be framed including responsibility to remove and verify the removal of gene drives.
+
+Given this potential ‘dual use’ of GDOs, we believe there is a strong case for using the Environmental Modification Convention (ENMOD), which is an international treaty prohibiting the military or
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 31
+
+other hostile use of environmental modification techniques that could have widespread, longlasting or severe effects.111 With signatories including most states in which GDOs are being developed, we suggest that it could be a useful regulatory tool.
+
+regulation of GDOs is forthcoming in the near future, scientists working on GDOs must adopt this ethic and only move ahead when there is clear societal consent and agreed transparent global rules. There is no excuse not to slow down and consider the issues as broadly as needed.114
+
+6. Learn from history – enable society to reflect on the past
+
+8. Examine the implications for World Food Security and the Right to Food and Nutrition
+
+Even if the intent is not hostile, history is replete with examples of attempts at biological control in industrialised agricultural systems that have gone wrong. The introduction of the cane toad (Australia, Caribbean) and the mongoose (Hawaii) are some of the best-known examples. In the chapter on GMOs in the European Environment Agency’s seminal report on the precautionary principle, Quist et al. write that:
+
+We further recommend that the UN Food and Agriculture Organisation’s High-Level Panel of Experts on Food Security and Nutrition undertake an urgent examination of the potential dangers of gene drives, which would be considered by a future meeting of the UN Committee on World Food Security (CFS). This should be part of a broad and inclusive public debate about the role of gene drives in our food system that includes public deliberation, listening to citizen values and even artistic and cultural approaches (see example in Figure 5, below).115 This is also a matter that could potentially be taken up for consideration by the United Nations Special Rapporteur on the Right to Food.
+
+…top-down providers [of genetic technologies] artificially homogenise both the conception of the problem to be solved and the solutions — such as GM crop plants — they propose. All too often questioning the rationality of the approach gets lost in the background of the unquestioning discussion over the use of the approach. Perhaps greater reflection and social deliberation into why and for whom agricultural innovations should be produced is needed if we are truly going to follow more sustainable pathways in the production of food and fibre.112
+
+7. Practice Precautionary Science
+
+If we to are to avoid GDOs being forced on the farm in the same way, we must accept the ‘wicked’ nature of the problems faced by farmers and adopt a precautionary approach.
+
+While some genetic scientists were blinkered during the early development of GMOs, ignoring enormous blind spots in society’s social and ecological knowledge, there are increasing signs that scientists themselves could be willing to adopt a more precautionary approach.
+
+In a recent case in the US, societal concerns prompted researchers at Cornell University to re-examine their timetable: despite receiving a regulatory permit for open releases, researchers have delayed open field trials. They called this decision ‘responsible science.’113 Whether or not
+
+References
+
+1 Nature, “Trend Watch,” in Seven Days: The News in Brief, Nature, Vol. 532, 21 April 2016, p. 287, https://www.nature.com/polopoly_ fs/1.19772!/menu/main/topColumns/topLeftColumn/pdf/532286a. pdf?origin=ppub 2 Austin Burt, “Site-specific selfish genes as tools for the control and genetic engineering of natural populations,” Proceedings of the Royal Society B: Biological Sciences. Vol. 270. No. 1518, 2003, p.921. 3 Samson Simon, Mathias Otto, Margret Engelhard, “Synthetic gene drive: between continuity and novelty: Crucial differences between gene drive and genetically modified organisms require an adapted risk assessment for their use,” EMBO reports, Vol. 19, No. 5, 2 April 2018. 4 Nik Brown, Sian M Beynon-Jones, “‘Reflex regulation’: An anatomy of promissory science governance,” Health, Risk & Society, Vol. 14, No. 3, 26 March 2012, pp. 223-240. 5 Bruce L Webber, , S Raghu, and Owain R Edwards, “Opinion: Is CRISPR-based gene drive a biocontrol silver bullet or global conservation threat?” Proceedings of the National Academy of Sciences, Vol. 112, No. 34, 13 August 2015, pp. 10565-10567. 6 CF Curtis, “Possible use of translocations to fix desirable genes in insect pest populations,” Nature, Vol. 218, No. 5139, p. 368. 7 Erin Brodwin, “A controversial technology could save us from starvation — if we let it,” (BASF-sponsored article), Business Insider, 12 April 2018, http://www.businessinsider.com/crispr-genetic-modification-agriculture-food-2018-4 8 VM Gantz, E Bier, “The dawn of active genetics,” Bioessays, Vol. 38, No. 1, January 2016. 9 Christian E Ogaugwu, Stanley O. Agbo, and Modinat A. Adekoya, “CRISPR in Sub-Saharan Africa: Applications and Education,” Trends in Biotechnology, August 2018. Article in Press. 10 Samson Simon, Mathias Otto, Margret Engelhard, “Synthetic gene drive: between continuity and novelty: Crucial differences between gene drive and genetically modified organisms require an adapted risk assessment for their use,” EMBO reports, Vol. 19, No. 5, 2 April 2018. 11 Ludwig Burger, “Bayer’s Monsanto faces 8,000 lawsuits on glyphosate,” Reuters, 23 August 2018, https://uk.reuters.com/ article/us-bayer-glypho-sate-lawsuits/bayers-monsanto-faces-8000-law-suits-on-glyphosate-idUKKCN1L81J0 12 See: https://genedrivenetwork.org/ 13 See: https://genedrivenetwork.org/resources/7-factsheet-whats-agene-drive-july-2018/file 14 Hannah Devlin, “Woolly mammoth on verge of resurrection, scientists reveal,” The Guardian, 16 February 2017, https://www. theguardian.com/science/2017/feb/16/woolly-mammoth-resurrection-scientists 15 ETC phone Interview with Kevin Esvelt – 16 May 2016 16 Issi Rozen, “Licensing CRISPR for Agriculture: Policy considerations,” 29 September 2016, https://www.broadinstitute.org/news/ licensing-crispr-agriculture-policy-considerations. 17 See: http://genedrivefiles.synbiowatch.org/ 18 See: http://genedrivefiles.synbiowatch.org/2017/12/01/us-military-gene-drive-development/#7 19 See: http://genedrivefiles.synbiowatch.org/2017/12/01/us-military-gene-drive-development/#8 20 A February 2016 workshop to develop a roadmap on gene drive research included the international policy lead for Syngenta, Tichafa Munyikwa. On another occasion discussions included Steven Evans of Dow Agrosciences. 21 Antonio Regalado, “Farmers Seek to Deploy Powerful Gene Drive,” MIT Technology Review, 12 December 2017, https://www.technologyreview.com/s/609619/farmers-seek-to-deploy-powerful-genedrive/ 22 See: http://www.sculptingevolution.org/ 23 OS Akbari, KD Matzen, JM Marshall, H Huang, CM Ward and & BA Hay, „A synthetic gene drive system for local, reversible modification and suppression of insect populations.” Current Biology, Vol. 23, No. 8, 22 April 2013, pp. 671-677. 24 Paul D Mitchell, Zachary Brown, and Neil McRoberts, “Economic Issues to Consider for Gene Drives,” Journal of Responsible Innovation, Vol. 5, no. sup1, 24 January 2018, pp. S180–202.
+
+25 Virginie Courtier-Orgogozo, Baptiste Morizot, and Christophe Boëte, “Agricultural Pest Control with CRISPR‐based Gene Drive: Time for Public Debate: Should We Use Gene Drive for Pest Control?” EMBO Reports, Vol. 18, No. 6, 1 June 2017, pp. 878–80. 26 Ibid. 27 See: Oxitec’s transgenic pink bollworm (https://www.oxitec.com/ crop-protection/pink-boll-worm/) and Diamondback moth (https:// www.oxitec.com/crop-protection/diamond-back-moth/).-protection/diamond-back-moth/ 28 “Systems and methods for controlling animal behaviour via optogenetics,” US Patent Application, 24 April 2015, Patent Number US20160310754A1. See: https://patentimages.storage.googleapis. com/27/23/4d/e5c6be540ad06c/US20160310754A1.pdf 29 Virginie Courtier-Orgogozo, Baptiste Morizot, and Christophe Boëte, “Agricultural Pest Control with CRISPR‐based Gene Drive: Time for Public Debate: Should We Use Gene Drive for Pest Control?” EMBO Reports, Vol. 18, No. 6, 1 June 2017, pp. 878–80. 30 Kevin Esvelt presentation at Broad Institute. See https://www.youtube.com/watch?v=qkmraCGm-bk 31 Maxwell J. Scott, Fred Gould, Marcé Lorenzen, Nathaniel Grubbs, Owain Edwards & David O’Brochta, “Agricultural production: assessment of the potential use of Cas9-mediated gene drive systems for agricultural pest control,” Journal of Responsible Innovation, Vol. 5, No. sup1, 11 December 2017, pp. S98-S120. 32 Robert Arnason, “Playing God: are we prepared to use gene drive technology?,” Western Producer, 14 December 2017, https://www. producer.com/2017/12/playing-god-prepared-use-gene-drive-technology/ 33 Patent: US2016/0333376A1. 34 Patent: WO2017049266A2. 35 Anna Buchman et al. “Synthetically engineered Medea gene drive system in the worldwide crop pest Drosophila suzukii,” Proceedings of the National Academy of Sciences, Vol. 115, No. 18, 1 May 2018, pp. 4725-4730. 36 Quoted in Antonio Regalado, “Farmers Seek to Deploy Powerful Gene Drive,” MIT Technology Review, 12 December 2017, https:// www.technologyreview.com/s/609619/farmers-seek-to-deploypowerful-gene-drive/. 37 Angela Meccariello, Simona Maria Monti, Alessandra Romanelli, Rita Colonna, Pasquale Primo, Maria Grazia Inghilterra, Giuseppe Del Corsano, et al. “Highly Efficient DNA-Free Gene Disruption in the Agricultural Pest Ceratitis Capitata by CRISPR-Cas9 Ribonucleoprotein Complexes,” Scientific Reports, Vol. 7, No. 1, 30 August 2017, p. 10061. 38 MJ Wade and RW Beeman, “The population dynamics of maternal-effect selfish genes,” Genetics, Vo. 138, No. 4, pp. 1309-1314. 39 Anna Buchman et al. “Synthetically engineered Medea gene drive system in the worldwide crop pest Drosophila suzukii,” Proceedings of the National Academy of Sciences, Vol. 115, No. 18, 1 May 2018, pp. 4725-4730. 40 Patent : PCT/US2017/014846. 41 John M. Marshall and Bruce A. Hay, “Medusa: A Novel Gene Drive System for Confined Suppression of Insect Populations,” PLOS ONE, Vol. 9, No. 7, 23 July 2014. 42 Ricarda Steinbrecher, “Gene drives breakthrough needs urgent restraint,” GM Watch, 24 September 2018, https://gmwatch.org/en/ news/latest-news/18474-gene-drives-breakthrough-needs-urgentrestraint 43 John W Grula and Orley R Taylor, “The Effect of X-Chromosome Inheritance on Mate-Selection Behavior in the Sulfur Butterflies, Colias Eurytheme and C. Philodice,” Evolution, Vol. 34, No. 4, 1980, pp. 688–95. 44 N. Devis et al., “Speciation in two neotropical butterflies: extending Haldane’s rule.” Proceedings of the Royal Society of London B: Biological Sciences, Vol. 264, No. 1383, 1997, 845-851. 45 Caspar A Hallmann, Martin Sorg, Eelke Jongejans, Henk Siepel, Nick Hofland, Heinz Schwan, Werner Stenmans, et al. “More than 75 Percent Decline over 27 Years in Total Flying Insect Biomass in Protected Areas.” PLOS ONE, Vol. 12, No. 10, 18 October 2017. 46 Michael McCarthy, “A Giant Insect Ecosystem Is Collapsing Due to Humans. It’s a Catastrophe,” The Guardian, 21 October 2017, https:// www.theguardian.com/environment/2017/oct/21/insects-giant-ecosystem-collapsing-human-activity-catastrophe.
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 33
+
+47 Fontini A Koutroumpa, Christelle Monsempes, Marie-Christine François, Anne de Cian, Corinne Royer, Jean-Paul Concordet, and Emmanuelle Jacquin-Joly, “Heritable Genome Editing with CRISPR/ Cas9 Induces Anosmia in a Crop Pest Moth,” Scientific Reports, Vol. 6 , 12 July 2016, 29620. 48 See: http://web.media.mit.edu/~viirj/BioFab/11.html 49 Christian E Ogaugwu, Stanley O. Agbo, and Modinat A. Adekoya, “CRISPR in Sub-Saharan Africa: Applications and Education,” Trends in Biotechnology, August 2018. Article in Press. 50 See: https://shelton.entomology.cornell.edu/diamondbackmoth/ diamondback-moth-project-at-cornell-university-faq/ 51 RG Reeves and M Phillipson, “Mass Releases of Genetically Modified Insects in Area-Wide Pest Control Programs and Their Impact on Organic Farmers,” Sustainability, Vol. 9, No. 1, 2017, p. 59. 52 Keith R. Hayes, Geoffrey R. Hosack, Genya V. Dana, Scott D. Foster, Jessica H. Ford, Ron Thresher, Adrien Ickowicz, et al. “Identifying and Detecting Potentially Adverse Ecological Outcomes Associated with the Release of Gene-Drive Modified Organisms,” Journal of Responsible Innovation, Vol. 5, No. sup1, 24 January 2018, pp. S139-58. 53 Citrus Research and Development Foundation, “NuPsyllid: Rear and Release Psyllids as Biological Control Agents – An Economical and Feasible Mid-Term Solution for Huanglongbing (HLB) Disease of Citrus,” Quarterly Report for the Period ending November 30,
+
+2016. https://citrusrdf.org/wp-content/uploads/2013/01/nuPsyllid_May-2017-Quarterly-Report.pdf 54 Maxwell J. Scott, Fred Gould, Marcé Lorenzen, Nathaniel Grubbs, Owain Edwards & David O’Brochta, “Agricultural production: assessment of the potential use of Cas9-mediated gene drive systems for agricultural pest control,” Journal of Responsible Innovation, Vol. 5, No. sup1, 11 December 2017, pp. S98-S120. 55 JN Shukla, and SR Palli, “Tribolium castaneum Transformer-2 Regulates Sex Determination and Development in Both Males and Females,” Insect Biochemistry and Molecular Biology, Vol. 43, No. 12), 2013, pp. 1125–1132. 56 See: https://shelton.entomology.cornell.edu/diamondbackmoth/ diamondback-moth-project-at-cornell-university-faq/ 57 See: http://www.westernfarmpress.com/management/rodent-damage-costing-agriculture-industry-millions. 58 GR McFarlane, CBA Whitelaw, SG Lillico, “CRISPR-Based Gene Drives for Pest Control,” Trends in Biotechnology, Vol. 36, No. 2, 2018, pp. 130-133. 59 See copies of the emails here: https://docs.google.com/viewerng/ viewer?url=http://genedrivefiles.synbiowatch.org/wp-content/ uploads/special/Edward+Hammond/20170726-Re_Two+Action+Items_Decisions+Needed+from+GBIRd+Steering+Committee-42.pdf 60 HA Grunwald, VM Gantz, G Poplawski, SX Xiang-ru, E Bier, & KL Cooper, “Super-Mendelian inheritance mediated by CRISPR/Cas9 in the female mouse germline,” BioRxiv, 1 January 2018, p. 362558. Pre-print article. 61 See: http://www.sculptingevolution.org/genedrives/current/nematodes 62 Patent: WO2017049266A2. 63 Dihong Lu, Tiffany Baiocchi, and Adler R. Dillman, “Genomics of Entomopathogenic Nematodes and Implications for Pest Control,” Trends in parasitology, Vo. 32, No. 8, August 2016, pp. 588–598, https://www.ncbi.nlm.nih.gov/pmc/articles/ PMC4969101/ 64 Rebecca S Shapiro et al. “A CRISPR–Cas9-based gene drive platform for genetic interaction analysis in Candida albicans,” Nature Microbiology, Vol 3, 23 October 2017, pp. 73-82. 65 Robyn Feinberg, “Research delves into the sensory makeup of mosquitoes, fighting spread of disease,” Nevada Today, 7 August 2017, https://www.unr.edu/nevada-today/news/2017/cabnr/biology-receive-grant. 66 See: http://genedrivefiles.synbiowatch.org/as-notes-on-darpa-safegenes-rollout-san-diego-may-2-2017/ 67 Yan Li, Jie Zhang, Dafeng Chen, Pengcheng Yang, Feng Jiang, Xianhui Wang, and Le Kang, “CRISPR/Cas9 in Locusts: Successful Establishment of an Olfactory Deficiency Line by Targeting the Mutagenesis of an Odorant Receptor Co-Receptor (Orco),” Insect Biochemistry and Molecular Biology, Vol. 79, October 2018, pp. 27–35.
+
+68 See: https://www.cropscience.bayer.ca/~/media/Bayer%20 CropScience/Country-Canada-Internet/Growers%20Tools/CPG/ West/2018/BCS10798787_2018CPG_The%20True%20Cost%20 of%20Herbicide-Resistant%20Weeds.ashx 69 National Academies of Sciences, Engineering, and Medicine, Gene Drives on the Horizon: Advancing Science, Navigating Uncertainty, and Aligning Research with Public Values, National Academies Press, 2016. 70 John Min, Andrea L. Smidler, Devora Najjar, and Kevin M. Esvelt, “Harnessing Gene Drive.” Journal of Responsible Innovation, Vol. 5, No. sup1, 24 January 2018, pp. S40–65. 71 Serap Gonen, Janez Jenko, Gregor Gorjanc, Alan J. Mileham, C. Bruce A. Whitelaw, and John M. Hickey, “Potential of Gene Drives with Genome Editing to Increase Genetic Gain in Livestock Breeding Programs,” Genetics Selection Evolution, Vol. 49, No. 1, 4 January 2017, p. 3. 72 A patent troll company is one that attempts to enforce patent rights against accused infringers far beyond the patent’s actual value or contribution to the prior art, often through legal tactics. Patent trolls often do not manufacture products or supply services based upon the patents in question. However, some entities which do not practice their asserted patent may not be considered ‘patent trolls’ when they license their patented technologies on reasonable terms in advance. 73 See: https://www.cnbc.com/2017/12/19/a-new-form-of-bitcoin-mining-patent-trolls-coming-for-the-blockchain.html 74 L. Maxim and J van der Sluijs, “Seed-dressing systemic insecticides and honeybees,” in Late lessons from early warnings: science, precaution, innovation, European Environment Agency: Copenhagen, 2013, https://www.eea.europa.eu/publications/late-lessons-2/ late-lessons-chapters/late-lessons-ii-chapter-16/view 75 S Suryanarayanan, and DL Kleinman, Vanishing Bees: Science, Politics, and Honeybee Health, Rutgers University Press: New Jersey, 2016. 76 Kevin Esvelt presentation at Broad Institute. See https://www.youtube.com/watch?v=qkmraCGm-bk 77 Venetia Thompson, “Ancient Corn is Coming to Whole Foods. Just Don’t Try to Buy it in Mexico.” Civil Eats, 27 October 2017, https:// civileats.com/2017/10/27/ancient-corn-is-coming-to-whole-foodsbut-remains-out-of-reach-in-mexico/ 78 Kenneth A. Oye, Kevin Esvelt, Evan Appleton, Flaminia Catteruccia, George Church, Todd Kuiken, Shlomiya Bar-Yam Lightfoot, Julie McNamara, Andrea Smidler, and James P. Collins, “Regulating Gene Drives,” Science, Vol. 345, No. 6197, 8 August 2014, p. 626. 79 Samson Simon, Mathias Otto, Margret Engelhard, “Synthetic gene drive: between continuity and novelty: Crucial differences between gene drive and genetically modified organisms require an adapted risk assessment for their use,” EMBO reports, Vol. 19, No. 5, 2 April 2018. 80 Kevin M. Esvelt, Neil J. Gemmell, “Conservation demands safe gene drive,” PLOS Biology, Vol. 15, No. 11, November 2017. 81 European Network of Scientists for Social and Environmental Responsibility, “ENSSER Statement on New Genetic Modification Techniques: products of new genetic modification techniques should be strictly regulated as GMOs,” 27 September 2017, https:// ensser.org/topics/increasing-public-information/ngmt-statement/ 82 ML Zapiola, and CA Mallory-Smith, “Crossing the divide: gene flow produces intergeneric hybrid in feral transgenic creeping bentgrass population,” Molecular Ecology, Vol. 21, No. 19, 2012, pp. 4672-4680. 83 Kevin M. Esvelt, Neil J. Gemmell, “Conservation demands safe gene drive,” PLOS Biology, Vol. 15, No. 11, November 2017. 84 Ewen Callaway, “Gene drives thwarted by emergence of resistance organisms,” Nature News, 31 January 2017, https://www.nature. com/news/gene-drives-thwarted-by-emergence-of-resistant-organisms-1.21397 85 RL Unckless et al, “Evolution of Resistance Against CRISPR/Cas9 Gene Drive,” Genetics, Vol. 205, No. 2, February 2017, pp. 827-841. 86 John M. Marshall et al, “Overcoming evolved resistance to population-suppressing homing-based gene drives,” Scientific Reports, Vol. 7, 19 June 2017, https://www.nature.com/articles/s41598-017-02744-7 87 Tina Seay, ‘Resistance to CRISPR gene drives may arise easily,’ Science News, 20 July 2017, https://www.sciencenews.org/article/ resistance-crispr-gene-drives-may-arise-easily
+
+88 MP Pimbert and T Wakeford, “Prajateerpu: A citizens jury/scenario workshop on food and farming futures for Andhra Pradesh,” Economic and Political Weekly (India), Vol. 32, No. 27, 2002, pp. 2778-2787. 89 G. Thomas and J De Tavernier, “Farmer-suicide in India: debating the role of biotechnology,” Life Sciences, Society and Policy, Vol. 13, No. 8, 2017. 90 See Court of Justice of the European Union press release, No. 111/18, Luxembourg, 25 July 2018: https://curia.europa.eu/jcms/upload/docs/application/pdf/2018-07/cp180111en.pdf 91 Jennifer Baltzegar, Jessica Cavin Barnes, Johanna E. Elsensohn, Nicole Gutzmann, Michael S. Jones, Sheron King and Jayce Sudweeks, “Anticipating complexity in the deployment of gene drive insects in agriculture,” Journal of Responsible Innovation, 5:sup1, pp. S81-S97, 2017https://www.tandfonline.com/doi/full/10.1080/232 99460.2017.1407910 92 Virginie Courtier-Orgogozo, Baptiste Morizot, and Christophe Boëte, “Agricultural Pest Control with CRISPR-based Gene Drive: Time for Public Debate: Should We Use Gene Drive for Pest Control?” EMBO Reports, Vol. 18, No. 6, 1 June 2017, pp. 878–80. 93 Convention on Biological Diversity, Report of the Ad Hoc Technical Expert Group on Synthetic Biology, Montreal, Canada, 5-8 December 2017, CBD/SYNBIO/AHTEG/2017/1/3, https://www.cbd.int/ doc/c/aa10/9160/6c3fcedf265dbee686715016/synbio-ahteg-2017-01-03-en.pdf 94 David A. Quist et al. “Hungry for innovation: pathways from GM crops to agroecology,” in European Environment Agency, Late lessons from early warnings: Science, precaution, innovation, European Environment Agency: Copenhagen, 2013. 95 See: http://www.foodsovereignty.org/wp-content/uploads/2015/02/Download-declaration-Agroecology-Nyeleni-2015. pdf 96 Jonathon Taplin, Move Fast and Break Things: How Facebook, Google, and Amazon Cornered Culture and Undermined Democracy, Little, Brown and Company: Boston, 2017. 97 KH Redford, W Adams, and GM Mace, “Synthetic biology and conservation of nature: wicked problems and wicked solutions,” PLoS biology, Vol. 11, No. 4, 2013. 98 See Overview and Key Messages of the IUCN Assessment, “Genes for Nature? An Assessment of Synthetic Biology and Biodiversity Conservation: https://www.iucn.org/sites/dev/files/iucn_assessment_of_synthetic_biology_and_biodiversity_conservation_-_ peer_review_draft.compressed.pdf 99 A useful general definition of the concept of wicked problems is here: https://en.wikipedia.org/wiki/Wicked_problem 100 KH Redford, W Adams, and GM Mace, “Synthetic biology and conservation of nature: wicked problems and wicked solutions,” PLoS biology, Vol. 11, No. 4, 2013. 101 For an overview see: http://www.genewatch.org/sub-568235 For the recent briefings see: http://www.genewatch.org/sub-405258 and https://gmwatch.org/en/articles/gm-myths 102 ETC Group, “170 Global Groups Call for Moratorium on New Genetic Extinction Technology at UN Convention,” 2016, http://www.etcgroup.org/content/160-global-groups-call-moratorium-new-genetic-extinction- technology-un-convention 103 See: http://genedrivefiles.synbiowatch.org/ 104 See: http://www.nepad.org/content/towards-zero-malaria-2030-biological-control-mosquitoes 105 National Academies of Sciences, Engineering, and Medicine, Gene Drives on the Horizon: Advancing Science, Navigating Uncertainty, and Aligning Research with Public Values, National Academies Press, 2016. 106 The UN Convention on Biological Diversity calls these Living Modified Organism or LMOs. See: http://bch.cbd.int/protocol/cpb_faq. shtml#faq3 107 The Cartagena Protocol on Biosafety can be downloaded here: https://bch.cbd.int/protocol 108 Megan Molteni, “This Gene-Editing Tech Might Be Too Dangerous To Unleash,” Wired, 16 November 2017, https://www.wired.com/ story/this-gene-editing-tech-might-be-too-dangerous-to-unleash/.
+
+109 Keith R. Hayes, Geoffrey R. Hosack, Genya V. Dana, Scott D. Foster, Jessica H. Ford, Ron Thresher, Adrien Ickowicz, et al. “Identifying and Detecting Potentially Adverse Ecological Outcomes Associated with the Release of Gene-Drive Modified Organisms,” Journal of Responsible Innovation, Vol. 5, No. sup1, 24 January 2018, pp. S139-58. 110 Convention on Biological Diversity, Report of the Ad Hoc Technical Expert Group on Synthetic Biology, Montreal, Canada, 5-8 December 2017, CBD/SYNBIO/AHTEG/2017/1/3, https://www.cbd.int/ doc/c/aa10/9160/6c3fcedf265dbee686715016/synbio-ahteg-2017-01-03-en.pdf 111 See: http://www.un-documents.net/enmod.htm 112 David A. Quist et al. “Hungry for innovation: pathways from GM crops to agroecology,” in Late lessons from early warnings: Science, precaution, innovation, European Environment Agency: Copenhagen, 2013. 113 KJ Boor, “Commitment to responsible science guides CALS plans for moth Trials,” College of Agriculture and Life Sciences, Cornell University: Ithaca, 31 March 2016, https://cals.cornell.edu/about/ news/commitment-responsible-science-guides-cals-plans-moth-trials/ 114 R. G. Reeves et al, “Agricultural Research, or a new bioweapon system? Insect-delivered horizontal genetic alteration is concerning,” Science, Vol. 362, No. 6410, 5 October 2018. 115 People’s Knowledge Editorial Collective, Everyday Experts: How people’s knowledge can transform the food, The Centre for Agroecology, Water and Resilience (CAWR): Coventry, UK, 2017, http:// www.fao.org/agroecology/database/detail/en/c/1148947/ 116 See: https://pinkchickenproject.com/#intro
+
+ETC Group and Heinrich Böll Foundation | Forcing The Farm 35
+
+Join the growing list of those opposing gene drives in agriculture.
+
+If your organization would like to sign on please email: genedrives@synbiowatch.org to add your or your organization’s name.

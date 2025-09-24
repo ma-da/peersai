@@ -1,0 +1,883 @@
+no_title
+
+A R T I C L E S
+
+THE CLIMATE CRISIS AND
+
+AGRICULTURE
+
+by Peter H. Lehner and Nathan A. Rosenberg
+
+Peter H. Lehner is Managing Attorney of the Sustainable Food & Farming Program at Earthjustice. Nathan A. Rosenberg is a visiting scholar at the Food Law and Policy
+
+Clinic at Harvard Law School and an attorney consulting for Earthjustice.
+
+SU M M A RY SU M M A RY
+
+Agriculture’s contribution to climate change is much more substantial than official figures suggest. We will not be able to achieve our overall mitigation goals unless agricultural emissions sharply decline. Farms and ranches can be a major part of the climate solution, while protecting biodiversity, strengthening rural com­ munities, and improving the lives of the workers who cultivate our crops and rear our animals. Agriculture climate solutions are critical elements both in ensuring our food security and in limiting climate change. This Article, excerpted from Farming for Our Future: The Science, Law, and Policy of Climate-Neutral Agriculture (ELI Press 2021), provides the current state of emissions in the agriculture sector, and argues that we must transform agriculture from one of the world's largest emitters of greenhouse gases into a net sink.
+
+T
+
+his Article begins by describing how the climate crisis threatens to disrupt agricultural production at immense cost to society. We then outline agri­ cultural emissions at the global, national, and state levels, demonstrating the need for quick and ambitious action to change agricultural practices. We explain why official figures significantly underestimate agricultural emissions and why, compounding the problem, agricultural emis­ sions are difficult to estimate with precision. We conclude by explaining the need to transform agriculture from one of the world’s largest emitters of greenhouse gases into a net sink.
+
+and more extreme; wildfires are increasing due in part to climate change. The range of many pests is expanding as warmer weather moves north.
+
+These changing weather patterns and increased extreme weather events are exacting a heavy toll on American agri­ culture. The 2016 droughts in California led to more than $600 million in losses. Hurricane Maria flattened farm fields throughout Puerto Rico in 2017, causing almost $800 million in losses. The 2019 flooding in the Midwest left 5 to 10 million bushels of corn and soy to rot and 19 million acres unable to be planted. Heat stress causes kidney disease and other harms to farmworkers and can weaken animals and slow their growth. As climate change gets more severe, so will these impacts.
+
+I. Climate Change’s Impact on Agriculture
+
+Weather—the patterns of which make up the climate— profoundly affects our food system. The growing of crops requires certain amounts of water, heat, and sun; tempera­ ture and other conditions influence the growth and health of animals. Yet, climate change is dramatically altering the weather patterns in the United States. Figure 1 (next page) shows a few categories of harm out of many possible exam­ ples.1 Floods, droughts, and heat waves are more frequent
+
+ment, Volume II 391-437 50-174 (2018); Josué Medellín-Azuara et al., Center for Watershed Sciences, Economic Analysis of the 2016 California Drought on Agriculture (2016); Curtis A. Deutsch et al., Increase in Crop Losses to Insect Pests in a Warming Climate, 361 Nature 916-19 (2018); Matthew R. Smith et al., The Impact of Rising Carbon Dioxide Levels on Crop Nutrients and Human Health, Feed the Future (2018) (GCAN Policy Note 10); Deepak Ray, Climate Change Is Affecting Crop Yields and Reducing Global Food Supplies, The Conversation, July 9, 2019, http://theconversation.com/climate-change-is-affecting-crop-yieldsand-reducing-global-food-supplies-118897; Tom Polansek, U.S. Disaster Aid Won’t Cover Crops Drowned by Midwest Floods, Reuters, Apr. 2, 2019, https://www.reuters.com/article/us-usa-weather-iowa/u-s-disaster-aid-wontcover-crops-drowned-by-midwest-floods-idUSKCN1RE0BU; John Schwartz, A Wet Year Causes Farm Woes Far Beyond the Floodplains, N.Y. Times, Nov. 21, 2019, https://www.nytimes.com/2019/11/21/climate/farms-climatechange-crops.html?smid=nytcore-ios-share.
+
+ Figure 1. Impacts of Climate Change on Agriculture
+
+PESTS, WEEDS, DISEASES
+
+• More optimal living conditions for pests
+
+and parasites
+
+• Invasive species expand and spread
+
+• Reduced resilience to disease outbreak
+
+HEAT WAVES AND
+
+EXTREME WEATHER
+
+• Hurricanes and storms
+
+WILDFIRES
+
+• More frequent and severe
+
+• Lead to yield declines
+
+• Dangerous working
+
+increase in frequency and severity
+
+• Hurricane Maria: $780M in
+
+conditions
+
+ag losses
+
+• CAFO overflows
+
+FLOODS AND DROUGHTS
+
+• Irregular and extreme precipitation events
+
+more frequent and severe
+
+• 2016 CA Drought: $603M in ag losses
+
+• 2019 Midwest floods: 5-10M bushels corn
+
+and soy rotted; 19M acres left unplanted
+
+While crop insurance, generously funded disaster assis­ tance, and other programs largely shield producers them­ selves from the economic impacts of climate change, the societal costs are immense. For example, a 2021 study using detailed information from county-level crop insur­ ance claims found that increased temperatures “contributed $27 billion—or 19%—of the national-level crop insurance losses over the 1991-2017 period” and concludes with “very high confidence that anthropogenic climate forcing has increased U.S. crop insurance losses.”2 In addition, food prices are becoming more volatile as climate change inter­ rupts both food production and our ability to transport food around the world.3 Elevated levels of atmospheric carbon dioxide (CO2) impact plant physiology and the relative availability of nutrients. As a result of these shifts, protein concentrations in staple crops are expected to fall by 6%-14%,4 while also reducing micronutrient levels in
+
+vegetables and other crops.5 These changes will dispropor­ tionately affect the food insecure, who must contend with a food system where healthy foods are already more difficult to find and more expensive to purchase.6 We must not only eliminate agriculture’s net emissions, but also make agri­ cultural production more resilient.
+
+American farms must employ practices that will bet­ ter enable them to withstand the more frequent extreme weather that climate change will bring. They will also face changes in climate conditions—the temperature, length of growing season, and rainfall patterns among other fac­ tors—that in large part determine whether a crop is suited for a specific region. Fortunately, many of the same prac­ tices that can reduce the contribution of agriculture to cli­ mate change will also make agriculture more resilient to climate change. Climate-friendly practices, and the poli­ cies that can accelerate their adoption, will benefit those who implement them. Trees and perennial crops with larger roots can better withstand floods, droughts, and heat waves; cover crops or untilled lands contain more
+
+2. Noah Diffenbaugh et al., Historical Warming Has Increased U.S. Crop In­ surance Losses, 16 Env’t Res. Letters 084025 (2021), https://iopscience. iop.org/article/10.1088/1748-9326/ac1223. The study also found “that observed warming contributed almost half of total losses in the most costly single year (2012).” 3. See Margot Pollans, Food Systems, in Climate Change, Public Health, and the Law 272 (Justin Gundlach & Michael Burger eds., Cambridge University Press 2018). 4. Danielle E. Medek et al., Estimated Effects of Future Atmospheric CO2 Con­ centrations on Protein Intake and the Risk of Protein Deficiency by Country and Region, 125 Env’t Health Persp. 087002-1 (2017).
+
+5. Jinlong Dong et al., Effects of Elevated CO2 on Nutritional Quality of Vegeta­ bles: A Review, 9 Frontiers Plant Sci. 1 (2018) (finding that elevated at­ mospheric CO2 levels decreased magnesium, iron, and zinc levels); Samuel S. Myers, Rising CO2 Threatens Human Nutrition, 510 Nature 139 (2014) (reporting that most grains and legumes have lower levels of iron and zinc under elevated levels of atmospheric CO2). 6. See Nathan Rosenberg & Nevin Cohen, Let Them Eat Kale: The Misplaced Narrative of Food Access, 45 Fordham Urb. L.J. 1091 (2018) (discussing the root causes of food insecurity and diet-related health disparities).
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10097
+
+Figure 2. Major Land Uses in the Contiguous United States
+
+35%
+
+GRASSLAND PASTURE
+
+AND RANGE
+
+21%
+
+GRAIN AND FEED EXPORTS
+
+CROPLAND
+
+FALLOW ETHANOL FOOD LIVESTOCK FEED
+
+28%
+
+FOREST-USE
+
+NON-GRAZED FORESTS GRAZED FORESTS
+
+13%
+
+OTHER
+
+4%
+
+URBAN AREAS
+
+0 100 200 300 400 500 600 MILLION
+
+ACRES
+
+Note: Percentages may not sum to 100 due to independent rounding. Darker shading indicates agricultural uses.
+
+organic matter that is less susceptible to erosion; crops that are planted in a rotation provide less purchase for pests; enhanced location-specific management improves forage; and adding trees through silvopasture protects livestock and provides additional sources of income.
+
+tions can make a substantial contribution to decarboniza­ tion in the United States. The following subsections analyze global, national, and state-level agricultural emissions.
+
+A. Global Agricultural Greenhouse Gas Emissions
+
+II. Agriculture’s Contribution to
+
+Agriculture’s contribution to climate change is expected to grow rapidly as other sectors decarbonize, the global popu­ lation grows, and industrial animal production becomes more pervasive. Unless there are significant changes in the food system, agricultural emissions alone will make it impossible to achieve the Paris Agreement goal of limit­ ing warming to no more than 2 degrees Celsius above preindustrial levels, let alone the safer target of 1.5 degrees Celsius. And if meat consumption continues to grow, cli­ mate change will be dramatically accelerated.
+
+Climate Change
+
+“Agriculture” refers to the cultivation of crops and the rais­ ing of animals for the “4Fs”: food, feed, fuel, and fiber. It accounts for 52% of the country’s total landmass, includ­ ing 62% of the landmass of the contiguous 48 states, making it the single largest type of land use in the United States (including forested grazing lands).7 Of the country’s total 2.3 billion acres, approximately 392 million acres are now cropland, 655 million acres are grassland pasture and range, and 130 million acres are grazed forestland.8 (See Figure 2.)9 Since agriculture uses so much land, modest reductions in emissions per acre can have an enormous cumulative effect when adopted across large numbers of farms. Moreover, as discussed below, the lost carbon sequestration capacity of land already converted to agri­ culture must be considered. Such changes can also help farmers adapt to the changing climate.
+
+The Global Calculator, developed by research institu­ tions across several countries, shows that even with the most aggressive mitigation in energy production and use, transportation, industry, and housing, the world will greatly exceed the two-degree Celsius target—if we do not reduce food system emissions.11 Global food systems con­ tribute about one quarter to one-third of total greenhouse gas emissions,12 and numerous extensive scientific studies
+
+A central argument in this book is that carbon seques­ tration should be an essential function of agriculture—the fifth “F” for the future10—supported by federal agricultural programs and policies. Freedom from the worst effects of climate change is at least as critical as any other function of modern agriculture, including crop, animal, timber, and biofuels production. By reducing greenhouse gas emissions while also increasing soil carbon stores, agricultural opera­
+
+11. See Global Calculator, Home Page, tool.globalcalculator.org (last visited Oct.
+
+28, 2020). See also Michael A. Clark et al., Global Food System Emissions Could Preclude Achieving the 1.5° and 2°C Climate Change Targets, 370 Sci­ ence 705-08 (2020) (noting that the global food system is responsible for about 30% of global greenhouse gas emissions and that “current trends in global food systems would prevent the achievement of the 1.5°C target and, that . . . [m]eeting the 1.5°C target requires rapid and ambitious changes to food systems as well as to all nonfood sectors”).
+
+12. Francesco Tubiello et al., Greenhouse Gas Emissions From Food Systems:
+
+Building the Evidence Base, 16 Envtl. Res. Letters 065007 (2021), https://iopscience.iop.org/article/10.1088/1748-9326/ac018e/pdf (food system emissions contribute a third of total global greenhouse gases and three quarters of these emissions were generated either within the farm gate or in pre- and post-production activities); Monica Crippa et al., Food Sys­ tems Are Responsible for a Third of Global Anthropogenic GHG Emissions, 2 Nature Food 198-209 (2021) (food system emissions amounted to 34% of total greenhouse gas emissions and agriculture and land use changes con­ tributing 71% of that or 24% of total emissions); Cynthia Rosenzweig et al., Climate Change Responses Benefit From a Global Food System Approach, 1 Nature Food 94-97 (2020) (finding food system greenhouse gas emissions to contribute 21-37 percent of total emissions); Joseph Poore et al., Reducing
+
+7. Daniel P. Bigelow & Allison Borchers, U.S. Department of Agricul­ ture, Major Uses of Land in the United States, 2012, at 4 tbl.1 (2017) (EIB-178). 8. Id. 9. Sources for Figure 2: Economic Research Service, USDA, Major Uses of Land in the United States 4 tbl. 1 (2017) (EIB-178). Dave Merrill et al., Here’s How America Uses Its Land, Bloomberg, July 31, 2018, at https:// www.bloomberg.com/graphics/2018-us-land-use/.
+
+10. See Peter Lehner, Feed More With Less, 34 Env’t F. 42, 49 (2017).
+
+Figure 3. Industrial Agriculture Contributes to Climate Change
+
+Agriculture*9%
+
+SOIL CARBON
+
+Commercial & Residential12%
+
+• Forest and grassland conversion, tillage • ~17 coal-fired power plants • 7.8M+ acres converted to cropland from 2008-2012 • Continuing impact of prior converted land
+
+Electricity
+
+30%
+
+Industry
+
+21%
+
+Transportation
+
+26%
+
+METHANE
+
+• ~85x stronger than CO2 • Cattle, animal manure, rice • ~87 coal-fired power plants • Equal to emissions from entire oil and gas sector
+
+* Does not include GHG from land conver­
+
+sion, foregone sequestration; additional food system emissions from processing, refrigeration, cooking, transport, etc.
+
+NITROUS OXIDE
+
+• ~285x stronger than CO2 • Excess fertilizer, animal manure • ~73 coal-fired power plants
+
+CARBON DIOXIDE
+
+• Fertilizer manufacture, on-farm energy, food waste in landfills • ~12 coal-fired power plants • Food processing, distribution, preparation
+
+Note: Percentages are of total gross U.S. anthropogenic GHG emissions.
+
+confirm that shifts in agricultural practices are critical for achieving international climate targets.13 The vast major­ ity of agricultural emissions now derive from animal agri­ culture, so significantly changing how animal products are produced and consumed will be critical. Stopping the conversion of native grasslands or forests to croplands is another important factor. The model sees a particularly big impact in reducing long-term greenhouse gas emissions through multi-cropping and agroforestry, where trees and shrubs are integrated on land with crops and/or livestock production. Other countries are already investing sig­ nificant sums into agroforestry research and production, yet the United States has lagged, despite robust research demonstrating its significant potential to sequester carbon
+
+while producing ample food. Moreover, food production needs will increase as the global population continues to grow. Thus, perhaps even more than agriculture’s current contribution, its long-term determinative factor in climate stability demands careful policy attention.
+
+B. U.S. Agricultural Greenhouse Gas Emissions
+
+The U.S. Environmental Protection Agency (EPA) esti­ mates that 2019 emissions from agricultural activities— growing crops and raising livestock and poultry—totaled about 629 million metric tons of carbon dioxide equivalent (MMT CO2eq.), accounting for more than 10% of total U.S. greenhouse gas emissions.14
+
+These agricultural emissions are at a minimum roughly equivalent to that produced by 136 million automobiles in a typical year.15 However, unlike the greenhouse gas emis­ sions of most other sectors of the economy, which consist of CO2 released from the burning of fossil fuels, agriculture greenhouse gas emissions consist largely of nitrous oxide (N2O) from soils and manure and methane (CH4) from
+
+Food’s Environmental Impacts, 360 Science 987-92 (2018) (based on over 1,500 studies, finding that “today’s food supply chain creates—13.7 billion metric tons of carbon dioxide equivalents (CO2eq), 26% of anthropogenic GHG emissions”).
+
+13. See id. See also Sinead Leahy et al., Challenges and Prospects for Agricultural
+
+Greenhouse Gas Mitigation Pathways Consistent With the Paris Agreement, 4 Frontiers Sustainable Food Systems 69 (2020); Eva Wollenberg et al., Reducing Emissions From Agriculture to Meet the 2C Target, 22 Global Change Biology 12 (2016); Stefan Frank et al., Agricultural Non-CO2 Emission Reduction Potential in the Context of the 1.5C Target, 9 Nature Climate Change 66 (2019); Brent Kim et al., Johns Hopkins Center for a Livable Future, The Importance of Reducing Animal Product Consumption and Wasted Food in Mitigating Catastrophic Climate Change (2015); Walter Willett et al., Food in the Anthropocene: the EAT— Lancet Commission on Healthy Diets From Sustainable Food Systems, 393 The Lancet 447-92 (2019); Tomas Nauclé & Per-Anders Enkvist, McKin­ sey & Company, Pathways to a Low-Carbon Economy: Version 2 of the Global Greenhouse Gas Abatement Cost Curve (2009).
+
+14. U.S. EPA, Inventory of U.S. Greenhouse Gas Emissions and Sinks:
+
+1990-2019, at 5-1 (2021), https://www.epa.gov/sites/production/ files/2020-02/documents/us-ghg-inventory-2020-main-text.pdf. The 2019 emissions are more than 1% higher than those from just the prior year, 2018.
+
+15. Compare id., with U.S. EPA, Greenhouse Gas Emissions From a Typical
+
+Passenger Vehicle (2018) (a typical passenger vehicle emits 4.6 metric tons of CO2 annually).
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10099
+
+Figure 4. Major Sources of Agricultural Greenhouse Gas Emissions in the United States
+
+AGRICULTURE = 40% OF U.S. TOTAL METHANE (CH₄) EMISSIONS & 82% OF U.S. TOTAL NITROUS OXIDE (N₂O) EMISSIONS
+
+Top bar based on 100-year global warming potential (GWP); bottom bar based on 20-year GWP.
+
+Equivalent to: Emissions from 100 coal-ﬁred power plants
+
+Equivalent to: Emissions from 200 coal-ﬁred power plants
+
+100 200 300 400 500 600 700 800 900 1000 1100 0
+
+MMT CO2eq
+
+Soil N₂O
+
+Enteric Fermentation CH₄
+
+Manure CH₄
+
+Rice CH₄
+
+Manure N₂O
+
+CO₂
+
+livestock and manure (as shown in Figure 3).16 Agriculture also produces CO2 from fossil fuel combustion (both on farms and off-site for on-farm electricity) and CO2 from land conversion, neither of which are included in the EPA sector total. Agriculture is responsible for approximately 80% of U.S. N2O emissions and 40% of U.S. CH4 emis­ sions—the same as the entire oil and gas sector’s produc­ tion emissions.17
+
+N2O emissions from agricultural soil management come from cropland and 27% come from grazed grasslands.20
+
+The next largest source of agricultural emissions is enteric fermentation, which results from the digestive pro­ cess of ruminants (largely cows and sheep in the United States) (see Figure 4).21 Enteric fermentation creates CH4, which animals subsequently release into the atmosphere through belching and exhalation.22 Enteric fermentation is responsible for 32% of all agricultural emissions and 27% of CH4 emissions in the United States.23 (As discussed below, the relative impact of bovine exhalation would be much greater using more appropriate approaches for calcu­ lating CH4 emissions.)
+
+The largest source of U.S. agricultural greenhouse gas emissions according to EPA is agricultural soil man­ agement. Activities by microorganisms in soil naturally result in emissions of N2O, while agricultural practices, management, and land use can stimulate and accelerate these emissions by increasing the availability of nitrogen. Agricultural greenhouse gas emissions are dominated by emissions resulting from application of fertilizer as well as emissions associated with the breakdown of soil organic matter.18 Soil management generates approximately half of all U.S. agricultural emissions and 93% of all U.S. N2O emissions from agriculture.19 Seventy-three percent of
+
+Manure management activities are the third major cat­ egory of U.S. agricultural emissions, releasing N2O and CH4 in quantities that total 13% of total U.S. agricultural emissions.24 The largest animal facilities—those with over 1,000 cattle on feed, 1,000 dairy cows, 2,000 finishing hogs, 100,000 turkeys sold, 300,000 broilers sold, or over 50,000 laying hens —generate the substantial majority of these emissions. Greenhouse gas emissions from enteric fermentation and manure are largely dependent on the number of animals raised in these facilities, which are heavily concentrated in a small proportion of the largest operations: over 50% of dairy cows in the United States are in the 4% of operations that stock 1,000 or more dairy cows.25 More than 90% of hogs in the United States are in
+
+16. Figure 3 sources: U.S. EPA, Inventory of U.S. Greenhouse Gas Emis­
+
+sions and Sinks: 1990-2018 (Feb. 2020), https://www.epa.gov/sites/produc­ tion/files/2020-02/documents/us-ghg-inventory-2020-main-text.pdf (tables 2-1 & 2-2, trends in U.S. greenhouse gas emissions; 2-4, energy; 2-5, combustion; 2-10, industrial; 5-1, agriculture; 6-1, land use and land use change; and 7-1, 7-3 & 7-6, waste & landfills); coal-fired power plants equivalencies from U.S. EPA, Greenhouse Gas Equivalencies Calculator, https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator.
+
+17. See U.S. EPA, Overview of Greenhouse Gases, https://www.epa.gov/ghgemis­
+
+20. See id. at 5-25 tbl.5-15.
+
+21. Sources for Figure 4: U.S. EPA, Inventory of U.S. Greenhouse Gas
+
+Emissions and Sinks: 1990-2018, at 5-2 tbl.5-1 (Feb. 2020), https:// www.epa.gov/sites/production/files/2020-02/documents/us-ghg-invento­ ry-2020-main-text.pdf.
+
+22. Andy Thorpe, Enteric Fermentation and Ruminant Eructation: The Role (and
+
+sions/overview-greenhouse-gases (last updated Sept. 8, 2020).
+
+18. U.S. EPA, Inventory of U.S. Greenhouse Gas Emissions and Sinks:
+
+1990-2018, Box 5-3 at 5-36 (2020) (EPA 430-R-20-002), https://www.epa. gov/sites/production/files/2020-04/documents/us-ghg-inventory-2020main-text.pdf). In the methodology used by EPA to calculate nitrous oxide emissions, microorganisms in soil produce nitrous oxide at rates dependent on the availability of nitrogen, land use and management, weather, soil types, and other environmental conditions.
+
+19. See U.S. EPA, supra note 18, at 5-2 tbl.5-1.
+
+Control?) of Methane in the Climate Change Debate, 93 Climate Change 407, 411 (2009).
+
+23. See U.S. EPA, supra note 18, at ES-7 tbl.ES-2, 5-2 tbl.5-1.
+
+24. See id. at 5-2 tbl.5-1.
+
+25. See National Agricultural Statistics Service, USDA, 2017 Census of
+
+Agriculture, U.S. National Level Data tbl.12 (2019). NASS uses dif­
+
+Figure 5. Concentration and Production of
+
+Largest Animal Production Operations
+
+0 25 50 75 100%
+
+ALL LIVESTOCK
+
+5.7%
+
+89%
+
+BEEF CATTLE
+
+24%
+
+92%
+
+DAIRY COWS
+
+11%
+
+PERCENT OF OPERATIONS CONSIDERED LARGEST
+
+72%
+
+SWINE
+
+31%
+
+PERCENT OF ANIMALS PRODUCED BY LARGEST FACILITIES
+
+99%
+
+BROILERS
+
+33%
+
+89%
+
+TURKEYS
+
+21%
+
+98%
+
+LAYERS
+
+1%
+
+92%
+
+Figure 6. Share of Manure Emissions From Largest
+
+Animal Production Operations
+
+Emissions from smaller operations
+
+18.4% 14.4%
+
+85.6% 81.6%
+
+Manure methane emissions
+
+Manure nitrous oxide emissions
+
+from largest operations
+
+from largest operations
+
+the 12% of facilities that stock 2,000 or more hogs,26 and more than three-quarters of all cattle on feed in the United States are in the 5% of facilities that stock 1,000 or more cattle.27 As shown in Figures 5 and 6, the climate footprint of animal agriculture is directly correlated to this concen­ tration of inventory, with a few large facilities responsible for the majority of greenhouse gas emissions.28
+
+Methane emissions released from soils flooded for rice cultivation and the field burning of crop residues make up more than 2% of total U.S. greenhouse gas emissions from agriculture.29 In addition, CO2 emissions from urea fer­ tilization and liming—included by EPA in its estimate of agricultural emissions for the first time in 201530—account for just under 2% of agricultural emissions.31 We compare emissions of various agricultural activities in Figure 4.
+
+The vast majority of agricultural emissions are from ani­ mal production, particularly beef and dairy. In the United States, meat and dairy production—including emissions related to production of their feed (which is about half of
+
+ferent class sizes than does EPA in its definition of a “concentrated animal feeding operation” under the Clean Water Act. Pursuant to EPA rules, a large concentrated animal feeding operation (CAFO) is one with more than 1,000 animal units. An animal unit is defined as an animal equivalent of 1,000 pounds live weight and equates to 1,000 head of beef cattle, 700 dairy cows, 2,500 swine weighing more than 55 pounds, 125,000 broiler chickens, or 82,000 laying hens or pullets. See 40 C.F.R. §122.23(b)(4).
+
+26. See National Agricultural Statistics Service, supra note 25, at tbl.25.
+
+27. See id. at tbl.12.
+
+28. Sources for Figures 5 & 6: USDA, National Agriculture Statistics
+
+and GHG Emissions CAFOs: Quantifying a National Estimate 23 & 25 (Aug. 19, 2020).
+
+29. See id.
+
+30. See id.
+
+31. See id.
+
+Service, 2017 Census of Agriculture, United States Summary and State Data, tbls.12-30 (April 2019); Claire Huang, Earthjustice, Air
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10101
+
+Figure 7. Annual Greenhouse Gas Emissions From
+
+Largest Animal Facilities
+
+ANNUAL METHANE EMISSIONS FROM LARGEST FACILITIES [million lbs per year]
+
+0 750 1,500 2,250 3,000
+
+BEEF CATTLE
+
+DAIRY COWS
+
+SWINE
+
+BROILERS
+
+TURKEYS
+
+LAYERS
+
+ANNUAL NITROUS OXIDE EMISSIONS FROM LARGEST FACILITIES [thousand lbs per year]
+
+0 15,000 30,000 45,000 60,000
+
+BEEF CATTLE
+
+DAIRY COWS
+
+SWINE
+
+BROILERS
+
+TURKEYS
+
+LAYERS
+
+U.S. crop production), grazing, enteric fermentation, and manure—accounts for almost 80% of agriculture’s green­ house gas emissions.32 If the global cattle population were a country, it would constitute the second largest greenhouse gas emitter after China.33 Both the grazing stage for cows and the feedlot stage for beef, dairy, swine, and poultry production, as practiced now, produce substantial green­ house gas emissions.34 Because cows produce only one calf at a time, which nurse for months and then must graze until their bodies can take a grain diet in a feedlot, there are about five cows grazing for each of the close to 30 million cows in feedlots.35 This requires vast amounts of land—almost 800 million acres or about 40% of the con­ tiguous United States is devoted to grazing.36
+
+cropland is often cultivated more intensely than cropland growing human food and often emits more nitrous oxide per acre than the production of crops for human consump­ tion.38 However, only a fraction of those crop calories is delivered to humans because the feed-to-meat ratio is so inefficient. For example, the production of one pound of beef from feedlot cattle requires 15 pounds of grain.39 As a result, grazing and feed crop production contribute almost two-thirds of N2O emissions from agricultural soils.40
+
+culture: U.S. National Level Data 16 tbl.8 (2009). The U.S. Depart­ ment of Agriculture (USDA) estimates that approximately 165 million of those acres were devoted to feed crops; however, up to 10% of the feed was diverted to biofuels. Cynthia Nickerson et al., USDA, Major Uses of Land in the United States, 2007, at 20 (2011) (EIB-89). This total does not include soybeans, which USDA considers a “food crop,” despite the fact that soybean meal is typically used as animal feed. Tani Lee et al., USDA, Major Factors Affecting Global Soybean and Products Trade Pro­ jections (2016).
+
+38. Conventionally grown feed crops, such as corn, soybean, and hay, generally
+
+In addition, approximately half of all harvested crop­ land is devoted to animal feed crop production, adding to animal agriculture’s already capacious footprint.37 This
+
+32. These sources were responsible for 421.8 MMT CO2eq. or 78% of ag­
+
+result in high N2O emissions. See U.S. EPA, supra note 18, at 5-23.
+
+39. The feed conversion ratio expresses the number of pounds of grain necessary
+
+ricultural emissions in 2017. Compare U.S. EPA, supra note 18, at 5-2 tbl.5-1 (showing annual emissions from agriculture by source), with infra note 40 (calculating emissions from agricultural soils devoted to feed crop production or grazing).
+
+33. Justin Ahmed et al., McKinsey & Co., Agriculture and Climate
+
+to increase the “live weight” of a head of cattle by one pound. At industrial feedlots, a feed conversion ratio of 6:1 is common. Dan W. Shike, Beef Cattle Feed Efficiency 3 (2013). About 40% of the live weight of a head of cattle is sold as beef, which means that 15 pounds of grain is necessary to yield one pound of beef. See Rob Holland et al., University of Ten­ nessee Institute of Agriculture, How Much Meat to Expect From a Beef Carcass 9 (2016) (PB-1822).
+
+40. This includes grassland emissions, which account for 73.3 MMT CO2eq., as
+
+Change: Reducing Emissions Through Improved Farming Practices 5 (2020).
+
+34. See C. Alan Rotz et al., Environmental Footprints of Beef Cattle Production in
+
+the United States, 169 Agric. Systems 1 (2019).
+
+35. Matthew N. Hayek & Rachael D. Garrett, Nationwide Shift to Grass-Fed
+
+well as 48% of cropland emissions—the approximate percentage of harvest­ ed cropland devoted to feed crop production in 2007—which adds an addi­ tional 92.7 MMT CO2eq. Compare U.S. EPA, supra note 18, at 5-2 tbl.5-1, 5-25 tbl.5-15 (showing annual emissions from agriculture by source), with supra note 32 (explaining how the percentage of harvested cropland devoted to feed crop production was calculated). Together, they were responsible for 166 MMT CO2eq. or 62% of all emissions from agricultural soils in 2016.
+
+Beef Requires Larger Cattle Population, 13 Env’t Res. Letters 0845005 (2018).
+
+36. See Bigelow & Borchers, supra note 7.
+
+37. There were approximately 310 million acres of harvested cropland in 2007
+
+according to the Census of Agriculture. National Agricultural Statis­ tics Service, U.S. Department of Agriculture, 2007 Census of Agri­
+
+Figure 8. Agricultural Emissions by State
+
+IA 63,329
+
+(2.4)
+
+TX 38,188
+
+(1.3)
+
+Notes: The 2014 state-specific agricultural greenhouse gas emissions are based on EPA’s State Inventory Tool, available in the CAIT Climate Data Explorer (http://cait.wri.org/). States are shaded based on the amount of agricultural greenhouse gas emissions (between 0.05 MMT CO2 eq. in Rhode Island, to 63.33 MMT CO2 eq. in Iowa). State-specific agricultural greenhouse gas emission values are printed following state names, followed by emissions scaled by state-specific cropland acres from the 2012 Agricultural Census given in metric tons per cropland acre.
+
+Not only does animal agriculture overall have an out­ sized impact on climate change, but this impact is—under current production methods—particularly influenced by beef, dairy, and to a lesser extent, swine production. This impact is all the more striking given that Americans receive only 30% of their calories from animal products.41
+
+tural greenhouse gas emissions, Texas (38 MMT CO2eq./ yr.), Nebraska (33 MMT CO2eq./yr.), and California (29 MMT CO2eq./yr.). All of these states have both very high numbers of livestock and extensive cropland.
+
+States also vary in the significance of agricultural emissions, accounting for more than 50% of total state emissions in South Dakota, and more than 30% of state emissions in Idaho, Nebraska, and Iowa. Finally, agricul­ tural greenhouse gas emissions also vary when scaled by total cropland acres, indicating the relative intensity of the agricultural practices and the portion of livestock or poultry to cropland, with Arkansas, North Carolina, Ari­ zona, New Mexico, and California in the lead under this metric. State-specific policies should take into account the particularities of each state’s agricultural and total eco­ nomic sectors.
+
+C. State-Level Agricultural Greenhouse Gas
+
+Emissions
+
+While virtually all U.S. states have important agricultural sectors, their agricultural emission rates vary significantly due to climate differences and the type and intensity of agriculture within the state. A major factor is the amount of livestock. The top 10 highest overall greenhouse gas emitters (including fossil fuel emissions) account for nearly 50% of national emissions, with Texas and California in the lead. (See total emissions listed below state names in Figures 8 and 9.)42 However, the states with the largest total agricultural greenhouse gas emissions are Iowa (63 MMT CO2eq./yr.) with more than 10% of all U.S. agricul­
+
+III. Underestimates and Uncertainties
+
+We must understand the limitations of current research and data in order to craft effective policies. This is particularly true in agriculture, which uses a vast amount of land—that could otherwise be used for different purposes—and where production cannot be standardized to the degree that it is in most other sectors of the economy. An apple tree in Wash­ ington will have radically different irrigation, nutrient, and anti-pest needs than an apple tree grown in New York state. It may also have substantially different needs than an apple tree down the road due to variations in microclimates and land use history. The production of widgets, or even energy, is much easier to standardize and thus analyze. We
+
+This total does not include the approximately 16.5 million acres devoted to the production of biofuel feedstock. See supra note 38.
+
+41. USDA Economic Research Service, Seventy Percent of U.S. Calories Con­
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10103
+
+climate change impacts of prior land conver­ sion and the lost opportunity of that land to sequester more carbon. Nor does it include on-farm energy, annual land use conversion, agricultural inputs, and other components of the food system. Finally, EPA uses a method for calculating the impact of methane that does not reflect current policy discussions or the need for shorter-term action, reducing its estimate of agriculture’s emissions by more than half. Accounting for all these adjust­ ments brings the total to one-quarter to onethird of all U.S. emissions.
+
+Figure 9. Agricultural Greenhouse Gas Emissions and Total Anthropogenic Greenhouse Gas Emissions by State
+
+Total Emissions (MMT CO2e) Agriculture Emissions (MMT CO2e)
+
+0 200 400 600 800
+
+IA
+
+TX
+
+NE
+
+CA
+
+MN
+
+KS
+
+First, while the impact on climate change for most sectors of the economy stems almost entirely from their production-related green­ house gas emissions, with agriculture one must also consider the impact of land use. The land footprint of other sectors is insig­ nificant in relation to their emissions and therefore is not considered in EPA’s green­ house gas inventory. But agriculture’s land footprint is the dominant part of the impact. The use of land for growing crops or raising livestock means that agricultural land—62% of the contiguous United States—cannot be used for other purposes, including those that could have a very different climate impact. Most agricultural land before develop­ ment was grassland or forest land, which both stored and annually sequestered large amounts of carbon. This lost sequestration capacity of agricultural land is a very real climate impact of agriculture, although one rarely considered. If this impact is included, the total annualized climate change impact of agriculture is approximately 50% bigger than the total agriculture sector emissions in the EPA inventory.44
+
+NC
+
+IL
+
+MO
+
+SD
+
+OK
+
+IN
+
+WI
+
+OH
+
+ND
+
+AR
+
+ID
+
+CO
+
+MI
+
+MT
+
+Notes: Top 20 state-specific total greenhouse gas emissions (outer black bars) and agricultural greenhouse gas emissions (inner light gray bars), sorted by decreasing agricultural green­ house gas emissions. Data are based on EPA’s State Inventory Tool, available in the CAIT Cli­ mate Data Explorer (http://cait.wri.org/).
+
+begin the section by examining the ways that EPA’s official figures significantly underestimate agricultural emissions. We then examine the substantial uncertainties in those estimates. Both of these problems underscore the need to rapidly reduce net agricultural emissions.
+
+As one group of scholars explained: “Restoration of native ecosystems, including forests, is a land-based option for atmosphere carbon dioxide removal. Ecosystem resto­ ration is constrained largely by land requirements of food production, the largest human use of land globally. Food production therefore incurs a ‘carbon opportunity cost,’ that is, the potential for natural carbon dioxide removal via
+
+A. Underestimates
+
+EPA’s deceptively low number for agricultural greenhouse gas emissions often leads policymakers and journalists to focus on other sectors when considering climate change mitigation strategies. However, this estimate undercounts agriculture’s actual emissions in at least three ways (as shown in Figure 10).43 It does not consider the current
+
+from 100-year global warming potentials (GWP) to represent policyrelevant timescales using GWP20 values for methane and nitrous oxide; (5) Net carbon losses from annual land conversion to croplands; (6) Car­ bon opportunity cost (COC), converted to annualized greenhouse gas emission equivalent for the U.S.; (7) Emissions from 75% of total landfill methane emissions, anaerobic digestion at biogas facilities, and compost­ ing. For comparison, the combined total emissions (>1600 MMT) are equivalent to the annual carbon dioxide emissions from over 400 coalfired power plants and slightly less than total U.S. transportation sector greenhouse gas emissions (1880 MMT).
+
+44. Matthew Hayek et al., The Carbon Opportunity Cost of Animal-Sourced Food
+
+Figure 10. More Complete Estimate of Agriculture’s Climate Change Contribution
+
+MMTCO2eq
+
+FOOD WASTE
+
+SEQUESTRATION OPPORTUNITY COST
+
+1500
+
+ANNUAL LAND CONVERSION
+
+20-YEAR GLOBAL WARMING POTENTIAL
+
+1000
+
+FERTILIZER PRODUCTION
+
+FUEL & ELECTRICITY
+
+DIRECT EMISSIONS
+
+500
+
+0
+
+ecosystem restoration on land.”45 These scholars calculate that “the cumulative potential of carbon dioxide removal on land currently occupied by animal agriculture is com­ parable in order of magnitude to the past decade of global fossil fuel emissions.”46
+
+bon.49 In many cases, the land has this capacity to increase carbon stored in vegetation and soils currently because ear­ lier agricultural activities have significantly depleted what had been previously stored prior to cultivation.50 Thus in reality, there is a need to restore land to its pre-agricultural condition to repay this debt before interpreting sequestra­ tion as an additional opportunity. While now generally dis­ cussed as a future sequestration opportunity (often in the context of proposed payment or offset schemes), this can also be seen as legacy harm in need of repair. Seeing it thus and recognizing this “carbon opportunity cost” of the land
+
+Similarly, other scholars have noted that “standard meth­ ods for evaluating the effect of land use on greenhouse gas emissions systematically underestimate the opportunity of land to store carbon if it is not used for agriculture.”47 They note that “typical lifecycle assessments, which estimate the [greenhouse gas] costs of a food’s consumption, only estimate land use demand in hectares without translat­ ing them into carbon costs. Other [life cycle assessments] consider land use carbon costs only if a food is directly produced by clearing new land . . . .” A better approach would be to add to the production-related greenhouse gas emissions the “quantity of carbon that could be seques­ tered annually if [that land] were instead devoted to regen­ erating forest [or grassland].”48
+
+49. See, e.g., Food and Agriculture Climate Alliance, Food and Agri­
+
+culture Climate Alliance Presents Joint Policy Recommendations (2021), https://agclimatealliance.com/files/2020/11/faca_recommenda­ tions.pdf (recommendations of coalition led by American Farm Bureau Federation, Environmental Defense Fund, National Council of Farmer Cooperatives, and National Farmers Union to new administration and Congress including providing tools “to maximize the sequestration of car­ bon” to “achieve the highest number of appropriate soil health-focused practices on the highest number of acres in order to sequester carbon and reduce other GHGs”).
+
+50. Jonathan Sanderman et al., Soil Carbon Debt of 12,000 Years of Human
+
+Many already acknowledge this opportunity when they note the capacity of U.S. agricultural land to sequester car­
+
+Land Use, 114 Proc. Nat’l Acad. Sci. 9575-80 (Sept. 2017), https://doi. org/10.1073/pnas.1706103114 (modeling soil organic carbon indicates a global soil carbon debt due to agriculture of 133 billion metric tons of car­ bon, with the rate of loss increasing dramatically in the past 200 years). Note that approximately 440 billion metric tons of carbon have been released by fossil fuel burning since between 1850 and 2018. See Pierre Friedlingstein et al., Global Carbon Budget 2019, 11 Earth Syst. Sci. Data 1783-1838 (2019), https://doi.org/10.5194/essd-11-1783-2019.
+
+45. Id.
+
+46. Id.
+
+47. Timothy Searchinger et al., Assessing the Efficiency of Changes in Land Use for
+
+Mitigating Climate Change, 564 Nature 249 (Dec. 13, 2018).
+
+48. Id. at 250.
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10105
+
+already in production for agriculture significantly increases agriculture’s contribution to climate change. For example, in high income countries like the United States, the carbon opportunity cost contributes as much to climate change as all fossil fuel and cement emissions together.51
+
+particularly potent greenhouse gas, with an average global warming potential of 265-298 times that of CO2 over 100 years.57 Whether a calculation uses the lower or the higher number of that range for N2O’s global warming potential creates about a 10% variation in its relative contribution to climate change.58
+
+Second, EPA includes on-farm fuel combustion such as for tractors or direct heating in the industrial sector; onfarm electricity for irrigation pumps, cooling, heating, ventilation, and other needs in the electricity sector; and soil carbon lost from conversion of forest or other nonagri­ cultural land to farmland in the consideration of land use. Thus, these emissions are not included in EPA’s calcula­ tions for the “agriculture” sector. Nor does EPA’s agricul­ tural tally include emissions related to aquaculture and fisheries, which provide significant amounts of our food.52 On-farm fuel combustion in 2018 contributed about 40 MMT CO2eq.,53 as did the indirect emissions of on-farm electricity use, while land annually converted for agricul­ tural use released 56 MMT CO2eq.54 All told, these addi­ tional elements of agriculture’s greenhouse gas emissions increase the sector’s share to about 11%. This total does not include upstream and downstream food system emissions such as emissions associated with the manufacture of fer­ tilizer (itself adding at least one-half percent of total U.S. greenhouse gas emissions), refrigeration and transport of food, and managing food waste, which, if included, would bring the U.S. food system’s total carbon footprint much higher.55 At the global scale, as noted above, approximately one-third of all greenhouse gas emissions are attributed to the food system.56
+
+Additionally, a 2016 study found that the Intergov­ ernmental Panel on Climate Change’s (IPCC’s) Fifth Assessment Report underestimated CH4’s global warm­ ing potential by 20%-25% because its methods did not take into account the absorption of shortwave radiation by CH4, among other factors.59 The study’s author estimates that the IPCC’s Sixth Assessment Report may revise CH4’s 100-year global warming potential to 35 or higher.60
+
+Calculating CH4’s global warming potential is fur­ ther complicated by the fact that methane breaks down relatively quickly compared to N2O or CO2. The global warming potential of methane is about 84-86 times that of CO2 over 20 years.61 EPA, however, uses a longer time horizon for calculating the global warming potential of CH4, reducing the relative impact of agriculture’s total emissions by more than half. Instead of determining the CO2 equivalent of CH4 by comparing the two gases over a 20-year time span, EPA’s report follows the IPCC’s Fourth Assessment Report in using a 100-year time span. This significantly lowers CH4’s global warming potential since CH4’s potency declines relatively quickly. As a result, EPA’s estimate assumes that CH4 has only 25 times the radia­ tive impact of CO2.62 The IPCC’s Fifth Assessment Report, however, not only increased the 100-year global warming potential of CH4 to 28-34 times that of CO2,63 but also supports the use of a 20-year timescale for measuring the impact of emissions from agriculture.64 While a 100-year time period for CH4 is still commonly used in scientific dis­ cussions, policy debates increasingly use a 20-year period due to the urgent need to reduce CH4 emissions over the next 10-30 years.65 For example, New York’s Climate Lead­ ership and Community Protection Act requires use of the 20-year time frame for analysis and policy development, which time frame increases CH4 share of the state’s total greenhouse gases by 3.4 times.66 If EPA had calculated
+
+Third, calculating agriculture’s climate change con­ tribution is also complicated by the fact that, unlike the energy and transportation sectors, which emit primarily CO2 as fossil fuels are burned, crop and livestock green­ house gas emissions consist largely of N2O and CH4. Comparing gases and their climate impact implicates fun­ damental policy choices. N2O, largely released as a result of fertilizer that is applied but not taken up by crops, is a
+
+51. Hayek, supra note 44, at 22, fig.2.
+
+52. U.S. EPA, supra note 18, at 6-109 to 6-110.
+
+53. See id. tbl.2-10.
+
+54. Id. tbl.6-1, at 6-34. EPA uses land use history data from the USDA Natural
+
+57. Intergovernmental Panel on Climate Change, Climate Change
+
+Resources Conservation Service to determine the acreage of land that has been converted to cropland or has remained as cropland, and then models emissions. Id. at 6-54 to 6-72. Over the past several years, the conversion of forest to cropland has resulted in the largest land use-related annual emis­ sions of CO2. Id. at 6-34.
+
+55. See, e.g., Claudia Hitaj et al., Greenhouse Gas Emissions in the United States
+
+2013: The Physical Science Basis Ch. 8, at 714 tbl.8-7 (2014).
+
+58. N2O emissions will also be the primary cause of stratospheric ozone destruc­
+
+tion this century. Akkihebbal R. Ravishankara et al., Nitrous Oxide (N2O): The Dominant Ozone-Depleting Substance Emitted in the 21st Century, 326 Science 123, 123-25 (2009).
+
+59. Maryam Etminan et al., Radiative Forcing of Carbon Dioxide, Methane, and
+
+Food System: Current and Healthy Diet Scenarios, 53 Env’t Sci. Tech. 5493-5503 (2019).
+
+56. See supra notes 11-13. See also Sonja J. Vermeulen et al., Climate Change
+
+Nitrous Oxide: A Significant Revision of the Methane Radiative Forcing, 43 Geophysical Res. Letters 12614 (2016).
+
+60. Jessica McDonald, How Potent Is Methane?, FactCheck.Org, Sept. 24,
+
+and Food Systems, 37 Ann. Rev. Env’t Resources 195-222 (2012); Pri­ yadarshi R. Shukla et al., Intergovernmental Panel on Climate Change, Climate Change and Land: An IPCC Special Report on Cli­ mate Change, Desertification, Land Degradation, Sustainable Land Management, Food Security, and Greenhouse Gas Fluxes in Terres­ trial Ecosystems 476 tbl.5.4 (2019) (indicating 21-37% of anthropogenic emissions from food systems); Henning Steinfeld et al., Food and Ag­ riculture Organization of the United Nations, Livestock’s Long Shadow 113 tbl.3.12 (2006) (indicating ~18% of anthropogenic GHG emissions are attributed to livestock alone); Robert Goodland & Jeff An­ hang, Worldwatch, Livestock and Climate Change (2009) (indicating 51% of anthropogenic GHG emissions are attributed to livestock alone).
+
+2018, https://www.factcheck.org/2018/09/how-potent-is-methane/.
+
+61. Intergovernmental Panel on Climate Change, supra note 56.
+
+62. U.S. EPA, supra note 18, at ES-3.
+
+63. Intergovernmental Panel on Climate Change, supra note 56.
+
+64. Id. at 720.
+
+65. See, e.g., Robert W. Howarth, A Bridge to Nowhere: Methane Emissions and
+
+the Greenhouse Gas Footprint of Natural Gas, 2 Energy Sci. & Engineering 47, 53-55 (2014).
+
+66. See N.Y.S. Env’t Conservation L. §75-0101(2) (“‘Carbon dioxide equiva­
+
+lent’ means the amount of carbon dioxide by mass that would produce the same global warming impact as a given mass of another greenhouse gas over
+
+agricultural emissions using a 20-year time horizon, its estimate would nearly double, from 619 to 1,216 MMT CO2eq. each year,67 shifting agricultural CH4 emissions alone to contributing about 8% of total U.S. emissions.
+
+weight, and location of different varieties of animals. Emis­ sions from each subpopulation are then modeled based on parameters reflecting diet characteristics in the region and the CH4 conversion rate, or fraction of calories converted to CH4. A similar but coarser approach is used for non-cat­ tle livestock. In addition to uncertainties associated with the demographic data on animal subpopulations, the cattle diet estimates are relatively speculative. EPA uses similarly complex models for manure emissions that incorporate the production rates of solid waste, CH4 conversion factors, and N2O emission factors, among other estimates, result­ ing in a 95% confidence interval from 18% below to 24% above the given figures.73
+
+B. Uncertainties
+
+Agricultural emissions are much more difficult to calculate than those in other sectors and far less certain. Govern­ ments and the private sector keep precise data about the amount of coal, oil, and gas used, which can be used to accurately determine the amount of CO2 entering the atmosphere. By contrast, EPA’s methodologies for estimat­ ing agricultural greenhouse gas emissions are very different and far less exact.
+
+A recent paper suggests an additional substantial underestimate of modeled emissions from CAFOs.74 The authors compared atmospheric measurements taken above and downwind of animal production regions to standard EPA and other models and found that the measurements showed animal CH4 emissions 39%-90% higher than model estimates of animal CH4. They note that “bottom up” models based on data on animal inventory and char­ acteristics underpredict enteric CH4 emissions for multiple animal species, potentially in part due to the prevalence of diseased animals with higher rates of enteric emissions than predicted from models with healthy herds. Addition­ ally, they note that manure emission estimates from these bottom-up models, which use parameters based on labora­ tory experiments within controlled test chambers, “appear to routinely underpredict emissions from manure. . . . When methane is measured outside of the lab, in the air directly above manure tanks, pits, and piles, emissions tend to be greater than models predict, sometimes by more than 300%.” These findings suggest even greater attention must be paid to ways to reduce CH4 emissions from CAFOs.
+
+All emission calculations involve some uncertainty due to challenges with collecting accurate and representative data, selecting appropriate model parameters, and simpli­ fying complex natural processes into a series of equations. Experts calculating emissions can determine how model results vary according to a range of likely inputs, and thus can establish what is known as a “95% confidence interval”—the range of values surrounding the estimate for which there is a 95% likelihood that the true value lies between.
+
+Many emission sources within the energy and industrial sectors are associated with precise mean or central esti­ mates. For example, the 95% confidence interval for total CO2 emissions from energy-related fossil fuel combustion narrows this estimate to within 2%-4% of the mean esti­ mate.68 In contrast, estimates for CH4 and N2O emissions from agriculture come with broader uncertainties across the board,69 and several of the largest agricultural green­ house gas emission sources, including soil N2O emissions70 and enteric fermentation,71 have extremely wide confidence intervals. The confidence interval for the agricultural sec­ tor is between 451 and 847 MMT CO2eq., or from 7% to 13% of total U.S. greenhouse gas emissions, around the mean estimate of 10% of emissions. This broad range of uncertainty between the upper and lower bounds for U.S. agricultural emissions (396 million tons) is equivalent to the annual emissions from 102 coal-fired power plants.72
+
+The greatest uncertainties in EPA’s greenhouse gas inventory are attributed to estimating N2O emissions from agricultural soils. The calculation must include each of the five different ways N2O is released, including (1) emis­ sions from the application of synthetic fertilizers and other inputs; (2) emissions following the breakdown of organic matter; (3) emissions following soil drainage; (4) emissions following livestock manure deposits; and (5) indirect emis­ sions following leaching or volatilization. Even with reason­ ably good data on nitrogen application activities, there are many uncertainties since the model must use intricate bio­ geochemical interactions in soil that vary with the weather, inputs, and other environmental conditions. As a result of this complexity, EPA indicates that the true N2O emissions from direct and indirect sources could be between 37% below to 50% above the given figure,75 which encompasses a range of 292 MMT CO2eq., itself an amount equal to
+
+These wide uncertainties are partly attributed to fun­ damental differences in estimating agricultural emissions compared to other sectors. For example, to determine enteric emissions of methane from cattle, EPA uses U.S. Department of Agriculture (USDA) data on the age,
+
+an integrated twenty-year timeframe after emission.”); Robert Howarth, Methane Emissions From Fossil Fuels: Exploring Recent Changes in Greenhouse Gas Reporting Requirements for the State of New York, 17 J. Integrative Env’t Sci. 69 (2020), https://doi.org/10.1080/1943815X.2020.1789666.
+
+67. Calculated by the authors using a global warming potential of 84 instead of
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10107
+
+Figure 11. Greenhouse Gas Emission From U.S. Agricultural Sources With 95% Confidence Intervals
+
+Direct Soil N2O Emissions N2O
+
+Direct Soil N2O Emissions N2O
+
+Enteric Fermentation CH4
+
+Enteric Fermentation CH4
+
+Manure Management CH4
+
+Manure Management CH4
+
+Indirect Soil N2O Emissions
+
+Indirect Soil N2O Emissions
+
+Manure Management N2O
+
+Manure Management N2O
+
+SOURCE
+
+SOURCE
+
+Rice Cultivation CH4
+
+Rice Cultivation CH4
+
+Urea Fertilization CO2
+
+Urea Fertilization CO2
+
+Liming CO2
+
+Liming CO2
+
+Field Burning of Agricultural
+
+Field Burning of Agricultural Residues CH4
+
+Residues CH4
+
+Field Burning of Agricultural
+
+Field Burning of Agricultural Residues N2O
+
+Residues NO2
+
+0 100 300 200
+
+0 100 200 300 MMT CO2 EQ 2018
+
+MMT CO2 EQ 2018
+
+almost half of the given figure for total U.S. agricultural greenhouse gas emissions.
+
+ing emissions is often difficult or impossible, and model calculations are relatively uncertain. These factors make it challenging to disentangle trends or detect the impact of specific policies on total emissions relative to wide uncer­ tainties. Fortunately, there is ample evidence that many climate-friendly practices do significantly reduce emissions or increase sequestration, and policymakers can craft pro­ grams that address the unavoidable uncertainty.
+
+As a result of all these uncertainties, demonstrated in Figure 11, EPA’s estimate for agricultural greenhouse gas emissions must be understood as simply one point in a wide range of possible figures.76 These uncertainties also point to a major challenge in developing policies to mitigate agricultural emissions and promote sequestration. When regulating emissions from other sectors, the government can identify emissions trends with minimal uncertainty, closely monitor emissions sources, and even compensate for emission reductions with precision. In contrast, agri­ cultural emissions are diffuse. Monitoring and measur­
+
+IV. Agriculture’s Dual Opportunity
+
+Agricultural activities not only emit greenhouse gases but can change the amount of carbon stored in soils and bio­ mass, thus effectively releasing or absorbing CO2. Carbon storage is increased by plant growth, which removes CO2 from the atmosphere during photosynthesis, the process by which plants convert energy from the sun into energy stored in the chemical bonds of carbohydrates, carbonbased molecules. Carbon storage is decreased when these
+
+76. Source for Figure 11: U.S. EPA, Inventory of U.S. Greenhouse Gas
+
+Emissions and Sinks: 1990-2018, at 5-2 tbl.5-1 (2020) (EPA 430-R-20-002), https://www.epa.gov/sites/production/files/2020-04/documents/ us-ghg-inventory-2020-main-text.pdf.
+
+Key Recommendations
+
+• Climate change will affect agriculture and the food system more than almost any other sector of the economy.
+
+Climate change induced weather changes already jeopardize agriculture with increased floods, droughts, pests, heat waves, wildfires, and more and will force disruptive dislocations as it shifts which crops are suitable for different regions. In addition, climate change threatens even our food itself as it is expected to reduce protein concentrations in staple crops, reduce micronutrients in vegetables, and more.
+
+• Agriculture occupies 62% of the contiguous U.S. landmass.
+
+• Global food systems contribute approximately one-third of total greenhouse gas emissions, mostly N2O from
+
+soil management and CH4 from cattle, dairy, and manure, as well as impacts of land use and soil carbon loss.
+
+• In the United States, meat and dairy production, including emissions relating to production of their feed, grazing,
+
+enteric fermentation, and manure, accounts for about 80% of agriculture’s greenhouse gas emissions. Yet, Americans receive only 30% of their calories from animal products.
+
+• The vast majority of animal production greeenhouse gas emissions are produced by the very small number
+
+of the largest facilities that house almost all the animals produced. Overall, the largest animal production facilities—fewer than 6% of all facilities—produce 89% of the animals and about 85% of the greenhouse gas emissions of all animal production.
+
+• Unless there are significant changes in the food system, agricultural emissions alone will make it impossible to
+
+achieve the climate stabilization goal of 2 degrees Celsius, let alone the safer target of 1.5 degrees Celsius. And if meat consumption continues to grow, climate change will be dramatically accelerated.
+
+• Carbon sequestration should be an essential function of agriculture and be supported by federal agricultural
+
+programs and policies.
+
+• Other countries are already investing significant sums into agroforestry research and production, yet the United
+
+States has lagged, despite robust research demonstrating its significant potential to sequester carbon while pro­ ducing ample food.
+
+• Total agricultural greenhouse gas emissions and agricultural emission rates significantly vary among states due
+
+to climate differences and the type and intensity of agriculture within each state; state-based policies will likely also need to differ to best address each state’s agriculture sector.
+
+• We must understand the limitations of current research and data in order to craft effective policies.
+
+• Agricultural emissions are much more difficult to calculate than those in other sectors and far less certain. EPA’s
+
+estimates for agricultural greenhouse gas emissions must therefore be understood as simply one point in a wide range of possible figures.
+
+• EPA estimates fail to consider impacts of prior land conversion and the lost opportunity to sequester more
+
+carbon or release less greenhouse gases from that land; the lost “carbon opportunity cost” contributes as much to climate change as the last decade of fossil fuel emissions.
+
+• EPA analyses do not include in the “agriculture” sector the greenhouse gas emissions of on-farm energy
+
+and electricity, annual land use conversion, or production of agricultural inputs. Nor do they include other components of the food system, such as processing, distribution, preparation, and waste. Considering all these emissions together, the food system is responsible for over a third of all U.S. emissions.
+
+• EPA analyses do not calculate the impact of methane in a way that reflects current policy discussions and the need
+
+for shorter-term action, reducing its estimate of agricultural emissions by more than half.
+
+• There is ample evidence that many climate-friendly practices significantly reduce emissions or increase
+
+sequestration or do both.
+
+• Methods exist to mitigate agriculture’s net contribution to climate change by reducing greenhouse gas emissions
+
+or increasing carbon sequestration. However, policies must recognize that while greenhouse gas emissions are permanent actions, biological sequestration is reversible and limited through the natural process of decomposition.
+
+2-2022 ENVIRONMENTAL LAW REPORTER 52 ELR 10109
+
+bonds are broken by organisms to access the stored energy and the carbon contained in organic matter is returned to the atmosphere as CO2. Thus, net carbon storage can be increased by increasing the amount of photosynthesis, such as by adding cover crops over bare ground or incorporating trees, or by slowing the decomposition of soil organic mat­ ter, such as through use of no-till practices.
+
+tion and degraded soil quality across the western United States, resulting in the release of carbon that would other­ wise remain locked in organic matter.79 However, manag­ ing the location and intensity of grazing, while adjusting its timing to facilitate plant growth, can repair these land­ scapes80 and restore their function as carbon sinks.81
+
+As these examples demonstrate, methods already exist to mitigate agriculture’s net contribution to climate change by reducing greenhouse gas emissions or increas­ ing carbon sequestration. However, policies must recog­ nize that while greenhouse gas emissions are permanent actions, biological sequestration is reversible and limited through the natural process of decomposition. Climatic events, such as droughts or wildfires, or human actions, such as resumed tillage, increased grazing, or deforesta­ tion, can quickly destroy biomass and disrupt soils, thereby releasing stored carbon.82 In addition, gains in soil carbon slow as soils approach a new equilibrium under improved management practices.83 (Additional research is needed to clarify how quickly this occurs, but location, prior soil quality, and land management practices all appear to be important factors.84)
+
+Scientific studies have identified a number of agricul­ tural practices that could help to slow climate change by reducing greenhouse gas emissions or capturing carbon— or both—while maintaining productivity. For example, in 2016, researchers concluded that the expansion of existing USDA conservation practices could lead to the sequestra­ tion of 277 MMT CO2eq. annually by 2050.77 Capturing this volume of carbon in the soil would cut net agricultural greenhouse gas emissions in half. Similarly, agroforestry (incorporating trees and shrubs into cropland and pasture­ land) and perennial agriculture (plants that live year-round and do not need annual replanting, thus disturbing the soil less) offer significant climate benefits by locking carbon in the perennial biomass of the plant roots and shoots and stimulating a more biodiverse ecosystem that stores more carbon. According to a 2012 review, the widespread adop­ tion of agroforestry practices in the United States could sequester 530 MMT carbon (or close to 2,000 MMT CO2eq.) each year, thereby transforming agricultural land into a carbon sink.78
+
+While sequestration alone cannot offset ever-increasing greenhouse gas emissions, it remains a necessary strategy for avoiding catastrophic climate change. Current levels of atmospheric carbon are so dangerously high that we can­ not choose between reducing emissions on the one hand and sequestering carbon on the other.85 We must do both.
+
+Like cropland, rangeland used for livestock grazing can also sequester carbon. Overgrazing has damaged vegeta­
+
+79. See John Carter et al., Moderating Livestock Grazing Effects on Plant Productivity,
+
+Nitrogen, and Carbon Storage, 17 Nat. Resources & Env’t Issues 191, 191-92 (2011).
+
+80. Sherman Swanson et al., Practical Grazing Management to Maintain or Re­
+
+store Riparian Functions and Values on Rangelands, 2 J. Rangeland Applica­ tions 1, 10-14 (2015).
+
+81. David Lewis et al., University of California Cooperative Extension,
+
+Creek Carbon: Mitigating Greenhouse Gas Emissions Through Ri­ parian Revegetation 22 (2015).
+
+82. Uta Stockmann et al., The Knowns, Known Unknowns, and Unknowns of
+
+Sequestration of Soil Organic Carbon, 146 Agric. Ecosystems & Env’t 80, 82 (2012).
+
+83. Catherine Stewart et al., Soil Carbon Saturation: Concept, Evidence, and
+
+77. Adam Chambers et al., Soil Carbon Sequestration Potential of U.S. Croplands
+
+and Grasslands: Implementing the 4 Per Thousand Initiative, 71 J. Soil & Water Conservation 68A, 70A (2016). This total represents four times the carbon sequestration of forest soils. See Rattan Lal et al., Achieving Soil Carbon Sequestration in the United States: A Challenge to the Policy Makers, 168 Soil Sci. 827, 838 (2003) (finding that forest soils could sequester 63 MMT CO2eq. annually).
+
+78. Ranjith P. Udawatta & Shibu Jose, Agroforestry Strategies to Sequester Carbon in
+
+Evaluation, 86 Biogeochemistry 19, 25-28 (2007); Stockmann et al., su­ pra note 82, at 94-95.
+
+84. Stockmann et al., supra note 82, at 82.
+
+85. For an informal discussion of carbon sequestration’s potential to help ad­
+
+dress climate, see Marcia DeLonge, Soil Carbon Can’t Fix Climate Change by Itself—But It Needs to Be Part of the Solution, Union Concerned Scien­ tists, Sept. 26, 2016, http://blog.ucsusa.org/marcia-delonge/soil-carboncant-fix-climate-change-by-itself-but-it-needs-to-be-part-of-the-solution.
+
+Temperate North America, 86 Agroforestry Sys. 225, 239 (2012).

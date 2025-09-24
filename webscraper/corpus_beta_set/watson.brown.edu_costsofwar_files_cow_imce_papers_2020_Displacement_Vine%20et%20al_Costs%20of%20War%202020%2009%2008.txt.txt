@@ -1,0 +1,523 @@
+Microsoft Word - Displacement_Vine et al_Costs of War 2020 09 21.docx
+
+Creating Refugees: Displacement Caused by the United States’ Post-9/11 Wars
+
+David Vine, Cala Coffman, Katalina Khoury, Madison Lovasz, Helen Bush, Rachael
+
+Leduc, and Jennifer Walkup1
+
+September 21, 2020
+
+EXECUTIVE SUMMARY
+
+Since President George W. Bush announced a “global war on terror” following Al Qaeda’s September 11, 2001 attacks on the United States, the U.S. military has engaged in combat around the world. As in past conflicts, the United States’ post-9/11 wars have resulted in mass population displacements. This report is the first to measure comprehensively how many people these wars have displaced. Using the best available international data, this report conservatively estimates that at least 37 million people have fled their homes in the eight most violent wars the U.S. military has launched or participated in since 2001. The report details a methodology for calculating wartime displacement, provides an overview of displacement in each war-affected country, and points to displacement’s individual and societal impacts.
+
+Wartime displacement (alongside war deaths and injuries) must be central to any analysis of the post-9/11 wars and their short- and long-term consequences. Displacement also must be central to any possible consideration of the future use of military force by the United States or others. Ultimately, displacing 37 million—and perhaps as many as 59 million—raises the question of who bears responsibility for repairing the damage inflicted on those displaced.
+
+1 David Vine is Professor of Anthropology at American University in Washington, DC. The other authors were students in the Spring 2020 American University Public Anthropology Clinic. The second, third, and fourth authors are listed alphabetically and collectively should be considered second author; the fifth through seventh authors should be considered the third author. The authors thank Heidi Peltier, Stephanie Savell, Neta Crawford, Catherine Lutz, and the other authors of “20 Years of War” papers for their helpful feedback and assistance with this paper. Thanks also to Francesca Emanuele for help with data collection and to Ernesto Castañeda-Tinoco for his careful reading and extremely helpful feedback on an early draft.
+
+MAJOR FINDINGS
+
+§ The U.S. post-9/11 wars have forcibly displaced at least 37 million people in and from
+
+Afghanistan, Iraq, Pakistan, Yemen, Somalia, the Philippines, Libya, and Syria. This exceeds those displaced by every war since 1900, except World War II.
+
+§ 37 million is a very conservative estimate. The total displaced by the U.S. post-9/11
+
+wars could be closer to 48–59 million.
+
+§ 25.3 million people have returned after being displaced, although return does not
+
+erase the trauma of displacement or mean that those displaced have returned to their original homes or to a secure life.
+
+§ Any number is limited in what it can convey about displacement’s damage. The
+
+people behind the numbers can be difficult to see, and numbers cannot communicate how it might feel to lose one’s home, belongings, community, and much more. Displacement has caused incalculable harm to individuals, families, towns, cities, regions, and entire countries physically, socially, emotionally, and economically.
+
+Introduction
+
+Since the George W. Bush administration launched a “global war on terror” following Al Qaeda’s September 11, 2001 attacks on the United States, the U.S. military has waged war continuously for almost two decades.2 In that time, U.S. forces have fought in wars or participated in other combat operations in at least 24 countries.3 The destruction inflicted by warfare in these countries has been incalculable for civilians and combatants, for U.S. military personnel and their family members, and for entire societies. Deaths and injuries number in the millions.
+
+Like other wars throughout history, the U.S. post-9/11 wars have caused millions of people—the vast majority, civilians—to fear for their lives and flee in search of safety. Millions have fled air strikes, bombings, artillery fire, drone attacks, gun battles, and rape. People have fled the destruction of their homes, neighborhoods, hospitals, schools, jobs, and local food and water sources. They have escaped forced evictions, death threats, and large-scale ethnic cleansing set off by the U.S wars in Afghanistan and Iraq in particular.4
+
+2 We put “terrorism” and variations of the word in quotation marks to indicate the politicized nature of the concept—as the saying goes, one person’s terrorist is another person’s freedom fighter. The U.S. government and other governments have used the term flexibly since 2001 to justify wars and attacks on almost any group defined as an enemy. 3 Barbara Salazar Torreon and Sofia Plagakis, Instances of Use of United States Armed Forces Abroad, 1798–2018 (Washington, DC: Congressional Research Service, 2018); David Vine, The United States of War: A Global History of America's Endless Conflicts, from Columbus to the Islamic State (University of California Press, forthcoming [October 13, 2020]). 4 Homeless veterans from the post-9/11 wars represent others displaced in indirect ways by these wars. In the United States, alone, there were more than 31,000 homeless veterans from the post-
+
+To our knowledge, no one has calculated how many people have been displaced by the United States’ post-9/11 wars. Some scholars, journalists, and international organizations have provided displacement data for some of these wars, such as those in Afghanistan and Iraq. However these statistics tend to be snapshots of the number of refugees and internally displaced people (IDP) at a particular point in time rather than a full accounting of the total number of people displaced over time since the start of the wars.5
+
+This paper calculates the total number of displaced people in the eight post-9/11 wars in which U.S. forces have been most significantly involved. We focus on wars where the U.S. government bears a clear responsibility for initiating armed combat (the overlapping Afghanistan/Pakistan war and the post-2003 war in Iraq); for escalating armed conflict (U.S. and European intervention in the Libyan uprising against Muammar Gaddafi and Libya’s ongoing civil war and U.S. involvement in Syria); or for being a significant participant in combat through drone strikes, battlefield advising, logistical support, arms sales, and other means (U.S. forces’ involvement in wars in Yemen, Somalia, and the Philippines).6
+
+In documenting displacement caused by the U.S. post-9/11 wars, we are not suggesting the U.S. government or the United States as a country is solely responsible for the displacement. Causation is never so simple. Causation always involves a multiplicity of combatants and other powerful actors, centuries of history, and large-scale political, economic, and social forces. Even in the simplest of cases, conditions of pre-existing poverty, environmental change, prior wars, and other forms of violence shape who is displaced and who is not.
+
+This paper and its accompanying tables document several categories of people displaced by the post-9/11 wars: 1) refugees, 2) asylum seekers pursuing protection as refugees, and 3) internally displaced persons or people (IDPs). We also calculate the number of 4) refugees, asylum seekers, and IDPs who have returned to their country or area of origin.
+
+Ultimately, we estimate that at least 37 million people have been displaced in just eight countries since 2001 (Table 1). This includes 8 million people displaced across international borders as refugees and asylum seekers and 29 million people displaced internally to other parts of their countries. To put these figures in perspective, displacing 37 million people is equivalent to removing nearly all the residents of the state of California or all the people in Texas and Virginia combined.7 The figure is almost as large as the
+
+9/11 wars as of 2015 (Stephen Metraux, et al., “Pathways Into Homelessness Among Post-9/11-Era Veterans,” Psychological Services 14, no. 2(2017): 230).
+
+5 E.g., Sonja Fransen and Hein de Haas, “The Volume and Geography of Forced Migration,” working paper, Migration Policy Institute December 2019. 6 While the intensity of fighting in Afghanistan and Iraq encouragingly has dissipated in recent years, the wars in Somalia, Yemen, and Syria have not; they remain among the top ten countries experiencing the most severe internal displacement in the world.
+
+population of Canada.8 In historical terms, 37 million displaced is more than those displaced by any other war or disaster since at least the start of the twentieth century with the sole exception of World War II (see Table 2).9
+
+The United States’ post-9/11 wars have contributed significantly to the dramatic increase in recent years in the number of people displaced by war and violent conflict worldwide: Between 2010 and 2019, the total number of refugees and IDPs globally has nearly doubled from 41 million to 79.5 million.10
+
+In the next section, this paper proceeds with an overview of our methodology and approach to calculating wartime displacement. A more detailed discussion is in the Appendix. We next provide an overview of displacement in each war-affected country. We then present the results of our calculations and discuss the limits of quantitative measurement. We conclude by discussing the significance of our findings to assessments of the post-9/11 wars, to debates about the use of military force more broadly, and to questions about who bears responsibility for repairing damage suffered by the displaced.
+
+Definitions
+
+Definitions follow those of the international organizations, including the United Nations High Commissioner for Refugees (UNHCR), that are the sources of our data.
+
+Refugees: People outside their country of origin who have been granted protected “refugee” status, according to applicable international conventions and definitions, by the governments of countries to which people have fled. This category also includes people in “refugee-like” situations who may neither have received protected status or be an asylum seeker.11
+
+Asylum Seekers: People who are seeking but have not yet been granted refugee status and protection outside their country of origin.12
+
+Internally Displaced Persons/People (IDPs): People who remain within their countries of origin and who have been forced to flee or leave their homes or places of habitual residence as a result of or to avoid the violent effects of war.13 (IDPs can include people
+
+8 World Bank Group, “World Population Prospects: 2019 Revision,” accessed August 10, 2020, https://data.worldbank.org/indicator/SP.POP.TOTL. 9 Population growth since the start of the twentieth century makes these incidents of displacement imperfect comparisons.
+
+10 UNHCR, Global Trends: Forced Displacement in 2019 (Geneva: United Nations, 2020), 8.
+
+11 UNHCR, Global Trends: 2019, 64. 12 UNHCR, Global Trends: 2019, 64.
+
+13 IDMC, Global Report on Internal Displacement [GRID] 2020 Methodological Annex (Geneva: Norwegian Refugee Council, April 2020), 5. IDPs include pastoralist and nomadic peoples who are displaced from their places of regular habitation by war or violent conflict. IDPs are generally counted regardless of citizenship status in a country if they are displaced from their place of habitual residence (IDMC, GRID 2020 Methodological Annex, 5). IDMC also generally defines people
+
+forced to flee disasters such as floods and earthquakes, however we exclude these IDPs from our calculations.)14
+
+Returned Refugees and Asylum Seekers and Returned IDPs (Returnees): People who have returned to their country of origin from abroad or have returned to their area of origin from another part of their country. Includes children born to displaced mothers when they return to a mother’s home country or area of origin.
+
+Methods and Approach
+
+The statistics that provide the basis for our calculations are, we believe, the best available. Statistics for refugees and asylum seekers primarily come from the United Nations High Commissioner for Refugees (UNHCR), which has compiled data on forced displacement worldwide since 1951. Statistics for people displaced within their countries—IDPs—comes from the Internal Displacement Monitoring Centre (IDMC), UNHCR, the International Organization for Migration (IOM), and the UN Office for the Coordination of Humanitarian Affairs (OCHA). We sought out and used multiple data sources where possible to compare and check figures.
+
+As with our definitions (above), we follow the standards by which these leading international organizations determine who qualifies as a person displaced by war. Like these organizations, and other international displacement experts, we do not suggest that war is the singular cause of displacement for those categorized as displaced by war. Instead, we follow UNHCR, IDMC, and others in focusing on cases in which the violence of war bears primary responsibility for, or is the precipitating incident behind, people’s flight from their home.
+
+Documenting war-induced displacement raises numerous other methodological challenges. Foremost among them is the reliability of displacement statistics. This is a perennial problem reflecting the scale of displacement; the difficulty of data collection in war zones, refugee camps, and other contexts where refugees frequently live clandestine lives; and the fact that data about the displaced frequently has political, economic, and diplomatic consequences. Unfortunately international organizations and displacement scholars have reached no consensus about whether displacement statistics tend to underestimate or overestimate the number displaced. We discuss these and other
+
+as IDPs regardless of the distance of displacement or duration of displacement from home. See IDMC, Global Report on Internal Displacement 2017 Methodological Annex (Geneva: Norwegian Refugee Council, 2017), 102.
+
+14 Excluding all “disaster IDPs” is one way our calculation is conservative: war frequently makes people vulnerable to other forms of displacement given how war destroys infrastructure, damages housing, and causes the loss of income and wealth that can protect people from disaster-induced displacement. “An overlap of conflict and disasters repeatedly displaced people in a number of countries,” IDMC wrote in 2019. “Extended rainy seasons displaced millions of people in areas of Nigeria and Somalia already affected by conflict. Most of the people displaced by disasters in Iraq and Syria were [war-displaced] IDPs living in camps that were flooded.” IDMC, GRID 2019, v.
+
+problems in detail in the Appendix. Given these challenges, we always erred on the conservative side in our estimates. We also want to avoid any perception that we have exaggerated the scale of displacement.
+
+Displacement linked to U.S. military activity in Syria is particularly challenging to quantify. Throughout the country’s civil war, more than half of Syria’s pre-war population has been displaced, totaling some 13.3 million people in 2018.15 We considered including most or all of this displacement in our calculation given the important role the U.S. war in Iraq and its birthing of the Islamic State have played in shaping the Syrian civil war. We opted instead for a more conservative approach given that U.S. involvement in the war has been relatively limited compared to that of the Syrian government, rebel forces, foreign militants, and Russian, Turkish, and other foreign militaries. While the U.S. government has provided funding, training, and other support for some rebel groups, U.S. forces only started fighting in Syria in 2014 with the start of the U.S. war against the so-called Islamic State. As a result, we focused our calculations on people displaced from five Syrian provinces where U.S. forces have fought and operated since 2014. 16 A less conservative and arguably more accurate approach would include the displaced from all of Syria’s provinces since 2014 or as early as 2013 when the U.S. government began backing Syrian rebel groups.
+
+Our total displacement calculation does not include millions more who have been displaced in other post–2001 conflicts in which the U.S. government has been involved as part of the “war on terror.” We have not included these displaced peoples because U.S. military involvement in other conflicts has been significantly narrower in scope, duration, and degree of combat involvement. The displacement is, however, no less significant for those affected and deserves additional investigation. We provide a brief overview of displacement in these other conflicts in the section, below, that discusses our overall calculation (“Displacement in the U.S. Post-9/11 Wars: 37 million”). First, we review the history and contours of displacement in the eight countries that are the focus of this paper.
+
+15 UNHCR, Global Trends: Forced Displacement in 2018 (Geneva: United Nations, 2019), 4, 6. 16 The five are Aleppo, Al-Hasakeh, Ar-Raqqa, Deir-ez-Zor, and Homs. See, e.g., Congressional Research Service reports on Syria, which include maps of U.S. military bases in Syria and a discussion of U.S. operations in the country. Congressional Research Service reports for Syria can be found at https://www.everycrsreport.com/reports/RL33487.html. See also, IDMC, “Syria: Drivers of Displacement,” webpage, Geneva, Norwegian Refugee Council, https://www.internaldisplacement.org/countries/syria, accessed June 13, 2020.
+
+Displacement in War-Affected Countries
+
+Afghanistan (2001–present)
+
+The 2001 U.S. invasion of Afghanistan and nearly two decades of war have displaced millions in a country where mass displacement has been a fixture of life since the Soviet Union’s invasion in 1979. By the time of the Soviet withdrawal from Afghanistan, there were 5.6 million Afghan refugees.17 In 2000, the year before the start of the U.S.-led war, 4.4 million Afghan refugees and asylum seekers remained abroad, along with more than 758,000 IDPs.18 Since the start of the U.S.-led war, at least 2.1 million Afghans fled the country with another 3.2 million displaced internally (Table 1). The refugee and asylum seeker calculation, in particular, could be a significant underestimate given other data showing that 2.4 million fled the country just between 2012 and 2019.19 Until 2013, Afghans remained the largest refugee population in the world, with an estimated three million refugees in Pakistan alone.20
+
+In recent years, displacement has grown as the intensity of fighting has increased between the Afghan army, its U.S. allies, and insurgent Taliban forces, coupled with growing Islamic State attacks in the country. By 2019, around 3 million Afghans were
+
+17 See, e.g., UNHCR, The State of The World's Refugees 2000: Fifty Years of Humanitarian Action (Geneva: United Nations, 2000), 314; Alessandro Monsutti, “The Transnational Turn in Migration Studies and the Afghan Social Networks,” in Dispossession and Displacement: Forced Migration in the Middle East and North Africa, eds. Dawn Chatty and Bill Finlayson (Oxford: Oxford University Press, 2010), 47; Ashley Jackson, “The Cost of War Afghan Experiences of Conflict, 1978–2009,” Oxfam International, November 2009, https://www-cdn.oxfam.org/s3fspublic/file_attachments/afghanistan-the-cost-of-war_14.pdf. 18 UNHCR, “UNHCR’s Populations of Concern Originating from Afghanistan,” dataset, https://data.humdata.org/dataset/refugees-originating-afg, accessed March 6, 2020. Note: The previous link appears to be broken. The closest dataset to that cited appears to be UNHCR, “End-Year Stock Population Figures For Forcibly Displaced Persons Originating from Afghanistan,” which was available as of August 10, 2020, at https://data.humdata.org/dataset/unhcr-population-datafor-afg. UNHCR appears recently to have updated its datasets for all countries available via the Humanitarian Data Exchange (HDX). UNHCR also recently changed the functionality of and data available via its website providing statistics about displaced peoples. This makes it difficult to access the precise datasets that we employed. For those who would like access to any of the data we used, please email vine@american.edu.
+
+19 International Organization for Migration Afghanistan, “Baseline Mobility Assessment: Summary Results Round 8 Mar–Jun 2019,” Displacement Tracking Matrix/Afghanistan, 2019, https://reliefweb.int/sites/reliefweb.int/files/resources/IOM-Afghanistan-Baseline-Mobility-Assessment-Summary-Results-June-2019-English.pdf.
+
+displaced internally—an all-time high.21 An equivalent number are refugees and asylum seekers, mostly in Pakistan and Iran.22
+
+With peace negotiations underway, there is some hope that displaced Afghans could return home. Indeed, when the U.S. government and its Afghan allies initially deposed the Taliban from power, millions of Afghans displaced before 2001 returned home. By 2005, around 5 million Afghan refugees and IDPs had returned to their home areas (returnees often could not return to their physical homes, sometimes because they were destroyed). In the subsequent 15 years, around 2.5 million refugees and IDPs have gone back to some semblance of home, representing about one in five people in the country today.23 While some returned because of increased safety and stability in parts of Afghanistan, others returned because of subsequent displacement: for example, some Afghan refugees returned to Afghanistan to escape violence in Pakistan. In recent years, the Iranian government has forced hundreds of thousands of Afghan refugees to leave Iran; others have left as a result of Iran’s international-sanctions-battered economy.24
+
+Pakistan (2001–present)
+
+After Taliban and Al Qaeda fighters fled Afghanistan into northwest Pakistan following the 2001 U.S.-led invasion, a single, interconnected war has been fought on both sides of the border. The U.S. government has participated in the war on the Pakistani side of the border with drone and air strikes, aerial surveillance, and financial backing for the Pakistani military.
+
+Like Afghanistan, Pakistan’s history has been marked by displacement, most notably with the millions violently displaced during the 1947 India/Pakistan partition. Since 2001, Pakistanis have also suffered displacement related to fighting between the Pakistani government and Afghan and Pakistani Taliban organizations, along with other insurgent groups operating on both sides of the border. With the support of U.S. drone strikes and other U.S. military aid, the Pakistani military battled for years to push insurgents out of Northwest Pakistan.25 Prior to the end of most border fighting in 2017, an estimated 1.56 million Pakistanis living in areas near the Afghan border had become IDPs, with most living
+
+21 IDMC, Global Report on Internal Displacement 2020, 49. 22 On the 2,367,220 million living in Pakistan and Iran, see UNHCR Afghanistan, “Operational Update,” report, Kabul, Afghanistan, December 2019, 2. On the 3,007,546 total refugees reported by UNHCR as of 2018, see UNHCR, “Population Statistics,” website, http://popstats.unhcr.org/en/persons_of_concern or UNHCR, “UNHCR’s Populations of Concern Originating from Afghanistan,” dataset, https://data.humdata.org/dataset/refugees-originating-afg, accessed March 6, 2020.
+
+23 UNHCR, “Fact Sheet Afghanistan as of 31 December 2019,” Geneva, December 31, 2019, 2.
+
+24 IDMC, “Afghanistan: Patterns of Displacement” Geneva, Norwegian Refugee Council, 2019, https://www.internal-displacement.org/countries/afghanistan.
+
+25 IDMC, “Pakistan: Displacement Ongoing in a Number of Regions,” May 15, 2008, 18, https://www.refworld.org/docid/482d32972.htm; IDMC, “Pakistan Solutions to Displacement Elusive for Both New and Protracted IDPs,” August 24, 2015, 4-5, https://www.internaldisplacement.org/sites/default/files/publications/documents/201508-ap-pakistan-overviewen.pdf.
+
+in other parts of Northwest Pakistan. Around 90,000 remained IDPs at the end of 2019.26 Since 2002, more than 3.4 million people have become IDPs while more than 360,000 have fled the country as refugees (Table 1). (While we include the displacement in Northwest Pakistan in our total count, we exclude smaller numbers of people displaced in separate conflicts in other parts of Pakistan, including in Jammu and Kashmir and Balochistan.)27
+
+Yemen (2002–present)
+
+U.S. military involvement in Yemen dates to 2002, when the Central Intelligence Agency (CIA) began drone assassinations of accused Al-Qaeda operatives with the cooperation of Yemen’s then government. According to the Bureau of Investigative Journalism, from 2002 to 2019 the U.S. launched at least 336 confirmed drone strikes, reportedly killing between 1,020 and 1,389 civilians, including children, in addition to alleged militants.28
+
+Beginning in 2014, the Houthi (or Ansar Allah) movement, a Shia Muslim-based political and armed group formed in the 1990s, gradually took control of Yemen. In 2015, Saudi Arabia, backed by the U.S. government and a coalition of regional and European powers, invaded Yemen in an attempt to overthrow the Houthis, believed to be backed by Saudi rival Iran.29 The U.S. military has used regional bases to provide refueling, logistical, weapons, and other support for the Saudi military and its other allies.30 At the same time, militants, including Al Qaeda in the Arabian Peninsula (AQAP) and the Islamic State, began operating in an increasingly complex conflict that continues to this day.
+
+Since 2015, war has meant that Yemenis have faced widespread displacement and what the UN considers the world’s worst humanitarian crisis. According to the UN’s Office for the Coordination of Humanitarian Affairs (OCHA), “nearly 250,000 Yemeni people have died since 2015, including 100,000 people as a direct result of combat and 130,000 from hunger and disease.”31 The country has faced “the worst cholera outbreak in recorded history.” Two-thirds of Yemen is experiencing food insecurity, with 14 million at risk of
+
+26 We assume that approximately 15% of Pakistan’s displacement occurred outside of Northwest Pakistan, and thus subtract this percentage from totals for the country. 27 IDMC, “Pakistan Solutions,” 5.
+
+28 The Bureau of Investigative Journalism, “Drone Strikes in Yemen,” website, https://www.thebureauinvestigates.com/projects/drone-war/yemen, accessed June 12, 2020.
+
+29 Almosawa, Shuaib and Maryam Saleh, “A 13-year-old Boy and Other Yemeni Civilians Were Killed in U.S. Drone Strikes This Month.” The Intercept, March 26, 2018, https://theintercept.com/2018/03/26/yemen-drone-strike-civilians-war-on-terror/.
+
+30 Oriana Pawlyk, “2 Years into Yemen War, US Ramps Up Refueling of Saudi Jets,” Military.com, February 15, 2017, https://www.military.com/daily-news/2017/02/15/2-years-yemen-war-usramps-up-refueling-saudi-jets.html; Oriana Pawlyk, “General Argues to Continue Refueling Saudi Planes in Yemen Fight,” March 13, 2018, https://www.military.com/dailynews/2018/03/13/general-argues-continue-refueling-saudi-planes-yemen-fight.html; Robert F. Worth, “‘They Break Us or We Break Them,’” New York Times Magazine, November 4, 2018, 50–51. 31 OCHA, “Global Humanitarian Overview 2020,” Geneva, December 10, 2019, 49 https://www.unocha.org/sites/unocha/files/GHO-2020_v9.1.pdf.
+
+starvation in what is the world’s worst food insecurity crisis.32 The U.S.-backed Saudi-led war “has turned much of Yemen into a wasteland,” writes a New York Times reporter.33 The UN estimates that around 24.1 million of Yemen’s 30.4 million people need humanitarian assistance of some kind.34
+
+Most of the 4.4 million displaced have been displaced within Yemen. “Poverty and the sheer difficulty of traveling out of the country has left far more people who are trying to escape active frontlines moving about inside Yemen, renting rooms and flats, moving in with relatives, filling IDP camps and shelters,” explains Sala Khaled, a former IDP who became one of less than 15,000 Yemeni refugees in Jordan.35
+
+In the first year of war, there were more than 2 million cases of displacement. Hundreds of thousands more have been displaced every year since 2015. There were around 400,000 new displacement incidents in 2019 (although IDMC suggests this figure “is likely to be a gross underestimate” given access constraints on data collection in the midst of the war).36 More than one in ten Yemenis—around 3.6 million people—is currently an IDP.37
+
+Somalia (2002–present)
+
+Displacement has shaped life in Somalia for decades.38 In 2004, the Norwegian Refugee Council reported that “virtually all [emphasis added] Somalis have been displaced
+
+32 OCHA, “2019 Humanitarian Needs Overview: Yemen,” New York, December 2018, 15, 42, https://reliefweb.int/sites/reliefweb.int/files/resources/2019_Yemen_HNO_FINAL.pdf; OCHA, “Global Humanitarian Overview 2020.”
+
+33 Robert F. Worth, “How the War in Yemen Became a Bloody Stalemate—And the Worst Humanitarian Crisis in the World,” in New York Times Magazine, October 31, 2018, https://www.nytimes.com/interactive/2018/10/31/magazine/yemen-war-saudi-arabia.html. 34 OCHA, “2019 Humanitarian Needs Overview,” 5.
+
+35 Sala Khaled, “One of 3.65 Million Stories: A Yemeni Journey of Displacement,” Sana’a Center for Strategic Studies, Sana’a, Yemen, January 4, 2020, 3, https://sanaacenter.org/publications/analysis/8593; UNHCR, “UNHCR’s Populations of Concern Originating from Yemen,” dataset, https://data.humdata.org/dataset/refugees-originating-yem, accessed May 6, 2020. Link now broken. The closest comparable dataset is now available at https://data.humdata.org/dataset/unhcr-population-data-for-yem. See n.18 for a discussion of this data access problem.
+
+36 IDMC, “Yemen: Drivers of Displacement,” accessed June 12, 2020, https://www.internaldisplacement.org/countries/yemen,.
+
+37 IDMC, “Yemen: The Implications,” 1. 38 Conflict in Somalia has been ongoing since the early 1990s, when some 3 million were displaced and one quarter million died; the roots of the violence date to at least the U.S.-Soviet Cold War and involve longstanding competition over territory, regional autonomy, and resources. In the 1990s, the U.S. military sent 25,000 troops as part of UN humanitarian operations. They left after soldiers took heavy casualties during fighting in Mogadishu in 1993. See, e.g., Global IDP Project, “Internally Displaced Somalis,” 4–5, 11–13; Catherine Besteman, “The Costs of War in Somalia,” Brown University, Costs of War Project, September 5, 2019; Anna Lindley and Anita Haslie, “Unlocking Protracted Displacement: Somali Case Study,” Working Paper Series No. 79, Oxford University, August 2011, 301, https://www.rsc.ox.ac.uk/files/files-1/wp79-unlocking-protracteddisplacement-somalia-2011.pdf.
+
+by violence at least once in their life.”39 The U.S. government has been involved in fighting there since 2002, shortly after the George W. Bush administration declared its “war on terrorism.” For most of the last 19 years, U.S. forces have used military bases in Djibouti and elsewhere in the region to carry out drone assassinations of alleged militants. In 2006, the U.S. military and CIA backed an Ethiopian-led invasion of Somalia to remove the Islamic Courts Union (ICU) from power. U.S. and Ethiopian leaders claimed the ICU was an Al Qaeda ally; ICU leaders denied the charge. The invasion succeeded in further radicalizing the ICU’s armed wing, Al Shabaab, which declared allegiance to Al Qaeda in 2012.40 A war between Al Shabaab and a UN-recognized Somali government and its U.S. and other foreign allies continues to this day. U.S. forces have expanded their presence in Somalia in recent years: there are at least five small U.S. military bases and at least one CIA base in the country. The Donald Trump administration has dramatically increased air strikes against Al Shabaab and an Islamic State presence; civilian casualties have also increased, with an estimated 15 killed in 2020 and scores killed since 2007.41
+
+Political instability and violent conflict have heightened and been mutually reinforcing with humanitarian crises caused by drought, flooding, attendant famine, and widespread poverty.42 By the end of 2010, amid a famine that would kill hundreds of thousands,43 almost 1.5 million people had been displaced due to conflict and violence. In 2019 alone, there were almost 200,000 new cases of internal displacement, mostly around Al Shabaab’s stronghold in southeast Somalia.44 In total, by the end of 2019, approximately 4.2 million Somalis had been displaced within the country (3.4 million) or beyond its borders as refugees or asylum seekers (800,000). Most refugees ended up in neighboring countries such as Kenya, Ethiopia, and Yemen. Smaller numbers have reached Uganda, Djibouti, South Africa, Germany, and Sweden. Thousands reached the United States during each year of the George W. Bush and Obama administrations, while less than 700 have arrived in the last three years of the Trump administration.45
+
+39 Global IDP Project, “Internally Displaced Somalis Face Uncertain Future After Years of State Collapse,” Geneva, Norwegian Refugee Council, November 24, 2004, 11, https://www.internal-displacement.org/sites/default/files/publications/documents/200411-afsomalia-internally-displaced-somalis-face-uncertain-future-country-en.pdf.
+
+40 Turse, “U.S. Military Says”; Amanda Sperber, “The ‘Collateral Damage’ of the U.S.’s Unofficial War in Somalia,” In These Times, December 16, 2019, https://inthesetimes.com/article/us-air-strikessomalia-al-shabab-isis-pentagon-civilian-casualities.
+
+41 Quoted in Turse, “U.S. Military Says”: Richard Reeve and Zoë Pelter, “From New Frontier to New Normal: Counter-terrorism Operations in the Sahel-Sahara,” London: Remote Control Group/Oxford Research Group, August 2014, 25; Nick Turse, “The Trump Administration's Air Strikes in Somalia Are On the Rise Again—and Civilians Are Paying the Price,” Time, August 16, 2020, https://time.com/5879354/civilian-deaths-airstrikes-somalia/.
+
+42 BBC News, “Somalia Profile—Timeline,” January 4, 2018, https://www.bbc.com/news/worldafrica-14094632.
+
+43 BBC News, “Somalia Profile.”
+
+44 IDMC, “Global Report on Internal Displacement 2020,” Geneva, Norwegian Refugee Council, April 2020, 20. 45 Davis, Rochelle, Abbie Taylor, Will Todman, and Emma Murphy, “Sudanese and Somali Refugees in Jordan: Hierarchies of Aid in Protracted Displacement Crises,” Middle East Report, no. 279
+
+Philippines (2002–present)
+
+Since 2002, U.S. special forces troops and military advisors have deployed to the Philippines to support the Philippine government in a four decades-old conflict with multiple insurgent groups in the southern islands of Mindanao. The groups, which the Philippine and U.S. governments have labeled “terrorists,” include the Moro Islamic Liberation Front and the formerly Al Qaeda-allied Abu Sayyaf Group, which along with the Maute Group and other militants claimed allegiance to the Islamic State in 2016.46
+
+Rotational deployments of U.S. forces and large-scale military exercises involving as many as 6,000 U.S. personnel have disguised a de facto permanent U.S. deployment involved in counterinsurgency operations. Aided by a 1998 Visiting Forces Agreement, as many as eight small, secretive “lily pad” style military bases currently support the U.S. presence despite the Philippines’ constitutional ban on foreign bases.47 Although the extent of U.S. participation in combat is unclear, U.S. troops have carried out “a wide range of enabling and advisory activities [with Philippines forces] on or near the battlefield”; in 2017, U.S. officials considered launching their own air strikes.48
+
+What is clear is that thousands have been displaced on a yearly basis. When Abu Sayyaf and allied groups seized control of large parts of the city of Marawi in 2017, U.S. forces backed the Philippine military in retaking the city during five months of brutal fighting involving the bombing of entire neighborhoods and thousands of civilian deaths. In the first month of fighting, 360,000 people fled their homes, including effectively all 200,000 residents of Marawi.49 Some have since returned to a city in ruins. At the end of 2019, there were around 182,000 Filipinos still living as IDPs, according to the IDMC.50
+
+(2016): 2-10; UNHCR 2018, 15. Department of State, Bureau of Population, Refugees, and Migration, Office of Admissions - Refugee Processing Center, Summary of Refugee Admissions, July 31, 2020.
+
+46 See, e.g., Linda Robinson, Patrick B. Johnston, Gillian S. Oak, U.S. Special Operations Forces in the Philippines, 2001–2014 (Santa Monica, CA: RAND, 2016); Mapping Militants, “Abu Sayyaf Group,” Stanford University, last modified August 2018, https://cisac.fsi.stanford.edu/mappingmilitants/profiles/abu-sayyaf-group. 47 Herbert Docena, “The US Base in the Philippines,” Inquirer.net, February 20, 2012, http://opinion.inquirer.net/23405/the-us-base-in-the-philippines; “Philippines—Security and Foreign Forces,” Jane’s Sentinel Security Assessment, May 14, 2009; Robert D. Kaplan, Hog Pilots, Blue Water Grunts: The American Military in the Air, at Sea, and on the Ground (New York: Vintage, 2008), 315; Robert D. Kaplan, Imperial Grunts: On the Ground with the American Military (New York: Vintage Departures, 2005), 131-184; Carlo Muñoz, “The Philippines Re-opens Military Bases to US Forces,” June 6, 2012, http://thehill.com/blogs/defcon-hill/operations/231257-philippines-reopens-military-bases-to-us-forces-. 48 Robinson, et al. U.S. Special Operations Forces, iii; Courtney Kube, “U.S. May Begin Airstrikes Against ISIS in Philippines,” NBC News, August 7, 2017, https://www.nbcnews.com/news/world/us-may-begin-airstrikes-against-isis-philippines-n790271.
+
+Iraq (2003–present)
+
+As in Afghanistan, displacement resulting from the U.S. war in Iraq follows more than three decades of near-continuous war and displacement.51 Conditions worsened significantly after the United States invaded and deposed Saddam Hussein in 2003. Widespread armed opposition to the occupation grew into a sectarian civil war. Millions fled the violence. Wealthy elites were some of the first to leave. Middle class professionals, including doctors, engineers, and teachers, who formed the backbone of the country’s public health infrastructure and many of its government ministries, were next to leave their homes.52 By 2007, more than 4.7 million were living in displacement as IDPs and refugees or asylum seekers outside the country.53
+
+Beginning in 2014, the Islamic State began to conquer large swaths of territory in Iraq (and Syria). This seizure of land and the subsequent U.S.-led war against the Islamic State has displaced millions. In a single month, August 2014, more than 450,000 people became IDPs.54 In the whole of 2014, there were 2.2 million internal displacement events. Thousands more became refugees abroad. By 2020, around 650,000 and 1.4 million remained refugees and IDPs, respectively.55
+
+51 The Iran-Iraq War (1980–1988) killed 250,000–500,000 Iraqis. The 1990–1991 Gulf War killed tens of thousands more. Between 1991 and 2003, amid harsh international sanctions, sporadic U.S. bombing as part of a no-fly zone, and growing poverty, a conservatively estimated 1.25 million people fled the country. Between 800,000 and 2 million fled to other parts of Iraq. We only include those displaced since 2003 in our calculations. Ian Black, “Iran and Iraq Remember War that Cost More than a Million Lives,” Guardian, September 23, 2010, http://www.theguardian.com/world/2010/sep/23/iran-iraq-war-anniversary; John F. Burns, “Uncovering Iraq's Horrors in Desert Graves,” New York Times, June 5, 2006, http://www.nytimes.com/2006/06/05/world/middleeast/05grave.html?_r=0; Frontline, “Iraqi Death Toll,” n.d., http://www.pbs.org/wgbh/pages/frontline/gulf/appendix/death.html; “Some Facts and Stats,” n.d., http://www.pbs.org/wgbh/pages/frontline/gulf/appendix/stats.html; Crawford, “Civilian Death and Injury in Iraq”; Harding and Libal in The War Machine, 67-68, 61.
+
+52 By 2007, around 40% of professionals and half of registered doctors had fled Iraq (combatants of various stripes murdered an estimated 2,000 doctors and kidnapped hundreds more). Harding and Libal, 72. See also, Nabil Al-Tikriti, “There Go the Neighbourhoods: Policy Effects via-à-vis Iraqi Forced Migration, in Dispossession and Displacement: Forced Migration in the Middle East and North Africa, edited by Dawn Chatty and Bill Finlayson (Oxford: Oxford University Press, 2010), 268.
+
+53 The two groups numbered around 2.3 million and 2.4 million respectively. UNHCR, “UNHCR’s Populations of Concern Originating from Afghanistan,” dataset, https://data.humdata.org/dataset/refugees-originating-afg, accessed March 6, 2020. Note: The previous link is broken. The closest dataset to that cited appears to be UNHCR, “End-Year Stock Population Figures For Forcibly Displaced Persons Originating from Iraq,” which was available as of August 10, 2020, at https://data.humdata.org/dataset/unhcr-population-data-for-irq. See n.35 for a discussion of this data access problem. 54 Displacement Tracking Matrix, “Iraq IDPs Master Lists, Dataset Round 115,” Geneva, IOM, June 2, 2020.
+
+55 UNHCR, “UNHCR’s Populations of Concern Originating from Afghanistan”; See also, Maryanne Loughry, “The Experience of Displacement by Conflict: The Plight of Iraqi Refugees,” in Driven from Home: Protecting the Rights of Forced Migrants, edited by David Hollenbach, 169-84 (Washington, D.C.: Georgetown University Press, 2010); Nancy Riordan, “Internal Displacement in Iraq: Internally
+
+With the Islamic State now reduced to a small corner of its former territory, an estimated 4.7 million have been able to return home. IDMC research with a nonrepresentative sample of Iraqi returnees suggests that many were able to return because of improved security but were “mostly motivated by poor conditions in host communities.”56 Many could not return to their specific places of origin because they lacked housing, sanitation, or other services. One quarter of those surveyed still “aspired to leave the country.”57
+
+Libya (2011–present)
+
+Hundreds of thousands of Libyans have been displaced in the years following the 2011 Arab Spring uprising against longtime ruler Muammar Gaddafi and the U.S., U.K., French, and Qatari invasion that subsequently helped overthrow his regime. Violence increased following the outside military intervention, and the country plunged into a civil war involving “myriads of militias” and a growing Islamic State presence. The subtitle of an IDMC report summarizes what ensued: “State Collapse Triggers Mass Displacement.” In 2011, alone, around 150,000 fled the country, mostly to Tunisia.58 Most returned to Libya within a matter of months, but by 2015, there were a total of 500,000 IDPs across the country. More than 8% of the population had been displaced internally.59
+
+The war’s destabilization of Libya also significantly impacted migration patterns in Africa’s Sahel region. Darker-skinned immigrants from West African and Sub-Saharan African countries, whom Gaddafi had welcomed as a labor force in Libya, experienced increased violence, racism, and displacement following Gaddafi’s downfall.60 Some Libyans attacked Black Africans and others who supported Gaddafi or were perceived to have benefitted from his rule, fueling displacement. Around 15,000, mostly sub-Saharan migrant laborers, fled abroad in 2011. In subsequent years, violence and instability in Libya has made the country a center of human trafficking and the main point of departure for migrants attempting to cross the Mediterranean Sea to Europe.61
+
+Displaced Persons and Disputed Territory,” New England Journal of Public Policy 28, no. 2 (2016): Article 10; UNHCR, “Iraq Fact Sheet,” Geneva, January 2020, 1.
+
+56 Chloe Sydney, “Nowhere to Return to: Iraqis’ Search for Durable Solutions Continues,” Geneva, IDMC, 2018, 6, https://www.internaldisplacement.org/sites/default/files/publications/documents/201811-iraq-case-study-report.pdf.
+
+57 Sydney, “Nowhere to Return to,” 6.
+
+58 IDMC, “Libya: State Collapse Triggers Mass Displacement,” Geneva, Norwegian Refugee Council, 2015, 1, 4.
+
+59 IDMC, “Assessing the Severity of Displacement,” Geneva, Norwegian Refugee Council, 2019, 14, https://www.internaldisplacement.org/sites/default/files/publications/documents/Severity%20Report%202019.pdf; IDMC, “Libya: State Collapse,” 1.
+
+60 Maximilian Forte, Slouching Towards Sirte: NATO's War on Libya and Africa (Quebec: Baraka Books, 2012), 172-177, 139, 182-185.
+
+Violence and displacement decreased after 2016 but rebounded in 2019 after an intensification of the ongoing civil war between the Libyan National Army and the UNbacked Government of National Accord. Both sides are backed by external powers, including Russia and Turkey, respectively, in what has become a full-fledged proxy war. In 2019, new internal displacement incidents tripled over the prior year to 215,000. A total of around 451,000 were living as IDPs by year’s end.62
+
+As of 2019, IDMC reports that 97% of Libyan IDPs were struggling to cover basic expenses, 17% were food insecure (53% in the capital, Tripoli), and 46% could not afford healthcare.63 Among working-age IDPs, 29% reported that their incomes had decreased by up to 50%.64 Despite some progress toward a ceasefire and peace, the situation remains “extremely fragile.”65
+
+Syria (2014–present)
+
+The U.S. war against the Islamic State has generated new displacement in both Iraq and Syria. Prominent examples of displacement include the 2017 U.S.-led battle to seize Raqqa from the Islamic State, which resulted in 470,000 displacement incidents. Much of the city was destroyed. More than 1,600 civilians could not escape and died as a result of the fighting; thousands were injured.66 In late 2019 the abrupt repositioning of U.S. troops in northeastern Syria allowed the Turkish military to launch a threatened offensive against Kurdish forces previously allied with the U.S. military. The mass displacement of mostly Syrian Kurds followed: 220,000 cases of internal displacement and 17,900 who fled into northern Iraq as refugees.67 While the Turkish military bears primary responsibility for this displacement, U.S. officials chose to move U.S. troops to bases near Syrian oil fields with full knowledge that its longstanding Turkish ally intended to carry out large-scale ethnic cleansing after U.S. forces departed. Other U.S. military operations, including widespread aerial bombing of IS targets, have resulted in additional displacement.
+
+Displacement in the U.S. Post-9/11 Wars: 37 million
+
+Based on the methodology discussed in detail in the Appendix, we now present our total displacement calculations. As we explain in the Appendix, we were conservative in
+
+62 IDMC, Global Report on Internal Displacement 2020, 31.
+
+63 IDMC, “Unveiling the Cost of Internal Displacement,” Geneva, Norwegian Refugee Council, February 2019, 39, https://www.internaldisplacement.org/sites/default/files/publications/documents/201902-economic-impact-costestimates.pdf.
+
+64 IDMC, “Assessing the Severity,” 14. 65 IDMC, Global Report on Internal Displacement 2020, 31.
+
+66 Amnesty International, “US Coalition Admission of 1,300 Civilian Deaths in Iraq and Syria,” May 31, 2019, https://www.amnesty.org/en/latest/news/2019/05/us-coalition-admission-of-1300-civiliandeaths-in-iraq-and-syria/.
+
+our calculations given the imprecision of even the best international displacement statistics.
+
+In total, we estimate that the eight U.S. post-9/11 wars that are the focus of this study have displaced 36,869,026 people (see Table 1, below). We round this total to 37 million given that our calculation is an estimate, not a precise count. This total includes refugees, asylum seekers, and IDPs numbering:
+
+▪ 5.3 million Afghans (representing 26% of the pre-war population) ▪ 3.7 million Pakistanis (3% of the pre-war population) ▪ 4.4 million Yemenis (24% of the pre-war population) ▪ 4.2 million Somalis (46% of the pre-war population) ▪ 1.7 million Filipinos (2% of the pre-war population) ▪ 9.2 million Iraqis (37% of the pre-war population) ▪ 1.2 million Libyans (19% of the pre-war population) ▪ 7.1 million Syrians (37% of the pre-war population)
+
+We are particularly conservative in our estimate of displacement linked to U.S. military involvement in the Syrian civil war. The 7.1 million Syrians displaced represent only those who have fled their homes in the five Syrian provinces where U.S. forces have almost exclusively fought and operated since the beginning of the U.S. war against the Islamic State in Syria in 2014. The five are Aleppo, Al-Hasakeh, Ar-Raqqa, Deir-ez-Zor, and Homs.68 Our calculation thus excludes people displaced from other parts of Syria.
+
+A less conservative approach would include the displaced from all of Syria’s provinces since the beginning of direct U.S. military operations in 2014 or as early as 2013 when the U.S. government began backing Syrian rebel groups. This could take the total to between 44 million and 51 million, comparable to the scale of displacement in World War II.69 (Some would argue that we should include all displaced Syrians given the role the U.S. war in Iraq played in shaping the Syrian civil war and the creation of the Islamic State. Adding all of Syria’s displaced likely would take the total to around 54 million.)70
+
+68 See, e.g., Congressional Research Service reports on Syria, https://www.everycrsreport.com/reports/RL33487.html.
+
+Table 1: Total Displacement
+
+Refugees +Asylum Seekers IDPs Total
+
+% Pre-War
+
+Population
+
+2,083,126
+
+3,218,827
+
+5,301,953 26
+
+AFGHANISTAN (2001–)
+
+360,643 3,363,753
+
+3,724,396 3
+
+PAKISTAN (2001–)
+
+71,067
+
+4,283,701
+
+4,354,768 24
+
+YEMEN (2002–)
+
+813,215
+
+3,383,610
+
+4,196,825 46
+
+SOMALIA (2002–)
+
+1,715,376
+
+1,724,857 2
+
+PHILIPPINES (2002–) 9,481
+
+2,249,037
+
+6,963,138
+
+9,212,175 37
+
+IRAQ (2003–)
+
+169,027
+
+1,037,733
+
+1,206,760 19
+
+LIBYA (2011–)
+
+7,147,292 37
+
+SYRIA (2014–) 2,142,304 5,004,988
+
+36,869,026
+
+7,897,900
+
+28,971,126
+
+TOTAL DISPLACED
+
+Given our conservative calculation methodology, we suspect that our refugee calculation in particular may be a significant underestimate. Research has shown that in 2015 there were almost as many unregistered Afghan refugees in Pakistan (1.3 million) as there were registered refugees (1.5 million). International statistics generally only count registered refugees, meaning that most of the 1.3 million unregistered Afghans in Pakistan are not included in our calculation.71 For understandable reasons displaced populations often avoid registering with UNHCR and other international organizations and national governments. For this and other reasons, we believe the true number of refugees and asylum seekers could be 1.5 to 2 times higher than the 7.9 million estimate found in the second column of Table 1. This could add approximately 4 million to 8 million additional displaced people to our initial 37 million estimate, yielding a total of 41 million and 45 million people displaced. With our expanded estimates for displacement in Syria, total displacement could rise to between 48 million and 59 million.
+
+Our 37 million estimate is also conservative because it does not include anyone displaced during other conflicts in the “war on terror” where U.S. forces have been involved
+
+in relatively limited but still significant ways in countries including Burkina Faso, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Kenya, Mali, Mauritania, Niger, Nigeria, Saudi Arabia (related to the war in Yemen), South Sudan, Tunisia, and Uganda.72 In most of these countries, the U.S. military (often with allied European forces) has backed national governments’ counter-insurgency campaigns and “counter-terrorism” operations against Islamist militants and other insurgents with the deployment of combat troops, drone strikes and surveillance, military training, arms sales, and other pro-government aid. In many of these conflicts, U.S.-backed governments’ “counterterror” campaigns have resulted in human right abuses of their own civilians.73 Recently, in West Africa, violence committed by local government forces and militants has displaced up to hundreds of thousands of people in a single year. In Burkina Faso, for example, there were more than half a million incidents of displacement in 2019; by year’s end, around 560,000 Burkinabe were living as IDPs. In Mali, 208,000 were living as IDPs by the end of 2019 as a result of years of violent conflict.74
+
+We note this additional displacement not to suggest U.S. culpability but to call attention to the displacement of millions more people in other countries where U.S. forces have operated as part of the “war on terror.” More research is needed to assess the relationship between displacement and U.S. participation in these and other post-9/11 wars beyond the eight conflicts in our study.
+
+Historical Comparisons
+
+There is limited value in comparing population displacements across time and place given population growth. Such comparisons also risk inadvertently suggesting hierarchies of suffering and thus inadvertently diminishing the significance of smaller-scale displacement. From the perspective of someone who has been forced to flee their home, the scale of displacement generally matters little. The displacement of a single person, a single family, a single community should cause as much alarm and should be considered as grievous a human rights violation as the displacement of larger populations.
+
+Mindful of these limitations, comparing the size of displacement events helps demonstrate the relative magnitude of population movements and of wars’ destructive power. Thus, we note that the 37 million displaced by the post-9/11 wars exceeds all those
+
+72 See, e.g., David Vine, The United States of War: A Global History of America's Endless Conflicts, from Columbus to the Islamic State (Oakland: University of California Press, forthcoming [October 13, 2020]).
+
+73 See, e.g., Amnesty International, “Cameroon’s Secret Torture Chambers,” July 19, 2017, https://www.amnestyusa.org/reports/cameroons-secret-torture/; Nick Turse, “New Video Shows More Atrocities by Cameroon, a Key U.S. Ally in Drone Warfare,” August 31, 2018, https://theintercept.com/2018/08/31/cameroon-video-execution-boko-haram/; Richard Reeve and Zoë Pelter, “From New Frontier to New Normal: Counter-terrorism Operations in the Sahel-Sahara,” London: Remote Control Group/Oxford Research Group, August 2014; Nick Turse, “The U.S. Is Building a Drone Base in Niger That Will Cost More Than $280 Million by 2024,” The Intercept, August 21, 2018, https://theintercept.com/2018/08/21/us-drone-base-niger-africa/.
+
+displaced during World War I (approximately 10 million). It exceeds the displacement caused by the partition of India and Pakistan (14 million); the U.S. war in Vietnam (13 million); the Soviet invasion of Afghanistan (6.3 million); and the ongoing war in the Democratic Republic of the Congo (6 million); among other cases (Table 2).75
+
+Displacement in the U.S. post-9/11 wars in Afghanistan and Iraq alone exceeds 14.5 million people and thus every other case of displacement since the start of the twentieth century except World War II. If, as we suspect, our calculation of 37 million displaced is overly conservative, and if a less conservative estimate of 48–59 million is more accurate, the scale of displacement across the eight countries surveyed likely reaches levels only seen in the second world war.
+
+Table 2: Displacement Comparison Cases
+
+REFUGEES + IDPs (estimate)76
+
+1. Russian Revolution 6 million
+
+2. World War I 10 million
+
+3. World War II 30-64+ million
+
+4. India/Pakistan Partition 14 million
+
+5. North & South Vietnam (1960s-1972) 13 million
+
+6. East Bengal 10 million
+
+7. Soviet Invasion of Afghanistan 6.3 million
+
+8. Colombia 8 million (as of 2019)
+
+9. Democratic Republic of the Congo 6 million (2019)
+
+10. Venezuela 4.5 (2019)
+
+Returning Home: 25.3 million
+
+COMPARISON CASE
+
+In addition to our calculation of 37 million or more displaced, we estimate that 25,311,331 million people have returned to their countries of origin (in the case of refugees and asylum seekers) or to the areas from which they fled internally (in the case of IDPs)
+
+75 Peter Gatrell, “Refugees,” 1914–1918 Online: Encyclopedia of the First World War, edited by Ute Daniel, et al. Freie Universität Berlin, Berlin, October 8, 2014, https://encyclopedia.1914-1918online.net/article/refugees, DOI: 10.15463/ie1418.10134; UNHCR, The State of the World’s Refugees, 80–81, 116; UNHCR, Global Report 2019 (Geneva: United Nations), 75. 76 Estimates for displacement during World War II focus on Europe, just as international humanitarian aid focused on displaced Europeans. According to the UNHCR, “millions” were displaced in China. Citations for cases 1, 3, 4: Aristide R. Zolberg, Astri Suhrke, and Sergio Aguayo, “Who Is a Refugee?” in Escape from Violence: Conflict and the Refugee Crisis in the Developing World (New York: Oxford University Press, 1989), 16–17, 18, 21, 24. Cases 3, 4, 5, 6, 7: UNHCR, The State of the World’s Refugees, 13, 59, 80–81, 116. Cases 8, 9, 10: UNHCR, Global Report 2019, 101, 75, 101.
+
+(Table 3). While return can be a sign of improved living conditions and greater peace and security at home, the scale and significance of refugees and IDPs returning home should be interpreted carefully. To start, some of the 25.3 million IDPs were not among the original 37 million displaced. This is because international organizations count the children of returned refugee or IDP mothers as “returnees.” Born in displacement, these children return to places and homes they have never known.77
+
+In other cases, such as Yemen, some IDP returnees have returned to homes that are near war’s frontlines because they could not afford to leave the country or because they could not afford the costs of living in the areas where they had fled to safety.78 Yet other refugees and IDPs, such as Afghans in Pakistan and Afghanistan, return because they are fleeing new violence. Others return because host governments deport them or pressure them into leaving with threats or by cutting off employment and other necessities, among other tactics. Afghans forced to leave Iran are again an example.79 In other words, some “returnees” are actually the victims of further forced displacement.
+
+Table 3: Total Returnees
+
+Returnees are 1) refugees and asylum seekers and 2) IDPs who, for the former, have returned to their country of origin from abroad and, for the latter, have returned to their area of origin from another part of their country of origin.
+
+Returnees Afghanistan (2001–) 7,496,684 Pakistan (2001–) 4,153,046 Yemen (2002–) 1,689,283 Somalia (2002–) 480,737 Philippines (2002–) 2,036,258 Iraq (2003–) 6,482,433 Libya (2011–) 1,438,691 Syria (2014–) 1,534,200 TOTAL 25,311,331
+
+Even in the best circumstances of return, going home does not erase the experience of fleeing for one’s life or the struggle to survive after being displaced. The experiences of
+
+77 Displacement statistics generally count children born to a refugee, asylum seeker, or IDP mother while she is displaced as an additional displaced person. Contrarily, statisticians generally subtract from “stock” totals those refugees, asylum seekers, and IDPs who die during displacement. We do not subtract the dead from our calculation because we are estimating the total number of people who were displaced across time.
+
+wartime displacement are profound, traumatic, and long-lasting. Returning home should not be equated with a return to normal or to a prior state of being. Displacement tends to transform and remake entire social worlds for the displaced, impoverishing people in the process.80 Some of course never return home either because they resettle elsewhere or because they die as refugees or IDPs.
+
+Beyond Numbers: The Human Impacts of Displacement
+
+Numbers only can tell us so much. Numbers quickly can become numbing. Especially when numbers are so large, when displacement reaches the millions, it is easy to forget what the numbers represent. One can lose any sense of how it would feel to flee for one’s life, to lose one’s home, to have one’s connection to a place torn asunder, to have one’s community shattered. One easily can forget that the numbers reflect individual people with individual names and lives that have been damaged forever.
+
+Most people (ourselves included) have great difficulty comprehending the scale of numbers like 37 million displaced. Most people (ourselves included) have great difficulty comprehending the meaning and effects of displacement for those displaced. Grappling with the human significance of displacement on this scale requires, we believe, conscious effort and attention to the individual lives involved. Yemeni Sala Khaled describes her experience of becoming “an ‘internally displaced person’… a statistic.” In recounting how she and her family fled their home fearing for their lives, Khaled reminds readers how much statistics obscure about the unique experience of each displaced person: “Conditions vary as much as individual stories do.”81
+
+While there is no adequate way to convey the immensity of displacement’s damage, understanding the damage in qualitative and personal terms remains important work. In Yemen, for example, hundreds of thousands of IDPs, like Sala Khaled, live in one of hundreds of informal “sites” across the country. The sites include public infrastructure, unfinished buildings under construction, and spontaneously constructed informal settlements where “services are often limited, and residents face significant protection risks, including exploitation, harassment and gender-based violence,” according to the UN. Most of these locations lack any formal management or access to health services. In many of the sites, people lack reliable water supplies and toilet access. IDPs report “feeling unsafe, [a] lack of privacy, limited representation of their needs, limited freedom of movement and harassment from other IDPs or the host community.”82
+
+80 See, e.g., Michael Cernea, “Anthropological and Sociological Research for Policy Development on Population Resettlement,” in Anthropological Approaches to Resettlement: Policy, Practice, and Theory, ed. Michael M. Cernea and Scott E. Guggenheim (Boulder, CO: Westview Press, 1993), 12; Michael Cernea, “Risks, Safeguards, and Reconstruction: A Model for Population Displacement and Resettlement,” in Risks and Reconstruction: Experiences of Resettlers and Refugees, edited by Michael Cernea and Christopher McDowell (Washington, DC: World Bank, 2000).
+
+The displacement caused by the U.S. post-9/11 wars has torn apart neighborhoods, communities, and entire societies alongside other forms of wartime violence. In Iraq, for example, sectarian fighting and displacement following the 2003 U.S.-led invasion destroyed what had been a “mosaic patchwork” of mixed communities in which Shia and Sunni and other religious and ethnic groups lived side-by-side, working together and intermarrying. What replaced it was an Iraq divided into three large ethno-sectarian regions defined by increasingly homogenous Shia, Sunni, and Kurdish identities. In cities like Baghdad, U.S. forces contributed to the hardening of ethno-sectarian divisions when, as security measures, they walled off what had become largely single sect neighborhoods due to wartime displacement. Several small minority communities like the Sabean-Mandeans and the Shabak almost completely disappeared from Iraq through displacement and violence. The newly entrenched divisions are so profound they may never be reversed.83
+
+The effects of displacement extend to host communities and countries. The work of housing and hosting refugees and IDPs over extended periods can be a significant burden to host families and communities, many of which are often on the margins of poverty already.84 The example of Yemen again shows that around half a million IDPs only had some form of housing thanks to host families and communities, including in makeshift settlements.85 The arrival of refugees and IDPs can trigger grievances, inflame pre-existing xenophobia, and spur competition for resources, among many other sociocultural, economic, and political effects.
+
+Host societies also experience beneficial effects such as greater societal diversity, increased economic activity and vitality in some cases, and direct financial assistance from international organizations and foreign governments. Documenting the full societal impacts of displacement—as well as the impacts at individual and intermediate levels—in the countries discussed here is beyond the scope of this paper but remains vital work for scholars, journalists, and affected peoples themselves.
+
+Significance and Conclusion
+
+Neither qualitative nor quantitative methods can adequately measure or convey the effects of wartime displacement. Still, it is important to attempt to quantify how many people have been displaced as one dimension of the damage brought about by the United States’ post-9/11 wars. Displacement caused by these wars indeed has intersected with and exacerbated other forms of damage. In addition to displacing at least 37 million, the wars have killed and injured millions and torn apart neighborhoods, communities, and
+
+83 Elaine A. Hills and Dahlia S. Wasfi, “The Causes and Human Costs of Targeting Iraq,” in The War Machine and Global Health: A Critical Medical Anthropological Examination of the Human Costs of Armed Conflict and the International Violence Industry, edited by Merrill Singer and G. Derrick Hodge (Lanham, MD: AltaMira, 2010), 268-270, 250-252; Al-Tikriti, “There Go the Neighbourhoods,” 265-267, 270.
+
+entire societies, impoverishing people in economic and other ways.86 An estimated 770,000 to 801,000 civilians and combatants, on all sides, have died in just Afghanistan, Iraq, Syria, Pakistan, and Yemen since U.S. forces began fighting in those countries.87 That is only the number of combatants and civilians who have died in combat. Many more have died as a result of disease, hunger, and malnutrition caused by the wars and the destruction of health care systems, employment, sanitation, and other local infrastructures. While these “indirect deaths” are still being calculated by researchers, the total may exceed 3.1 million.88 The total number injured and traumatized surely extends into the tens of millions.
+
+The displacement documented in this paper, along with the wars’ death toll and other intersecting forms of harm, cannot simply be dismissed or normalized as “unintended consequences” or “collateral damage.” The displacement and other suffering must be central to any analysis of the post-9/11 wars and to any conceivable consideration of the future use of military force by the United States or any other country. The legitimacy and efficacy of war should be questioned more than ever given nearly two decades of disastrous outcomes. One must also ask what steps the U.S. government, U.S. citizens, and other responsible parties have taken—and what steps they will take—to repair and make amends for the damage inflicted on the 37 million or more people displaced by the post-9/11 wars.
+
+86 See, e.g., Neta C. Crawford, “War-Related Death, Injury, and Displacement in Afghanistan and Pakistan, 2001–2014,” Costs of War Project, Brown University, May 22, 2015, https://watson.brown.edu/costsofwar/files/cow/imce/papers/2015/War%20Related%20Casualt ies%20Afghanistan%20and%20Pakistan%202001-2014%20FIN.pdf; Crawford, “Civilian Death and Injury in Iraq, 2003–2011,” Costs of War Project, Brown University, September 2011, https://watson.brown.edu/costsofwar/files/cow/imce/papers/2011/Civilian%20Death%20and% 20Injury%20in%20Iraq%2C%202003-2011.pdf; Scott Harding and Kathryn Libal, “War and the Public Health Disaster in Iraq,” in The War Machine and Global Health: A Critical Medical Anthropological Examination of the Human Costs of Armed Conflict and the International Violence Industry, ed. Merrill Singer and G. Derrick Hodge (Lanham, MD: AltaMira, 2010), 59–88; Office of the United Nations High Commissioner for Refugees, Global Trends: Forced Displacement in 2018 (New York: United Nations, 2018).
+
+87 Neta C. Crawford and Catherine Lutz, “Human Cost of Post-9/11 Wars: Direct War Deaths in Major War Zones, Afghanistan and Pakistan (October 2001 – October 2019); Iraq (March 2003 – October 2019); Syria (September 2014-October 2019); Yemen (October 2002-October 2019); and Other,” Costs of War Project, Brown University, Providence, RI, November 13, 2019, https://watson.brown.edu/costsofwar/files/cow/imce/papers/2019/Direct%20War%20Deaths% 20COW%20Estimate%20November%2013%202019%20FINAL.pdf. 88 Four million appears to be a better though still conservative estimate given that a high-end calculation exceeds 12 million deaths. According to the Geneva Declaration’s study of recent wars, there will be at least three and as many as fifteen “indirect deaths” for every direct combat death. The study suggests that a ratio of four to one is a reasonable average estimate. See Geneva Declaration, Global Burden of Armed Violence (Geneva: Geneva Declaration Secretariat, 2008), 31– 32.
+
+Appendix: Detailed Methodology, Data Sources, and Limitations
+
+Estimating the number of people displaced in the post-9/11 wars is challenging. Counting the displaced is always challenging for the international organizations that provide the most authoritative statistics, but their work is especially difficult in dangerous war zones where the scale of displacement has reached tens of millions over nearly two decades of war. The political and economic stakes of displacement statistics are also high. In many cases, governments have vested financial and political interests in either inflating or deflating the number of refugees, IDPs, and returnees within or beyond their borders. For example, displacement figures can potentially affect levels of international aid for host governments, media and political perceptions of hosts, inter-governmental negotiations of many kinds, among other factors. This means that the definitions governments use to define a refugee, an IDP, and a returnee affect displacement statistics, making definitions deeply political and far from a matter of objective fact. “Statistics on forced displacement reflect diverse definitions employed by national governments and organizations responsible for collecting and compiling data,” explains scholar Zara Sarzin in a World Bank report. “These statistical definitions vary within and between countries depending on the different objectives and methodologies of data collection efforts. Political factors can determine how these definitions are crafted and applied in practice, contributing to the substantial variation in data across displacement situations.”89
+
+Generally, it is unclear whether displacement statistics overestimate or underestimate the true scale of displacement. International organizations have worked over many years to account for the political and economic forces shaping the numbers and to improve the accuracy and reliability of the underlying data that we rely on here. “Existing figures provide the only source to determine orders of magnitudes, relative numbers, and trends,” writes Sarzin. “They may provide important insights into the forced displacement crisis, but they ought to be taken with a great degree of caution. Data users should be aware of their limitations and of the [possibility of] corresponding error margins.”90
+
+Given this ambiguity about data reliability and other methodological challenges, which we discuss below, we have erred on the side of being conservative in our estimates. There is little we can do about the data accuracy problems other than to acknowledge them as limitations. Over time, displacement data has improved and likely will continue to improve. We encourage others to improve on our estimates for the post-9/11 wars.
+
+Data Sources
+
+Each of our data sources has strengths and weaknesses. We have assembled our data for refugees and asylum seekers primarily from the UN’s refugee agency, UNHCR. Our IDP data comes from the Internal Displacement Monitoring Centre (IDMC), UNHCR, and the UN Office for the Coordination of Humanitarian Affairs (OCHA). Data for refugee and IDP
+
+returnees comes primarily from UNHCR. UNHCR data is available since 2001. IDMC data is available for the period 2009–2019; for prior years, we rely on UNHCR’s IDP data, which is the best available.
+
+UNHCR refugee data tends to be particularly accurate and “robust” because it is based primarily on the registration and counting of individuals and families with UNHCR and/or host country officials (UNHCR employs estimates in some wealthy countries where UNHCR provides fewer direct services).91 On the other hand, given that the act of crossing international borders and living in foreign countries without government authorization is frequently criminalized, many people fleeing their home countries to find safety abroad are not registered and thus not counted in refugee and asylum seeker statistics. People living outside refugee camps are especially unlikely to be registered and counted by UNHCR. Research showing that 1.3 million out of 2.8 million Afghan refugees in Pakistan were unregistered suggests that UNHCR’s figures could be a significant undercount in many countries.92
+
+For the documentation of IDPs, IDMC data is authoritative and the best available. The International Organization for Migration calls IDMC, “the global reference point for data on IDPs.”93 A 2017 World Bank study recognized IDMC as “the leading provider of information and analysis on internal displacement worldwide.”94 In its publications, UNHCR regularly reports IDMC data on IDPs as authoritative.95 Unlike UNHCR, IDMC primarily uses estimates of IDPs rather than counts of individuals. IDMC develops its estimates from reporting by the International Organization for Migration (IOM), OCHA, UNHCR, governments, and non-governmental organizations.96 While many experts consider displacement data based on the registration and counting of individuals to be highly reliable, the large numbers of unregistered—and thus uncounted—refugees and asylum seekers suggests that methodologies based on estimating displaced populations may be equally if not more accurate and reliable.
+
+Calculating Refugees and Asylum Seekers
+
+UNHCR data complicates our calculation methodology because UNHCR only reports the total “stock” number of refugees, asylum seekers, and IDPs from a particular country of origin at the end of each year. UNHCR does not provide data about the number of new refugees, asylum seekers, and IDPs from a particular country of origin in a year. In other words, UNHCR does not disaggregate those newly displaced in a given year from those displaced in prior years, making it impossible to sum yearly displacements.
+
+91 UNHCR, “Global Trends,” 2019, 82n2–7.
+
+92 IDMC, “Pakistan: Solutions to Displacement Elusive,” 3–4. 93 Migration Data Portal, “Forced Migration or Displacement,” Geneva, International Organization for Migration, June 9, 2020, https://migrationdataportal.org/themes/forced-migration-ordisplacement.
+
+Thus, to estimate the number of people displaced across international borders as refugees or asylum seekers in a given year, we subtracted the total number of refugees and asylum seekers from that country in each relevant year from the number of refugees and asylum seekers in the prior year. The equation is:
+
+(Year X Total Refugees + Year X Total Asylum Seekers) – (Year X-1 Total Refugees + Year X-1 Total Asylum Seekers) Estimated Newly Displaced Refugees and Asylum Seekers in Year X
+
+Subtracting the stock count from the prior year stock count does not necessarily yield the number of people newly displaced in a given year, only the relative number of displaced refugees and asylum seekers from year to year. During years when the total number of refugees and asylum seekers declined relative to the prior year (usually because people returned home and because fewer people fled their homes), the calculation yields a negative number of refugees, which we record as zero. Some may ask why we do not record the negative number to reflect returning refugees and asylum seekers. We do not follow this approach as our goal is calculating the total number of people displaced rather than the net number of people displaced. We also capture returning refugees and asylum seekers in our separate calculation of returnees.
+
+Our methodology actually underestimates the true scale of displacement in keeping with our conservative approach: even when the total number of refugees declines from one year to the next, others often become refugees either through new displacement or when babies are born to refugee mothers and are counted among the displaced.97 Our calculation is also an underestimate given that someone displaced and then returned to their country of origin in the same year would not typically be counted in UNHCR’s end-of-year “stock” enumeration. While ours is an imperfect methodology, we believe it at least provides us with a low-end estimate of refugees and asylum seekers over time.
+
+We have not provided these and our other calculations in this report to avoid suggesting to readers that the totals indicated are the actual number of people displaced or, for example, that no one was displaced in years where we record totals as zero. Those interested in reviewing these and our other calculations should email vine@american.edu.
+
+97 Refugee and IDP figures generally account for births and deaths following displacement. Babies born to a refugee mother and registered with the UNHCR will be counted in refugee statistics. Host governments also tend to capture births data in the statistics they provide to UNHCR (except in countries that provide birthright citizenship to babies born on their soil). Many refugees, including those fearful of government authorities, will avoid registration for themselves and their children, meaning they are uncounted in UNHCR statistics. On the other hand, deaths in some cases go unreported for years because of bureaucratic oversights or the incentive to leave people on refugee lists given the services and funding tied to refugee status. Over time, UNHCR and other organizations correct past data, making older data in our study generally more reliable than newer data.
+
+Calculating IDPs
+
+For the purpose of calculating individuals who have become IDPs, we rely on IDMC (2009–2019) and UNHCR figures (2001–2019). (For Syria, we also use OCHA data because it allows us to identify displaced people from the five Syrian provinces where U.S. military forces have primarily operated.) For the years before 2009, we use the same method as we do for our refugees and asylum seekers calculation: we subtract the total number of UNHCR-enumerated IDPs in Year X from the total number of IDPs in the prior year to yield an estimate of the scale of internal displacement. For relevant years between 2001 and 2008, the equation is:
+
+(Total IDPs in Year X) – (Total IDPs in Year X-1)
+
+Estimated Newly Displaced IDPs in Year X
+
+We again treat negative sums as zero for the same reasons that we do so with refugees and asylum seekers. This is again a conservative approach in likely underestimating the true scale of displacement given that people are often displaced even when the total number of IDPs declines from one year to the next. We capture the return of IDPs to their homes in our returnees data.
+
+For 2009–2019, we combine UNHCR data and IDMC data about IDPs displaced by violent conflict (we exclude those displaced by disasters). IDMC data unfortunately differs from UNHCR’s in measuring the total number of displacement incidents rather than the total number of people displaced. Estimating displacement incidents allows IDMC to account for multiple discrete displacements experienced by single individuals, which has been common across the U.S. post-9/11 wars (among other conflicts). In Yemen, for example, 15.4% of displacees had been displaced three or more times as of 2020.98 UNHCR IDP data is more limited in focusing on an enumeration of individual IDPs who have received assistance of some kind from UNHCR; the data thus excludes hundreds of thousands of IDPs who have not received UNHCR aid.
+
+If we were to use IDMC figures without adjustment, we would likely overestimate the number of people displaced as IDPs because IDMC numbers reflect displacement incidents. (There is an argument that we should calculate displacement incidents rather than displaced people because an individual or family can experience multiple discrete displacement events that are not captured by figures focusing on individuals regardless of how many times one is displaced.)
+
+On the other hand, UNHCR figures underestimate IDPs because they only reflect people who have received UNHCR services. Thus, in years when IDMC data is available (2009–2019), we average IDMC and UNHCR figures to arrive at our estimate. Because we treat any negative sums in the UNHCR data as zero, our average of IDMC and UNHCR figures yields an estimate of no less than one-half the number of IDMC displacement incidents. This is again a very conservative estimate, as the true number of IDPs could be
+
+closer to two-thirds to three-quarters or more of the total number of displacement incidents in a given country.99 For the years 2009–2019, the equation is:
+
+(IDMC IDP Displacement Incidents in Year X) + ((UNHCR Total IDPs in Year X) – (UNHCR Total IDPs in Year X-1)) ÷ 2
+
+Calculating Displacement in Syria
+
+In Syria, OCHA provides province-level data that allows us to identify IDPs displaced from the five Syrian provinces where U.S. troops have primarily operated. Displacement from those provinces represents 46.8% of the total number of Syrian IDPs from January 2016 through July 2020. We round this percentage to 50% and use this figure to estimate the number of Syrian refugees, employing the same methodology described above. Unlike our other calculations, which use data through 2019, we use OCHA’s 2020 figures rather than attempting to estimate data for 2014 and 2015 when no data is available.
+
+Calculating Returnees
+
+UNHCR reports figures for refugee returnees and IDP returnees per year, making a calculation of the sum of returnees an easier task. For each country other than Syria, we have summed refugee and IDP returnees for relevant war years.
+
+The calculation for Syrian returnees represents our estimate of only those returnees who were originally from the five Syrian provinces that are the focus of our Syria displacement calculation. IDPs from the five provinces represent 49.8% of IDP returnees from all of Syria.100 Thus, we assume that a similar percentage (50%) of total refugee returnees are from the five provinces. UNHCR currently estimates that there will be between 250,000 and 500,000 Syrian refugee returnees for 2020. Although data for other returnees is only through 2019, we have included data through July 2020 for Syrian returnees because no data is available prior to 2017 (this may be because there were so few Syrians returning between 2014 and 2017).101
+
+For reasons explained above, we have not subtracted returnees—those returning to their homes from abroad or from internal displacement—from our calculation of displaced
+
+99 In IDMC’s 2020 survey of IDPs in Yemen, for example, 68% of respondents had experienced a single displacement. IDMC, “Yemen: The Implications,” 3.
+
+100 Returned IDP data comes from OCHA Turkey, “Syrian Arab Republic: IDP Movements and IDP Spontaneous Return Movements Data,” dataset, updated August 27, 2020, accessed September 4, 2020, https://data.humdata.org/dataset/syrian-arab-republic-idp-movements-and-idpspontaneous-return-movements-data
+
+people. We also have not counted returnees as additional cases of displacement, although migrating home often involves its own hardships.
+
+There are, however, two cases in which IDMC counts returnees as new IDP displacements: first, when refugees are deported by a host government back to their home country (a kind of forced displacement and a violation of the international refugee law principle of non-refoulement barring governments from forcing refugees to return to a country from which they fled); second, when refugees return voluntarily to their home countries but are unable to return to their former areas of residence, leaving them internally displaced in their home country. Both types of displacement are captured in our data given our use of IDMC data.
+
+Updated Version:
+
+This report is updated from the original version published on September 8, 2020. One point in the original “Major Findings” section has been removed; it read “Millions more have been displaced by other post-9/11 conflicts involving U.S. troops in smaller combat operations, including in: Burkina Faso, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Mali, Niger, Saudi Arabia, and Tunisia.”
+
+Two paragraphs starting on p. 18, with the sentence that begins, “Our 37 million estimate is also conservative because it does not include anyone displaced during other conflicts in the ‘war on terror’ where U.S. forces have been involved in relatively limited but still significant ways…” have been revised to include more detail and explanation regarding the conflicts that this paper did not include as part of its total displacement calculation.

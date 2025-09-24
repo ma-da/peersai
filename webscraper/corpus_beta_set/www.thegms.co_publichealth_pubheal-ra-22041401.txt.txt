@@ -1,0 +1,717 @@
+no_title
+
+https://www.thegms.co
+
+ISSN 2692-4374 DOI https://www.doi.org/10.46766/thegms
+
+Public Health | Research
+
+Submitted: 14 April 2022 Approved: 20 April 2022 Published: 21 April 2022
+
+Address for correspondence: James A. Thorp, MD, Department of Ob/Gyn, Division of Maternal Fetal Medicine, SSM Health, St. Louis, MO
+
+How to cite this article: Parotto T, Thorp JA, Hooker B, Mills PJ, Newman J, Murphy L, et al. COVID-19 and the surge in Decidual Cast Shedding. G Med Sci. 2022; 3(1): 107- 117. https://www.doi.org/10.46766/thegms.pubheal.22041401
+
+Tiffany Parotto1, James A. Thorp2*, Brian Hooker3, Paul J. Mills4, Jill Newman5, Leonard Murphy6, Warren Geick7, Dan McDyer8, Raphael B. Stricker9, Sue Peters10, Maureen McDonnell11, Heather Ray12, Christiane Northrup13
+
+Copyright: © 2022 Tiffany Parotto, James A. Thorp, Brian Hooker, Paul J. Mills, Jill Newman, Leonard Murphy, Warren Geick, Dan McDyer, Raphael B. Stricker, Sue Peters, Maureen McDonnell, Heather Ray, Christiane Northrup. This is an Open Access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+1Director and Founder of MyCycleStorysm, Research Analyst, St Petersburg, FL
+
+2Department of Ob/Gyn, Division of Maternal Fetal Medicine, SSM Health, St. Louis, MO
+
+3Chief Scientific Officer, Children’s Health Defense, Franklin Lakes, NJ
+
+4Professor, Family Medicine and Public Health, University of California, San Diego,
+
+La Jolla, CA
+
+5Biostatistician, Mount Pleasant, SC
+
+6Research Advisor, Atlanta, GA
+
+7Research Data Analyst, Austin, TX
+
+8Private Practice Obstetrician/Gynecologist, Jacksonville, FL
+
+9Union Square Medical Associates, San Francisco, CA
+
+10Research Fellow, Children’s Health Defense, Franklin Lakes, NJ
+
+11BSN, Barnardsville, NC
+
+12Science and Research Assistant, Children’s Health Defense, Franklin Lakes, NJ
+
+13Former Fellow of the American College of Obstetrics and Gynecology, Former
+
+Assistant Clinical Professor of Ob/Gyn U of Vermont College of Medicine, Portland, ME
+
+Abstract
+
+Background: The purpose of this study is to report on the unprecedented rise in decidual cast shedding (DCS) that occurred in 2021. DCS is historically a rare gynecological event, with less than 40 cases reported in the medical literature over the last 109 years. Previous journal articles on DCS were usually case studies; population prevalence data is non-existent. Methods: The MyCycleStorySM survey was distributed via social media from May 16th, 2021, through December 31, 2021. The total sample size for analysis was 6049 with 89.1% of the participants responding within the first 3.5 months of the 7.5 months duration of the study. In parallel to the survey study, a Google Trends search was completed for search frequencies of relevant keyword terms including “decidual cast” and “decidual cast covid vaccine.” Results: In the survey, 292 women (4.83 % of the sample) reported having experienced DCS. The mean age of these predominantly non-Hispanic white women was 36.1 ± 0.5 (SEM) years. Eleven percent were taking hormonal contraceptives, 94.3% considered themselves healthy and 96.2% reported that menstrual irregularities started in 2021. According to Google metadata, search terms for "decidual cast shedding" substantially increased during the months of April, May, and June 2021. These peaks in searches represented a 2000% increase over the first quarter of 2021. Conclusions: There was a significant increase in self-reported DCS in the latter part of 2021 compared to all pre-pandemic cases. More research is urgently needed to investigate the factors contributing to DCS in 2021 and whether this trend is continuing.
+
+Keywords: Decidual Cast Shedding, COVID-19 pandemic, COVID vaccine adverse reactions, spike protein shedding, menstrual abnormality
+
+Introduction
+
+effects related to COVID-19 vaccines. After the distribution
+
+of the COVID-19 vaccines specifically, there was a marked
+
+The COVID-19 pandemic expanded recognition and
+
+increase of women sharing irregular menstruation
+
+discussion across social media sites of a variety of
+
+experiences on a variety of social media platforms, and a
+
+symptoms related to SARS-CoV-2 infection and side
+
+few formal surveys were conducted. One survey launched
+
+in April 2021 had more than 150,000 respondents [1]. The
+
+spike protein exposure through infection or vaccination,
+
+survey was limited because it did not differentiate between
+
+as well as demographic information, medications,
+
+specific symptoms, length, or severity of symptoms, nor
+
+supplements, stress levels, exposure to hazardous agents
+
+did it address potential causes. The survey indicated that
+
+and other indicators for sudden menstrual irregularities.
+
+menstrual irregularities increased exponentially starting
+
+We obtained survey responses by sharing the survey
+
+in 2021.
+
+information via crowdsourcing to female participants
+
+on social media beginning on May 16th, 2021. We closed
+
+To follow up those findings and gather a wider array of
+
+the collection of data for this initial study on December
+
+general and menstruation-related symptom data, a new
+
+31, 2021. This study had a total sample size of 6049, with
+
+user-centered survey, the MyCycleStorySM survey, was
+
+89.1% of the participants responding within the first 3.5
+
+designed and disseminated [2]. As survey submissions
+
+months.
+
+accumulated, it became clear that individuals were
+
+reporting a variety of unusual symptoms, many severe.
+
+The user-centered survey design was based in part on
+
+One such rare symptom was the passage of decidual casts,
+
+symptoms that were being reported through social media
+
+also known as decidual cast shedding (DCS). Some of
+
+testimonials, covering menstrual-related irregularities.
+
+the respondents provided detailed descriptions of their
+
+Survey respondents were asked if they were experiencing
+
+experiences. A subset of these testimonials is included in
+
+one or more of 39 “symptoms seen for the first time that
+
+the below hyperlink [26].
+
+are abnormal for you”; they were also asked in a separate
+
+set of questions using the same 39 symptoms about
+
+A decidual cast may occur when the cessation of
+
+“abnormal symptoms that you have experienced at least
+
+progesterone levels results in loss of support for the
+
+one time before.” As the data was collected, there was an
+
+decidualized endometrial lining [3]. This results in a
+
+abnormally high number of women who reported that
+
+synchronized detachment of the entire decidualized
+
+they had experienced “Decidual Cast Shedding / release
+
+layer of endometrium, and it passes from the uterus
+
+of a layer of uterine lining, a thick sack-like substance”,
+
+through the cervix and vagina. This tissue mass/clot is
+
+as presented in the survey. Respondents who reported
+
+often triangular, consistent with the internal shape of
+
+having experienced DCS in the past were excluded from
+
+the intrauterine cavity (Figure 1). Other less common
+
+the analysis data set.
+
+causes of DCS include cessation of exogenous estrogen/
+
+progesterone therapies, and use of oral contraceptives
+
+A Google search of the phrase “decidual cast shedding”
+
+and injectable progesterone [4].
+
+brings up the following definition: “a large, intact piece
+
+of tissue that is passed through the vagina in one solid
+
+The purpose of this study is to share the unprecedented
+
+piece. It happens when the thick mucus lining of the
+
+occurrence rates of DCS reported by the MyCycleStorySM
+
+uterus, called the decidua, sheds in the near exact shape
+
+survey respondents. DCS is a rare gynecological event as
+
+of a uterine cavity, creating a triangular cast” [19]. An
+
+evidenced by less than 40 cases published in the medical
+
+extensive literature review of previous documented
+
+literature over the last 109 years [3-18]. Because previous
+
+decidual cast shedding cases was performed by the
+
+journal articles about DCS are case studies, the medical
+
+authors, substantiating that this experience is extremely
+
+literature cannot determine a reliable prevalence of DCS
+
+rare.
+
+events.
+
+Literature search terms “decidual cast” and “membranous
+
+Materials & Methods
+
+shedding” and “membranous dysmenorrhea” were used
+
+to identify the prevalence of DCS in the pre-pandemic
+
+With the support and consultation of gynecologists,
+
+era. We found fifteen publications between 1913 and 2022
+
+the MyCycleStorySM survey was designed to capture
+
+detailing less than 40 cases of “decidual cast shedding”
+
+demographic, lifestyle, and clinical data through a secure
+
+or “membranous dysmenorrhea” [3-18]. This was
+
+online survey. The survey, containing 91 questions,
+
+an inadequate sample size to establish a reliable pre-
+
+targeted all women 18 years of age and older, COVID-19
+
+pandemic prevalence, which could best be described in
+
+vaccinated and unvaccinated, who were experiencing
+
+qualitative terms as very rare. Descriptive statistics for
+
+menstrual anomalies. The survey focused on SARS-CoV-2
+
+the affirmed DCS population were reported as frequencies
+
+and percentages or means and standard errors. Survey
+
+reported that they had experienced health problems or
+
+procedures were used to analyze the data.
+
+menstrual irregularities since January 2021. The mean
+
+age was 36.1 ± 0.5 (SEM) years, with 16.5% reporting the
+
+Results
+
+use of intrauterine devices or hormonal contraceptives.
+
+Additionally, 9.2% reported taking non-contraceptive
+
+There were 292 (4.83 % of the sample) predominantly
+
+hormonal therapies and 17.2% reported that they were
+
+non-Hispanic white women who identified a DCS
+
+trying to conceive. A description of the DCS sample is
+
+incident during the 7.5 months of data collection in
+
+included in Table 1.
+
+mid-to-late 2021, and 96.2% of these respondents
+
+Table 1. Demographic and Lifestyle Characteristics – DCS Participants Only (Frequency (%) or Mean [SEM])
+
+Characteristic Total
+
+n=292
+
+Age 36.1 [0.5]
+
+Consider yourself healthy (yes) 247 (94.3)
+
+General Stress Level
+
+Low to none 17 (6.4)
+
+Mild 86 (32.3)
+
+Moderate 110 (41.4)
+
+Heavy at times 47 (17.7)
+
+Unbearable at times 6 (2.2)
+
+Typical menstrual regularity
+
+Do not menstruate now 9 (3.1)
+
+Rarely menstruate 7 (2.4)
+
+Irregular or occasional 17 (5.9)
+
+Regularly occurring 257 (88.6)
+
+Typical menstrual length
+
+Do not menstruate now 8 (2.7)
+
+1 - 3 days 19 (6.5)
+
+3 - 5 days 146 (50.0)
+
+5 - 7 days 103 (35.3)
+
+7+ days 16 (5.5)
+
+Typical menstrual flow
+
+Unpredictable 12 (4.1)
+
+Rarely or do not menstruate now 10 (3.4)
+
+Light 27 (9.2)
+
+Moderate 204 (69.9)
+
+Heavy 39 (13.4)
+
+Peri- or post-menopausal 22 (7.5)
+
+Trying to conceive 47 (17.2)
+
+Number of abnormal symptoms experienced for the 1st time** 7.4 [0.2]
+
+Have experienced abnormal health reactions or menstrual irregularities since January 2021 279 (96.2)
+
+Contraception use
+
+Have Intrauterine Device (IUD) 16 (5.5)
+
+On hormonal contraceptive 32 (11.0)
+
+On non-contraceptive hormone therapy 27 (9.2)
+
+**39 total abnormal symptoms
+
+We surveyed the stress levels of the women in our DCS
+
+collected in May-July 2021, and this timing aligns with the
+
+cohort, and the responses resembled a normal distribution
+
+June peak of term searches. We hypothesize that survey
+
+with 41.4% having moderate stress levels. More than half
+
+participants were searching for the definition or images
+
+(50.9%) reported that they had experienced COVID-19
+
+associated with this term, to determine if it aligned with
+
+symptoms but were never tested.
+
+the symptom(s) they experienced. However, the spike
+
+in searches in the month of April, was before the survey
+
+Figure 2 shows the temporal trends of two related Google
+
+was distributed and towards the beginning of when the
+
+search terms in the United States from September 2020
+
+menstrual conversations began to gain momentum
+
+through March 2022. The two terms were “decidual cast”
+
+on social media. We speculate that individuals were
+
+and “decidual cast covid vaccine”. There was a small
+
+researching their own abnormal experience to better
+
+increase in January and February 2021 for “decidual
+
+understand the phenomenon, prior to being exposed to
+
+cast covid vaccine” searches. During this time, the first
+
+our survey. These timeframes also align with the onset
+
+injection of the COVID-19 vaccine was being introduced
+
+of widespread COVID-19 vaccine distribution. These
+
+to the US population. Searches increased dramatically
+
+correlations should prompt future studies into the cause
+
+in April 2021 and then again in June 2021. These peak
+
+of DCS in women during the pandemic.
+
+Google searches represent a more than 2000% increase
+
+from the prior and subsequent months of these peaks.
+
+In two publications from 1913 describing decidual cast
+
+The MyCycleStorySM was fielded starting in mid-May with
+
+events, the authors associated them with spontaneous
+
+85% of data collected by the end of July.
+
+abortions or ectopic pregnancies [6, 7]. One speculation
+
+in these publications was that half of ectopic pregnancies
+
+Discussion
+
+result in a decidual cast event [6, 7]. In more recent
+
+literature, over a century later, the reports have focused
+
+The most striking finding of this study is the remarkable
+
+on a different population. A 2021 review of 14 cases in the
+
+incidence of decidual cast shedding (DCS) among the
+
+pediatric literature found that 43% were associated with
+
+survey respondents, which identified 292 respondents
+
+depo-medroxyprogesterone acetate, 43% with combined
+
+noting a DCS event over 7.5 months in 2021. In
+
+oral contraceptives, and 14% with the patch-dispensed
+
+comparison, all previously published medical literature
+
+ethinyl estradiol-norelgestromin [3, 4]. The average time
+
+spanning 109 years describes less than 40 cases [3-18].
+
+between initiation of hormonal contraceptive therapy and
+
+Undoubtedly, this is a significant surge in DCS events.
+
+decidual cast formation was 4.7 months (range 21 days to
+
+Given the contemporaneous occurrence of the pandemic
+
+15 months). The authors hypothesized that pediatric cases
+
+and the menstrual irregularities, one can only speculate
+
+may be related to an exaggerated response to increased
+
+as to the exact etiology of the DCS events among the
+
+progestin in an immature uterus [4]. A 2015 case study
+
+survey respondents. Normal ovulatory menstrual cycles
+
+and literature review included non-adolescent cases [14].
+
+should not result in DCS but rather in normal organized
+
+The authors found a total of 21 cases: 13 of 21 occurring in
+
+menstruation. The temporal relationship of the rapid
+
+young adults age 20 years or less; 4 of 21 in women aged
+
+increase in DCS with the pandemic begs the question of
+
+41-51 years; and 5 of 21 in women on oral contraceptives
+
+a relationship to other factors such as stress [20, 21],
+
+[14]. Thus, the sum of the literature suggests different
+
+spike protein exposure (from COVID-19 or vaccination),
+
+causes for this phenomenon across ages, some of which
+
+or other factors [22]. Our data suggest that there is not a
+
+are now thought to be related to iatrogenic causes. In
+
+correlation between these DCS events and high levels of
+
+our survey respondents, only 11% were on hormonal
+
+stress or the use of contraceptive and hormonal therapies.
+
+contraception.
+
+The highly technical and rare medical term “decidual
+
+This survey-based study was not designed to determine
+
+cast” or “membranous dysmenorrhea” is largely
+
+the etiopathophysiology of this surge in DCS occurring
+
+unknown by most healthcare workers. Lay public would
+
+during the COVID-19 pandemic. We assume that the
+
+rarely, if ever, have knowledge of this term unless they
+
+self-reports from the survey respondents represent the
+
+searched it on the internet. The remarkable rise in the
+
+clinical definition of a decidual cast, however a clinical
+
+search engine term “decidual cast” suggests the survey
+
+examination and pathology report would provide stronger
+
+respondents most likely identified this term by an internet
+
+evidence and would be required to determine which of
+
+search (Figure 2). The majority (85%) of survey data was
+
+these events were spontaneous abortions or ectopic
+
+pregnancies. There is emerging evidence that exposure
+
+to break up. Embalmers have apparently never seen this
+
+to the spike protein, either through natural exposure,
+
+phenomenon prior to the pandemic. We speculate that one
+
+vaccination, or shedding of the spike protein through
+
+potential explanation of the surge in reports of decidual
+
+exosomes, may be associated with significant menstrual
+
+cast shedding could represent a similar appearing tissue-
+
+abnormalities [23, 24].
+
+like substance that is composed of fibrin-laden clot rather
+
+than a simple decidual cast.
+
+Here, we speculate on possible causes of this DCS
+
+Limitations
+
+phenomenon. One hypothesis is that the COVID-19
+
+vaccine interrupts the complex balance of ovulation
+
+orchestrated by the hypothalamic-pituitary-ovarian axis
+
+There are several limitations of this preliminary report.
+
+and thus produces anovulatory bleeding disorders. It is
+
+First, it is an observational study of patient questionnaires
+
+known from COVID-19 mRNA vaccine documents that
+
+and certainly subject to sample bias. Second, the decidual
+
+there is concentration of the nanolipid particles and the
+
+casts were not confirmed by pathological analysis but self-
+
+mRNA cargo in the ovaries [22]. This produces significant
+
+reported. Third, the pre- and post- pandemic prevalence
+
+inflammatory response in the ovaries and could contribute
+
+of DCS cannot be accurately determined at the time of this
+
+to menstrual abnormalities, although there are many
+
+writing.
+
+other potential mechanisms that could be involved.
+
+Summary
+
+COVID-19 vaccination is associated with both micro- and
+
+macro-arterial and venous thromboembolism [25]. An
+
+In summary, this survey study showed a surge in DCS
+
+unusual clotting process associated with fibrin deposition
+
+experiences after the distribution of the COVID-19
+
+appears as a white “tissue-like” material in vaccine
+
+vaccines. The possibility that a hypercoagulable state could
+
+recipients, and embalmers have observed very extensive
+
+cause a fibrin structure resembling DCS in menstruating
+
+and durable white clots that are removed post-mortem
+
+women merits further study.
+
+in the embalming process [25]. Figure 6 depicts multiple
+
+Conflicts of Interest
+
+clots extracted intact by an embalmer who describes the
+
+blood as “abnormally thickened and sticky” and difficult
+
+to wipe off gloves or the embalming table. He further notes
+
+None of the authors report conflicts of interest.
+
+that the extracted blood clots are very durable and difficult
+
+Figure 1. A decidual cast passed at a physician’s office, after two days of severe abdominal pain and cramping. This
+
+patient started medroxyprogesterone six weeks prior to passing this mass measuring 5 cm × 6 cm × 1 cm. Her pelvic
+
+discomfort completely resolved after the mass was passed [15].
+
+Figure 2. Google Trends in Search Terms September 2020 to March 2022.
+
+Figures 3, 4, 5. Depictions of DCS specimens from MyCycleStorySM participants. Participants were so distressed by
+
+their abnormal menstrual phenomena documented with photographs.
+
+Figure 6. Post-mortem organized thrombi.
+
+(Courtesy: Richard Hirschman.)
+
+11. Omar, H. A., and Smith, S. J. (2007). Membranous Dysmenorrhea: a case series. The Scientific World Journal, 7, 1900–1903. https://doi.org/10.1100/tsw.2007.277
+
+References
+
+1. Clancy Lab. Menstrual experiments with Covid-19 vaccines (2021, October 9). Available at: https://clancylabs.com/projects/menstrual-experiences-with-covid-19-vaccines/Accessed 4/10/22.
+
+12. Presented at the NASPAG 19th Annual Clinical Meeting, issues and answers in pediatric and adolescent gynecology, May 19–21, 2005, New Orleans, Louisiana. Oral case presentations. Decidual casts associated with depomedroxyprogesterone acetate treatment in adolescents. Journal of Pediatric Adolescent Gynecology. 2005; 18:217–218.
+
+2. “More About Our Study.” My Cycle Story: A Research Study. MyCycle Story, May 31, 2021. https:// mycyclestory.com/home/about/.
+
+3. Fukaura R, Ward A, Datta S. (2021) Delayed Miscarriage Inside an Infected Decidual Cast: A Rare Complication of the Depo medroxyprogesterone Acetate Injection. BMJ Case Reports CP 2021;14:e238583.
+
+13. Sen, Y., Cimbek, E. A., and Uğraş, N. S. (2013). Decidual Cast After Discontinuation of Oral Contraceptives Use in a Young Girl. Journal of Pediatric and Adolescent Gynecology, 26(6), e127–e129. https://doi.org/10.1016/j.jpag.2013.04.011
+
+4. Parkes, Presley, et al. (2021). Endometrial Cast Expulsion: A Rare Cause of Pelvic Pain Case Report and Review of the Literature. Journal of Adolescent Health, 68.5, 1017-1019.
+
+14. Malik, M. F., Adekola, H., Porter, W., and Poulik, J. M. (2015). Passage of Decidual Cast Following Poor Compliance with Oral Contraceptive Pill. Fetal and Pediatric Pathology, 34(2), 103–107. ttps://doi.org/10.3109/15513815.2014.970263
+
+5. Brooks, H.W., Kosmak, G.W. Decidual Casts: With Four Illustrations. The American Journal of Obstetrics and Diseases of Women and Children. July-December,1913;68:704
+
+15. Strauss, L. (2018, October 01). Fleshy Mass Passed Vaginally by a Young Woman. American Family Physician, 98(7), 449-450
+
+6. Wells, B.H. and Kosmak, G.W. (1913, October). Decidual Casts. The American Journal of Obstetrics and Diseases of Women and Children, 68(4), 704-707.
+
+16. Parkes, P. et al. (2021). Endometrial Cast Expulsion: A Rare Cause of Pelvic Pain Case Report and Review of the Literature. Journal of Adolescent Health, 68.5, 1017-1019.
+
+7. [No authors listed]. Decidual Cast from the Unimpregnated Horn of a Didelphic Uterus. Proc R Soc Med. 1914;7(Obstet Gynaecol Sect):221. PMID: 19978009; PMCID: PMC2004034.
+
+17. Topcu, H., et al. (2015). Spontaneous Membranous Dysmenorrhea in an Adolescent Girl: A Case Report and Literature Review. Journal of Pediatric and Adolescent Gynecology, 28(5), e139-e141. doi:https://doi. org/10.1016/j.jpag.2014.11.001
+
+8. O'Leary, J. A., and O'Leary, J. L. (1964). Decidual Cast as a Cause of Antepartum Hemorrhage. American journal of obstetrics and gynecology, 88, 1093–1094. https://doi.org/10.1016/s0002-9378(16)35095-5
+
+9. Shaw, D.D., and Baker, J.W. (1985). A Decidual Cast Following Therapy with Norethisterone. The Australian & New Zealand Journal of Obstetrics & Gynaecology, 25(2), 138–139.
+
+18. Nunes, R. D. (2015). Membranous Dysmenorrhea
+
+- Case Report. Obstetrics and Gynaecology Cases - Reviews, 2(3). doi:10.23937/2377-9004/1410042
+
+19. Sreenivas, S. (2021, June 8). Decidual Cast: What is it? WebMD. https://www.webmd.com/women/ decidual-cast-what-is-it#:~:text=A%20decidual%20 cast%20is%20a,creating%20a%20triangular%20 %E2%80%9Ccast.%E2%80%9D
+
+https://doi.org/10.1111/j.1479-828x.1985.tb00629.x
+
+10. Singh, V., Talib, N., and Strickland, J. (2007). Decidual Cast in a Girl Receiving Depot Medroxyprogesterone Acetate--a case report. Journal of Pediatric and Adolescent Gynecology, 20(3), 191–194. doi:https://doi.org/10.1016/j.jpag.2006.08.002
+
+20. Nagma, S., Kapoor, G. et al. (2015). To Evaluate the Effect of Perceived Stress on Menstrual Function. Journal of clinical and diagnostic research: JCDR, 9(3), QC01–QC3.
+
+https://doi.org/10.7860/JCDR/2015/6906.5611
+
+21. Palm-Fischbacher, S. and Ehlert, U. (2014) Dispositional Resilience as a Moderator of the Relationship Between Chronic Stress and Irregular Menstrual Cycle. Journal of Psychosomatic Obstetrics & Gynecology, 35:2, 42-50, DOI: 10.3109/0167482X.2014.912209
+
+22. Thorp J.A., Renz T., Northrup C., Lively C., Breggin P., Bartlett R., et al. (2022, March 01). Patient Betrayal: The Corruption of Healthcare, Informed Consent and the Physician-Patient Relationship. The Gazette of Medical Sciences, 3(1), 46-69. https://doi.org/10.46766/thegms.medethics.22021403
+
+23. Muhaidat N., Alshrouf M.A., Azzam M.I. et al. Menstrual Symptoms After COVID-19 Vaccine: A Cross-Sectional Investigation in the MENA Region. International Journal of Women’s Health. 2022. 14:395-404 https://doi.org/10.2147/IJWH.S352167
+
+24. Laganà, A. S., Veronesi, G., Ghezzi, F. et al. (2022). Evaluation of Menstrual Irregularities After CO-VID-19 Vaccination: Results of the MECOVAC Survey. Open medicine (Warsaw, Poland), 17(1), 475–484. https://doi.org/10.1515/med-2022-0452
+
+25. Thorp K.E., Thorp J.A., and Thorp E.M. (2022). COVID-19 and the Unraveling of Experimental Medicine - Part II. The Gazette of Medical Sciences, 3(1): 074-106. doi:www.doi.org/10.46766/thegms.pubheal.22022804
+
+26. Hyperlink to Patient Testimonials of Respondents in MyCycleStorySM. https://www.thegms.co/publichealth/pubheal-ra-22041401-Patient-Testimonials-MyCycleStory.pdf

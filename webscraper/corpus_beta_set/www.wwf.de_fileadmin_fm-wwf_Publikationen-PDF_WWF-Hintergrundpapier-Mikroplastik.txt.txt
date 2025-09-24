@@ -1,0 +1,1737 @@
+no_title
+
+Mikroplastik in der Umwelt
+
+Hintergrundpapier
+
+Weitere Informationen:
+
+www.facebook.com/wwfde
+
+www.youtube.com/user/WWFDeutschland/
+
+www.instagram.com/wwf_deutschland/
+
+twitter.com/WWF_Deutschland
+
+Geistertaucher-App: ghostdiver.com
+
+Herausgeber WWF Deutschland Stand November 2020 Autoren Caroline Kraas (WWF Deutschland),
+
+Dr. Bernhard Bauske (WWF Deutschland) Koordination Caroline Kraas (WWF Deutschland) Kontakt Caroline.Kraas@wwf.de Redaktion Thomas Köberich (WWF Deutschland) Layout Anita Drbohlav (www.paneemadesign.com) Produktion Maro Ballach (WWF Deutschland) Titelbild cnrn/iStock/Getty Images
+
+© 2020 WWF Deutschland, Berlin. Nachdruck, auch auszugsweise, nur mit Genehmigung des Herausgebers.
+
+INHALT
+
+Zusammenfassung 5
+
+Hintergrund: das Plastik-Problem 7
+
+Definition 8
+
+Entstehung von Mikroplastik  11
+
+Quellen und Mengen von Mikroplastik 12
+
+Nachweis von Mikroplastik in der Umwelt 14
+
+Auswirkungen von Mikroplastik auf Mensch, Tier und Umwelt 21
+
+Lösungsansätze 29
+
+Das macht der WWF 32
+
+Quellen 38
+
+Mikroplastik ist überall: im Meer, im Boden, in der Luft – und in unserem Alltag.
+
+Zusammenfassung
+
+Das Thema „Mikroplastik“ ist in den Medien stark präsent. Und so viele Be­ richte es dazu gibt, so viele unterschiedliche Meinungen zirkulieren zu diesem Thema. Das hat zum einen damit zu tun, dass die Problematik der Öffentlich­ keit noch nicht lange bekannt ist, und zum anderen damit, dass die Forschung erst am Anfang steht. Umso schwerer fällt es, den Überblick zu behalten und zu unterscheiden, was bewiesen und was Spekulation ist.
+
+Zwischen 1,8 und
+
+Fakt ist, dass sich Mikroplastik inzwischen überall in der Natur findet. Eine Schätzung der Weltnaturschutzunion (IUCN) geht davon aus, dass jährlich je nach optimistischem oder pessimistischem Szenario 1,8 bis 5 Mi0. Tonnen Mikroplastik in die Umwelt und zwischen 0,8 und 2,5 Mio. Tonnen in die Ozeane gelangen.
+
+5 Mio. Tonnen
+
+Mikroplastik gelangen jährlich
+
+1 Quellen für Mikroplastik gibt es viele, sei es der Abrieb von Reifen, der Verschleiß größerer Plastikteile wie z. B. Ver­packungen, das Waschen von synthetischen Textilien oder die Verwendung von Mikroplastik­
+
+in die Umwelt.
+
+partikeln in Kosmetika. In die Ozeane gelangen die Mikroplastikpartikel in der Regel über Flüsse, Abwässer oder städtische Abflüsse. In die Böden kann Mikroplastik z. B. über ausgetragenen Klärschlamm gelangen. In einer Viel­ zahl von Organismen wurde Mikroplastik nachgewiesen. Zu den konkreten Auswirkungen können zurzeit noch wenige gesicherte Aussagen getroffen
+
+werden. Auch welche Auswirkungen die Exposition von Mikroplastik auf den Menschen hat, ist noch unerforscht. Dieses Hintergrundpapier möchte ein wenig Licht ins Dunkel bringen und darstellen, was aus wissenschaftlicher Sicht zum aktuellen Zeitpunkt gesagt werden kann und was nicht.
+
+Trotz bzw. gerade wegen der teilweise noch unklaren Datenlage spricht sich der WWF Deutschland dafür aus, im Sinne des Vorsorgeprinzips zu handeln und jeglichen Eintrag von Plastik und Mikroplastik in die Umwelt zu stoppen.
+
+© www.naturepl.com
+
+Mikroplastik im Sand
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 5
+
+Mehr als 800 Tierarten in den Meeren sind von Plastikmüll beeinträchtigt.
+
+*
+
+Hintergrund: das Plastik-Problem
+
+2 Seit 1964 hat sich die Produktion verzwanzigfacht, und es wird damit gerechnet, dass sich die Menge produzierten Plastiks in den nächsten 20 Jahren verdoppeln wird.
+
+8,3 Mrd. Tonnen Kunststoff wurden seit 1950 hergestellt.
+
+3 Laut Plastics Europe wurden 2018 weltweit 359 Mio. Tonnen Kunststoff her­ gestellt.
+
+4 Hinzukommt Kunststoff, der meist kein Bestandteil dieser Gesamt­ statistiken ist
+
+6 oder synthetischer Kautschuk für Reifen (6,4 Mio. Tonnen im Jahr 201o)
+
+5, z. B. synthetische Fasern (73,3 Mio. Tonnen im Jahr 2018)
+
+7, sodass die Gesamtproduktion von Kunststoff bei über 400 Mio. Tonnen pro Jahr liegt.
+
+8 Der größte Anteil der globalen Plastikproduktion von 26 Prozent wird für Verpackungen verwendet
+
+9, in Europa sogar 40 Prozent.
+
+10
+
+Quelle: UNEP 2018
+
+Gesamter globaler Verpackungsmüll 2015: 141 Mio.
+
+8
+
+6
+
+%
+
+so
+
+rg
+
+t
+
+nt
+
+e
+
+ll
+
+ü
+
+M
+
+ls
+
+A
+
+Tonnen
+
+Auf Deponien entsorgt 40 %
+
+Verbrannt 14 % werterhaltend
+
+%
+
+recycelt (“closed loop”)* 2 %
+
+In die Umwelt gelangt 32 %
+
+4
+
+1
+
+t
+
+g
+
+el
+
+in
+
+m
+
+m
+
+cl
+
+u
+
+m
+
+cy
+
+wertmindernd
+
+Z
+
+sa
+
+e
+
+R
+
+recycelt** 8 %
+
+ge
+
+Verlust im Prozess
+
+4 %
+
+* Recycling in gleiche oder qualitativ ähnliche Anwendungen ** Recycling in andere, geringwertige Anwendungen
+
+11
+
+Abb. 1: Globales Aufkommen und Entsorgung von Verpackungsabfall aus Plastik.
+
+Global betrachtet werden 86 Prozent der gebrauchten Plastikverpackungen nicht wiederverwertet, 40 Prozent davon werden in Deponien abgelagert, 14 Prozent werden verbrannt und 32 Prozent verlassen das System (Stand
+
+2015) – d. h., sie gelangen unkontrolliert in die Umwelt, z. B. in die Meere.
+
+12
+
+Problematisch ist Plastik in der Umwelt deshalb, weil es sich extrem lang­
+
+sam, mitunter überhaupt nicht zersetzt. Entgegen der vielfach zitierten Zahl von 450 Jahren, die Plastik in der Umwelt verbleiben soll
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 7
+
+Bis zu 2.000 Jahre
+
+14 Einmal in die Umwelt gelangt, werden größere Plastik­teile („Makroplastik“) durch UV-Strahlung und mechanische Einwirkung immer kleiner und zu „Mikroplastik“ bis hin zu „Nanoplastik“. Diese kleinen Partikel verbreiten sich einfacher und schneller, verweilen umso länger in der Umwelt und können daher für einen längeren Zeitraum Schaden anrichten.
+
+auf bis zu 2.000 Jahre.
+
+kann es dauern, bis sich Plastik
+
+zersetzt hat.
+
+15
+
+Definition
+
+Für den Begriff „Mikroplastik“ gibt es bislang keine allgemein anerkannte Definition. Immer wieder wird der Begriff wenig differenziert verwendet. Der WWF Deutschland orientiert sich an der Definition des Umweltprogramms
+
+17, die Mikroplastik als „feste, wasserunlösliche Kunststoffpartikel, die fünf Milli­ meter und kleiner sind“ definieren. Zu Kunststoffen gehören dabei nicht nur erdölbasierte synthetische Polymere, sondern auch biobasierte Kunststoffe und chemisch veränderte natürliche Polymere (halbsynthetische Kunststoffe), wie z. B. Bio-PET oder Polymilchsäure (PLA).
+
+16 und des Umweltbundesamtes (UBA)
+
+der Vereinten Nationen (UNEP)
+
+(1) (2)
+
+(4) (3)
+
+© Fraunhofer UMSICHT
+
+Mikroplastik kann unterschiedliche Formen haben: Mikroplastikpartikel aus Kosmetika (1), Plastikpellets (2),
+
+Fragmente von Kunststoffabfällen (3), Mikrofasern aus Fleece-Kleidung (4).
+
+Exkurs: synthetische Polymere
+
+Einige Umweltverbände erweitern die Definition von Mikroplastik um Plastik in gelöster, gelartiger oder flüssiger Form (sogenannte „synthetische oder halbsynthetische (flüssige) Polymere“), wie sie z. B. in der Kosmetikindustrie oder in Wasch-, Putz- und Reinigungs­ produkten eingesetzt werden und beispielsweise als Stabilisator oder Füllmittel dienen.
+
+18 Der unterschiedliche Aggregatzustand der Polymere führt zu einer unterschiedlichen Wirkungsweise auf die Umwelt, z. B. können Partikel aufgrund ihrer Form mechanische Schäden verursachen, während gelöste Polymere ausschließlich toxikologisch wirken. Aufgrund dessen und aufgrund des fließenden Übergangs zwischen den Aggregatzuständen
+
+spricht sich der WWF dafür aus, diese Form der Polymere nicht unter den Begriff „Mikro­ plastik“ zu fassen, sondern gelöste, flüssige und gelartige (halb)synthetische Polymere gesondert, v. a. unter öko- und humantoxikologischen Gesichtspunkten zu betrachten. Unabhängig von der Definition bzw. Zuordnung müssen aus Sicht des WWF jedoch auch die Toxizität und die Wirkungen auf die Umwelt von gelösten, flüssigen synthetischen Polymeren betrachtet und bewertet sowie der Eintrag in die Umwelt vermieden werden.
+
+Anthropogene Polymere in der Umwelt
+
+Verarbeitete natür­liche Polymere,
+
+(Halb)synthetische Polymere in der Umwelt
+
+z. B. Gelatine, Stärke, Baumwolle
+
+Kunststoffabfälle in der Umwelt
+
+Quelle: Fraunhofer UMSICHT 2018
+
+Makroplastik Mikroplastik Gelöste und flüssige (halb)synthetische Polymere
+
+Umweltauswirkungen
+
+Umweltauswirkungen
+
+durch mechanische Effekte und beigefügte Chemikalien (Additive), z. B. Weichmacher, Flammschutzmittel
+
+durch öko- und human­toxikologische Effekte
+
+19
+
+Abb. 2: Anthropogene Polymere in der Umwelt und deren Untergliederung
+
+Anhand der Beschreibung der Inhaltsstoffe auf den Verpackungen, z. B. bei Kosmetik, ist für Verbraucher nicht erkennbar, ob es sich um gelöste, gelartige, flüssige synthetische Polymere oder um partikuläres Mikroplastik handelt.
+
+?
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 9
+
+Mikroplastik wird zudem in primäres und sekundäres Mikroplastik unter­ schieden: Primäres Mikroplastik bezeichnet eigens in der kleinen Größe her­ gestellte und in Produkten verwendete kleinste Mikroplastikpartikel, wie sie z. B. in Peeling in der Kosmetik oder als Schleifmittel in der Luftstrahltechnik eingesetzt werden. Sekundäres Mikroplastik entsteht durch Zerkleinerung größerer Plastikteile, z. B. Abrieb von Reifen, Austrag von Mikroplastikfasern aus synthetischer Kleidung (u. a. Polyester) beim Waschen oder Zerfall von Plastikverpackungen oder -flaschen.
+
+21 Teilweise werden auch hier unterschied­ liche Definitionen verwendet und neue Definitionsvorschläge zur Diskussion gestellt: So fasst die IUCN auch Mikroplastik, das durch Abrieb von Reifen oder Auswaschen aus synthetischen Textilien entsteht, unter primärem Mikro­ plastik zusammen und definiert lediglich in die Umwelt gelangtes Plastik wie z. B. Plastikverpackungen, das zerkleinert wird, als sekundäres Mikroplastik.
+
+Fehlende einheitliche Definitionen
+
+22 Die Fraunhofer UMSICHT-Konsortialstudie Mikroplastik unterteilt primäres Mikroplastik nochmals in Typ A (bewusst so klein hergestelltes Mikroplastik), Typ B (Abrieb aus Produkten oder Textilien) und sekundäres Mikroplastik, unter das lediglich in die Umwelt gelangtes Plastik gefasst wird, das sich vor Ort zersetzt.
+
+führen zu Missverständnissen
+
+bei der Dateninterpretation.
+
+23
+
+Aufgrund fehlender einheitlicher Definitionen und der Begriffsungenauig­
+
+keiten kommt es immer wieder zu Missverständnissen bei der Interpretation von Daten. Es ist daher wesentlich, die jeweils zugrunde liegende Definition zu beachten. Nur so können Aussagen miteinander verglichen und Daten interpretiert werden.
+
+Exkurs: Nanoplastik
+
+Partikel im Nanobereich liegen laut offizieller EU-Empfehlung zur Definition von Nano­
+
+24 Wird der Begriff „Nanoplastik“ in Abgrenzung zu Mikroplastik verwendet, so bezeichnet Mikroplastik den Bereich von 5 mm–100 nm und Nanoplastik den Bereich von 1–100 nm.
+
+materialien im Größenbereich von 1–100 Nanometern.
+
+25 Meist werden Nanoplastik­ partikel aber unter Mikroplastik (Gesamtheit von Plastikpartikeln < 5 mm) zusammenge­ fasst.
+
+26 Nanoplastik kann sowohl primär hergestellt werden und so in die Umwelt gelangen als auch auf sekundärem Wege (durch Abrieb und Degradation) entstehen.
+
+27 Zu Nano­ partikeln sowie deren Auswirkungen ist sehr wenig bekannt: Zum einen sind die Teilchen mit optischen Mikroskopen nach aktuellem Stand nicht zu erken­nen – sie sind einfach zu klein. Zum anderen können sie bisher kaum in Experimenten eingesetzt werden, da es an Referenzpartikeln
+
+i mangelt. Die Befürch­tung ist, dass Nanoplastikpartikel in der Lage sein könnten, zelluläre Barrieren zu überwinden und sich im Körper zu verteilen.
+
+28 Hinzu kommt, dass je kleiner ein Partikel ist, desto größer ist die Oberfläche im Verhältnis zum Volumen, was wiederum ein hohes Assoziationspotenzial für Umweltkontaminanten bietet.
+
+29
+
+Entstehung von Mikroplastik
+
+(Sekundäres) Mikroplastik entsteht durch die Fragmentierung größerer Plastik­ teile, sogenanntem Makroplastik, wie z. B. Kunststoff-Verpackungen oder Plastik­flaschen. Ist Kunststoff Umwelteinflüssen wie Licht, Wärme, Salz, Bakte­ rien etc. ausgesetzt, können biologische, physikalische und chemische Prozesse die Struktur des Kunststoffs angreifen, dieses spröde und für weitere Zerkleine­ rung leichter anfällig machen.
+
+30 In der Regel wird der Abbau durch abiotische Prozesse (v. a. UV-Strahlung oder Sauerstoff) eingeleitet und führt zu einer Aufspaltung der langen Kohlenstoffketten. Im weiteren Verlauf erfolgt dann
+
+Chemische Struktur von
+
+Polyethylenterephthalat
+
+(PET).
+
+31 Es ist davon auszugehen, dass so aus Makroplastik mit der Zeit zunächst Mikro- und dann Nanoplastikpartikel entstehen.
+
+der biologische Abbau.
+
+32 Diese Prozesse finden immer und überall statt, sobald Plastik in die Umwelt gelangt. Jedoch können sie aufgrund diverser Umgebungsbedingungen (an Land, im Fluss oder im Meer) unterschiedlich schnell vonstattengehen. Während die oben genannten Prozesse an der Meeresoberfläche durch z. B. verstärkte Reibung durch Wind und Wellen sowie durch Tierbisse begünstigt werden
+
+33, vollziehen sie sich im Meer selbst deutlich langsamer, da das Fehlen von UV-Strahlung (Sonnenlicht), niedrigere Temperaturen und geringere Sauerstoff­ konzentration die beschriebenen Prozesse und damit den Abbau verlangsamen.
+
+34
+
+Chemische, physikalische und biologische Prozesse in der Natur bedingen den Abbau von Plastik.
+
+Die Dauer und die Art des Abbaus sind abhängig von dem Kunststoff-/Polymertyp, den eingesetzten Zusatzstoffen (Additiven) sowie den jeweiligen Umweltbedingungen. Diese führen u. a. zur Zerkleinerung, zum Abrieb, zur Kettenspaltung der Polymer­ struktur und zur Umwandlung in Abbauprodukte.
+
+Wasser (H2O) und
+
+Mikroorganismen
+
+Sonneneinstrahlung (UV-Strahlung & Wärme)
+
+Sauerstoff
+
+Wellengang
+
+(O2)
+
+Mikroplastik (5 mm bis 0,1 μm) PET-Fragmente
+
+Nanoplastik
+
+(> 5 mm)
+
+(< 0,1 μm)
+
+bis zu 2.000 Jahre Wochen Monate Jahre Jahrhunderte Jahrzehnte
+
+Abbauprodukte, die beim Zersetzungsprozess entstehen:
+
+freigesetzte Additive, z. B. Weichmacher chem. Abbauprodukte, Kunststoffmoleküle Gase, wie z. B. O2, CO2, Methan
+
+Abb. 3: Von Makro- zu Mikroplastik: Zersetzung von Plastik am Beispiel einer Plastikflasche
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 11
+
+Quellen und Mengen von Mikroplastik
+
+Mikroplastik kann viele verschiedene Quellen haben, die sich hinsichtlich der freigesetzten Mengen stark unterscheiden. Bei den publizierten Zahlen handelt es sich daher um Schätzungen. Noch fehlen valide Daten, anhand derer man die realen Mengen von Mikroplastik in der Umwelt erfassen kann. Eine Schät­ zung der Weltnaturschutzunion (IUCN) geht davon aus, dass vermutlich zwischen 0,8 bis 2,5 Mio. Tonnen pro Jahr weltweit in die Ozeane gelangen. Bei einem mittleren Wert von 1,5 Mio. Tonnen entspricht dies etwa einer Plastik­tüte (212 Gramm) pro Person pro Woche weltweit.
+
+35 ii Hierin ist jedoch noch nicht das Mikroplastik eingerechnet, das durch den Zerfall von Plastik­ müll im Meer entsteht.
+
+36
+
+8 Mio. Tonnen Plastik gelangen
+
+Eine 2018 veröffentlichte Studie des Fraunhofer-Instituts schätzt für Deutsch­ land einen Wert von 4 Kilogramm pro Jahr pro Kopf bzw. 330.000 Tonnen pro Jahr insgesamt in Deutschland an Emissionen von Mikroplastik. Auch hier ist das Mikroplastik, das durch die Zerkleinerung größerer Plastikteile wie z. B. Plastikflaschen und Verpackungen (Makroplastik) entsteht, nicht enthalten.
+
+jährlich in die Ozeane.
+
+37
+
+38 Berücksichtigt man, dass ca. 6–10 Prozent des weltweit produzierten Kunst­
+
+39
+
+stoffs in die Ozeane gelangen, ist das eine nicht zu vernachlässigende Menge.
+
+Betrachtet man die Quellen von Mikroplastik, so hat die IUCN 2017 auf Basis öffentlich zugänglicher Haushalts- und Wirtschaftsdaten eine erste Annähe­ rung vorgenommen. Die Hauptquellen für Mikroplastik in den Meeren welt­ weit sind demnach vor allem der Verlust von Mikroplastikfasern beim Waschen synthetischer Textilien, der Abrieb von Autoreifen sowie „Stadtstaub“, unter dem z. B. der Abrieb aus Infrastruktur (Kunstrasen, Baubeschichtungen etc.) oder aus Haushalten (Schuhsohlen, Kochutensilien) zusammengefasst wird.
+
+40
+
+Einer aktuellen Studie des Fraunhofer-Instituts zufolge können inzwischen bis
+
+zu 74 Quellen von Mikroplastik in Deutschland identifiziert werden. Allerdings sind noch nicht alle Quellen quantifizierbar. Die erhobenen Werte können zudem lediglich eine erste Schätzung abgeben, zeigen aber eine andere Zusam­ mensetzung und Gewichtung der Quellen als die Schätzung der IUCN. Auch im Vergleich mit anderen internationalen Studien wird deutlich, dass sich die Werte zu den Quellen je nach Autor und Messmethode teils stark voneinander unterscheiden.
+
+41 Dies hat nicht nur mit unterschiedlichem methodischen Vor­ gehen und Datenbasis zu tun, sondern auch mit unterschiedlichem Lebensstil und Konsumverhalten in den jeweiligen Ländern.
+
+Mikroplastik in Deutschland – die zehn wichtigsten Quellen* (jährlich pro Person freigesetzte Mengen)
+
+Abrieb von Reifen (Pkw, Lkw, Fahrräder, Motorräder, Skateboards etc.)
+
+1.228,5
+
+Emissionen bei der Abfallentsorgung (Kompost, Bauschutt, Metallzerkleinerung, Kunststoffrecycling, Deponien)
+
+302,8
+
+Abrieb von Polymeren und Bitumen aus Asphalt
+
+228,0
+
+iii beim Transport
+
+74 Quellen
+
+Verluste von Pellets
+
+182,0
+
+von Mikroplastik wurden
+
+bisher in Deutschland identifiziert. 50 davon sind
+
+Verwehungen von Sport- und Spielplätzen (Kunstrasenplätze, Reitplätze, Tartanbahnen, Spielplätze)
+
+131,8
+
+quantifizierbar.
+
+Freisetzungen an Baustellen (Abbrucharbeiten, Verarbeitung von Kunststoffen auf der Baustelle, Abrieb bei Dämmungen)
+
+117,1
+
+* Mikroplastik, das durch
+
+Abrieb von Schuhsohlen
+
+den Zerfall von Plastikmüll in der Umwelt entsteht, ist nicht enthalten und müsste noch dazugerechnet werden.
+
+109,0
+
+Abrieb von Kunststoffverpackungen
+
+99,1
+
+Abrieb von Fahrbahnmarkierungen
+
+91,0
+
+Abb. 4: Top-Ten-Quellen von Mikroplastik in Deutschland
+
+Quelle: Fraunhofer UMSICHT 2018
+
+Faserabrieb bei Wäsche von synthetischen Textilien (Haushaltswäsche, Waschsalons, kommerzielle Wäschereinigung)
+
+76,8
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 13
+
+Nachweis von Mikroplastik in der Umwelt
+
+Der überwiegende Teil (98 Prozent) der Emissionen von Mikroplastikpartikeln in die Umwelt entsteht an Land.
+
+43 Ist Mikroplastik einmal unkontrolliert in der Umwelt, überwindet es leicht durch Wind, Flüsse, Meer, Regenwasser, Über­
+
+schwemmungen und Abwasserentsorgung große Distanzen und dringt so an ganz verschiedene Orte vor.
+
+44 Im Unterschied zu Makroplastik ist es technisch praktisch unmöglich, Mikroplastik aus der Umwelt zu entfernen. Hauptpfade in die Umwelt sind Straßenabfluss (z. B. Reifenabrieb, Abrieb von Straßen­ markierungen und Pelletverluste beim Transport) mit ca. 66 Prozent, gefolgt von Abwassersystemen mit 25 Prozent und Übertragung durch Wind (7 Pro­ zent). Nur rund 2 Prozent der Einträge werden maritimen Aktivitäten, wie z. B. der Schifffahrt oder der Aquakultur zugesprochen.
+
+45
+
+Besonders im maritimen Umfeld wurde Mikroplastik überall nachgewiesen: in Küstenlebensräumen, in der gesamten Wassersäule von der Wasseroberfläche, wo die meisten Proben genommen werden, bis hin zu Tiefseesedimenten und sogar im Eis – jeweils in unterschiedlichen Konzentrationen und Zusammen­ setzungen der Kunststoffarten.
+
+46
+
+Mikroplastik mit geringerer Dichte an der Wasseroberfläche
+
+Besiedelung
+
+Mikroplastik ist in der gesamten Wassersäule nachweisbar und kann daher von Lebewesen überall im Wasser aufgenommen werden.
+
+Die Besiedelung von Mikroplastik durch Mikroorganismen beeinflusst die Schwimmeigenschaften und führt zum Absinken der Partikel. Durch Abbauprozesse wiederum verlieren die Partikel an Dichte und können aufsteigen.
+
+Quelle: eigene Darstellung nach LANUV NRW 2018
+
+Absinken Aufsteigen
+
+Mikroplastik mit höherer Dichte in der Tiefsee und Tiefseesedimenten
+
+Abbau
+
+Abb. 5: Verhalten von Mikroplastik im Wasser
+
+© iStock/Getty Images
+
+Quallen inmitten von Makro- und Mikroplastik.
+
+© eigene Darstellung nach Stiftung Warentest
+
+Beim Nachweis von Mikroplastik in Tiefseesedimenten stehen polwärts gerich­ tete Meeresströmungen (sog. „thermohaline Zirkulation“) im Verdacht, Mikro­ plastik aus dem Nordatlantik nach Grönland in die Barentssee zu transportie­ ren und dort eine Art „Sackgasse“ für Mikroplastikpartikel zu bilden. Aufgrund des geringen Oberflächentransports und diverser Mechanismen, die für einen Transport nach unten verantwortlich sind, wird der Meeresboden im arkti­ schen Ozean als wichtige Senke für Kunststoffabfälle und Mikroplastik ange­ sehen.
+
+Schadstoffe
+
+48 Auch in den anderen Ozeanen sammelt sich Mikroplastik in der Tiefe, entweder aufgrund einer höheren Partikeldichte als die des Meerwassers oder weil sich Mikroplastik an natürlichen Aggregaten anheftet und in die Tiefe gelangt.
+
+Biofilm aus Viren, Bakterien, Parasiten
+
+49
+
+Anlagerung von Schad­
+
+stoffen (z. B. Pestiziden)
+
+Ebenso wird auch polares Meereis als globale Senke für kleinste Kunststoff­ partikel vermutet. Forschungsergebnisse haben gezeigt, dass Mikroplastik im arktischen Eis in deutlich höherer Konzentration (1,1 bis 4,1 Millionen Partikel pro Kubikmeter) vorhanden ist50 als z. B. im sogenannten pazifischen Müllstrudel (Great Pacific Garbage Patch) mit etwa einer Million Partikel pro Kubikmeter.51 Dieser Umstand deutet darauf hin, dass sich Mikrokunststoff­ partikel auch weit entfernt von Ballungszentren ansammeln und im Eis „ge­ speichert“ werden. Diese bleiben dann eingeschlossen und werden erst beim Schmelzen des Eises wieder freigesetzt.
+
+und Mikroorganismen
+
+(z. B. Viren, Bakterien)
+
+an Mikroplastikpartikeln.
+
+52 Durch den starken Rückgang von Eis bedingt durch den Klimawandel
+
+53 besitzt das Abschmelzen des arktischen Ei­ ses großes Potenzial für die Freisetzung erheblicher Mengen mikroplastischer Altlasten in den Ozean. Geht man davon aus, dass jährlich zwischen 16–19
+
+Billionen Kubikmeter Meereis schmelzen bedeutet das eine Freisetzung von bis zu 870 Trillionen Plastikpartikeln.54 Das arktische Meereis kann daher als temporäre Senke, Quelle und wichtiger Transportvektor von Mikroplastik aus den arktischen Gebieten in die Ozeane angesehen werden.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 15
+
+Eine Übersicht über die nachgewiesene Menge und Verbreitung von (Kunst­ stoff-)Abfällen in den Ozeanen und anderen Gewässern bietet die AWI Litter­ base. Sie führt Angaben aus einer Vielzahl wissenschaftlicher Publikationen zusammen und stellt sie visuell dar. Zu beachten ist, dass nur Punkte angezeigt werden, wo auch Proben genommen wurden und Zahlen vorliegen. Bereiche ohne Punkte bedeuten also nicht zwangsläufig, dass hier kein Mikroplastik vorhanden ist.
+
+56
+
+Plastik
+
+Andere
+
+N/A
+
+© AWI Litterbase
+
+–5
+
+10
+
+3
+
+10
+
+10
+
+10
+
+Abb. 6: Verbreitung von Müllarten in untersuchten Lebensräumen – gefiltert nach Mikro- und Nano­
+
+partikeln (5 Millimeter und kleiner) pro Quadratmeter, basierend auf mehr als 1.000 Studien zwischen 1960 und 2020
+
+57
+
+Der Hauptweg, über den Mikroplastik in die Ozeane gelangt, sind Flüsse. Eine Pilotstudie in fünf Bundesländern Deutschlands (Bayern, Baden-Württemberg, Hessen, Nordrhein-Westfalen, Rheinland-Pfalz) zeichnet ein erstes Bild der Situation von Mikroplastikpartikeln in südwestdeutschen Gewässern. Zwar gelten Flüsse hauptsächlich als Eintragspfad von Mikroplastik in die Meere (Schätzungen zufolge werden etwa 80 Prozent der Plastikpartikel im Meer über Flüsse eingetragen
+
+58) und eher seltener als Senke. Allerdings konnte diese Studie auch die Belastung an der Gewässeroberfläche in Flüssen selbst nach­ weisen. So wurden an allen Probestellen der Flüsse Mikroplastikpartikel gefunden. Innerhalb eines Gewässers bewegten sich die Konzentrationen jeweils in einer vergleichbaren Größenordnung. Aufgrund unterschiedlicher Verfahren der Datenerhebung, die im internationalen Vergleich eingesetzt werden, sind die Ergebnisse der Studie nur bedingt mit anderen Ergebnissen vergleichbar. Dennoch lassen sich ähnliche Muster erkennen.
+
+© GeoBasis-DE/BKE 2017
+
+Abb. 7: Vorkommen und Größenverteilung von Plastikpartikeln in süd- und westdeutschen
+
+3].
+
+60 iv
+
+Binnen­gewässern [Partikel/m
+
+iv Zur besseren Übersicht sind die Rheinmessstellen auf der linken Seite, die Messstellen in den Zuflüssen auf der rechten Seite
+
+dargestellt, unabhängig davon, auf welcher Rheinseite der Zufluss verläuft.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 17
+
+Während die meisten Studien zum Thema Mikroplastik die Situation im Meer
+
+betrachten und die Forschungen noch am Anfang stehen, ist relativ wenig über die Quellen, Wege und Akkumulation von Mikroplastik an Land oder in ande­ ren Umweltkompartimenten bekannt.
+
+61
+
+An Land sind Böden wahrscheinlich die wichtigste Senke von Mikroplastik.
+
+Es wird vermutet, dass als Dünger auf landwirtschaftlichen Flächen ausge­ tragener Klärschlamm die Böden stark mit Mikroplastik belastet, da etwa 80–90 Prozent der darin enthaltenen Partikel wie z. B. synthetische Textil­ fasern im Klärschlamm verbleiben können.
+
+62 Eventuell ist die Umweltver­ schmutzung an Land sogar eine größere als die in den Weltmeeren – je nach Umgebung wird sie auf das 4- bis 23-Fache geschätzt.
+
+63 Auch unabhängig von der Anwendung von Klärschlamm kann Kompost oder der Einsatz von Plastik­ folien in der Landwirtschaft eine Quelle für Mikroplastik im Boden sein.
+
+64
+
+Bei einer Untersuchung von Düngemitteln stellten Wissenschaftler in allen Proben, die auf Bioabfällen basierten, Kunststoffpartikel fest. Die jeweiligen Mengen unterschieden sich stark je nach Vorbehandlung und Herkunft des Abfalls (Haushalts- oder Handelsabfall). Diese Ergebnisse zeigen, dass je
+
+Falsch entsorgter
+
+nach Vorbehandlung organische Düngemittel aus Bioabfällen, die nicht aus Haushaltssammlungen stammen und wie sie weltweit in Landwirtschaft und Gartenbau eingesetzt werden, eine vernachlässigte Quelle für Mikrokunst­ stoffe in der Umwelt sind.
+
+Bioabfall kann Mikroplastik in die
+
+65 Bioabfall von Haushalten soll separat von z. B. Wertstoffen wie Kunststoffen gesammelt werden. Die Praxis zeigt jedoch, dass
+
+Umwelt bringen.
+
+z. B. über Verpackungen, die mit in den Abfall gelangen (wenn Haushalte z. B. nicht sauber trennen oder im Handel unverkauftes Obst und Gemüse samt der Verpackung weggeworfen wird), auch Kunststoffe mit in die Bioabfallaufberei­
+
+tungsanlage geraten können und dort teils ohne Vorsortierung mit zerkleinert werden. Diese Annahme wird durch die Ergebnisse gestützt, dass es sich bei den gefundenen Partikeln hauptsächlich um Plastik handelt, das in Verpa­ ckungen oder zum Einwickeln von Ware eingesetzt wird. Pro Kilogramm
+
+Trockengewicht wurden zwischen 14 und 895 Plastikpartikel gefunden, die größer als 1 Millimeter waren. Auch wenn in der Studie selbst darauf hinge­ wiesen wird, dass ihre Ergebnisse nicht repräsentativ seien, können, je nach­ dem von welchem Wert ausgegangen wird, zwischen 35 Mrd. und 2,2 Bio. Partikel auf diesem Weg in die Böden gelangen.
+
+66
+
+Auch in unbesiedelten Gebieten, im Schweizer Hochgebirge etwa, wurde
+
+inzwischen Mikroplastik nachgewiesen. Da hier v. a. Polyethylenpartikel (wie z. B. aus Verpackungen) gefunden wurden, gehen die Wissenschaftler davon aus, dass sie vom Wind ins Hochgebirge getragen wurden.
+
+67
+
+Überall dort, wo nach Mikroplastik gesucht wurde, konnte auch Mikroplastik nachgewiesen werden. Aus diesem Grund kann angenommen werden, dass Mikroplastik überall in der Umwelt – also auch an weit entlegenen und bisher nicht erprobten Orten – vorhanden ist.
+
+Ablagerungen aus der Atmosphäre
+
+Erosion und Verwehungen durch Wind
+
+BERGE
+
+Mechanische Fragmentierung und Zersetzung zu Mikround Nanoplastikpartikeln
+
+In Städten gibt es die unterschiedlichsten Quellen von Mikroplastik.
+
+WALD
+
+Eintrag in Boden und Einsickern in Grundwasser
+
+Verluste bei der Müllabfuhr
+
+STADT
+
+Abfluss aus Städten
+
+Abrieb von Autoreifen und der Fahrbahn
+
+Transport ins Meer
+
+Abwasser aus Kläranlagen
+
+Verwehungen auf Sport- und Spielplätzen
+
+Ablagerung auf Überschwemmungsflächen
+
+Ausbringung von Klärschlamm und Kompost auf die Äcker
+
+Pelletverluste
+
+WIESE
+
+LANDWIRTSCHAFT
+
+Littering Wegwerfen oder Liegenlassen von Müll in der Umwelt
+
+Abrieb aus in der Landwirtschaft eingesetzten Mulchfolien
+
+Fischereigeräte Abrieb von Netzen oder Farben und Lacken von Booten und Schiffen
+
+Etwa 800 marine Arten sind von Plastik betroffen.
+
+© Anita Drbohlav/WWF
+
+AQUAKULTUR
+
+69
+
+Abb. 8: Prozesse, Quellen und Senken von Mikroplastikpartikeln
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 19
+
+Ist Mikroplastik einmal in der Umwelt, kann es kaum wieder entfernt werden.
+
+Auswirkungen von Mikroplastik auf Mensch, Tier und Umwelt
+
+In dem Maße, in dem Mikroplastik die Umwelt belastet, sind ihm Tiere, Pflanzen und Menschen ausgesetzt. Welche Auswirkungen das auf Menschen, andere Organismen und Ökosysteme hat, ist noch weitgehend unbekannt. Hier besteht erheblicher Forschungsbedarf.
+
+Folgendes kann zum aktuellen Zeitpunkt gesagt werden: Mikroplastik wurde in vielen Organismengruppen, wie z. B. Säugetieren, Weichtieren, Insekten, Krebstieren, Vögeln etc. nachgewiesen
+
+71 Selbst in neu entdeckten Spezies, die in entlegenen Orten wie z. B. im mehr als 6.000 m tiefen Marianengraben leben, wurde bereits Mikroplastik nach­ gewiesen.
+
+70, vor allem im Magen-Darm-Trakt.
+
+© Dr. Alan Jamieson
+
+72 Aufgrund der geringen Größe und Verfügbarkeit nehmen Tiere Mikroplastik z. B. über die Nahrung auf.
+
+73 Während einige Organismen Mikro­ plastikpartikel ohne einen offensichtlichen Effekt ausscheiden, scheinen die dem Mikroplastik beigefügten Stoffe, die für die Stabilität und Langlebigkeit des Plastiks sorgen (Additive), bei anderen Organismen ins Blut oder in Organe sowie ins Fett- und Muskelgewebe übergehen zu können.
+
+CT-Scan des
+
+Eurythenes plasticus.
+
+74,75 Welche Auswirkungen Mikroplastik sowie Additive auf Organismen haben können,
+
+zeigen erste Studien, ohne dass hier allgemeingültige Aussagen getroffen werden können. Als beispielsweise im Laborversuch Flohkrebse ständig Mikro­plastikpartikeln ausgesetzt wurden, litten darunter ihr Wachstum und ihre Fortpflanzungsrate.
+
+76 Bei Seeigeln konstatierte man eine verminderte Em­bryonalentwicklung
+
+77 und in Kleinstlebewesen des Zooplanktons wurde festgestellt, dass die Tiere weniger Nahrung in Form von Algen aufnahmen, was Energiezufuhr und Wachstum beeinträchtigte bzw. die Sterblichkeit erhöhte.
+
+78 Eine Studie ergab, dass die Aufnahme von Polyethylenpartikeln das Wachstum von Regenwürmern verlangsamt und ebenfalls eine höhere Sterblichkeit zur Folge hat.
+
+79 Eine andere Studie, die mit einer geringeren
+
+80
+
+Mikroplastik­konzentration gearbeitet hat, zeigte hingegen kaum Effekte.
+
+Eurythenes plasticus:
+
+Eine neue Tiefsee-Spezies,
+
+benannt nach dem Plastik,
+
+das sie kontaminiert.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 21
+
+© Paulo Oliveira/Alamy Stock Foto
+
+Das Küken des Laysan-Albatros (Diomedea immutabilis) verhungerte vermutlich mit vollem Magen,
+
+weil seine Eltern Plastik mit Nahrung verwechselten.
+
+Darüber hinaus sind auch artenspezifische Auswirkungen zu beobachten, wie z. B. die Verringerung der Photosynthese-Leistung von Bakterien, die wesent­ lich zur globalen Sauerstoffproduktion beitragen
+
+81, oder Muscheln, bei denen sich Mikroplastik auf den Protein-Stoffwechsel auszuwirken scheint, sodass sie weniger Byssusfäden
+
+v ausbilden und daher nicht mehr so fest am Untergrund haften und so schneller verdriftet werden können.
+
+82
+
+Grundsätzlich gehen Wissenschaftler davon aus, dass Mikroplastikpartikel die
+
+Organe entweder auf mechanische Weise (durch innere Verletzungen) oder in­ direkt schädigen, z. B. indem die den Partikeln beigefügten Additive Reizungen im Körper hervorrufen.
+
+Jede zweite
+
+83 Studien haben gezeigt, dass einige Additive hormon­ ähnlich wirken und Fortpflanzung, Wachstum und Geschlechtsentwicklung der Tiere beeinflussen können.
+
+Meeresschildkröte
+
+84 Additive wie Weichmacher, Flammschutzmittel etc. sind in der Regel nicht chemisch an die Kunststoffe gebunden und können sich daher leicht herauslösen.
+
+hat bereits Plastik zu sich
+
+85 Unter den möglichen Auswirkungen wird zu­ dem diskutiert, ob Plastik über die beigefügten Stoffe hinaus evtl. auch schäd­ liche Substanzen, Viren oder Bakterien an sich bindet und Tiere diese Stoffe bei der Aufnahme von Mikroplastik zusätzlich aufnehmen.
+
+genommen.
+
+87
+
+86
+
+Eine direkte Aufnahme von Pflanzen bzw. die Übertragung von Mikroplastik auf essbare Pflanzenteile wurde bislang nicht festgestellt und ist unwahr­ scheinlich. Jedoch könnte Mikroplastik die Fruchtbarkeit und ökologische Funktionsfähigkeit des Bodens reduzieren und somit Effekte auf die globale
+
+Nahrungsmittelproduktion haben. Zudem können sich Mikroplastikpartikel z. B. an der Oberfläche von Salaten oder Wurzelgemüse anheften und auf diese Weise in die Nahrungskette gelangen.
+
+88
+
+Neben den Auswirkungen von Mikroplastik auf einzelne Organismen kann davon ausgegangen werden, dass Mikroplastik auch Auswirkungen auf ganze Populationen, Ökosysteme und letztlich die Biodiversität haben wird. Mög­ lichkeiten, wie Mikroplastik auch systemisch Einfluss nehmen kann, gibt es viele. An Hinweisen darauf fehlt es nicht. So kann sich bereits nachgewiesenes verändertes (Fress- oder Reproduktions-) Verhalten von Individuen auf den ganzen Bestand einer Art auswirken. Oder Mikroplastikpartikel fungieren als Lebensraum und Transportmittel für Mikroorganismen und bringen auf diese Weise neue invasive (u. a. giftige oder schädigende) Arten in andere Ökosys­
+
+Mikroplastik wirkt
+
+sich nicht nur auf
+
+einzelne Organis­ men aus, sondern
+
+89,90 Eine andere Möglichkeit könnte sein, dass die dem Kunststoff beigefügten Zusatzstoffe oder angehef­teten Chemikalien (z. B. Schwermetalle oder Antibiotika im Boden) die Fruchtbar­ keit des Bodens senken und somit direkt Auswirkungen auf andere Popula­ tionen haben.
+
+teme ein und beeinflussen diese vor Ort.
+
+kann ganze Ökosysteme beeinträchtigen.
+
+91
+
+Anfang 2020 haben Wissenschaftler zum ersten Mal die Auswirkungen von
+
+Nano- und Mikroplastikpartikeln in einem natürlichen Umfeld mit hoher natür­licher ökologischer Variabilität über einen längeren Zeitraum (bis zu 15 Monate) nachgewiesen. Dabei konnten Veränderungen der Anzahl an Orga­
+
+nismen und Beeinträchtigung der Biodiversität festgestellt werden, sodass die
+
+© Global Warming Images/WWF
+
+Wie auf vielen kleinen Inseln ist die Müllentsorgung ein Problem, hier auf Funafut Atoll, Tuvalu.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 23
+
+Autoren der Studie zu der Erkenntnis kamen, dass die beobachteten Auswir­
+
+kungen von Nano- und Mikroplastik auf die Gemeinschaft die Funktionen des Ökosystems beeinträchtigen können. Diese Effekte wurden jedoch bei erhöh­ ten Konzentra­tionen festgestellt, während umweltrelevante Konzentrationen keine Gemeinschaftseffekte verursachten. Da jedoch ein Anstieg der Konzen­ tration von Nano- und Mikroplastik in der Umwelt zu erwarten ist, kann dies zukünftig relevant werden.
+
+92
+
+Aktuell mangelt es noch an wissenschaftlichen Erkenntnissen, um dieses
+
+Problem quantifizieren und begreifen zu können.
+
+Beim Menschen kann Mikroplastik in erster Linie über zwei Wege in den Körper gelangen: über die Nahrung (u. a. dem Konsum von Meeresfrüchten, bei denen der Magen mit verzehrt wird; Staub auf Nahrungsmitteln oder Trinkwasser) und über die Atmung (Mikroplastikpartikel in der Luft, Staub), sodass hier – auch wenn noch keine Forschungsergebnisse vorliegen – eine Wirkung auf die Gesundheit nicht ausgeschlossen ist.
+
+93 Studien haben Mikro­ plastik in Nahrungsmitteln wie Honig, Meersalz, Bier und auch Mineralwasser und damit den Eingang in unsere Nahrungskette nachgewiesen.
+
+94 Ob die Mikroplastikpartikel bereits im Rohstoff wie z. B. Honig selbst vorhanden waren oder erst durch die Verarbeitung des Produkts hineingelangt sind, lässt sich nicht sagen. Zudem können Menschen auch durch Zahnpflege mit Mikroplastik in Kontakt kommen. Zwar sind die in Deutschland verkauften
+
+© iStock/Getty Images
+
+Auch in Mineralwasser aus Plastikflaschen können sich beim Abfüllprozess oder bei der Nutzung
+
+kleinste Mikroplastikpartikel lösen.
+
+© Wolf Wichmann
+
+Aus der Ostsee: Miesmuschel verwachsen mit Mikroplastikfasern.
+
+Zahnpasten mittlerweile frei von Mikroplastikpartikeln. Das gilt jedoch nicht für alle Produkte der erweiterten Mundhygiene, z. B. für Zahnfleischpflege.
+
+95 Ein weiterer Berührungspunkt mit Nano- und Mikroplastik entsteht beim Öffnen von Kunststoffverpackungen, wobei kleine Partikel freigesetzt werden und z. B. in die Nahrung oder das Wasser gelangen können. Die Menge ist abhängig von der Art der Öffnung und des zugrunde liegenden Materials.
+
+96
+
+Laut einer Studie in den USA nehmen US-Bürger je nach Alter und Ge­
+
+schlecht durchschnittlich zwischen 39.000 und 52.000 Mikroplastikpartikel
+
+über Nahrung und Getränke auf. Die eingeatmete Menge soll in etwa ähnlich hoch sein.
+
+97 Der University of Newcastle (Australien) zufolge können Bürger in einem globalen Durchschnitt bis zu 5 Gramm Mikroplastik pro Woche über Wasser, Nahrung und Atemluft aufnehmen. Dies ist jedoch ein grober globaler, durchschnittlicher Schätzwert, basierend auf Studien mit unter­ schiedlicher methodischer Vorgehensweise und ohne Einbeziehung regionaler Unterschiede wie individuelle Ernährungsgewohnheiten und Lebensumstän­ de.
+
+98 Eine Studie versucht diese Zahlen in einen größeren Kontext zu setzen, indem sie die Aufnahme von Mikroplastik durch den Verzehr von Muscheln sowie die Aufnahme von Haushaltsstaub während einer Mahlzeit bewertet. Der Vergleich zeigt, dass beim Verzehr von Miesmuscheln etwa 123 bis zu 4.620 Mikro­plastikpartikel pro Kopf pro Jahr und bei der Aufnahme im
+
+Bis zu 5 Gramm Mikroplastik pro
+
+Woche nehmen
+
+Menschen im globalen Durch­
+
+Rahmen einer gewöhnlichen Mahlzeit 13.731 bis 68.415 Partikel pro Kopf und Jahr aufgenommen werden. Die Hausstaubbelastung scheint demnach eine größere Belastung des Menschen durch Mikroplastik darzustellen als der Verzehr von Muscheln.
+
+schnitt auf.
+
+99
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 25
+
+Trotz der wissenschaftlichen Unsicherheiten geht das Bundesamt für Risiko­ bewertung (BfR) nach derzeitigem Forschungsstand davon aus, dass von Mikroplastik in Lebensmitteln wahrschein­lich keine gesundheitlichen Ri­ siken für den Menschen ausgehen (Stand 2019).
+
+100 Ähnlich sieht das die Weltgesund­heitsorganisation (WHO) in Bezug auf Mikroplastik im Trinkwas­
+
+101 Beide Organisationen fordern jedoch tiefer gehende Forschung und verlässlichere Daten.
+
+ser und erkennt derzeit kein gesundheitliches Risiko.
+
+102
+
+Ein völlig neues mögliches Risiko stellt Nanoplastik dar, das in Verdacht steht, durch seine noch geringere Größe als Mikroplastik andere Effekte zu erzeu­ gen und z. B. zelluläre Barrieren leichter überwinden zu können. Noch gibt es wenig Forschung dazu, wie sich Nanoplastik auf Mensch, Tier und Umwelt auswirkt. Erste Laborstudien zeigen vereinzelt Effekte bei Organismen wie z. B. Genotoxizität
+
+Über Nanoplastik
+
+ist noch nicht bekannt, wie es sich
+
+vi, oxidativer Stress oder verändertes Fressverhalten. Zudem wurde für Nanokunststoffe die Aufnahme persistenter organischer Schadstoffe (POP) sowie das Austreten von Chemikalien nachgewiesen, was mögliche bio­ logische und toxikologische Auswirkungen in der Umwelt verdeutlicht.
+
+auf Mensch und Umwelt auswirkt.
+
+103 2017 wurde in einer Studie zum ersten Mal bewiesen, dass Kunststoff-Nanopartikel bei Fischen die Blut-Hirn-Schranke überwinden können.
+
+104 Bei menschlichen Zellen scheinen Nanoplastikpartikel im menschlichen Körper Gewebebarrie­ ren überwinden und Auswirkungen auf das Immunsystem haben zu können. Jedoch ist anzumerken, dass die erwähnten Studien mit deutlich erhöhten Konzentrationen oder anderen Partikeln als in der Umwelt vorhanden durch­ geführt wurden. Dieser Umstand sowie der allgemeine Mangel an Wissen über Nanokunststoffe verdeutlicht, dass daraus resultierende Risiken für Mensch und Umwelt noch keineswegs klar sind.
+
+105
+
+PLASTIK-MÜLL IM MEER
+
+WELTWEITER WELTWEITER
+
+NOTSTAND NOTSTAND WELTWEITER
+
+NOTSTAND
+
+80% fallen an LAND an
+
+heute 2025 2050
+
+20% fallen auf dem MEER an
+
+Mikroplastik
+
+Makroplastik
+
+auf über150 Mio. Tonnen PLASTIK PLASTIK FISCH
+
+1 Tonne PLASTIK
+
+3 Tonnen FISCH
+
+überwiegt
+
+Abb. 9: Plastikmüll im Meer
+
+Grundsätzlich gilt es zu beachten, dass zwar zahlreiche Studien den Nach­ weis von Mikroplastik in Organismen belegen und auch Vermutungen zu den Auswirkungen angestellt werden, dass diese jedoch keine allgemeingültigen Aussagen über physikalische und chemische Auswirkungen von Mikroplastik
+
+auf Lebewesen erlauben. Dies liegt u. a. daran, dass die Untersuchungen in Laboren und nicht unter realen Bedingungen durchgeführt wurden und teil­ weise zu hohe, für die Umwelt nicht repräsentative Partikelkonzentrationen verwendet haben. Zudem fehlt es noch an einheitlichen, genormten Test- und Bewertungsverfahren und somit am Kontext, in dem die Werte beurteilt wer­ den können.
+
+106
+
+Es besteht demnach großer Forschungsbedarf a) zu standardisierten und validierten Test- und Analysemethoden, b) mit realistischen Konzentrationen von Nano- und Mikroplastik, wie sie in der Natur vorkommen, c) zu langfris­ tigen Auswirkungen, d) an mehr und verschiedenen Organismenarten, d) mit umweltrelevanten Kunststoffarten, e) zu chemischen Gefahren bei der Frei­ setzung von Additiven sowie nicht zuletzt f) zu jeglichen Effekten und Auswir­ kungen den Menschen betreffend.
+
+107 Dies ist vor allem im Kontext des prog­ nostizierten Anstiegs der Kunststoffproduktion und den damit einhergehend zu erwartenden erhöhten Konzentration von Mikroplastik in der Umwelt von großer Bedeutung.
+
+108
+
+87 % DER MENSCHEN IN EUROPA SIND BESORGT ÜBER DIE UMWELTFOLGEN VON PLASTIK. (Eurobarometer, November 2017)
+
+© Brent Stirton/Getty Images/WWF-UK
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 27
+
+Makroplastik in der Umwelt verhindern, bedeutet Mikroplastik verhindern.
+
+Lösungsansätze
+
+Der Begriff „Kunststoff“ deutet bereits an, dass es sich um einen vom Men­
+
+schen künstlich hergestellten (und nicht natürlichen) Stoff handelt. Er gehört demzufolge nicht in die Umwelt, zumal Schäden für Tiere und auch Menschen zu erwarten sind. Lösungen zur Abwendung negativer Auswirkungen müssen daher direkt an der Quelle ansetzen, also dort, wo verhindert werden kann, dass (Makro- und Mikro-)Plastik in die Umwelt gelangt. Da es sich größten­ teils um Mikroplastik handelt, das durch Zerkleinerung größerer Plastikteile entsteht, besteht eine Korrelation zwischen Makro- und Mikroplastik. Es muss daher beides gemeinsam betrachtet werden: Was den Eintrag von Plastik in die Umwelt stoppt, reduziert zugleich auch den Eintrag von Mikroplastik. Gleich­ wohl darf es an Überlegungen nicht fehlen, wie sich der Eintrag primären Mikroplastiks vermeiden lässt. Nachfolgende Ansätze versprechen Lösungen:
+
+Strategie 1: Verminderung des Eintrags sekundären Mikroplastiks in die Umwelt durch Verhinderung des Eintrags von (Makro-)Plastik in die Umwelt durch …
+
+1. .… Verzicht unnötiger Kunstoffprodukte zum einmaligen Gebrauch und
+
+überflüssiger Kunststoffverpackungen.
+
+MEHRWEG
+
+2. … weltweite gesetzliche Regelungen und Verbote der Entsorgung von
+
+verursacht WENIGER MÜLL
+
+Kunststoffen in der Umwelt, verbunden mit Kontrollmechanismen, die die Umsetzung überwachen.
+
+3. … Investitionen in ein wirkungsvolles integriertes Abfallmanagement,
+
+v. a. in Ländern, von denen besonders viel Müll ins Meer gelangt (meist Entwicklungs- und Schwellenländer).
+
+4. … Einführung strenger gesetzlicher Grundlagen, um Systeme der Erwei­
+
+terten Produzentenverantwortung (EPR) zu etablieren bzw. zu verbessern. Mit einer EPR wird geregelt, dass Hersteller und Inverkehrbringer von Produkten und Verpackungen für die Entsorgung und das Recycling verantwortlich sind, also z. B. die Kosten für Sammlung, Sortierung und Verwertung ihrer Produkte bzw. Verpackungen übernehmen.
+
+REDUCE
+
+REUSE RECYCLE
+
+5. …. verbesserte Recyclingfähigkeit von Verpackungen und Vermeidung
+
+des Einsatzes von Kunststoffen für die einmalige Nutzung (wenn Alter­ nativen für eine mehrfache Nutzung vorhanden sind).
+
+6. … optimierte kommunale Reinigung öffentlicher Räume, z. B. Parks und
+
+Infrastrukturflächen.
+
+7. … Sicherstellung ordnungsgemäßer Entsorgung von Schiffsmüll an Land,
+
+z. B. durch eine Gebührenordnung an Häfen, die Anreize zur ordnungs­ gerechten Entsorgung des Schiffsmülls an Land gibt.
+
+8. … verbessere Sortieranlagen, die Bioabfälle von evtl. Plastikverpackungen
+
+trennen, sowie vermehrte Öffentlichkeitsarbeit.
+
+9. … Maßnahmen, mit denen die Entsorgung von Kunststoff(verpackungen)
+
+über die Biotonne vermieden wird.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 29
+
+Besseres Produktdesign kann Mikroplastik in der Umwelt vermindern.
+
+Strategie 2: Verminderung des Eintrags sekundären Mikroplastiks in die Umwelt durch veränderte
+
+Materialien oder Materialeigenschaften von Produkten durch …
+
+1. … veränderte Produktionsweisen, die die Produkte abriebfester machen und
+
+z. B. den Abrieb bei Reifen oder das Herauslösen von Fasern bei Textilien verringern.
+
+2. … Prüfung des Einsatzes biologisch abbaubarer Kunststoffe für Produkt­
+
+segmente, bei denen ein Eintrag in die Umwelt nicht ausgeschlossen werden kann (z. B. Reifen oder Materialien, die im Außenbereich eingesetzt werden, bspw. im Umweltschutz oder der Landwirtschaft, wie z. B. Baum­ schutz oder Agrarfolien). Hier muss jeweils sichergestellt werden, dass sich die Kunststoffe unter unterschiedlichen Bedingungen überall in der Umwelt und in einem vertretbaren Zeitraum abbauen.
+
+3. … Einsatz der vierten oder fünften Reinigungsstufe in Kläranlagen, um
+
+das Mikroplastik, das ins Abwassersystem eingeleitet wird, herau­s­zufiltern (z. B. Reifenabrieb oder Fasern von Textilien).
+
+Strategie 3: Verminderung des Eintrags primären Mikroplastiks in die Umwelt durch …
+
+1. … Verbot der Beimengung von Mikroplastikpartikeln in relevanten
+
+Verbrauchsgütern (z. B. Kosmetika, Wasch-, Putz- und Reinigungsmittel, Farben und Lacke).
+
+2. Sicherstellung der sachgerechten Entsorgung von Pellets während der
+
+gesamten Herstellungskette und des Transports.
+
+3. … Einsatz alternativer, nachhaltigerer und ökologisch unbedenklicher
+
+Materialien anstelle von Mikroplastikpartikeln z. B. in der Luftstrahl­technik.
+
+4. … Einhaltung des Vorsorgeprinzips: Nur geprüfte und für unbedenklich
+
+befundene Stoffe werden in der Produktherstellung eingesetzt.
+
+5. … Anpassung der Abwassergesetzgebung, d. h. Festlegung von
+
+Grenz­werten für die Abwasserbelastung durch Kunststoffpartikel.
+
+6. … Prüfung von Alternativen zur teilweise praktizierten Ausbringung
+
+von Klärschlamm.
+
+Strategie 4: Verbesserung der wissenschaftlichen Datenlage und innovative
+
+Lösungsfindung durch …
+
+1. Intensivierung und Diversifizierung der Forschung.
+
+2. Vereinheitlichung der Definitionen und Standardisierung von
+
+Probennahme, Test- und Bewertungsverfahren.
+
+3. interdisziplinäre Zusammenarbeit.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 31
+
+Das macht der WWF
+
+Der WWF möchte die Ursachen des Eintrags von Mikroplastik in die Umwelt
+
+sowie dessen leicht vermeidbaren Einsatz in der Industrie bekämpfen. Da das Thema untrennbar mit dem Eintrag von (Makro-)Plastik in die Umwelt ver­ bunden ist, betrachtet der WWF das Thema ganzheitlich.
+
+Er setzt sich daher auf internationaler Ebene dafür ein, dass die Rahmen­bedingungen für Abfallsammlung und Recycling in jenen Ländern verbessert werden, die einen erheblichen Einfluss auf den Eintrag von (Mikro-)Plastik in die Umwelt haben. Dabei stehen folgende Maßnahmen im Vordergrund:
+
+Der WWF setzt sich auf politischer Ebene für eine verbindliche internationale Vereinbarung ein, die den Eintrag von Plastikmüll in die Meere stoppt.
+
+Der WWF unterstützt die Einführung von gesetzlichen Grundlagen zur Eta­ blierung einer „Erweiterten Produzentenverantwortung“ auf nationaler Ebene für Unternehmen, die Produkte und Verpackungen herstellen bzw. diese in Verkehr bringen. Da die Abfallsammelsysteme in den meisten Ländern unter­ finanziert sind, muss sich die Wirtschaft entsprechend an den Entsorgungs­ kosten beteiligen.
+
+© Melanie Gömmel/WWF
+
+Der WWF stellt Müllsammelbehälter zur Verfügung, so dass der Müll nicht (wieder) in der Umwelt landet.
+
+Gemeinsam mit staatlichen Institutionen und
+
+der lokalen Bevölkerung organisiert der WWF
+
+in Vietnam Müllsammelaktionen.
+
+© Florian Huber
+
+Gemeinsam mit Fischern birgt der WWF verlorene Netze aus der Ostsee und verhindert
+
+so den weiteren Zerfall zu Mikroplastik.
+
+Ebenso setzt sich der WWF dafür ein, dass auf Länderebene gesetzliche Rahmen­werke geschaffen werden, die die Entsorgung von (Plastik-)Abfällen besser regeln und Bedingungen für die Umsetzung einer Erweiterten Produzenten­ verantwortung sowie Voraussetzungen für eine Kreislaufwirtschaft schaffen.
+
+Der WWF unterstützt diese Aktivitäten durch Ansprache politischer Entschei­
+
+dungsträger, Öffentlichkeitsarbeit und Diskussion mit Vertretern von Fach­ verbänden.
+
+Der WWF ist mit eigenen Niederlassungen und Projektbüros in jenen Ländern vertreten, von denen aus der meiste Plastikmüll in die Meere eingetragen wird. Deshalb setzt er auf lokaler Ebene (z. B. in Vietnam, Thailand oder den Philip­ pinen) in Modellprojekten Maßnahmen gegen die Vermüllung der Meere um.
+
+In Deutschland werden durch das WWF-Geisternetzeprojekt in der Ostsee ver­ loren gegangene Fischernetze wieder eingesammelt. Bisher konnten an den deutschen Küsten mehr als neun Tonnen Netze geborgen werden. Die Suche mit einem Sonargerät (Schallwellen) hat sich als schonend und effizient erwie­ sen. Gleichzeitig hat der WWF untersucht, wie Geisternetze fachgerecht entsorgt werden können. Durch Verunreinigungen sind sie für ein Recycling ungeeignet. Die entwickelten Methoden werden auch in der Zusammenarbeit mit Bundesund Landesämtern aufgegriffen, um verlorene Fischernetze regelmäßig zu ent­ fernen und ihre Zersetzung zu Mikroplastik zu verhindern.
+
+Gegen den Eintrag von Mikroplastik durch synthetische Textilien setzt sich der WWF Deutschland im Rahmen des Verbundprojektes des Bundesministeriums für Bildung und Forschung „TextileMission“ ein. Gemeinsam mit dem Bundes­ verband der deutschen Sportartikelindustrie, zwei Hochschulen und einem Sportartikelhersteller verfolgt das Projekt das Ziel, den Eintrag von Mikro­ plastik zu senken, der durch die Wäsche synthetischer Sport- und Outdoor-Bekleidung in die Umwelt gelangt. Durch die Entwicklung nachhaltiger Tex­ tilien und die Optimierung der Technologie von Kläranlagen leistet das Projekt einen wichtigen Beitrag zum Meeresschutz. Mehr Informationen unter: textilemission.bsi-sport.de
+
+Ein wesentlicher Bestandteil der Arbeit des WWF ist nicht zuletzt die Information und Aufklärung zum Thema Plastikmüll und Mikroplastik. So gibt der WWF regelmäßig Publikationen zum Thema heraus.
+
+» Positionspapier „Mikroplastik“
+
+https://www.wwf.de/themen-projekte/meere-kuesten/plastik/mikroplastik/
+
+» Faktenblatt „Plastikmüll in den Weltmeeren“
+
+https://www.wwf.de/themen-projekte/meere-kuesten/plastik/ unsere-ozeane-versinken-im-plastikmuell/
+
+» Report „Das Mittelmeer – Plastik-Müllkippe Europas?“
+
+https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF-Mittelmeer-Report-Wege-aus-der-Plastikfalle.pdf
+
+» Information „Plastikmüll im Hotelsektor“
+
+https://www.wwf.de/fileadmin/user_upload/PDF/WWF-Information_Plastikmuell_im_Hotelsektor.pdf
+
+» Studie „Maßnahmen zur Vermeidung von Einwegplastik
+
+und Verpackung im Hotel“ (deutsch) https://www.wwf.de/themen-projekte/meere-kuesten/plastik/plastik­ muell-gift-fuer-die-natur-und-fuers-touristische-geschaeft/
+
+» Report „Measures to avoid single-use plastics and
+
+packaging in hotels“ (english) https://www.wwf.de/themen-projekte/meere-kuesten/plastik/plastikmuellgift-fuer-die-natur-und-fuers-touristische-geschaeft/
+
+» Flyer „Plastik – Gefahr in unseren Meeren“
+
+https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF-Flyer-Plastikmuell-im-Meer.PDF
+
+» Flyer und Broschüre „Geisternetze“
+
+https://www.wwf.de/themen-projekte/projektregionen/ostsee/geisternetze/
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 35
+
+Jeder Einzelne kann etwas tun!
+
+Was können Sie tun?
+
+Vermeiden Sie unnötige Verpackungen und Einmalprodukte (unabhängig vom Material). Beispielsweise werden Obst und Gemüse auch ohne Verpackung angeboten. Zudem gibt es sogenannte Unverpacktläden, die Ware auch verpackungsfrei anbieten. Weitere Tipps zur Plastikvermeidung: www.wwf.de/ aktiv-werden/tipps-fuer-den-alltag/tipps-zur-plastikvermeidung/
+
+Verzichten Sie auf Kosmetika mit Mikroplastik und nutzen Sie Alternativen, wie z. B. zertifizierte Naturkosmetik (BDIH, NATRUE etc.), die ohne rein mineralölbasierte Bestandteile auskommt. (Weitere Infos unter: BUND-Einkaufsratgeber Mikroplastik: www.bund.net/service/publikationen/detail/ publication/bund-einkaufsratgeber-mikroplastik/)
+
+Verwenden Sie Produkte oder Kleidung möglichst lange, bevor Sie sie
+
+sachgerecht entsorgen, z. B. bei Kleidung über offizielle Sammelstellen oder Spendenboxen (und nicht im Hausmüll).
+
+Waschen Sie Ihre Kleidung immer in einer vollen Waschmaschine. Das ist
+
+nicht nur gut für die Energiebilanz, sondern spart zudem Geld und kann die Anzahl an Mikroplastikpartikeln verringern.
+
+Trennen Sie Ihren Abfall richtig. Das erleichtert die Sortierung und damit das Recycling. Beispielsweise gehören in den Bio-Müll keine Plastiktüten oder andere Verpackungen, auch wenn sie als biologisch abbaubar oder kompostierbar bezeichnet werden. Weitere Informationen erhalten Sie bei der Verbraucherzentrale (www.verbraucherzentrale.de/wissen/umwelt-haus­ halt/abfall/muell-richtig-trennen-gelber-sack-restmuell-papier-oder-wohinsonst-10580) oder bei Ihrer Gemeinde.
+
+Beteiligen Sie sich an Müllsammelaktionen: In vielen Orten und Städten gibt es Aufrufe zu gemeinsamen Aktionen. Regen Sie alternativ eigene Aktionen an.
+
+Schreiben Sie Unternehmen, wenn Ihnen unnötige oder unnötig aufwendige bzw. große Verpackungen auffallen.
+
+Unterzeichnen Sie unseren Aufruf an die Politik, damit sie sich für eine global verbindliche Konvention gegen den Plastikmüll in den Meeren einsetzt. Mehr Informationen finden Sie hier: www.wwf.de/plasticus/
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 37
+
+Quellen
+
+1 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. S. 33. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+2 Geyer, R., Jambeck, J. and K. Law (2017): Production, use, and fate of all plastics ever made.
+
+In: Science Advances 3. S. 1–5. (https://advances.sciencemag.org/content/3/7/e1700782)
+
+3 World Economic Forum (2016): The New Plastics Economy Rethinking the future of plastics.
+
+(http://www3.weforum.org/docs/WEF_The_New_Plastics_Economy.pdf)
+
+4 Plastics Europe (2019): Plastics – the Facts 2019. S. 14. (https://www.plasticseurope.org/application/
+
+files/9715/7129/9584/FINAL_web_version_Plastics_the_facts2019_14102019.pdf)
+
+5 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. S. 9. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+6 Textile Exchange (2019): Preferred Fiber & Materials Market Report 2019. S. 6.
+
+(https://store.textileexchange.org/wp-content/uploads/woocommerce_uploads/2019/11/Textile-
+
+Exchange_Preferred-Fiber-Material-Market-Report_2019.pdf)
+
+7 ETRma (2011). European Tyre & Rubber Industry. Statistics. Edition 2011. no 3.
+
+(http://www.etrma.org/uploads/Modules/Documentsmanager/20120612-etrma-statistics-2011.pdf)
+
+8 UNEP (2018). Single-use Plastics: A Roadmap for Sustainability. S. 7. (https://wedocs.unep.org/bitstream/
+
+handle/20.500.11822/25496/singleUsePlastic_sustainability.pdf?sequence=1&isAllowed=y)
+
+9 Ellen McArthur Foundation (2015): The new Plastics Economy – rethinking the Future of Plastics. S. 24.
+
+(https://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/Sustainability/PDFs/The%20New%20
+
+Plastics%20Economy.ashx)
+
+10 Plastics Europe (2019): Plastics – the Facts 2019. S. 20. (https://www.plasticseurope.org/application/
+
+files/9715/7129/9584/FINAL_web_version_Plastics_the_facts2019_14102019.pdf)
+
+11 UNEP (2018). Single-use Plastics: A Roadmap for Sustainability. S. 7. (https://wedocs.unep.org/bitstream/
+
+handle/20.500.11822/25496/singleUsePlastic_sustainability.pdf?sequence=1&isAllowed=y)
+
+12 ebd.
+
+13 Ocean Conservancy (2017): Stemming the Tide: Land-based strategies for a plastic-free ocean. S. 3.
+
+(https://oceanconservancy.org/wp-content/uploads/2017/04/full-report-stemming-the.pdf)
+
+14 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 27. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+15 Andrady, A. (2003): Plastics in the environment. S. 393.
+
+16 UNEP (2015): Plastic in Cosmetics. (http://apps.unep.org/publications/index.php?option=com_
+
+pub&task=download&file=011718_en)
+
+17 https://www.umweltbundesamt.de/tags/mikroplastik (Stand: 25.8.2018)
+
+18 Greenpeace (2017): Plastik in Kosmetik. Deutsche Hersteller im Check. (https://www.greenpeace.de/sites/
+
+www.greenpeace.de/files/publications/20170412-greenpeace-plastik-kosmetik-firmenabfrage.pdf)
+
+19 Bertling, J., Hamann, L. und M. Hiebel (2018): Mikroplastik und synthetische Polymere in Kosmetikprodukten
+
+sowie Wasch-, Putz- und Reinigungsmitteln. S. 41. (https://www.umsicht.fraunhofer.de/content/dam/
+
+umsicht/de/dokumente/publikationen/2018/umsicht-studie-mikroplastik-in-kosmetik.pdf)
+
+20 ebd.
+
+in Deutschland. In: Umweltbundesamt Hrsg.): Texte 63/2015. (https://www.umweltbundesamt.de/sites/
+
+default/files/medien/378/publikationen/texte_63_2015_quellen_fuer_mikroplastik_mit_relevanz_fuer_den_
+
+meeresschutz_1.pdf)
+
+22 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. S. 33. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+23 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 10. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+24 European Commission (2018): Definition of a Nanomaterial: http://ec.europa.eu/environment/chemicals/
+
+nanotech/faq/definition_en.htm (Stand: 3.3.2020)
+
+25 De Sa, L., Oliviera, M., Ribeiro, F. et al. (2018): Studies of the effects of microplastics on aquatic organisms:
+
+What do we know and where should we focus our efforts in the future? In: The Science of the total
+
+environment 15. S. 1029–1039. (https://doi.org/10.1016/j.scitotenv.2018.07.207)
+
+26 Bundesinstitut für Risikobewertung (2019): Nanoplastik wird uns noch lange beschäftigen.
+
+In: BfR 2 GO – Das Wissenschaftsmagazin des Bundesinstituts für Risikobewertung 2/19. S. 12–13.
+
+(https://www.bfr.bund.de/cm/350/bfr-2-go-ausgabe-2-2019.pdf)
+
+27 Lehner, R., Weder, C., Petri-Fink, A. et al. (2019): Emergence of Nanoplastic in the Environment and
+
+Possible Impact on Human Health. In: Environmental Science and Technology 53. S. 1748–1765.
+
+(https://pubs.acs.org/doi/10.1021/acs.est.8b05512)
+
+28 Bundesinstitut für Risikobewertung (2019): Nanoplastik wird uns noch lange beschäftigen.
+
+In: BfR 2 GO – Das Wissenschaftsmagazin des Bundesinstituts für Risikobewertung 2/19. S. 12–13.
+
+(https://www.bfr.bund.de/cm/350/bfr-2-go-ausgabe-2-2019.pdf)
+
+29 De Sa, L., Oliviera, M., Ribeiro, F. et al. (2018): Studies of the effects of microplastics on aquatic organisms:
+
+What do we know and where should we focus our efforts in the future? In: The Science of the total
+
+environment 15. S. 1030. (https://doi.org/10.1016/j.scitotenv.2018.07.207)
+
+30 Browne, M., Galloway, T., Thompson, R. (2007): Microplastic – an emerging contaminant of potention
+
+concern? Integrated Environmental Assessment and Management 3. S. 559–561.
+
+(https://doi.org/10.1002/ieam.5630030412)
+
+31 Gewert, B., Plassmann, M., MacLeod, M. (2015): Pathways for degradation of plastic polymers floating
+
+in the marine environment. In: Environmental Science Processes & Impacts 17. S. 1513–1521.
+
+(https://www.ncbi.nlm.nih.gov/pubmed/26216708)
+
+32 Koelmans, A., Besseling, E. and Shim, W. (2015): Nanoplastics in the aquatic environment.
+
+Critical Review. In: Bergmann, M., Gutow, L. and M. Klages (Hrsg.,): Marine Anthropogenic Litter.
+
+(https://link.springer.com/book/10.1007/978-3-319-16510-3#editorsandaffiliations)
+
+33 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 10. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+34 Andrady, A. (2011). Microplastics in the marine environment. In: Marine Pollution Bulletin 62. S. 1599.
+
+(https://doi.org/10.1016/j.marpolbul.2011.05.030)
+
+35 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. S. 5. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+36 Essel, R., Engel, L. und M. Carus (2015): Quellen von Mikroplastik mit Relevanz für den Meeresschutz in
+
+Deutschland. In: Umweltbundesamt Hrsg.): Texte 63/2015. S. 32 (https://www.umweltbundesamt.de/sites/
+
+default/files/medien/378/publikationen/texte_63_2015_quellen_fuer_mikroplastik_mit_relevanz_fuer_den_
+
+meeresschutz_1.pdf)
+
+37 Jambeck, J., Geyer, R., Wilcox, C. et al. (2015): Marine pollution. Plastic waste inputs from land into the
+
+ocean. In: Science 13. S. 769. (https://science.sciencemag.org/content/347/6223/768)
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 10. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 39
+
+39 Essel, R., Engel, L. und M. Carus (2015): Quellen von Mikroplastik mit Relevanz für den Meeresschutz
+
+in Deutschland. In: Umweltbundesamt (Hrsg.): Texte 63/2015. (https://www.umweltbundesamt.de/sites/
+
+default/files/medien/378/publikationen/texte_63_2015_quellen_fuer_mikroplastik_mit_relevanz_fuer_
+
+den_meeresschutz_1.pdf)
+
+40 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+41 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+42 ebd., S. 29.
+
+43 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. S. 8. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+44 Bogusz, A. und Oleszczuk, P. (2016); Microplastics in the environment: characteristic, identification and
+
+potential risk. In: Annales Universitatis Mariae Curie. S. 97–114. (http://dlibra.umcs.lublin.pl/Content/
+
+27236/czas4051_71_2_2016_6.pdf)
+
+45 Boucher, J. and Friot, D. (2017): Primary Microplastics in the Oceans: A Global Evaluation of Sources.
+
+Gland, Switzerland: IUCN. S. 8. (https://portals.iucn.org/library/sites/library/files/documents/2017-002.pdf)
+
+46 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 29. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+47 Heß, M., Diehl, P, Mayer, J. et al. (2018): Mikroplastik in Binnengewässern Süd- und Westdeutschlands.
+
+Bundesländerübergreifende Untersuchungen in Baden-Württemberg, Bayern, Hessen, Nordrhein-Westfalen
+
+und Rheinland-Pfalz. Teil 1: Kunststoffpartikel in der oberflächennahen Wasserphase. (https://www.lanuv.
+
+nrw.de/fileadmin/lanuvpubl/6_sonderreihen/Länderbericht_Mikroplastik_in_Binnengewässern.pdf)
+
+48 Cozar, A., Marti, E., Duarte, C. et al. (2017): The Arctic Ocean as a dead end for floating plastics in the
+
+North Atlantic branch of the Thermohaline Circulation. In: Science Advances 3. S. 1–8.
+
+(http://advances.sciencemag.org/content/3/4/e1600582)
+
+49 Michels, J., Stippkugel, A., Lenz, M. et al. (2018): Rapid aggregation of biofilm-covered microplastics
+
+with marine biogenic particles. In: Proceedings Royal Society Publishing B., 285.
+
+(https://doi.org/10.1098/rspb.2018.1203)
+
+50 Peeken, I., Primpke, S., Beyer, B. et al. (2018): Arctic sea ice is an important temporal sink and means
+
+of transport for microplastic. In: Nature Communications 9. S. 1–12.
+
+(https://www.nature.com/articles/s41467-018-03825-5.pdf)
+
+51 Sybille, van E., Wilcox, C., Lebreton, L. et al. (2015): A global inventory of small floating plastic debris.
+
+In: Environmental Research Letters 12. S. 1-11.
+
+(https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006/pdf)
+
+52 Bergmann, M., Wirzberger, V., Krumpen, T. et al. (2017): High Quantities of Microplastic in Arctic Deep-
+
+Sea Sediments from the HAUSGARTEN Observatory. In: Environmental Science & Technology 51.
+
+S. 11000–11010. (https://epic.awi.de/45112/1/Bergmann_et_al_EST_2017.pdf)
+
+53 Reimnitz, E., Clayton, J., Kempema, E. et al. (1993): Interaction of rising frazil with suspended particles:
+
+Tank experiments with applications to nature. In: Cold Regions Science and Technologies 21. S. 117–135.
+
+(https://doi.org/10.1016/0165-232X(93)90003-Q)
+
+54 Peeken, I., Primpke, S., Beyer, B. et al. (2018): Arctic sea ice is an important temporal sink and means
+
+of transport for microplastic. In: Nature Communications 9. S. 1–12.
+
+(https://www.nature.com/articles/s41467-018-03825-5.pdf)
+
+LITTERBASE: http://litterbase.awi.de/ (Stand: 7.5.2020)
+
+57 ebd.
+
+58 Cole, M., Lindeque, P., Halsband, C. and Galloway, T. (2011): Microplastics as contaminants in the
+
+marine environment: A review. In: Marine Pollution Bulletin 62,. S. 2589.
+
+(https://doi.org/10.1016/j.marpolbul.2011.09.025)
+
+59 Heß, M., Diehl, P, Mayer, J. et al. (2018): Mikroplastik in Binnengewässern Süd- und Westdeutschlands.
+
+Bundesländerübergreifende Untersuchungen in Baden-Württemberg, Bayern, Hessen, Nordrhein-
+
+Westfalen und Rheinland-Pfalz. Teil 1: Kunststoffpartikel in der oberflächennahen Wasserphase.
+
+(https://www.lanuv.nrw.de/fileadmin/lanuvpubl/6_sonderreihen/Länderbericht_Mikroplastik_in_
+
+Binnengewässern.pdf)
+
+60 ebd., S. 23.
+
+61 Weithmann, N., Möller, J., Löder, M. et al. (2018): Organic fertilizer as a vehicle fort he entry of
+
+microplastic into the environment. In: Science Advances 4. S. 1–7.
+
+(http://advances.sciencemag.org/content/4/4/eaap8060)
+
+62 Nizzetto, L., Langaas, S. und M. Futter (2016): Do microplastics spill on to farm soils?
+
+In: Nature 537. S. 488−488. (https://doi.org/10.1038/537488b)
+
+63 Machado, A., Kloas, W., Zarfl, C. et al. (2018): Microplastics as an emerging threat to terrestrial ecosystems.
+
+In: Global Change Biology 24. S. 1405–1416. (https://doi.org/10.1111/gcb.14020)
+
+64 Blasing, M. and W. Amelung (2018): Plastics in soil: Analytical methods and possible sources.
+
+In: Science of the Total Environment 612. S. 422−435. (https://doi.org/10.1016/j.scitotenv.2017.08.086)
+
+65 Weithmann, N., Möller, J., Löder, M. et al. (2018): Organic fertilizer as a vehicle fort he entry of
+
+microplastic into the environment. In: Science Advances 4. S. 1–7.
+
+(http://advances.sciencemag.org/content/4/4/eaap8060)
+
+66 ebd.
+
+67 Scheurer, M. and Bigalke, M. (2018): Microplastics in Swiss Floodplain Soils. In: Microplastic Disguising
+
+As Soil Carbon Storage 6. S. 3591–3598. (https://pubs.acs.org/doi/abs/10.1021/acs.est.7b06003)
+
+68 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie S. 29. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+69 Hurley, R. and L. Nizzetto (2018): Fate and occurrence of micro(nano)plastics in soils:
+
+Knowledge gaps and possible risks. In: Current Opinion in Environmental Science & Health 1. S. 7.
+
+(https://doi.org/10.1016/j.coesh.2017.10.006)
+
+70 Heß, M., Diehl, P, Mayer, J. et al. (2018): Mikroplastik in Binnengewässern Süd- und Westdeutschlands.
+
+Bundesländerübergreifende Untersuchungen in Baden-Württemberg, Bayern, Hessen, Nordrhein-Westfalen
+
+und Rheinland-Pfalz. Teil 1: Kunststoffpartikel in der oberflächennahen Wasserphase.
+
+(https://www.lanuv.nrw.de/fileadmin/lanuvpubl/6_sonderreihen/Länderbericht_Mikroplastik_in_
+
+Binnengewässern.pdf)
+
+71 Rezania, S., Park, J., Din, M. et al. (2018): Microplastics pollution in different aquatic environments and biota:
+
+A review of recent studies. In: Marine Pollution Bulletin 133. S. 191–208.
+
+72 Weston, J., Carrillo-Barragan, P., Linley, T. et al. (2020): New species of Eurythenes from hadal depths
+
+of the Mariana Trench, Pacific Ocean (Crustacea: Amphipoda). In: Zootaxa 4748. S. 163–181.
+
+(https://doi.org/10.11646/zootaxa.4748.1.9)
+
+73 Cole, M., Lindeque, P., Halsband, C. and Galloway, T. (2011): Microplastics as contaminants in the marine
+
+environment: A review. In: Marine Pollution Bulletin 62. S. 2589.
+
+(https://doi.org/10.1016/j.marpolbul.2011.09.025)
+
+Sea Sediments from the HAUSGARTEN Observatory. In: Environmental Science & Technology 51.
+
+S. 11000–11010.
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 41
+
+75 Fossi, C., Coppola, D., Baini, M. (2014): Large filter feeding marine organisms as indicators of microplastic
+
+in the pelagic environment: The case studies of the Mediterranean basking shark and fin whale.
+
+In: Marine Environmental Research 100. S. 17–24. (https://doi.org/10.1016/j.marenvres.2014.02.002)
+
+76 Au, S., Bruce, T., Bridges, W. et al. (2015): Responses of Hyalella azteca to acute and chronic microplastic
+
+exposures. In: Environmental Toxicology and Chemistry 34. S. 2564–2572. (https://doi.org/10.1002/etc.3093)
+
+77 Nobre, C., Santana, A., Maluf, A. et al. (2015): Assessment of microplastic toxicity to embryonic development
+
+of the sea urchin Lytechinus variegatus (Echinodermata: Echinoidea). In: Marine Pollution Bulletin 92.
+
+S. 99–104. (https://doi.org/10.1016/j.marpolbul.2014.12.050)
+
+78 Cole, M., Lindeque, P., Fileman, E. and Halsband, C. (2013): Microplastic Ingestion by Zooplankton.
+
+In: Environmental Science and Technology 47. S. 6646–6655.
+
+79 Lwanga, E., Gertsen, H., Gooren, H. et al. (2016): Microplastics in the Terrestrial Ecosystem:
+
+Implications for Lubricus terrestris (Oligochaeta, Lumbricidae). In: Environmental Science and Technology
+
+50. S. 2685–2691. (https://doi.org/10.1021/acs.est.5b05478)
+
+80 Cao, D., Wang, X., Luo, X. et al. (2017): Effects of polystyrene microplastics on the fitness of earthworms
+
+in an agricultural soil. In: IOP Conference Series: Earth and Environmental Science 61. S. 1–4.
+
+(http://iopscience.iop.org/article/10.1088/1755-1315/61/1/012148)
+
+81 https://www.forschung-und-wissen.de/nachrichten/biologie/plastikmuell-im-meer-bedroht-
+
+sauerstoffproduzierende-bakterien-13373049 (Stand: 27.8.2019)
+
+82 Green, D., Colgan, T., Thompson R. et al. (2019): Exposure to microplastics reduces attachment strength
+
+and alters the haemolymph proteome of blue mussels (Mytilus edulis). In: Environmental Pollution 246.
+
+S. 423–434. (https://doi.org/10.1016/j.envpol.2018.12.017)
+
+83 Teuten, E., Saquing, J., Knappe, D. (2009): Transport and release of chemicals from plastics to the
+
+environment and to wildlife. In: Philosophical Transactions of The Royal Society 364. S. 2027–2045.
+
+(https://doi.org/10.1098/rstb.2008.0284)
+
+84 Gallo, F., Fossi, C., Weber, R. (2018): Marine litter plastics and microplastics and their toxic chemicals
+
+components: the need for urgent preventive measures. In: Environmental Science Europe 30. S. 1–13.
+
+(https://doi.org/10.1186/s12302-018-0139-z)
+
+85 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 18. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+86 Teuten, E., Saquing, J., Knappe, D. (2009): Transport and release of chemicals from plastics to the
+
+environment and to wildlife. In: Philosophical Transactions of The Royal Society 364. S. 2027–2045.
+
+(https://doi.org/10.1098/rstb.2008.0284)
+
+87 Wilcox, C., Puckridge, M., Schuyler, Q. et al. (2018): A quantitative analysis linking sea
+
+turtle mortality and plastic debris ingestion. In: Scientific Reports 8. S. 1–11.
+
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137038/)
+
+88 Scheurer, M. and Bigalke, M. (2018): Microplastics in Swiss Floodplain Soils. In: Microplastic Disguising
+
+As Soil Carbon Storage 6. S. 3591–3598. (https://pubs.acs.org/doi/abs/10.1021/acs.est.7b06003)
+
+89 https://www.laborpraxis.vogel.de/giftmischendes-plankton-auf-mikroplastik-a-836897/ (Stand: 11.3.2020)
+
+90 https://www.wissenschaft.de/umwelt-natur/mikroplastik-als-lebensraum-auch-fuer-giftige-arten/
+
+(Stand: 11.3.2020)
+
+91 Wang, J., Liu, X., Li, Y. et al. (2020): Microplastics as contaminants in the soil environment: A mini-review.
+
+In: Science of the Total Environment 691. S. 848–857. (https://doi.org/10.1016/j.scitotenv.2019.07.209)
+
+92 Redondo-Hasselerharm, P., Gort, G., Peeters, E. and A. Koelmans (2020): Nano- and microplastics affect
+
+the composition of freshwater benthic communities in the long term. In: Science Advances 6. S. 1–11.
+
+(https://doi.org/10.1126/sciadv.aay4054)
+
+93 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 31. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+94 Revel, M., Châtel, A. and Mouneyrac, C. (2018): Micro(nano)plastics: A threat to human health?
+
+In: Current Opinion in Environmental Science & Health 1. S. 17–23.
+
+(https://doi.org/10.1016/j.coesh.2017.10.003)
+
+95 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 31. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+96 Sobhani, Z., Lei, Y., Tang, Y. et al. (2020): Microplastics generated when opening plastic packaging.
+
+In. Scientific Reports 10. S. 1–7. (https://doi.org/10.1038/s41598-020-61146-4)
+
+97 https://www.spektrum.de/news/so-viel-mikroplastik-nehmen-wir-durchschnittlich-auf/1651990
+
+(Stand: 11.11.2019)
+
+98 https://www.newcastle.edu.au/newsroom/featured/plastic-ingestion-by-people-could-be-equating-
+
+to-a-credit-card-a-week (Stand: 12.7.2019)
+
+99 Catarino, A., Macchia, V., Sanderson, W. et al. (2018): Low levels of microplastics (MP) in wild mussels
+
+indicate that MP ingestion by humans is minimal compared to exposure via household fibres fallout during
+
+a meal. In: Environmental Pollution 237. S. 675–684. (https://doi.org/10.1016/j.envpol.2018.02.069)
+
+100 Bundesinstitut für Risikobewertung (2019) Mikroplastik in Lebensmitteln. Kleine Teile – große Wirkung.
+
+In: BfR 2 GO – Das Wissenschaftsmagazin des Bundesinstituts für Risikobewertung 2/19. S. 7–11.
+
+(https://www.bfr.bund.de/cm/350/bfr-2-go-ausgabe-2-2019.pdf)
+
+101 WHO (2019): Microplastics in drinking-water.
+
+(https://apps.who.int/iris/bitstream/handle/10665/326499/9789241516198-eng.pdf?ua=1)
+
+102 Bundesinstitut für Risikobewertung (2019) Mikroplastik in Lebensmitteln. Kleine Teile – große Wirkung.
+
+In: BfR 2 GO – Das Wissenschaftsmagazin des Bundesinstituts für Risikobewertung 2/19. S. 7–11.
+
+(https://www.bfr.bund.de/cm/350/bfr-2-go-ausgabe-2-2019.pdf)
+
+103 Galloway, T. (2015): Micro- and Nano-plastics and Human Health. In: Bergmann, M., Gutow, L. and
+
+M. Klages (Hrsg.,): Marine Anthropogenic Litter. S. 343–366.
+
+(https://link.springer.com/book/10.1007/978-3-319-16510-3#editorsandaffiliations)
+
+104 Mattsson, K., Johnson, E., Malmendal, A. et al. (2017): Brain damage and behavioural disorders in
+
+fish induced by plastic nanoparticles delivered through the food chain. In: Scientific Reports 7.
+
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597631/)
+
+105 Lehner, R., Weder, C., Petri-Fink, A. et al. (2019): Emergence of Nanoplastic in the Environment and
+
+Possible Impact on Human Health. In: Environmental Science and Technology 53. S. 1752.
+
+(https://pubs.acs.org/doi/10.1021/acs.est.8b05512)
+
+106 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 31. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+107 De Sá, L., Oliveira, M., Ribeiro, F. et al. (2018): Studies of the effects of microplastics on aquatic organisms:
+
+What do we know and where should we focus our efforts in the future. In: Science of the Total
+
+Environment 645. S. 1029–1039. (https://doi.org/10.1016/j.scitotenv.2018.07.207)
+
+108 Bertling, J., Bertling, R. und L. Hamann (2018): Kunststoffe in der Umwelt: Mikro- und Makroplastik.
+
+Ursachen, Mengen, Umweltschicksale, Wirkungen, Lösungsansätze, Empfehlungen. Kurzfassung der
+
+Konsortialstudie. S. 29. (https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/
+
+publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf)
+
+WWF-Hintergrundpapier „Mikroplastik in der Umwelt“ | 43
+
+Mehr WWF-Wissen in unserer App. Jetzt herunterladen!
+
+iOS
+
+Android
+
+Unterstützen Sie den WWF IBAN: DE06 5502 0500 0222 2222 22
+
+WWF ist die beste Umwelt-
+
+und Naturschutzorganisation im Transparenzranking
+
+4,4
+
+Spiegel Online und Phineo 11/2016 wwf.de/wirkungstransparenz
+
+© Copyright des WWF International ® Warenzeichen des WWF International • Stand: 06/2020
