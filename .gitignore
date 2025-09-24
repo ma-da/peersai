@@ -16,3 +16,8 @@ __pycache__
 ._.*
 ../._.idea
 ../._.venv
+
+# known corpus directories
+corpus_beta_set/
+corpus_beta_set_slim/
+corpus_prev/
