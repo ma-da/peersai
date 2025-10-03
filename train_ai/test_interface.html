@@ -1,0 +1,882 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Seeds of Truth</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 24px auto; padding: 0 16px; }
+    h1 { font-size: 20px; }
+    .row { display: flex; gap: 8px; margin-bottom: 8px; }
+    input[type=text] { flex: 1; padding: 8px 10px; font-size: 16px; border:1px solid #ccc; border-radius: 6px; }
+    button { padding: 8px 12px; font-size: 16px; border: 0; border-radius: 6px; background: #008080; color: #fff; }
+	button:hover { background-color: #00FFFF; color: black; }
+    .meta { font-size: 12px; color: #555; margin: 8px 0; }
+    .hit { padding: 10px 0; border-bottom: 1px solid #eee; }
+    .score { font-size: 12px; color: #666; }
+    .controls { margin-bottom: 12px; }
+	button:active { background-color: #D3D3D3; border: 1px solid black; }
+	.label { font-weight: 600; display: block; margin-top: 6px; }
+    .text-content { margin: 4px 0 6px; }
+    @media screen and (max-width:800px) {
+        body {
+            width: 92% !important;
+			margin: auto !important;
+        }
+    }	
+  </style>
+</head>
+<body>
+  <h1>Seeds of Truth AI Testing</h1>
+<div class="row" style="margin-top:8px; justify-content:flex-start; gap:8px;">
+  <button id="submit-feedback-top">Submit feedback</button>
+  <button id="download-csv">Download CSV</button>
+  <span id="csv-status" class="meta"></span>
+</div>
+
+<!-- AI Ask section -->
+<div class="ai-box" style="margin:16px 0;padding:12px;border:1px solid #eee;border-radius:10px;">
+  <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+    <input id="hfkey" type="password" placeholder="Hugging Face API Key (hf_...)" style="flex:1; min-width:280px; padding:8px;border:1px solid #ddd;border-radius:8px;">
+    <select id="hfmodel" style="padding:8px;border:1px solid #ddd;border-radius:8px;">
+      <!-- small, fast default; change if you want -->
+      <option value="Seeds of Truth DeepSeek" selected>Seeds of Truth DeepSeek</option>
+      <option value="DeepSeek Base Model">DeepSeek Base Model</option>
+    </select>
+  </div>
+  <div style="display:flex; gap:8px; margin-top:8px;">
+    <textarea id="question" rows="3" placeholder="Ask a question (the AI answer will be used for a reference search)..." style="flex:1; padding:8px;border:1px solid #ddd;border-radius:8px;"></textarea>
+    <button id="ask" style="padding:10px 14px;border:0;border-radius:8px; min-width:120px;">Ask AI</button>
+  </div>
+  <div id="ai-status" class="meta" style="margin-top:6px;color:#666;"></div>
+  <div id="ai-answer" style="margin-top:8px; padding:10px; background:#fafafa; border:1px solid #eee; border-radius:8px; white-space:pre-wrap;"></div>
+</div>
+
+<!-- Feedback block for AI answer + general comment -->
+<div id="feedback-ai" style="margin:16px 0; padding:12px; border:1px solid #eee; border-radius:10px;">
+  <div style="font-weight:600; margin-bottom:8px;">Feedback</div>
+  <div style="display:grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); gap:8px;">
+    <label>Accuracy (1–5)
+      <select id="ai-acc"><option value="">—</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select>
+    </label>
+    <label>Relevance (1–5)
+      <select id="ai-rel"><option value="">—</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select>
+    </label>
+    <label>Style (1–5)
+      <select id="ai-sty"><option value="">—</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select>
+    </label>
+  </div>
+  <label style="display:block; margin-top:8px;">Comment on AI response. Is this model good enough?
+    <textarea id="ai-comment" rows="2" style="width:100%; padding:8px; border:1px solid #ddd; border-radius:8px;"></textarea>
+  </label>
+  <label style="display:block; margin-top:8px;">General comment
+    <textarea id="gen-comment" rows="2" style="width:100%; padding:8px; border:1px solid #ddd; border-radius:8px;"></textarea>
+  </label>
+<!--  uncomment for adtl button <div style="margin-top:8px; display:flex; gap:8px;">
+    <button id="submit-feedback" style="padding:8px 12px; border:0; border-radius:8px; background:#084; color:#fff;">Submit feedback</button>
+    <span id="submit-status" class="meta"></span>
+  </div>-->
+</div>
+<h1>Probable References</h1>
+<!-- Search uncomment to make visible
+  <div class="row">
+    <input id="q" type="text" placeholder="Type your query…">
+    <button id="go">Search</button>
+  </div>
+
+  <div class="controls">
+  
+    <label><input type="checkbox" id="useRerank"> Use BGE-small rerank (slower, more accurate)</label>
+    <span id="status" class="meta">booting...</span>
+  </div>
+-->
+  <div id="results"></div>
+
+<script type="module">
+
+/* =========================
+   Config / constants
+========================= */
+const HIVE_RPC = "https://api.hive.blog";
+const author   = "wanttoknow";
+const permlink = "seeds-of-truth-index-registration-0-1";
+
+// Map selector text -> HF Inference Endpoint base URL
+const HF_ENDPOINTS = {
+  "Seeds of Truth DeepSeek": "THE TESTING ENDPOINT",
+  "DeepSeek Base Model":     "THE BASE MODEL COMPARISON ENDPOINT"
+};
+
+// Phrase stripping (to mirror Python preprocessing)
+const PHRASES = [/click here/gi, /more along these lines/gi, /about us/gi];
+
+// Search knobs
+const NUM_CENTROIDS  = 20;   // how many shards to search
+const TOP_CANDIDATES = 18;   // pool size before optional rerank
+const SHOW_RESULTS   = 10;   // how many results to render
+
+
+/* =========================
+   DOM refs (all guarded)
+========================= */
+const qEl        = document.getElementById('q') || null;
+const goBtn      = document.getElementById('go') || null;
+const resEl      = document.getElementById('results');
+const statusEl   = document.getElementById('status');
+const rerankBox  = document.getElementById('useRerank') || null;
+
+const hfKeyInput   = document.getElementById('hfkey')   || null;
+const hfModelInput = document.getElementById('hfmodel') || null;
+const askBtn       = document.getElementById('ask')     || null;
+const aiStatusEl   = document.getElementById('ai-status');
+const aiAnswerEl   = document.getElementById('ai-answer');
+const questionEl   = document.getElementById('question') || null;
+
+const submitTopBtn = document.getElementById('submit-feedback-top') || null;
+const downloadBtn  = document.getElementById('download-csv') || null;
+const csvStatus    = document.getElementById('csv-status') || null;
+
+/* =========================
+   Globals filled at boot
+========================= */
+let manifest     = null;    // by-file manifest from IPFS
+let groupsUrlMap = null;    // filename -> full IPFS URL
+let vocab        = null;    // array index->token
+let tokenToIdx   = null;    // Map token->index
+let idf          = null;    // Float32Array
+let centroids    = null;    // Array<Float32Array> unit-norm
+let stopwords    = new Set();
+let groupList    = null;    // ["group_000.json", ...]
+let wtkMap       = null;    // row_id -> WantToKnow URL (from IPFS)
+
+// embedder (optional rerank)
+let embedder = null;
+
+// boot guard
+let bootReady = null;
+function ensureBoot() { if (!bootReady) bootReady = boot(); return bootReady; }
+
+/* =========================
+   Small utilities
+========================= */
+function setStatus(msg){ if(statusEl) statusEl.textContent = msg; }
+function setAIStatus(msg){ if(aiStatusEl) aiStatusEl.textContent = msg || ""; }
+
+function stripPhrases(s){ let t=s; for(const re of PHRASES) t=t.replace(re,' '); return t; }
+function tokenize(text){
+  const t = stripPhrases(text).toLowerCase()
+    .replace(/[\x00-\x08\x0b-\x1f\x7f]/g,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+  // scikit default: words with length >= 2
+  const toks = t.match(/\b\w{2,}\b/g) || [];
+  return toks;
+}
+function isRerankEnabled(){ return !!(rerankBox && rerankBox.checked); }
+
+function ratingValue(id) {
+  const el = document.getElementById(id);
+  return el && el.value ? parseInt(el.value, 10) : "";
+}
+
+function normalizeUrl(u) {
+  if (!u) return '';
+  if (u.startsWith('file:///')) {
+    let rest = u.replace(/^file:\/+/, '');
+    rest = rest.replace(/^([A-Za-z]:\/)?Users\/[^/]+\/Desktop\/[^/]+\//, '');
+    if (!/^https?:\/\//i.test(rest)) rest = 'https://' + rest.replace(/^\/+/, '');
+    return rest;
+  }
+  if (!/^https?:\/\//i.test(u) && /^[\w.-]+\.[\w.-]+/.test(u)) {
+    return 'https://' + u.replace(/^\/+/, '');
+  }
+  return u;
+}
+// strip everything after stop tokens
+const STOP_TOKENS = ["</s>", "<|end|>", "<|eot_id|>"];
+
+function stripOnLiteralStops(text, stops = []) {
+  if (!stops || stops.length === 0) return text;
+
+  // Escape regex meta chars in each stop token
+  const escaped = stops.map(s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+
+  // Build pattern: optional whitespace/quotes around the stop token
+  const pattern = new RegExp(
+    '(?:\\s|["\'])*(?:' + escaped.join("|") + ')(?:\\s|["\'])*'
+  );
+
+  // Split once on first stop occurrence
+  const parts = text.split(pattern, 1);
+  return parts[0].trimEnd();
+}
+
+/* =========================
+   Hive RPC
+========================= */
+async function hiveGetContent(author, permlink){
+  const body = { jsonrpc:"2.0", id:1, method:"condenser_api.get_content", params:[author, permlink] };
+  const r = await fetch(HIVE_RPC, { method:"POST", headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
+  if(!r.ok) throw new Error(`Hive RPC HTTP ${r.status}`);
+  const j = await r.json();
+  if(j.error) throw new Error(JSON.stringify(j.error));
+  return j.result;
+}
+
+/* =========================
+   Boot (loads registry, artifacts, groups)
+========================= */
+async function boot(){
+  try {
+    setStatus("loading Hive…");
+
+    // 1) registry from Hive (with fallback)
+    let registry;
+    try {
+      const post = await hiveGetContent(author, permlink);
+      registry = JSON.parse((post.body || "").replace(/```(?:json)?/g, "").trim());
+    } catch (e) {
+      console.warn("Hive registry failed — using hardcoded fallback.", e);
+      registry = {
+        "betaslim_manifest.byfile.json": {
+          "url_custom":    "https://ai.peerservice.org/ipfs/QmVkr8cna15YPiskwuV3emrwAeYC99ALLuRbEjDZK28MnH",
+          "url_dedicated": "https://peers.mypinata.cloud/ipfs/QmVkr8cna15YPiskwuV3emrwAeYC99ALLuRbEjDZK28MnH"
+        },
+        "groups_urls.json": {
+          "url_custom":    "https://ai.peerservice.org/ipfs/QmczPZfPVTJbPmrxw8NBwNhdFNy9L7qwfMSaEu1zQvcPsY",
+          "url_dedicated": "https://peers.mypinata.cloud/ipfs/QmczPZfPVTJbPmrxw8NBwNhdFNy9L7qwfMSaEu1zQvcPsY"
+        }
+      };
+    }
+
+    // 2) fetch manifest + groups map
+    const manifestUrl = registry["betaslim_manifest.byfile.json"]?.url_custom || registry["betaslim_manifest.byfile.json"]?.url_dedicated;
+    const groupsMapUrl= registry["groups_urls.json"]?.url_custom           || registry["groups_urls.json"]?.url_dedicated;
+    if (!manifestUrl || !groupsMapUrl) throw new Error("Registry missing manifest or groups_urls.");
+
+    setStatus("loading manifest…");
+    const mfResp = await fetch(manifestUrl);
+    if (!mfResp.ok) throw new Error(`manifest ${mfResp.status}`);
+    manifest = await mfResp.json();
+
+    const gmResp = await fetch(groupsMapUrl);
+    if (!gmResp.ok) throw new Error(`groups_urls ${gmResp.status}`);
+    groupsUrlMap = await gmResp.json();
+
+    // 3) resolve core artifacts
+    const files = Object.fromEntries((manifest.files || []).map(f => [f.name, f]));
+    const getURL = n => files[n]?.url_custom || files[n]?.url_dedicated;
+
+    const vocabURL = getURL("vocabulary.json");
+    const idfURL   = getURL("idf.json");
+    const centsURL = getURL("centroids.json");
+    const stopURL  = getURL("stopwords.json");
+
+    if (!vocabURL || !idfURL || !centsURL) throw new Error("Missing vocabulary.json, idf.json, or centroids.json");
+
+    setStatus("loading core artifacts…");
+    const [vocabArr, idfArr, centsArr, stopArr] = await Promise.all([
+      fetch(vocabURL).then(r => { if(!r.ok) throw new Error(`vocab ${r.status}`); return r.json(); }),
+      fetch(idfURL).then(r => { if(!r.ok) throw new Error(`idf ${r.status}`); return r.json(); }),
+      fetch(centsURL).then(r => { if(!r.ok) throw new Error(`centroids ${r.status}`); return r.json(); }),
+      stopURL ? fetch(stopURL).then(r => r.ok ? r.json() : []) : Promise.resolve([])
+    ]);
+
+    vocab      = vocabArr;
+    tokenToIdx = new Map(vocab.map((t,i)=>[t,i]));
+    idf        = Float32Array.from(idfArr);
+    centroids  = centsArr.map(row => Float32Array.from(row));
+    stopwords  = new Set((stopArr || []).map(s => (s||"").toLowerCase()));
+
+    // 4) groups from centroids_index.json
+    const indexName = manifest?.roles?.index || "centroids_index.json";
+    const indexURL  = getURL(indexName);
+    if (!indexURL) throw new Error("centroids_index.json not found in manifest.files");
+    const idxResp = await fetch(indexURL);
+    if (!idxResp.ok) throw new Error(`centroids_index ${idxResp.status}`);
+    const indexObj = await idxResp.json();
+    if (!indexObj?.groups || !Array.isArray(indexObj.groups)) throw new Error("groups missing in centroids_index.json");
+    groupList = indexObj.groups;
+
+    // 5) WantToKnow URL map (optional)
+    try {
+      const r = await fetch("https://ai.peerservice.org/ipfs/bafybeiejb3oofcpkipkh36be4jejmmrucfurmkvwxhgd4olaulty5cjyhu", { cache: "force-cache" });
+      if (r.ok) { wtkMap = await r.json(); }
+    } catch (_) {}
+
+    setStatus("ready");
+  } catch (e) {
+    setStatus("error");
+    console.error("BOOT ERROR:", e);
+    throw e;
+  }
+}
+
+/* =========================
+   TF-IDF utilities
+========================= */
+function queryVector(q){
+  const toks = tokenize(q).filter(t => !stopwords.has(t));
+  if(!toks.length) return null;
+  const tf = new Map();
+  for(const t of toks){
+    const i = tokenToIdx.get(t);
+    if(i !== undefined) tf.set(i, (tf.get(i)||0) + 1);
+  }
+  if(tf.size === 0) return null;
+  const V = vocab.length;
+  const qv = new Float32Array(V);
+  tf.forEach((f,i)=>{ qv[i] = f * idf[i]; });
+  // L2 normalize
+  let s=0; for(let i=0;i<V;i++) s += qv[i]*qv[i];
+  const n = Math.sqrt(s) + 1e-12;
+  for(let i=0;i<V;i++) qv[i] /= n;
+  return qv;
+}
+function topKCentroids(qv, k=NUM_CENTROIDS){
+  const sims = centroids.map(c => {
+    let s=0; for(let i=0;i<qv.length;i++) s += c[i]*qv[i];
+    return s;
+  });
+  return sims.map((v,i)=>[v,i]).sort((a,b)=>b[0]-a[0]).slice(0,k).map(([,i])=>i);
+}
+async function fetchGroup(name){
+  const url = groupsUrlMap[name];
+  if(!url) { console.error("Missing URL for shard", name); throw new Error(`No URL for shard ${name}`); }
+  const r = await fetch(url, { cache: 'force-cache' });
+  if(!r.ok) {
+    const t = await r.text().catch(()=> "");
+    console.error(`Fetch ${name} failed: ${r.status}`, t.slice(0,200));
+    throw new Error(`fetch ${name} ${r.status}`);
+  }
+  return r.json();
+}
+function sparseDot(tfidfPairs, qv){
+  let s=0;
+  for(const [i,w] of tfidfPairs) s += w * qv[i];
+  return s;
+}
+
+/* =========================
+   Optional: Xenova reranker
+========================= */
+async function ensureEmbedder(){
+  if(embedder) return embedder;
+  const { pipeline } = await import('https://cdn.jsdelivr.net/npm/@xenova/transformers@2.7.0');
+  embedder = await pipeline('feature-extraction', 'Xenova/bge-small-en-v1.5', { quantized: true });
+  return embedder;
+}
+async function embed(text){
+  const out = await embedder(text, { pooling: 'mean', normalize: true });
+  return out.data ?? out;
+}
+function dot(a,b){ let s=0; for(let i=0;i<a.length;i++) s += a[i]*b[i]; return s; }
+async function rerankBGE(query, docs){
+  try {
+    const enc = await ensureEmbedder();
+    const qv = await embed(query);
+    const B = 10;
+    for (let i = 0; i < docs.length; i += B) {
+      const batch = docs.slice(i, i + B);
+      const embs = await Promise.all(batch.map(d => embed((d.title||'') + ' — ' + (d.snippet||''))));
+      for (let j = 0; j < embs.length; j++) {
+        docs[i+j].score_rerank = dot(qv, embs[j]);
+      }
+    }
+    return docs.sort((a,b)=> (b.score_rerank??0) - (a.score_rerank??0));
+  } catch (e) {
+    console.warn("Rerank failed, showing TF-IDF only:", e);
+    if (rerankBox) { rerankBox.checked = false; rerankBox.disabled = true; }
+    return docs;
+  }
+}
+
+/* =========================
+   Render (with per-ref Relevance+Comment)
+========================= */
+function ratingSelectHTML(name, idx, selected = "") {
+  return `
+    <select class="ref-rate" data-name="${name}" data-idx="${idx}">
+      <option value="" ${selected==="" ? "selected":""}>—</option>
+      <option value="1" ${selected==="1" ? "selected":""}>1</option>
+      <option value="2" ${selected==="2" ? "selected":""}>2</option>
+      <option value="3" ${selected==="3" ? "selected":""}>3</option>
+      <option value="4" ${selected==="4" ? "selected":""}>4</option>
+      <option value="5" ${selected==="5" ? "selected":""}>5</option>
+    </select>
+  `;
+}
+
+function render(rows){
+  window.__lastResults = rows;
+
+  if (!rows?.length) {
+    resEl.innerHTML = '<div>No results.</div>';
+    return;
+  }
+
+  const html = rows.map((r, i) => {
+    const src = normalizeUrl(r.source);
+    const srcHtml = src
+      ? `<a href="${src}" target="_blank" rel="noopener">${src}</a>`
+      : '<span style="color:#777">(no source)</span>';
+
+    const showFull = typeof r.row_id === 'number' && r.row_id < 20000;
+    const wtk = (showFull && typeof wtkMap === 'object' && wtkMap)
+      ? (wtkMap[String(r.row_id)] || '')
+      : '';
+
+    const textBlock = showFull
+      ? (r.text || '')
+      : (r.snippet || '').replace(/&/g,'&amp;').replace(/</g, '&lt;');
+
+    const scoreLine = r.score_rerank !== undefined
+      ? `rerank=${r.score_rerank.toFixed(3)} · tfidf=${r.score_tfidf.toFixed(3)}`
+      : `tfidf=${r.score_tfidf.toFixed(3)}`;
+
+    const perRefFeedback = `
+      <div class="small" style="margin-top:8px; padding:8px; background:#fafafa; border:1px solid #eee; border-radius:8px;">
+        <label>Relevance ${ratingSelectHTML('rel', i)}</label>
+        <label style="display:block; margin-top:6px;">Comment
+          <textarea class="ref-comment" data-idx="${i}" rows="2"
+            style="width:100%; padding:6px; border:1px solid #ddd; border-radius:8px;"></textarea>
+        </label>
+      </div>
+    `;
+
+    return `
+      <div class="hit">
+        <div class="score">${scoreLine}</div>
+        <div><strong>Source:</strong> ${srcHtml}</div>
+        <div><strong>Text:</strong> ${textBlock}</div>
+        ${wtk ? `<div><strong>WantToKnow URL:</strong> <a href="${wtk}" target="_blank" rel="noopener">${wtk}</a></div>` : ''}
+        ${perRefFeedback}
+      </div>
+    `;
+  }).join('\n');
+
+  resEl.innerHTML = html;
+}
+
+/* =========================
+   End-to-end search
+========================= */
+async function runSearch(query){
+  // Ensure the index is loaded
+  try { await ensureBoot(); } catch (e) {
+    resEl.textContent = "Index failed to load. See console for details.";
+    console.error("Boot failed:", e);
+    return;
+  }
+  if (!groupList) { resEl.textContent = "Index failed to load."; return; }
+  if (!query) { resEl.textContent = ""; return; }
+
+  const qv = queryVector(query);
+  if (!qv) { resEl.textContent = "Query terms not in vocabulary."; return; }
+
+  setStatus("searching…");
+  const t0 = performance.now();
+
+  // 1) nearest centroids → shard filenames
+  const centIds    = topKCentroids(qv, NUM_CENTROIDS);
+  const shardNames = centIds.map(i => groupList[i]).filter(Boolean);
+
+  // 2) fetch shards, score by TF-IDF cosine
+  const shards = await Promise.all(shardNames.map(fetchGroup));
+  let scored = [];
+  for (const rows of shards) {
+    for (const r of rows) {
+      const sim = sparseDot(r.tfidf, qv) / r.norm;
+      scored.push({
+        source:   r.source || '',
+        title:    r.title  || '',
+        text:     r.text   || '',
+        snippet:  (r.text || '').slice(0, 1200),
+        row_id:   r.row_id,
+        score_tfidf: sim
+      });
+    }
+  }
+  scored.sort((a,b) => b.score_tfidf - a.score_tfidf);
+  let top = scored.slice(0, TOP_CANDIDATES);
+
+  if (isRerankEnabled()) {
+    top = await rerankBGE(query, top);
+  }
+
+  const out = top.slice(0, SHOW_RESULTS);
+  const t1 = performance.now();
+  setStatus(`done in ${((t1 - t0) | 0)} ms`);
+  render(out);
+}
+
+/* =========================
+   Hugging Face Inference API
+========================= */
+function stripFences(s){ return (s || "").replace(/```[\s\S]*?```/g, m => m.replace(/```/g,'')).trim(); }
+
+async function hfGenerate(question, endpointBase, token, {maxNewTokens=400, temperature=0.2} = {}) {
+  const headers = {
+    "Authorization": `Bearer ${token}`,
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  };
+  const payload = {
+    inputs: question,
+    parameters: {
+      max_new_tokens: maxNewTokens,
+      temperature,
+      return_full_text: false
+    }
+  };
+
+  let attempts = 0;
+  while (attempts < 10) {
+    attempts++;
+    const r = await fetch(endpointBase, { method: "POST", headers, body: JSON.stringify(payload) });
+    if (r.status === 503) {
+      const j = await r.json().catch(()=>({estimated_time:3}));
+      const wait = Math.min(6, Math.ceil(j.estimated_time || 3));
+      setAIStatus(`Model loading (~${wait}s)…`);
+      await new Promise(res => setTimeout(res, wait * 1000));
+      continue;
+    }
+    if (!r.ok) throw new Error(`HF error ${r.status}: ${await r.text()}`);
+    const out = await r.json();
+    if (Array.isArray(out) && out[0]?.generated_text) return stripFences(out[0].generated_text);
+    if (out.generated_text) return stripFences(out.generated_text);
+    if (out.choices?.length) return stripFences(out.choices[0].text || out.choices[0].message?.content || "");
+    return stripFences(typeof out === "string" ? out : JSON.stringify(out));
+  }
+  throw new Error("Model needs to wake up - try again in 3-5min.");
+}
+
+async function askAIAndSearch() {
+  const key      = (hfKeyInput?.value || "").trim();
+  const modelUI  = (hfModelInput?.value || "Seeds of Truth DeepSeek").trim();
+  const endpoint = HF_ENDPOINTS[modelUI] || HF_ENDPOINTS["Seeds of Truth DeepSeek"];
+  const q        = (questionEl?.value || "").trim();
+
+  aiAnswerEl.textContent = "";
+  setAIStatus("");
+
+  if (!q)   { setAIStatus("Please enter a question."); return; }
+  if (!key) { setAIStatus("Please paste your Hugging Face API key."); return; }
+
+  // start index boot in parallel
+  const bootP = ensureBoot();
+
+  askBtn && (askBtn.disabled = true);
+  setAIStatus("Asking model (this takes forever...)");
+  try {
+    const rawAnswer = await hfGenerate(
+      q,
+      endpoint,
+      key,
+      { maxNewTokens: 1048, temperature: 0.8, no_repeat_ngram_size: 4, repetition_penalty: 1.2 }
+    );
+
+    // Stop-token filter here
+    const answer = stripOnLiteralStops(rawAnswer, STOP_TOKENS);
+
+    // Show filtered text
+    aiAnswerEl.textContent = answer;
+
+    // Save filtered text for CSV/JSON
+    window.__lastAIAnswer = answer;
+    window.__lastQuestion = q;
+    window.__lastModel    = modelUI;
+
+    setAIStatus("Preparing index…");
+    await bootP;
+
+    if (!groupList) {
+      setAIStatus("Index failed to load. See console.");
+      console.error("groupList missing");
+      return;
+    }
+
+    setAIStatus("Searching…");
+    // Use filtered answer for retrieval too
+    await runSearch(answer);
+    setAIStatus("Done.");
+  } catch (e) {
+    console.error(e);
+    setAIStatus(`AI/search error: ${e.message || e}`);
+  } finally {
+    askBtn && (askBtn.disabled = false);
+  }
+}
+
+
+/* =========================
+   JSONBin config (REQUIRED)
+========================= */
+// For closed testing only
+const JSONBIN_API_BASE = "https://api.jsonbin.io/v3";
+const JSONBIN_BIN_ID   = "THE BIN ID";     // e.g. "66f3abcd1234567890fedcba"
+const JSONBIN_API_KEY  = "THE API KEY"; // starts with "ey..." or similar
+
+// A small name to tag the bin (not required if bin already exists)
+const JSONBIN_BIN_NAME = "SeedsOfTruth_AI_Test_Results";
+
+/* =========================
+   CSV header (unchanged)
+========================= */
+const CSV_HEADERS = [
+  "Test_number","Model","Question_text","Response_text",
+  "General_comment","Response_comment",
+  "Response_accuracy","Response_relevance","Response_style",
+  "Reference1_relevance","Reference1_comment",
+  "Reference2_relevance","Reference2_comment",
+  "Reference3_relevance","Reference3_comment",
+  "Reference4_relevance","Reference4_comment",
+  "Reference5_relevance","Reference5_comment",
+  "Reference6_relevance","Reference6_comment",
+  "Reference7_relevance","Reference7_comment",
+  "Reference8_relevance","Reference8_comment",
+  "Reference9_relevance","Reference9_comment",
+  "Reference10_relevance","Reference10_comment"
+];
+
+/* =========================
+   Helpers (reuse your existing ones)
+========================= */
+function sanitizeCell(v) {
+  if (v == null) return "";
+  return String(v).replace(/\r?\n+/g, " ").trim();
+}
+function hardLimit(s, max=7200){
+  if (!s) return "";
+  s = String(s);
+  return s.length > max ? (s.slice(0, max) + " …[truncated]") : s;
+}
+function stripHTML(s) {
+  const div = document.createElement('div');
+  div.innerHTML = s || '';
+  return (div.textContent || div.innerText || '').trim();
+}
+function valInt(sel) {
+  const v = sel?.value?.trim?.() || "";
+  return v ? parseInt(v, 10) : "";
+}
+
+/* =========================
+   Gather form values (reuse your collectors)
+========================= */
+function collectAIFeedback() {
+  const acc = document.getElementById('ai-acc');
+  const rel = document.getElementById('ai-rel');
+  const sty = document.getElementById('ai-sty');
+  const comment = document.getElementById('ai-comment')?.value || "";
+  const any = (acc?.value || rel?.value || sty?.value || comment.trim());
+  if (!any) return null;
+  return {
+    accuracy: acc ? valInt(acc) : null,
+    relevance: rel ? valInt(rel) : null,
+    style:     sty ? valInt(sty) : null,
+    comment:   comment || null
+  };
+}
+function collectRefFeedback(rows) {
+  return (rows || []).map((r, i) => {
+    const rel = document.querySelector(`.ref-rate[data-name="rel"][data-idx="${i}"]`);
+    const cmt = document.querySelector(`.ref-comment[data-idx="${i}"]`);
+    const feedbackEmpty = !(rel?.value || (cmt?.value || "").trim());
+    return {
+      ref_index: i,
+      source: r.source || "",
+      title:  r.title  || "",
+      url:    r.source || "",
+      snippet: r.snippet || "",
+      row_id:  r.row_id ?? null,
+      feedback: feedbackEmpty ? null : {
+        relevance: rel && rel.value ? parseInt(rel.value, 10) : null,
+        comment:   (cmt?.value || "").trim() || null
+      }
+    };
+  });
+}
+
+/* =========================
+   JSONBin I/O
+========================= */
+async function jsonbinGetAll() {
+  // Returns the latest full object stored in the bin (or {} if empty)
+  const r = await fetch(`${JSONBIN_API_BASE}/b/${JSONBIN_BIN_ID}/latest`, {
+    method: "GET",
+    headers: {
+      "X-Master-Key": JSONBIN_API_KEY,
+      "X-Bin-Meta": "false",
+      "Cache-Control": "no-cache"
+    }
+  });
+  if (r.status === 404) return {}; // bin exists but empty
+  if (!r.ok) throw new Error(`JSONBin GET failed ${r.status}: ${await r.text()}`);
+  const j = await r.json();
+  // v3 wraps the record under "record"
+  return j?.record ?? {};
+}
+
+async function jsonbinPutAll(newObj) {
+  // Fully replaces the bin’s record with newObj
+  const r = await fetch(`${JSONBIN_API_BASE}/b/${JSONBIN_BIN_ID}`, {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json",
+      "X-Master-Key": JSONBIN_API_KEY
+    },
+    body: JSON.stringify({ record: newObj, metadata: { name: JSONBIN_BIN_NAME } })
+  });
+  if (!r.ok) throw new Error(`JSONBin PUT failed ${r.status}: ${await r.text()}`);
+  return true;
+}
+
+/* =========================
+   Build a test record
+========================= */
+function buildTestRecord(nextTestNumber) {
+  const ai_feedback = collectAIFeedback();
+  const refs = Array.isArray(window.__lastResults) ? collectRefFeedback(window.__lastResults) : [];
+
+  const modelUI = (window.__lastModel || (document.getElementById('hfmodel')?.value || "")).trim();
+  const question = hardLimit(
+    (window.__lastQuestion || (document.getElementById('question')?.value || "")).trim(),
+    4000
+  );
+  const aiAnswerPlain = hardLimit(stripHTML(window.__lastAIAnswer || ""), 4000);
+
+  // Flatten the fields in the exact header order
+  const flatten = {};
+  flatten["Test_number"]       = String(nextTestNumber);
+  flatten["Model"]             = sanitizeCell(modelUI);
+  flatten["Question_text"]     = sanitizeCell(question);
+  flatten["Response_text"]     = sanitizeCell(aiAnswerPlain);
+  flatten["General_comment"]   = sanitizeCell(document.getElementById('gen-comment')?.value || "");
+  flatten["Response_comment"]  = sanitizeCell(document.getElementById('ai-comment')?.value || "");
+  flatten["Response_accuracy"] = sanitizeCell(ai_feedback?.accuracy  ?? "");
+  flatten["Response_relevance"]= sanitizeCell(ai_feedback?.relevance ?? "");
+  flatten["Response_style"]    = sanitizeCell(ai_feedback?.style     ?? "");
+
+  // Reference slots 1..10
+  for (let i = 0; i < 10; i++) {
+    const fb = refs[i]?.feedback || null;
+    flatten[`Reference${i+1}_relevance`] = sanitizeCell(fb?.relevance ?? "");
+    flatten[`Reference${i+1}_comment`]   = sanitizeCell(fb?.comment   ?? "");
+  }
+
+  return flatten;
+}
+
+/* =========================
+   Submit (upload to JSONBin)
+========================= */
+// Persist test counter across reloads (reuse your storage key)
+let TEST_COUNTER = parseInt(localStorage.getItem("sot_test_counter") || "0", 10) || 0;
+
+async function submitFeedbackJSONBin() {
+  const csvStatus = document.getElementById('csv-status');
+  try {
+    // increment and persist
+    TEST_COUNTER += 1;
+    localStorage.setItem("sot_test_counter", String(TEST_COUNTER));
+
+    // Build the row object following CSV_HEADERS mapping
+    const record = buildTestRecord(TEST_COUNTER);
+
+    if (csvStatus) csvStatus.textContent = "Syncing with JSONBin…";
+    // 1) read latest object
+    const all = await jsonbinGetAll();
+    // 2) upsert by test number (keyed as string)
+    all[String(TEST_COUNTER)] = record;
+    // 3) write back
+    await jsonbinPutAll(all);
+
+    if (csvStatus) csvStatus.textContent = `Uploaded test #${TEST_COUNTER} to JSONBin.`;
+  } catch (e) {
+    console.error(e);
+    const csvStatus = document.getElementById('csv-status');
+    if (csvStatus) csvStatus.textContent = `Upload failed: ${e.message || e}`;
+  }
+}
+
+/* =========================
+   Download as CSV (from JSONBin)
+========================= */
+function objectToPipeCSV(allObj) {
+  const rows = [CSV_HEADERS.join("|")];
+
+  // Sort by numeric Test_number
+  const items = Object.values(allObj || {});
+  items.sort((a,b) => (parseInt(a.Test_number||"0",10) - parseInt(b.Test_number||"0",10)));
+
+  for (const rec of items) {
+    const line = CSV_HEADERS.map(h => sanitizeCell(rec[h] ?? "")).join("|");
+    rows.push(line);
+  }
+  return rows.join("\n") + "\n";
+}
+
+async function downloadCSVFromJSONBin() {
+  const csvStatus = document.getElementById('csv-status');
+  try {
+    if (csvStatus) csvStatus.textContent = "Fetching results…";
+    const all = await jsonbinGetAll();
+    const csv = objectToPipeCSV(all);
+
+    const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+    const url  = URL.createObjectURL(blob);
+    const a    = document.createElement('a');
+    a.href = url;
+    a.download = "testresults.csv";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+
+    if (csvStatus) csvStatus.textContent = "CSV downloaded.";
+  } catch (e) {
+    console.error(e);
+    if (csvStatus) csvStatus.textContent = `Download failed: ${e.message || e}`;
+  }
+}
+
+/* =========================
+   Wire up your existing buttons
+========================= */
+
+document.getElementById('submit-feedback-top')?.addEventListener('click', submitFeedbackJSONBin);
+document.getElementById('download-csv')?.addEventListener('click', downloadCSVFromJSONBin);
+
+/* =========================
+   Wire up UI
+========================= */
+if (goBtn && qEl) { goBtn.addEventListener('click', () => runSearch(qEl.value.trim())); }
+if (qEl) {
+  qEl.addEventListener('keydown', (e) => { if (e.key === 'Enter' && !e.shiftKey) runSearch(qEl.value.trim()); });
+}
+if (askBtn) askBtn.addEventListener('click', askAIAndSearch);
+if (questionEl) {
+  questionEl.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) askAIAndSearch();
+  });
+}
+
+
+// Persist HF key/model UI
+try {
+  const savedKey = localStorage.getItem('hf_key');   if (savedKey && hfKeyInput) hfKeyInput.value = savedKey;
+  const savedMod = localStorage.getItem('hf_model'); if (savedMod && hfModelInput) hfModelInput.value = savedMod;
+} catch (_) {}
+hfKeyInput?.addEventListener('change', () => { try { localStorage.setItem('hf_key', hfKeyInput.value || ""); } catch(_){} });
+hfModelInput?.addEventListener('change', () => { try { localStorage.setItem('hf_model', hfModelInput.value || ""); } catch(_){} });
+
+/* =========================
+   Kick off (optional)
+========================= */
+// You can pre-boot if you want the index to warm immediately:
+// ensureBoot();
+</script>
+
+</body>
+</html>
