@@ -126,7 +126,7 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
         nonlocal num_pages_visited
 
         is_peers_family = False
-        if config.pattern_peers_family.match(url):
+        if config.pattern_peers_family.match(url) or url.startswith(start_url):
             depth_effective = 0  # Effective depth is how many hops from home domain(s)
             is_peers_family = True
             debug(f"URL is in Home Domain(s): {url}", flush=config.FLUSH_LOG)
