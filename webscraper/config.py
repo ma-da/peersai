@@ -35,8 +35,8 @@ MAX_DEPTH_CRAWL_LIMIT = 2
 PROGRESS_REPORT_N_PAGES = 25
 
 # settings used if we encounter a ratelimit response (http code 429)
-RATELIMIT_RETRIES = 3
-RATELIMIT_RETRY_TIME_SECS = 0.1
+RATELIMIT_RETRIES = 10
+RATELIMIT_RETRY_TIME_SECS = 10
 
 # crawler behavior
 ENABLE_PROCESS_PDFS = True          # for testing
@@ -52,8 +52,8 @@ CRAWLER_FETCH_REQUESTS = 1
 CRAWLER_FETCH_PLAYWRIGHT = 2
 
 # this is the fetch strategy that the crawler will use
-CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
-#CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_PLAYWRIGHT
+#CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_REQUESTS
+CRAWLER_FETCH_STRATEGY = CRAWLER_FETCH_PLAYWRIGHT
 
 # test url for testing pdf functionality
 TEST_PDF_URL = "https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf"
@@ -121,7 +121,10 @@ pattern_filter_list = re.compile(r"""
     abcnews\.go\.com           |
     example\.com               |
     example\.org               |
+    addtoany\.com              |
+    charityengine.\net         |
     rumble\.com                |
+    bit\.ly                    |
     redirect                   |
     sign-in                    |
     wa\.me                     |
