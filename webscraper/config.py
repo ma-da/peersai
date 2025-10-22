@@ -37,6 +37,7 @@ PROGRESS_REPORT_N_PAGES = 25
 # settings used if we encounter a ratelimit response (http code 429)
 RATELIMIT_RETRIES = 10
 RATELIMIT_RETRY_TIME_SECS = 10
+RATELIMIT_RETRY_TIME_INCR_SECS = 5
 
 # crawler behavior
 ENABLE_PROCESS_PDFS = True          # for testing

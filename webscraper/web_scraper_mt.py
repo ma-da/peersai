@@ -164,7 +164,8 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
 
             num_retries = 0
             while status_code == 429 and num_retries < config.RATELIMIT_RETRIES:  # handle relimiting
-                debug(f"Got rate limiting response 429. Will wait and retry for url: {url}")
+                backoff_time_secs = config.RATELIMIT_RETRY_TIME_SECS + num_retries * config.RATELIMIT_RETRY_TIME_INCR_SECS
+                debug(f"Got rate limiting response 429 by backing off for {backoff_time_secs} Will wait and retry for url: {url}.")
                 cleaned_url, status_code, content_type, content, was_cached = cache.get_cached_content_or_playwright_request(url, headers=config.headers, timeout=60000)
                 time.sleep(config.RATELIMIT_RETRY_TIME_SECS)
                 num_retries = num_retries + 1
