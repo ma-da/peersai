@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+import os
 
 # config.py
 # contains various project settings
@@ -19,6 +20,18 @@ LOGS_FOLDER_LOCATION = "./logs/"                            # Nate's setting
 
 # log file for scraper operations
 LOGS_NAME = "scraper.log"
+
+# Where raw HTML (or pre-fetched .html/.htm/.txt) lives
+HTML_INPUT_DIR = _p("html_raw")
+
+# Where source PDFs live
+PDF_INPUT_DIR = _p("pdf_raw")
+
+# Where cleaned .txt files should be written
+TEXT_OUTPUT_DIR = _p("clean_text")
+
+# Optional: where to stash rejected/garbled outputs (set to None to disable)
+REJECTED_OUTPUT_DIR = _p("rejected")
 
 # language setting for python function recursion depth
 PYTHON_RECURSION_DEPTH = 2000
@@ -133,4 +146,8 @@ pattern_filter_list = re.compile(r"""
     \.gov\b                    |  # any domain ending with .gov
     \.mil\b                       # military domains
 """, re.VERBOSE | re.IGNORECASE)
+
+def _p(*parts):
+    # helper to build paths under CORPUS_FOLDER_LOCATION (still works if you later switch to an absolute path)
+    return os.path.join(CORPUS_FOLDER_LOCATION, *parts)
 
