@@ -10,7 +10,7 @@ from collections import Counter
 from . import config as CFG
 from . import cleaning_utils as cu
 
-# --- You likely already have/know these; adapt calls to your current extractors ---
+# --- Adapt calls to your current extractors ---
 # HTML extractor example
 from . import content_filter  # your existing module
 # PDF extractor example
@@ -142,7 +142,6 @@ def build_parser() -> argparse.ArgumentParser:
         sp.add_argument("--dry-run", action="store_true", help="List work without writing files")
         sp.add_argument("--strip-headers", action="store_true", help="Remove repeated headers/footers in PDFs")
         sp.add_argument("--header-min-frac", type=float, default=0.6, help="Min fraction of pages a line must appear to be dropped")
-
 
     sp_html = sub.add_parser("html", help="Process HTML/TXT sources")
     add_common(sp_html)
