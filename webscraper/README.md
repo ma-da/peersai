@@ -18,12 +18,16 @@ To regenerate all missing txt files from corpus files:
 Directory paths are defined in webscraper/config.py. Override any of these with command-line flags (--input-dir, --output-dir, --rejected-dir).
 
 Example entries
+
 HTML_INPUT_DIR = "./corpus/html_raw"
+
 PDF_INPUT_DIR = "./corpus/pdf_raw"
+
 TEXT_OUTPUT_DIR = "./corpus/clean_text"
+
 REJECTED_OUTPUT_DIR = "./corpus/rejected"
 
-1. python -m venv .venv
+python -m venv .venv
 -Windows
 
 .venv\Scripts\activate
@@ -32,14 +36,14 @@ REJECTED_OUTPUT_DIR = "./corpus/rejected"
 
 source .venv/bin/activate
 
-3. From the repository root (peersai/):
+From the repository root (peersai/):
 pip install -U pip
 
 pip install -e .
 
 This registers the console script peersai-clean globally in your venv.
 
-4. Run commands:
+Run commands:
 
 peersai-clean --help
 
