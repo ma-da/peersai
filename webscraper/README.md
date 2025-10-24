@@ -23,18 +23,18 @@ PDF_INPUT_DIR = "./corpus/pdf_raw"
 TEXT_OUTPUT_DIR = "./corpus/clean_text"
 REJECTED_OUTPUT_DIR = "./corpus/rejected"
 
-1. ```python -m venv .venv
+1. python -m venv .venv
 -Windows
 .venv\Scripts\activate
 -macOS/Linux
 source .venv/bin/activate
-```
+
 2. From the repository root (peersai/):
-```pip install -U pip
-pip install -e .```
+pip install -U pip
+pip install -e .
 This registers the console script peersai-clean globally in your venv.
 3. Run commands:
-```
+
 peersai-clean --help
 Options:
 --input-dir PATH        Override input directory
@@ -48,4 +48,4 @@ Clean using defaults from config.py
 peersai-clean html
 peersai-clean pdf
 peersai-clean all
-```
+
