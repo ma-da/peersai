@@ -28,6 +28,7 @@ TEXT_OUTPUT_DIR = "./corpus/clean_text"
 REJECTED_OUTPUT_DIR = "./corpus/rejected"
 
 python -m venv .venv
+
 -Windows
 
 .venv\Scripts\activate
@@ -37,6 +38,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 From the repository root (peersai/):
+
 pip install -U pip
 
 pip install -e .
