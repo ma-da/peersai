@@ -7,14 +7,14 @@ from multiprocessing import cpu_count, Pool
 import re
 from collections import Counter
 
-from . import config as CFG
-from . import cleaning_utils as cu
+import config as CFG
+import cleaning_utils as cu
 
 # --- Adapt calls to your current extractors ---
 # HTML extractor example
-from . import content_filter  # your existing module
+import content_filter  # your existing module
 # PDF extractor example
-from . import pdf_fetcher     # your existing module
+import pdf_fetcher     # your existing module
 
 def ensure_dir(p: Path | None):
     if p:

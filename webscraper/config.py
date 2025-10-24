@@ -5,6 +5,10 @@ import os
 # config.py
 # contains various project settings
 
+def _p(*parts):
+    # helper to build paths under CORPUS_FOLDER_LOCATION (still works if you later switch to an absolute path)
+    return os.path.join(CORPUS_FOLDER_LOCATION, *parts)
+
 # Set your corpus location
 CORPUS_FOLDER_LOCATION = "./corpus/"                           # Nate's setting
 #CORPUS_FOLDER_LOCATION = "C:\\Users\\rames\\ai\\CrawlTest\\"  # Marc's setting
@@ -146,8 +150,4 @@ pattern_filter_list = re.compile(r"""
     \.gov\b                    |  # any domain ending with .gov
     \.mil\b                       # military domains
 """, re.VERBOSE | re.IGNORECASE)
-
-def _p(*parts):
-    # helper to build paths under CORPUS_FOLDER_LOCATION (still works if you later switch to an absolute path)
-    return os.path.join(CORPUS_FOLDER_LOCATION, *parts)
 
