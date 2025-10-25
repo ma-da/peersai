@@ -39,23 +39,32 @@ def process_single_html_file(src: Path, out_dir: Path, rej_dir: Path | None) -> 
         if rej_dir:
             (rej_dir / f"{src.stem}.reject.txt").write_text("", encoding="utf-8", newline="\n")
         return (src, False, f"error: {e}")
-
-def process_single_pdf_file(src: Path, out_dir: Path, rej_dir: Path | None) -> tuple[Path, bool, str]:
+# revised for header stripping
+def process_single_pdf_file(
+    src: Path,
+    out_dir: Path,
+    rej_dir: Path | None,
+    strip_headers: bool = False,
+    header_min_frac: float = 0.6,
+) -> tuple[Path, bool, str]:
     try:
         title, extracted = pdf_fetcher.extract_clean_pdf_text(str(src))
         if isinstance(extracted, (bytes, bytearray)):
             extracted = cu.detect_and_decode(extracted)
 
-        # get pages_count if available
         pages_count = None
         try:
             pages_count = pdf_fetcher.get_pages_count(str(src))
         except Exception:
             pass
 
-        clean = clean_pdf_text(extracted, pages_count=pages_count)
+        clean = clean_pdf_text(
+            extracted,
+            pages_count=pages_count,
+            strip_headers=strip_headers,
+            min_frac=header_min_frac,
+        )
 
-        # accept/reject gate identical to your snippet
         if not cu.has_natural_language_run(clean) or cu.is_garbled(clean):
             if rej_dir:
                 (rej_dir / f"{src.stem}.reject.txt").write_text(clean, encoding="utf-8", newline="\n")
@@ -136,18 +145,38 @@ def run_html(input_dir: Path, output_dir: Path, rejected_dir: Path | None, worke
             results = pool.starmap(process_single_html_file, [(p, output_dir, rejected_dir) for p in items])
     ok = sum(1 for _, s, _ in results if s)
     print(f"[HTML] {ok}/{len(items)} cleaned. Output: {output_dir}")
-
-def run_pdf(input_dir: Path, output_dir: Path, rejected_dir: Path | None, workers: int, dry_run: bool):
+# revised for header stripping    
+def run_pdf(
+    input_dir: Path,
+    output_dir: Path,
+    rejected_dir: Path | None,
+    workers: int,
+    dry_run: bool,
+    *,
+    strip_headers: bool = False,
+    header_min_frac: float = 0.6,
+):
     ensure_dir(output_dir); ensure_dir(rejected_dir)
     items = walk_inputs(input_dir, {".pdf"})
     if dry_run:
-        print(f"[DRY RUN] Would process {len(items)} PDFs from {input_dir} → {output_dir}")
+        print(f"[DRY RUN] Would process {len(items)} PDFs from {input_dir} → {output_dir} "
+              f"(strip_headers={strip_headers}, header_min_frac={header_min_frac})")
         return
+
     if workers <= 1:
-        results = [process_single_pdf_file(p, output_dir, rejected_dir) for p in items]
+        results = [
+            process_single_pdf_file(p, output_dir, rejected_dir,
+                                    strip_headers=strip_headers,
+                                    header_min_frac=header_min_frac)
+            for p in items
+        ]
     else:
+        from multiprocessing import Pool
         with Pool(processes=workers) as pool:
-            results = pool.starmap(process_single_pdf_file, [(p, output_dir, rejected_dir) for p in items])
+            results = pool.starmap(
+                process_single_pdf_file,
+                [(p, output_dir, rejected_dir, strip_headers, header_min_frac) for p in items]
+            )
     ok = sum(1 for _, s, _ in results if s)
     print(f"[PDF] {ok}/{len(items)} cleaned. Output: {output_dir}")
 
