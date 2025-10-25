@@ -15,7 +15,7 @@ import cleaning_utils as cu
 import content_filter  # your existing module
 # PDF extractor example
 import pdf_fetcher     # your existing module
-from . import epub_to_txt_conversion as epub_conv
+import epub_to_txt_conversion as epub_conv
 
 def ensure_dir(p: Path | None):
     if p:
@@ -70,16 +70,20 @@ def process_single_pdf_file(src: Path, out_dir: Path, rej_dir: Path | None) -> t
         return (src, False, f"error: {e}")
 
 def process_single_epub_file(src: Path, out_dir: Path, rej_dir: Path | None, min_par_len: int) -> tuple[Path, bool, str]:
+    #print(f"processing epub file {src}...")
     try:
         res = epub_conv.convert_epub_to_clean_text(src, min_paragraph_len=min_par_len)
         if res is None:
+            print(f"failed to process epub file {src}...")
             if rej_dir:
                 (rej_dir / f"{src.stem}.reject.txt").write_text("", encoding="utf-8", newline="\n")
             return (src, False, "rejected")
         title, clean = res
         (out_dir / f"{src.stem}.txt").write_text(clean, encoding="utf-8", newline="\n")
+        #print(f"successfully processed epub file {src}.")
         return (src, True, "ok")
     except Exception as e:
+        print(f"failed to process epub file {src}, exception {e}")
         if rej_dir:
             (rej_dir / f"{src.stem}.reject.txt").write_text("", encoding="utf-8", newline="\n")
         return (src, False, f"error: {e}")
@@ -116,6 +120,7 @@ def walk_inputs(root: Path, suffixes: set[str]) -> list[Path]:
     for p in root.rglob("*"):
         if p.is_file() and p.suffix.lower() in suffixes:
             files.append(p)
+    print(f"Found {len(files)} number of files to process")
     return files
 
 def run_html(input_dir: Path, output_dir: Path, rejected_dir: Path | None, workers: int, dry_run: bool):
@@ -243,8 +248,9 @@ def main(argv: list[str] | None = None):
 
     elif args.cmd == "pdf":
         # Ensure your run_pdf signature accepts these two extra params
-        run_pdf(pdf_in, out_dir, rej_dir, workers, dry_run,
-                strip_headers=strip_headers, header_min_frac=header_min_frac)
+        run_pdf(pdf_in, out_dir, rej_dir, workers, dry_run)
+        #run_pdf(pdf_in, out_dir, rej_dir, workers, dry_run,
+        #        strip_headers=strip_headers, header_min_frac=header_min_frac)
 
     elif args.cmd == "epub":
         # Ensure your run_epub accepts min_par_len
@@ -252,8 +258,9 @@ def main(argv: list[str] | None = None):
 
     elif args.cmd == "all":
         run_html(html_in, out_dir, rej_dir, workers, dry_run)
-        run_pdf(pdf_in,  out_dir, rej_dir, workers, dry_run,
-                strip_headers=strip_headers, header_min_frac=header_min_frac)
+        run_pdf(pdf_in, out_dir, rej_dir, workers, dry_run)
+        #run_pdf(pdf_in,  out_dir, rej_dir, workers, dry_run,
+        #        strip_headers=strip_headers, header_min_frac=header_min_frac)
         run_epub(epub_in, out_dir, rej_dir, workers, dry_run, min_par_len)
 
     else:
