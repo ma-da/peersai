@@ -31,6 +31,9 @@ HTML_INPUT_DIR = _p("html_raw")
 # Where source PDFs live
 PDF_INPUT_DIR = _p("pdf_raw")
 
+# Where source EPUBs live
+EPUB_INPUT_DIR = _p("epub_raw")  # e.g., ./corpus/epub_raw
+
 # Where cleaned .txt files should be written
 TEXT_OUTPUT_DIR = _p("clean_text")
 
