@@ -1,4 +1,5 @@
 import os
+import random
 import re
 
 import config
@@ -67,3 +68,13 @@ def init_working_dirs(output_dir):
     os.makedirs(config.LOGS_FOLDER_LOCATION, exist_ok=True)
     os.makedirs(config.DB_CACHE_LOCATION, exist_ok=True)
 
+def get_normal_traffic_headers():
+    header = {
+        'User-Agent': random.choice(config.USER_AGENTS),
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+    }
+    return header
