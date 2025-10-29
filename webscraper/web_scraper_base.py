@@ -33,7 +33,12 @@ def should_visit(url, depth_effective, visited_set):
         return False
 
     # don't process substack comments
-    if utils.is_substack_comment_page(url):
+    #if utils.is_substack_comment_page(url):
+    #    debug(f"Visit declined. Referred to substack comment: {url}", flush=config.FLUSH_LOG)
+    #    return False
+
+    # the following only pertains to substack urls – don't process comments
+    if "substack.com" in url and "comment" in url:
         debug(f"Visit declined. Referred to substack comment: {url}", flush=config.FLUSH_LOG)
         return False
 

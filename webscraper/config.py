@@ -146,6 +146,9 @@ pattern_filter_list = re.compile(r"""
     charityengine.\net         |
     rumble\.com                |
     bit\.ly                    |
+    thegoodinside\.com         |
+    mailto                     |
+    downloads                  |
     redirect                   |
     sign-in                    |
     wa\.me                     |

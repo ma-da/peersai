@@ -170,6 +170,45 @@ def init_db(db_path=config.DB_CACHE_PATH):
     ''')
 
     conn.close()
+    print("Init_db called")
+
+def table_exists(table_name: str, db_path=config.DB_CACHE_PATH) -> bool:
+    """
+    Check if a table exists in an SQLite database.
+
+    Parameters
+    ----------
+    db_path : str
+        Path to the SQLite database file.
+    table_name : str
+        Name of the table to check.
+
+    Returns
+    -------
+    bool
+        True if the table exists, False otherwise.
+    """
+    try:
+        # Connect to the database
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+
+        # Query sqlite_master for the table
+        cursor.execute(
+            "SELECT name FROM sqlite_master WHERE type='table' AND name=?;",
+            (table_name,)
+        )
+        result = cursor.fetchone()
+
+        # Close connection
+        conn.close()
+
+        # Return True if a result was found, False otherwise
+        return result is not None
+
+    except sqlite3.Error as e:
+        print(f"Database error: {e}")
+        return False
 
 def clear_cache(db_path=config.DB_CACHE_PATH, delete_db=False):
     if delete_db and os.path.exists(db_path):
@@ -280,12 +319,17 @@ def delete_pending_url_from_db(url, db_path=config.DB_CACHE_PATH):
         conn.commit()
 
 def load_pending_urls_from_db(url_queue, db_path=config.DB_CACHE_PATH):
+    initial_size = url_queue.qsize()
     with sqlite3.connect(db_path) as conn:
         cursor = conn.execute('SELECT url, depth_actual, depth_effective FROM url_queue')
         rows = cursor.fetchall()
         # populate the url_queue
         for url, depth_actual, depth_effective in rows:
             url_queue.put((url, depth_actual, depth_effective))
+
+        new_size = url_queue.qsize()
+        added_size = new_size - initial_size
+        error(f"load_pending_urls_from_db() got {added_size} pending entries from db")
 
 def clear_pending_url_queue_db(db_path=config.DB_CACHE_PATH):
     with sqlite3.connect(db_path) as conn:

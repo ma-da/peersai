@@ -22,6 +22,7 @@ def ensure_dir(p: Path | None):
         p.mkdir(parents=True, exist_ok=True)
 
 def process_single_html_file(src: Path, out_dir: Path, rej_dir: Path | None) -> tuple[Path, bool, str]:
+    print(f"processing html file {src}...")
     try:
         raw = src.read_bytes()
         decoded = cu.detect_and_decode(raw)
@@ -36,9 +37,11 @@ def process_single_html_file(src: Path, out_dir: Path, rej_dir: Path | None) -> 
         (out_dir / f"{src.stem}.txt").write_text(clean, encoding="utf-8", newline="\n")
         return (src, True, "ok")
     except Exception as e:
+        print(f"failed to process html file {src}, exception {e}")
         if rej_dir:
             (rej_dir / f"{src.stem}.reject.txt").write_text("", encoding="utf-8", newline="\n")
         return (src, False, f"error: {e}")
+
 # revised for header stripping
 def process_single_pdf_file(
     src: Path,
@@ -47,6 +50,7 @@ def process_single_pdf_file(
     strip_headers: bool = False,
     header_min_frac: float = 0.6,
 ) -> tuple[Path, bool, str]:
+    print(f"processing pdf file {src}...")
     try:
         title, extracted = pdf_fetcher.extract_clean_pdf_text(str(src))
         if isinstance(extracted, (bytes, bytearray)):
@@ -61,8 +65,8 @@ def process_single_pdf_file(
         clean = clean_pdf_text(
             extracted,
             pages_count=pages_count,
-            strip_headers=strip_headers,
-            min_frac=header_min_frac,
+            #strip_headers=strip_headers,
+            #min_frac=header_min_frac,
         )
 
         if not cu.has_natural_language_run(clean) or cu.is_garbled(clean):
@@ -74,12 +78,13 @@ def process_single_pdf_file(
         return (src, True, "ok")
 
     except Exception as e:
+        print(f"failed to process pdf file {src}, exception {e}")
         if rej_dir:
             (rej_dir / f"{src.stem}.reject.txt").write_text("", encoding="utf-8", newline="\n")
         return (src, False, f"error: {e}")
 
 def process_single_epub_file(src: Path, out_dir: Path, rej_dir: Path | None, min_par_len: int) -> tuple[Path, bool, str]:
-    #print(f"processing epub file {src}...")
+    print(f"processing epub file {src}...")
     try:
         res = epub_conv.convert_epub_to_clean_text(src, min_paragraph_len=min_par_len)
         if res is None:

@@ -2,6 +2,7 @@
  PEERS AI Project Multi-threaded Website Scraper (WantToKnowScraper)
  The following is an implementation of the webscraper that is fully multi-threaded.
 """
+import argparse
 import queue
 import threading
 import time
@@ -29,7 +30,7 @@ from web_scraper_base import *
 NUM_WORKERS = 12
 
 # Multithreaded version of crawl_site()
-def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=True):
+def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=True, only_process_root=False):
     init_working_dirs(output_dir)
 
     # visited tracks the urls we have visited
@@ -248,6 +249,10 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
                             # Remove the hash and the following alphanumeric (or dash) characters at the end of the string (if any)
                             child_url = re.sub(config.pattern_hash_url, '', child_url)
 
+                            if only_process_root and not child_url.startswith(start_url):
+                                debug(f"Skipping level one url {child_url} because only_process_root is enabled")
+                                continue
+
                             # if full_url not in visited and full_url <> url:
                             # Previous - if full_url not in visited:
                             if should_visit(child_url, child_depth, visited):
@@ -346,17 +351,23 @@ def crawl_site(start_url, output_dir, max_depth=2, max_pages=-1, refresh_queue=T
     output_msg = "\n** Parallel web crawl finished, visited num pages: " + str(num_pages_visited)
     error(output_msg)  # just stderr
 
+def build_parser() -> argparse.ArgumentParser:
+   p = argparse.ArgumentParser(
+       prog="web_scraper_mt",
+       description="A webcrawler for downloading and fetching content"
+   )
+   p.add_argument("-s", "--start_url", type=str, help="Optionally, specify the start url", default="")
+   p.add_argument("-m", "--max_pages", type=int, help="Optionally, specify the max pages to crawl", default=-1)
+   p.add_argument("-r", "--root_page", type=int, help="Optionally, if set to 1, only crawls start_url", default=0)
+   p.add_argument("-c", "--clear_cache", type=int, help="Optionally, if set to 1, clears out any cache downloaded entries", default = 0)
 
-def main():
-    cache.init_db()
+   return p
 
-    if config.FLUSH_CACHE_ON_START:
-        cache.clear_cache()
-
-    # start_url
-    start_url = "http://www.momentoflove.org"
+def main(argv: list[str]):
+    args = build_parser().parse_args(argv)
 
     # config settings
+    start_url = "http://www.momentoflove.org"
     corpus_location = config.CORPUS_FOLDER_LOCATION
     log_location = config.LOGS_FOLDER_LOCATION
     log_file = log_location + config.LOGS_NAME
@@ -368,29 +379,58 @@ def main():
     file = open(log_file, "w")  # use 'a' for append, 'w' for overwrite
     sys.stdout = file
 
+    start_url_arg = getattr(args, "start_url")
+    if len(start_url_arg) > 0:
+        if not start_url_arg.startswith("http://") and not start_url_arg.startswith("https://"):
+            start_url_arg = "http://" + start_url_arg
+        start_url = start_url_arg
+        error(f"Override start url {start_url}")
+
+    max_pages = getattr(args, "max_pages")
+    if max_pages > 0:
+        error(f"Crawling only {max_pages} number of pages before stopping.")
+
+    should_clear_cache = getattr(args, "clear_cache")
+    if should_clear_cache == 1:
+        refresh_queue = False
+        error(f"forcing downloads cache clear")
+
+    only_process_root = False
+    root_page_arg = getattr(args, "root_page")
+    if root_page_arg == 1:
+        only_process_root = True
+        error(f"crawling only the root start url {start_url}")
+
+    cache.init_db()
+    assert cache.table_exists("downloads")
+
+    if config.FLUSH_CACHE_ON_START or should_clear_cache == 1:
+        cache.clear_cache()
+        print("Clearing cache prior to start")
+
     # process commandline
     # Optional 1st arg – start crawl with given url
     # Optional 2nd arg - max pages to crawl
-    n = len(sys.argv)
-    error(f"CMD # {n}")
-    if n > 1:
-        cmd_url = sys.argv[1]
-        if not cmd_url.startswith("http://") and not cmd_url.startswith("https://"):
-            cmd_url = "http://" + cmd_url
-        start_url = cmd_url
-        refresh_queue = False
-        error(f"Override start url {start_url}")
+    #n = len(sys.argv)
+    #error(f"CMD # {n}")
+    #if n > 1:
+    #    cmd_url = sys.argv[1]
+    #    if not cmd_url.startswith("http://") and not cmd_url.startswith("https://"):
+    #        cmd_url = "http://" + cmd_url
+    #    start_url = cmd_url
+    #    refresh_queue = False
+    #    error(f"Override start url {start_url}")
 
-    if n > 2:
-        max_pages_cmd = int(sys.argv[2])
-        error(f"Found new max_pages to crawl setting {max_pages_cmd}")
-        max_pages = max_pages_cmd
+    #if n > 2:
+    #    max_pages_cmd = int(sys.argv[2])
+    #    error(f"Found new max_pages to crawl setting {max_pages_cmd}")
+    #    max_pages = max_pages_cmd
 
     sys.setrecursionlimit(config.PYTHON_RECURSION_DEPTH)  # Is this truly necessary? Why wasn't 1000 enough?
 
     error(f"*** CRAWL SITE BEGIN at url: {start_url}")  # just stderr logging
 
-    crawl_site(start_url, corpus_location, max_depth, max_pages, refresh_queue)
+    crawl_site(start_url, corpus_location, max_depth, max_pages, refresh_queue, only_process_root)
 
     #crawl_site("http://www.wanttoknow.info", corpus_location, max_depth, max_pages)
     #crawl_site("http://www.momentoflove.org", corpus_location, max_depth, max_pages)
@@ -415,4 +455,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])
