@@ -57,7 +57,7 @@ PROGRESS_REPORT_N_PAGES = 25
 # settings used if we encounter a ratelimit response (http code 429)
 RATELIMIT_RETRIES = 10
 RATELIMIT_RETRY_TIME_SECS = 10
-RATELIMIT_RETRY_TIME_INCR_SECS = 5
+RATELIMIT_RETRY_TIME_INCR_SECS = 15
 
 # crawler behavior
 ENABLE_PROCESS_PDFS = True          # for testing
@@ -154,6 +154,7 @@ pattern_filter_list = re.compile(r"""
     rumble\.com                |
     bit\.ly                    |
     thegoodinside\.com         |
+    default\.aspx              |
     mailto                     |
     downloads                  |
     redirect                   |
@@ -164,3 +165,4 @@ pattern_filter_list = re.compile(r"""
     \.mil\b                       # military domains
 """, re.VERBOSE | re.IGNORECASE)
 
+comment_n_pattern = re.compile(r'/comment/\d+$')
