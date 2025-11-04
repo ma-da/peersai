@@ -43,9 +43,13 @@ def should_visit(url, depth_effective, visited_set):
         debug(f"Visit declined. Referred to substack comment: {url}", flush=config.FLUSH_LOG)
         return False
 
+    # some substacks use a custom domain that doesn't have substack.com in the url. check for this comment text.
+    if "_comment_" in url or url.endswith("/comments") or config.comment_n_pattern.search(url):
+        debug(f"Visit declined. Referred to potential substack comment: {url}", flush=config.FLUSH_LOG)
+        return False
+
     debug(f"Accepted visit url {url} depth {depth_effective}", flush=config.FLUSH_LOG)
     return True
-
 
 def should_process_child_links(depth_effective, is_peers_family, max_depth):
     # don't stray too far from home domain(s)
