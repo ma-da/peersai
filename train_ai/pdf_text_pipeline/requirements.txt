@@ -1,0 +1,5 @@
+pdfminer.six
+pytesseract
+pillow
+pdf2image
+python-poppler==0.7.2 ; platform_system != 'Windows'
