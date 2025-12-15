@@ -1,0 +1,102 @@
+Seeds of Truth UI ↔ Flask (app.py) integration points
+==================================================
+
+This file lists JavaScript functions in app.js intended to call into the Flask backend (app.py),
+including expected inputs and outputs. Adjust endpoint paths and response schemas to match your app.py.
+
+1) apiChat(payload) -> Promise<object>
+-------------------------------------
+Purpose:
+  Send a user message + context to Flask for inference/search/A-B testing.
+
+Inputs:
+  payload (object):
+    {
+      message: string,
+      mode: "chat" | "search" | "ab",
+      history_turns: number,        // 0..5
+      context: Array<{ user: string, assistant: string }>
+    }
+
+Network:
+  POST /api/chat
+  Content-Type: application/json
+
+Expected output (examples):
+  - chat mode:
+      { reply: string, references?: Array<Reference> }
+  - search mode:
+      { message?: string, references: Array<Reference> }
+  - ab mode:
+      { a: string, b: string, labelA?: string, labelB?: string, references?: Array<Reference> }
+
+Reference type used by UI:
+  Reference = { title?: string, snippet?: string, source?: string, url?: string }
+
+2) apiSubmitFeedback(payload) -> Promise<object>
+------------------------------------------------
+Purpose:
+  Submit feedback for a response or a reference.
+
+Inputs:
+  payload (object):
+    {
+      target: {
+        type: "response" | "reference" | "unknown",
+        id: string | null,
+        snippet: string
+      },
+      ratings: {
+        relevance: number,         // 1..10
+        accuracy?: number,         // 1..10 (present for response feedback only)
+        style?: number             // 1..10 (present for response feedback only)
+      },
+      comments: string,
+      createdAt: number            // epoch ms
+    }
+
+Network:
+  POST /api/feedback
+  Content-Type: application/json
+
+Expected output:
+  { ok: true }  (or { ok: false, error: string })
+
+3) apiStatus() -> Promise<object>
+---------------------------------
+Purpose:
+  Poll endpoint status for the sidebar readiness indicator.
+
+Network:
+  GET /api/status
+
+Expected output (example):
+  {
+    status: "off" | "starting" | "ready" | "unknown",
+    message?: string
+  }
+
+UI mapping:
+  status -> setEndpointStatus(status)
+
+4) apiQueue() -> Promise<object>
+--------------------------------
+Purpose:
+  Poll queue depth (queries in line) for ETA display.
+
+Network:
+  GET /api/queue
+
+Expected output (example):
+  { queries_in_line: number }
+
+UI mapping:
+  queries_in_line -> setQueueStatus(queries_in_line)
+
+Notes
+-----
+- In app.js, all 4 wrappers exist but only apiChat is referenced in commented "real behavior" code.
+- When you enable server calls, uncomment:
+    - apiChat(...) section inside handleChatSubmit()
+    - apiSubmitFeedback(...) call inside submitFeedback()
+- You can merge /api/status and /api/queue into a single endpoint if preferred.
