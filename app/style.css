@@ -137,6 +137,61 @@ body.light .brand-icon{
 
 body.light .brand-subtitle{ color: var(--muted-light); }
 
+/* Lock button*/
+.lock-btn{
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999;
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  background: rgba(15,23,42,0.95);
+  color: var(--text-dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body.light .lock-btn{
+  background: #fff;
+  color: var(--accent);
+}
+
+#lock-btn.unlocked{
+  color: #16a34a; /* Tailwind green-600 */
+}
+
+#lock-btn:disabled{
+  opacity: 0.85;
+  cursor: default;
+  pointer-events: none; /* belt + suspenders */
+}
+
+body.light .lock-btn:hover{ background: var(--accent); color:#fff; }
+.lock-btn:hover{ background: var(--accent); color:#fff; }
+
+.lock-modal{ position: fixed; inset:0; z-index:9998; background: rgba(0,0,0,0.55);
+  display:none; align-items:center; justify-content:center; padding:20px; }
+.lock-modal.open{ display:flex; }
+
+.lock-card{ width:min(420px,100%); border-radius:16px; border:1px solid rgba(148,163,184,0.45);
+  background: rgba(15,23,42,0.96); color: var(--text-dark); padding:16px; position:relative; }
+body.light .lock-card{ background:#fff; color: var(--text-light); }
+
+.lock-close{ position:absolute; top:10px; right:10px; width:28px; height:28px;
+  border-radius:999px; border:none; background:transparent; cursor:pointer; font-size:18px; color:inherit; }
+.lock-label{ display:block; font-size:13px; margin-bottom:8px; font-weight:650; }
+.lock-row{ display:flex; gap:8px; align-items:center; }
+.lock-input{ flex:1; height:36px; border-radius:10px; border:1px solid rgba(148,163,184,0.55);
+  padding:0 10px; background: rgba(2,6,23,0.55); color: var(--text-dark); outline:none; }
+body.light .lock-input{ background:#fff; color: var(--text-light); }
+.lock-enter{ height:36px; border-radius:10px; border:none; padding:0 12px; cursor:pointer;
+  background: var(--accent); color:#fff; font-weight:700; }
+.lock-msg{ margin-top:10px; font-size:12px; min-height:16px; }
+
+
 /* Brand title as clickable button */
 .brand-title-btn{
   border: none;
@@ -683,7 +738,12 @@ body.light .input-wrapper{
   align-items: center;
 }
 
-/* Tools (left) button */
+.input-area-wrap{
+  position: relative;
+  flex: 1;
+}
+
+/* Tools button (inset inside textarea) */
 .tools-button{
   border-radius: 48px;
   background: rgba(15,23,42,0.95);
@@ -699,46 +759,63 @@ body.light .tools-button{
   background: #ffffff;
   color: var(--text-light);
 }
-body.light .tools-button:hover{ background: black; }
 
-/* Legacy inline save button (kept) */
-.save-inline-btn{
-  width: 40px;
-  height: 40px;
-  border-radius: 8px;
-  border: 1px solid rgba(148,163,184,0.5);
-  background: #ffffff;
-  color: var(--accent-dark);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  flex-shrink: 0;
+/* Make tools button behave like an inset control */
+.tools-button--inset{
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 32px;
+  height: 32px;
+  z-index: 4;
 }
-
-/* NOTE: this exists in your original styles (kept as-is) */
-body.light{
-  background: #ffffff;
-  color: #020617;
-}
-
-.save-inline-btn:hover{
+/* Unified hover behavior (dark + light) */
+.tools-button--inset:hover{
   background: var(--accent);
-  color: #ffffff;
+  color: #fff;
 }
 
-.save-icon{ display: block; }
-
-.input-area-wrap{
-  position: relative;
-  flex: 1;
+/* Explicit light-mode override (same result, higher specificity) */
+body.light .tools-button--inset:hover{
+  background: var(--accent);
+  color: #fff;
 }
+
+/* Normalize tools button visuals */
+.tools-button,
+.tools-button--inset{
+  border: none;
+  outline: none;
+  box-shadow: none;
+  background-clip: padding-box;
+}
+
+/* Prevent “tan arc” blobs from tools popup */
+.tools-popup{
+  overflow: hidden;
+  isolation: isolate; /* keeps child z-index stacking contained */
+}
+
+/* If a decorative pseudo-element exists, kill it */
+.tools-popup::before,
+.tools-popup::after{
+  content: none !important;
+  display: none !important;
+}
+
+/* If it’s a drop-shadow creating a huge colored arc */
+.tools-popup{
+  filter: none !important;
+}
+
 
 .chat-input{
   width: 100%;
+  overflow-y: hidden;
   border-radius: 48px;
   border: 1px solid rgba(148,163,184,0.7);
-  padding: 18px 40px 18px 10px;
+  padding: 18px 40px 18px 50px; /* ✅ left padding makes room for tools button */
   font-size: 14px;
   background: rgba(15,23,42,0.95);
   color: var(--text-dark);
@@ -768,6 +845,7 @@ body.light .chat-input{
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  z-index: 4;
 }
 .send-button:disabled{
   background: var(--hover);
@@ -775,15 +853,27 @@ body.light .chat-input{
 }
 .send-button:hover{ background: var(--panel-muted-dark); }
 
-/* Input note */
+/* Input note row: keep helper text centered and actions on right */
 .input-note{
   margin-top: 6px;
   font-size: 11px;
-  text-align: center;
   color: var(--muted-dark);
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 body.light .input-note{ color: var(--muted-light); }
 
+.note-text{
+  flex: 1;
+  text-align: center;
+}
+
+.note-actions{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
 
 /* ==========================================================================
    9) TOOLS POPUP
@@ -795,7 +885,7 @@ body.light .input-note{ color: var(--muted-light); }
   width: 260px;
   background: rgba(15,23,42,0.96);
   border-radius: 8px;
-  border: 1px solid rgba(148,163,184,0.6);
+  border: 1px solid rgba(148,163,184,0.6);  
   padding: 8px;
   font-size: 12px;
   display: none;
@@ -872,37 +962,57 @@ body.light .tools-divider{ background: rgba(148,163,184,0.55); }
   pointer-events: none;
 }
 .segmented label{
-  border: 1px solid rgba(148,163,184,0.6);
+  border: 1px solid rgba(148,163,184,0.6);   /* add a real border */
   border-radius: 10px;
+  position: relative;
   padding: 8px 8px;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   cursor: pointer;
   user-select: none;
   background: rgba(148,163,184,0.12);
+  color: inherit;
+  transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease;
 }
-body.light .segmented label{ background: rgba(148,163,184,0.18); }
 
+/* selected */
 .segmented input:checked + label{
-  border-color: rgba(5,150,105,0.85);
-  background: rgba(5,150,105,0.18);
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
 }
-body.light .segmented input:checked + label{
-  background: rgba(5,150,105,0.14);
+
+/* hover */
+.segmented label:hover{
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
 }
+
+/* UI bump */
+.segmented input:focus-visible + label{
+  outline: 2px solid rgba(5,150,105,0.35);
+  outline-offset: 2px;
+}
+
 
 /* Slider customize */
+/* Slider customize (safe in Chrome/Safari/Firefox) */
 .tools-range{
   -webkit-appearance: none;
   appearance: none;
   width: 100%;
-  height: 6px;
+  height: 16px;       /* gives room for thumb */
   background: transparent;
   outline: none;
+  padding: 0;
+  margin: 0;
 }
+
+/* Track */
 .tools-range::-webkit-slider-runnable-track{
   height: 6px;
-  background: rgba(148,163,184,0.4); /* unfilled track */
+  background: rgba(148,163,184,0.4);
   border-radius: 999px;
 }
 .tools-range::-moz-range-track{
@@ -910,6 +1020,15 @@ body.light .segmented input:checked + label{
   background: rgba(148,163,184,0.4);
   border-radius: 999px;
 }
+
+/* Filled portion (Firefox supports this directly) */
+.tools-range::-moz-range-progress{
+  height: 6px;
+  background: var(--accent);
+  border-radius: 999px;
+}
+
+/* Thumb */
 .tools-range::-webkit-slider-thumb{
   -webkit-appearance: none;
   appearance: none;
@@ -917,31 +1036,39 @@ body.light .segmented input:checked + label{
   height: 16px;
   border-radius: 50%;
   background: var(--accent);
-  border: none; /* remove thumb border */
-  box-shadow: -1000px 0 0 1000px var(--accent);
+  border: none;
+  box-shadow: none;     /* ✅ important: removes the giant blob */
   cursor: pointer;
-  margin-top: -5px; /* centers thumb vertically */
-}
-.tools-range::-moz-range-progress{
-  height: 6px;
-  background: var(--accent);
-  border-radius: 999px;
+  margin-top: -5px;     /* centers thumb on 6px track */
 }
 .tools-range::-moz-range-thumb{
   width: 16px;
   height: 16px;
   border-radius: 50%;
   background: var(--accent);
-  border: none; /* remove thumb border */
+  border: none;
   cursor: pointer;
 }
-.tools-range::-webkit-slider-thumb:focus{ outline: none; }
-.tools-range::-moz-range-thumb:focus{ outline: none; }
+
 .tools-range:focus{ outline: none; }
+
+/* WebKit fill using background gradient on the range element */
+.tools-range{
+  background: linear-gradient(
+    to right,
+    var(--accent) 0%,
+    var(--accent) var(--fill, 0%),
+    rgba(148,163,184,0.4) var(--fill, 0%),
+    rgba(148,163,184,0.4) 100%
+  );
+  border-radius: 999px;
+  height: 6px;
+}
+
 
 /* Tools "+" glyph */
 .tools-plus{
-  font-size: 20px;
+  font-size: 24px;
   color: var(--accent);
   font-weight: 900;
   line-height: 1;
@@ -1021,23 +1148,32 @@ body.light .recent-delete:hover{ background: rgba(148,163,184,0.35); }
    ========================================================================== */
 /* Input note layout */
 .input-note{
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
+  display: flex;
   align-items: center;
   gap: 10px;
+  margin-top: 6px;
+  font-size: 11px;
+  color: var(--muted-dark);
 }
 
+body.light .input-note{ color: var(--muted-light); }
+
+/* Center the note text visually across the full row */
 .note-text{
-  justify-self: center;
+  flex: 1;                 /* takes remaining space */
   text-align: center;
+  padding-left: 44px;      /* reserve space so text stays centered despite right icons */
+  padding-right: 44px;     /* symmetrical reserve */
 }
 
+/* Keep icons pinned to the far right */
 .note-actions{
-  justify-self: end;
+  margin-left: auto;
   display: inline-flex;
   align-items: center;
   gap: 2px;
 }
+
 
 .note-spacer{
   justify-self: start;
@@ -1462,7 +1598,7 @@ body.light .fb-btn{ background: rgba(148,163,184,0.18); }
 
 
 /* ==========================================================================
-   14) REFERENCE + AB TEST LAYOUT TWEAKS (YOUR OVERRIDES)
+   14) REFERENCE + AB TEST LAYOUT 
    ========================================================================== */
 /* These are your later overrides — kept and grouped here. */
 .ref-card{
@@ -1555,6 +1691,116 @@ body.sidebar-collapsed .sidebar-open-btn{
   font-weight: 800;
   opacity: 0.85;
   margin-bottom: 6px;
+}
+
+/* A/B panel header/footer rows */
+.ab-head{
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.ab-actions{
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ab-footer{
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Select button (match your UI vibe) */
+.ab-select-btn{
+  border-radius: 10px;
+  padding: 8px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  border: 1px solid rgba(148,163,184,0.55);
+  background: rgba(148,163,184,0.12);
+  color: inherit;
+}
+
+.ab-select-btn{ background: rgba(148,163,184,0.18); }
+
+/* hover */
+.ab-select-btn:hover{
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* Selected state */
+.ab-panel.selected{
+  border-color: rgba(5,150,105,0.85);
+  background: rgba(5,150,105,0.12);
+}
+.ab-panel.selected .ab-select-btn{
+  border-color: rgba(5,150,105,0.85);
+  background: rgba(5,150,105,0.18);
+}
+.ab-panel.selected .ab-select-btn:hover{
+  background: rgba(5,150,105,0.24);
+}
+
+/* Fullscreen overlay, does not capture clicks */
+#click-distort{
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* The circular "lens" we spawn */
+.click-lens{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  margin-left: -90px;
+  margin-top: -90px;
+  border-radius: 999px;
+  overflow: hidden;
+
+  /* Frosted lens look (optional but helps sell distortion) */
+  backdrop-filter: blur(0.5px);
+  -webkit-backdrop-filter: blur(0.5px);
+
+  /* The actual distortion */
+  filter: url(#sot-displace);
+
+  /* Fade + scale */
+  transform: scale(0.95);
+  opacity: 0;
+  transition: opacity 160ms ease, transform 220ms ease;
+}
+
+/* Visible state */
+.click-lens.on{
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Shockwave ring */
+.click-ring{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  margin-left: -90px;
+  margin-top: -90px;
+  border-radius: 999px;
+  border: 2px solid currentColor;
+  opacity: 0.05;
+  transform: scale(0.6);
+  transition: transform 420ms ease, opacity 420ms ease;
+}
+
+/* Expand ring */
+.click-ring.on{
+  transform: scale(1.25);
+  opacity: 0;
 }
 
 
@@ -1654,3 +1900,4 @@ body.sidebar-collapsed .sidebar-open-btn{
 
   .overlay.visible{ display: block; }
 }
+
