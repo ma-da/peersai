@@ -1,4 +1,5 @@
 // app.js — Seeds of Truth UI logic
+
 'use strict';
 
 /* =========================================================
@@ -24,37 +25,47 @@ const CFG = {
   DEFAULT_HISTORY_TURNS: 2,    // 0..5
   DEFAULT_MODE: 'chat',        // 'search' | 'chat' | 'ab'
   TEXTAREA_MAX_HEIGHT: 140,    // px
-  STUB_DELAY_MS: 500,          // ms
 
-  // Flask endpoints (adjust to match app.py)
+  // Polling
+  STATUS_POLL_MS: 15000,
+  QUEUE_POLL_MS: 15000,
+
+  // Flask endpoints
   API: {
+    UNLOCK: '/api/unlock',
+    ACCESS: '/api/access',
+    SEARCH: '/api/search',
     CHAT: '/api/chat',
+    AB: '/api/ab',
     FEEDBACK: '/api/feedback',
     STATUS: '/api/status',
-    QUEUE: '/api/queue'
+    QUEUE: '/api/queue',
+    PING: '/api/ping'
   }
 };
 
 /* =========================================================
    1) DOM LOOKUPS (set in init)
    ========================================================= */
-const els = {};   // populated in initDom()
+const els = {}; // populated in initDom()
 
 /* =========================================================
    2) STATE
    ========================================================= */
 const toolState = {
-  historyTurns: CFG.DEFAULT_HISTORY_TURNS,   // 0-5
-  mode: CFG.DEFAULT_MODE                      // 'search' | 'chat' | 'ab'
+  historyTurns: CFG.DEFAULT_HISTORY_TURNS,
+  mode: CFG.DEFAULT_MODE
 };
 
 // client-side turns: { user: string, assistant: string }
 const convoTurns = [];
-
 let botMsgCounter = 0;
 
-// Feedback modal state
-let feedbackTarget = null; // { type, id, snippet }
+// feedback modal state
+let feedbackTarget = null;
+
+// lock gate
+let isUnlocked = false;
 
 /* =========================================================
    3) UTILITIES
@@ -171,11 +182,8 @@ function modalAlert({
    5) THEME
    ========================================================= */
 function applyTheme(mode) {
-  if (mode === 'light') {
-    els.body.classList.add('light');
-  } else {
-    els.body.classList.remove('light');
-  }
+  if (mode === 'light') els.body.classList.add('light');
+  else els.body.classList.remove('light');
   try { localStorage.setItem(CFG.LS_THEME, mode); } catch (_) {}
 }
 
@@ -189,8 +197,8 @@ function initTheme() {
 
   els.themeToggleButtons.forEach(btn => {
     btn.addEventListener('click', () => {
-      const isLight = els.body.classList.contains('light');
-      applyTheme(isLight ? 'dark' : 'light');
+      const isLightNow = els.body.classList.contains('light');
+      applyTheme(isLightNow ? 'dark' : 'light');
     });
   });
 }
@@ -251,6 +259,11 @@ function renderToolState() {
   if (els.historyValue) els.historyValue.textContent = String(toolState.historyTurns);
   if (els.historyHelpN) els.historyHelpN.textContent = String(toolState.historyTurns);
 
+  // if locked, force search
+  if (!isUnlocked && (toolState.mode === 'chat' || toolState.mode === 'ab')) {
+    toolState.mode = 'search';
+  }
+
   const id =
     toolState.mode === 'search' ? 'mode-search' :
     toolState.mode === 'ab'     ? 'mode-ab' :
@@ -289,15 +302,27 @@ function initToolsPopup() {
     });
   }
 
-  // radios change (expects value 'search'|'chat'|'ab')
+  // radios change
   if (els.modeRadios && els.modeRadios.length) {
     els.modeRadios.forEach(r => {
       r.addEventListener('change', () => {
-        if (r.checked) {
-          toolState.mode = r.value;
+        if (!r.checked) return;
+
+        const val = r.value;
+        if (!isUnlocked && (val === 'chat' || val === 'ab')) {
+          // bounce back to search
+          const search = document.getElementById('mode-search');
+          if (search) search.checked = true;
+          toolState.mode = 'search';
           renderToolState();
           saveToolState();
+          pushStatusMessage('Locked: search mode only.');
+          return;
         }
+
+        toolState.mode = val;
+        renderToolState();
+        saveToolState();
       });
     });
   }
@@ -349,11 +374,11 @@ function pushStatusMessage(text) {
   els.statusMessagesEl.prepend(el);
 
   const items = els.statusMessagesEl.querySelectorAll('.status-message');
-  if (items.length > 1) items[items.length - 1].remove(); // keep only most recent
+  if (items.length > 1) items[items.length - 1].remove();
 }
 
 /* =========================================================
-   9) FEEDBACK MODAL
+   9) FEEDBACK MODAL (local save for now)
    ========================================================= */
 function showToast() {
   if (!els.fbToast) return;
@@ -375,7 +400,6 @@ function openFeedbackModal(target) {
   if (els.fbRelevance) els.fbRelevance.value = 8;
   if (els.fbComments) els.fbComments.value = '';
 
-  // hide fields for references
   if (els.fbFieldAccuracy) els.fbFieldAccuracy.style.display = isRef ? 'none' : '';
   if (els.fbFieldStyle) els.fbFieldStyle.style.display = isRef ? 'none' : '';
 
@@ -438,10 +462,9 @@ async function submitFeedback() {
     return;
   }
 
-  // Later: POST to Flask
-  // await apiSubmitFeedback(payload);
-
+  // Keep local for now
   saveFeedbackLocally(payload);
+
   closeFeedbackModal();
   showToast();
 }
@@ -529,7 +552,7 @@ function appendMessage(text, role) {
   scrollChatToBottom();
 }
 
-// A/B mode: side-by-side answers, each with its own feedback icon
+// A/B mode: side-by-side answers with selectable choice + feedback
 function appendABMessage(aText, bText, meta = {}) {
   const row = document.createElement('div');
   row.className = 'message-row bot';
@@ -544,10 +567,24 @@ function appendABMessage(aText, bText, meta = {}) {
   const wrap = document.createElement('div');
   wrap.className = 'ab-wrap';
 
+  function selectPanel(panel, variant) {
+    wrap.querySelectorAll('.ab-panel').forEach(p => {
+      p.classList.remove('selected');
+      const btn = p.querySelector('.ab-select-btn');
+      if (btn) btn.innerHTML = 'Select this response';
+    });
+
+    panel.classList.add('selected');
+
+    const btn = panel.querySelector('.ab-select-btn');
+    if (btn) btn.innerHTML = '✓ Selected';
+  }
+
   function makePanel(label, text, variant) {
     const panel = document.createElement('div');
     panel.className = 'ab-panel';
 
+    // header
     const head = document.createElement('div');
     head.className = 'ab-head';
 
@@ -556,14 +593,13 @@ function appendABMessage(aText, bText, meta = {}) {
     lbl.textContent = label;
 
     const actions = document.createElement('div');
-    actions.className = 'msg-actions';
+    actions.className = 'ab-actions';
 
     const id = `ab_${variant}_${nowId('msg')}`;
 
     const commentBtn = document.createElement('button');
     commentBtn.type = 'button';
-    commentBtn.className = 'comment-btn has-tooltip';
-    commentBtn.dataset.tooltip = 'Add feedback';
+    commentBtn.className = 'comment-btn';
     commentBtn.setAttribute('aria-label', 'Add feedback');
     commentBtn.innerHTML = `
       <svg viewBox="0 0 24 24" width="18" height="18" fill="none"
@@ -574,23 +610,38 @@ function appendABMessage(aText, bText, meta = {}) {
     `;
     commentBtn.addEventListener('click', (e) => {
       e.stopPropagation();
-      openFeedbackModal({
-        type: 'response',
-        id,
-        snippet: `[A/B ${variant}] ${text}`
-      });
+      openFeedbackModal({ type: 'response', id, snippet: `[A/B ${variant}] ${text}` });
     });
 
     actions.appendChild(commentBtn);
     head.appendChild(lbl);
     head.appendChild(actions);
 
+    // body
     const body = document.createElement('div');
     body.className = 'message-text';
     body.textContent = text;
 
+    // footer
+    const footer = document.createElement('div');
+    footer.className = 'ab-footer';
+
+    const selectBtn = document.createElement('button');
+    selectBtn.type = 'button';
+    selectBtn.className = 'ab-select-btn';
+    selectBtn.textContent = 'Select this response';
+    selectBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      selectPanel(panel, variant);
+    });
+
+    footer.appendChild(selectBtn);
+
     panel.appendChild(head);
     panel.appendChild(body);
+    panel.appendChild(footer);
+
+    panel.addEventListener('click', () => selectPanel(panel, variant));
     return panel;
   }
 
@@ -642,7 +693,7 @@ function setReferences(refs) {
 
     const cbtn = document.createElement('button');
     cbtn.type = 'button';
-    cbtn.className = 'comment-btn has-tooltip';
+    cbtn.className = 'comment-btn';
     cbtn.dataset.tooltip = 'Add feedback';
     cbtn.setAttribute('aria-label', 'Add feedback');
     cbtn.innerHTML = `
@@ -843,6 +894,7 @@ function autoResizeTextarea() {
   if (!els.chatInput) return;
   els.chatInput.style.height = 'auto';
   els.chatInput.style.height = Math.min(els.chatInput.scrollHeight, CFG.TEXTAREA_MAX_HEIGHT) + 'px';
+  els.chatInput.style.overflowY = (els.chatInput.scrollHeight > CFG.TEXTAREA_MAX_HEIGHT) ? 'auto' : 'hidden';
 }
 
 async function clearCurrentChat() {
@@ -869,38 +921,63 @@ async function clearCurrentChat() {
 }
 
 /* =========================================================
-   15) FLASK API WRAPPERS (call these once app.py is ready)
+   15) FLASK API HELPERS (session cookie enabled)
    ========================================================= */
-async function apiChat(payload) {
-  const res = await fetch(CFG.API.CHAT, {
+async function apiPost(url, payload) {
+  const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload)
+    credentials: 'same-origin', // ✅ required for Flask session cookie
+    body: JSON.stringify(payload || {})
   });
-  if (!res.ok) throw new Error(`apiChat failed: ${res.status}`);
-  return await res.json();
+
+  let data = {};
+  try { data = await res.json(); } catch (_) {}
+
+  if (!res.ok) {
+    const msg = data?.message || data?.error || `Request failed (${res.status})`;
+    const err = new Error(msg);
+    err.status = res.status;
+    err.data = data;
+    throw err;
+  }
+  return data;
 }
 
-async function apiSubmitFeedback(payload) {
-  const res = await fetch(CFG.API.FEEDBACK, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload)
-  });
-  if (!res.ok) throw new Error(`apiSubmitFeedback failed: ${res.status}`);
-  return await res.json();
+async function apiGet(url) {
+  const res = await fetch(url, { method: 'GET', credentials: 'same-origin' });
+  let data = {};
+  try { data = await res.json(); } catch (_) {}
+  if (!res.ok) throw new Error(data?.message || `Request failed (${res.status})`);
+  return data;
+}
+
+async function apiSearch({ query, max_n }) {
+  return apiPost(CFG.API.SEARCH, { query, max_n });
+}
+
+async function apiChat(payload) {
+  return apiPost(CFG.API.CHAT, payload);
+}
+
+async function apiAB(payload) {
+  return apiPost(CFG.API.AB, payload);
+}
+
+async function apiUnlock(password) {
+  return apiPost(CFG.API.UNLOCK, { password });
+}
+
+async function apiAccess() {
+  return apiGet(CFG.API.ACCESS);
 }
 
 async function apiStatus() {
-  const res = await fetch(CFG.API.STATUS, { method: 'GET' });
-  if (!res.ok) throw new Error(`apiStatus failed: ${res.status}`);
-  return await res.json();
+  return apiGet(CFG.API.STATUS);
 }
 
 async function apiQueue() {
-  const res = await fetch(CFG.API.QUEUE, { method: 'GET' });
-  if (!res.ok) throw new Error(`apiQueue failed: ${res.status}`);
-  return await res.json();
+  return apiGet(CFG.API.QUEUE);
 }
 
 /* =========================================================
@@ -926,58 +1003,66 @@ async function handleChatSubmit(e) {
     context: contextTurns
   };
 
-  // --- STUB behavior (replace with apiChat(payload) when ready) ---
-  setTimeout(() => {
+  try {
+    // Enforce gate client-side (server enforces too)
+    if (!isUnlocked && (toolState.mode === 'chat' || toolState.mode === 'ab')) {
+      toolState.mode = 'search';
+      renderToolState();
+      saveToolState();
+    }
+
     if (toolState.mode === 'search') {
-      const bot = 'Search-only mode (stub): will return references/snippets without a generated answer.';
+      const data = await apiSearch({ query: text, max_n: CFG.MAX_REFS });
+
+      const bot = `Found ${data.num_results ?? 0} result(s).`;
       appendMessage(bot, 'bot');
-      setReferences([]);
       pushTurn(text, bot);
+
+      // Map your RAG results into your ref-card format
+      const refs = (data.results || []).slice(0, CFG.MAX_REFS).map((r) => ({
+        title: r.title || r.source_title || 'Reference',
+        source: r.source || r.publication || 'Corpus',
+        snippet: r.snippet || r.text || r.excerpt || '',
+        url: r.url || r.link || ''
+      }));
+      setReferences(refs);
       return;
     }
 
     if (toolState.mode === 'ab') {
-      const a = 'A/B (stub) — Answer A will appear here.';
-      const b = 'A/B (stub) — Answer B will appear here.';
-      appendABMessage(a, b);
-      setReferences([]);
-      // store a single assistant string for saved convos
-      pushTurn(text, `Response A:\n${a}\n\nResponse B:\n${b}`);
+      const data = await apiAB(payload);
+      appendABMessage(data.a || '', data.b || '', { labelA: data.labelA, labelB: data.labelB });
+      pushTurn(text, `Response A:\n${data.a || ''}\n\nResponse B:\n${data.b || ''}`);
+      setReferences(Array.isArray(data.references) ? data.references : []);
       return;
     }
 
-    const reply = 'AI chat mode (stub): connect to Flask/HF and include selected history turns in the request.';
-    appendMessage(reply, 'bot');
-    setReferences([]);
-    pushTurn(text, reply);
-  }, CFG.STUB_DELAY_MS);
+    // chat
+    const data = await apiChat(payload);
+    const reply = data.reply || data.message || data.status || '';
+    appendMessage(reply || '(no reply)', 'bot');
+    pushTurn(text, reply || '(no reply)');
+    setReferences(Array.isArray(data.references) ? data.references : []);
 
-  // --- Real behavior (uncomment when Flask is ready) ---
-  // try {
-  //   const data = await apiChat(payload);
-  //   // Expected examples:
-  //   // chat:   { reply: "...", references: [...] }
-  //   // search: { references: [...] }
-  //   // ab:     { a: "...", b: "...", references: [...] }
-  //   if (toolState.mode === 'ab') {
-  //     appendABMessage(data.a || '', data.b || '', { labelA: data.labelA, labelB: data.labelB });
-  //     pushTurn(text, `Response A:\n${data.a || ''}\n\nResponse B:\n${data.b || ''}`);
-  //   } else if (toolState.mode === 'search') {
-  //     appendMessage(data.message || '(search results)', 'bot');
-  //     pushTurn(text, data.message || '(search results)');
-  //   } else {
-  //     appendMessage(data.reply || '', 'bot');
-  //     pushTurn(text, data.reply || '');
-  //   }
-  //   setReferences(Array.isArray(data.references) ? data.references : []);
-  // } catch (err) {
-  //   appendMessage('Error contacting server. Please try again.', 'bot');
-  //   pushStatusMessage(String(err?.message || err));
-  // }
+  } catch (err) {
+    // If locked, force search
+    if (err?.status === 403) {
+      setModeAccess(false);
+      toolState.mode = 'search';
+      renderToolState();
+      saveToolState();
+      appendMessage('Not today. Search mode only.', 'bot');
+      pushTurn(text, 'Not today. Search mode only.');
+      return;
+    }
+
+    appendMessage('Error contacting server. Please try again.', 'bot');
+    pushStatusMessage(String(err?.message || err));
+  }
 }
 
 /* =========================================================
-   17) ABOUT MODAL
+   17) ABOUT MODAL and PING TEST
    ========================================================= */
 function initAboutModal() {
   if (!els.aboutBtn) return;
@@ -992,8 +1077,170 @@ function initAboutModal() {
   });
 }
 
+function initPingTest() {
+  const btn = document.getElementById("ping-btn");
+  const output = document.getElementById("ping-result");
+  if (!btn || !output) return;
+
+  btn.addEventListener("click", async () => {
+    output.textContent = "Sending request...";
+
+    try {
+      const data = await apiPost(CFG.API.PING, {
+        from: "browser",
+        test: "JS → Flask → JS"
+      });
+      output.textContent = JSON.stringify(data, null, 2);
+    } catch (err) {
+      output.textContent = "Error: " + (err?.message || String(err));
+    }
+  });
+}
+
 /* =========================================================
-   18) INIT / WIRING (bottom)
+   18) RANGE FILL + AUTOSIZE (helpers)
+   ========================================================= */
+function initRangeFill() {
+  const r = document.getElementById('history-slider');
+  if (!r) return;
+
+  function setFill(){
+    const min = Number(r.min || 0);
+    const max = Number(r.max || 100);
+    const val = Number(r.value || 0);
+    const pct = ((val - min) / (max - min)) * 100;
+    r.style.setProperty('--fill', pct + '%');
+  }
+
+  r.addEventListener('input', setFill);
+  setFill();
+}
+
+function initAutosizeTextarea() {
+  const ta = document.getElementById('chat-input');
+  if (!ta) return;
+  ta.addEventListener('input', autoResizeTextarea);
+  window.addEventListener('resize', autoResizeTextarea);
+  autoResizeTextarea();
+}
+
+/* =========================================================
+   19) LOCK UI
+   ========================================================= */
+function setModeAccess(unlocked) {
+  isUnlocked = !!unlocked;
+
+  const modeSearch = document.getElementById("mode-search");
+  const modeChat = document.getElementById("mode-chat");
+  const modeAb = document.getElementById("mode-ab");
+  const lockBtnEl = document.getElementById("lock-btn");
+
+  if (modeChat) modeChat.disabled = !isUnlocked;
+  if (modeAb) modeAb.disabled = !isUnlocked;
+
+  if (!isUnlocked) toolState.mode = "search";
+  if (!isUnlocked && modeSearch) modeSearch.checked = true;
+
+  // visual + interaction state
+  if (lockBtnEl) {
+    lockBtnEl.classList.toggle("unlocked", isUnlocked);
+    lockBtnEl.disabled = isUnlocked;           // ⭐ key line
+    lockBtnEl.setAttribute(
+      "aria-label",
+      isUnlocked ? "Access granted" : "Restricted access"
+    );
+  }
+
+  renderToolState();
+  saveToolState();
+}
+
+
+function initLockUI() {
+  const lockBtn = document.getElementById("lock-btn");
+  const lockModal = document.getElementById("lock-modal");
+  const lockClose = document.getElementById("lock-close");
+  const lockEnter = document.getElementById("lock-enter");
+  const lockPass = document.getElementById("lock-pass");
+  const lockMsg = document.getElementById("lock-msg");
+
+  if (!lockBtn || !lockModal || !lockClose || !lockEnter || !lockPass || !lockMsg) return;
+
+  function openLockModal() {
+    lockModal.classList.add("open");
+    lockModal.setAttribute("aria-hidden", "false");
+    lockMsg.textContent = "";
+    lockPass.value = "";
+    setTimeout(() => lockPass.focus(), 0);
+  }
+  function closeLockModal() {
+    lockModal.classList.remove("open");
+    lockModal.setAttribute("aria-hidden", "true");
+  }
+
+  async function tryUnlock() {
+    const pw = (lockPass.value || "").trim();
+    if (!pw) return;
+
+    lockMsg.textContent = "Checking…";
+    try {
+      const data = await apiUnlock(pw);
+      lockMsg.textContent = data.message || "Access Granted";
+      setModeAccess(true);
+    } catch (err) {
+      lockMsg.textContent = err?.message || "Not today";
+      setModeAccess(false);
+    }
+  }
+
+  lockBtn.addEventListener("click", openLockModal);
+  lockClose.addEventListener("click", closeLockModal);
+  lockModal.addEventListener("click", (e) => { if (e.target === lockModal) closeLockModal(); });
+  lockEnter.addEventListener("click", tryUnlock);
+  lockPass.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") tryUnlock();
+    if (e.key === "Escape") closeLockModal();
+  });
+}
+
+/* =========================================================
+   20) STATUS + QUEUE POLLING
+   ========================================================= */
+async function refreshStatusOnce() {
+  try {
+    const data = await apiStatus();
+    // If your /api/status includes these fields, reflect them:
+    // { unlocked: bool, retrieval_state_ready: bool, ... }
+    if (typeof data?.unlocked === 'boolean') setModeAccess(data.unlocked);
+
+    if (data?.retrieval_state_ready === true) setEndpointStatus('ready');
+    else setEndpointStatus('starting');
+  } catch (_) {
+    setEndpointStatus('off');
+  }
+}
+
+async function refreshQueueOnce() {
+  try {
+    const data = await apiQueue();
+    // expected: { ok:true, queries_in_line: N } or similar
+    const q = data?.queries_in_line ?? data?.queue ?? 0;
+    setQueueStatus(q);
+  } catch (_) {
+    setQueueStatus(0);
+  }
+}
+
+function startPolling() {
+  refreshStatusOnce();
+  refreshQueueOnce();
+
+  setInterval(refreshStatusOnce, CFG.STATUS_POLL_MS);
+  setInterval(refreshQueueOnce, CFG.QUEUE_POLL_MS);
+}
+
+/* =========================================================
+   21) INIT / WIRING (bottom)
    ========================================================= */
 function initDom() {
   els.body = document.body;
@@ -1070,7 +1317,7 @@ function initDom() {
 }
 
 function initWiring() {
-  // modal wiring
+  // modal overlay close
   if (els.modalOverlay) {
     els.modalOverlay.addEventListener('click', (e) => {
       if (e.target === els.modalOverlay) closeModal(false);
@@ -1083,13 +1330,18 @@ function initWiring() {
   // chat
   if (els.chatForm) els.chatForm.addEventListener('submit', handleChatSubmit);
   if (els.chatInput) {
-    els.chatInput.addEventListener('input', autoResizeTextarea);
     els.chatInput.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
         els.chatForm.requestSubmit();
       }
     });
+  }
+
+  // focus cursor on load
+  if (els.chatInput) {
+    els.chatInput.focus();
+    try { els.chatInput.setSelectionRange(els.chatInput.value.length, els.chatInput.value.length); } catch (_) {}
   }
 
   // save convo
@@ -1102,7 +1354,7 @@ function initWiring() {
 function init() {
   initDom();
 
-  // sanity: required nodes
+  // sanity
   if (!els.chatForm || !els.chatInput || !els.messagesEl) {
     console.warn('Seeds of Truth app.js: required chat elements not found.');
     return;
@@ -1110,7 +1362,9 @@ function init() {
 
   // tool state
   loadToolState();
-  renderToolState();
+
+  // default locked until server says otherwise
+  setModeAccess(false);
 
   // theme + sidebar + tools
   initTheme();
@@ -1123,18 +1377,89 @@ function init() {
   initAboutModal();
   initWiring();
 
-  // initial UI
+  // helpers
+  initRangeFill();
+  initAutosizeTextarea();
+  initPingTest();
   renderRecentList();
-  autoResizeTextarea();
+  renderToolState();
 
-  // expose for backend wiring / debugging
+  // lock modal
+  initLockUI();
+
+  // ask server whether this session is already unlocked
+  apiAccess().then(d => setModeAccess(!!d.unlocked)).catch(() => setModeAccess(false));
+
+  // polling for status/queue
+  startPolling();
+
+  // expose debug hooks
   window.setReferences = setReferences;
   window.openFeedbackModal = openFeedbackModal;
   window.pushStatusMessage = pushStatusMessage;
-
-  // Optional: initialize status display
-  setEndpointStatus('unknown');
-  setQueueStatus(0);
 }
 
 document.addEventListener('DOMContentLoaded', init);
+
+(function clickDistortion(){
+  const host = document.getElementById('click-distort');
+  const svg = document.querySelector('filter#sot-displace');
+  if (!host || !svg) return;
+
+  // Find the displacement map inside the filter
+  const disp = document.querySelector('#sot-displace feDisplacementMap');
+  const turb = document.querySelector('#sot-displace feTurbulence');
+  if (!disp || !turb) return;
+
+  let seed = 2;
+
+  function spawn(x, y){
+    // Lens
+    const lens = document.createElement('div');
+    lens.className = 'click-lens';
+    lens.style.left = x + 'px';
+    lens.style.top  = y + 'px';
+
+    // Ring
+    const ring = document.createElement('div');
+    ring.className = 'click-ring';
+    ring.style.left = x + 'px';
+    ring.style.top  = y + 'px';
+
+    host.appendChild(lens);
+    host.appendChild(ring);
+
+    // Vary noise a bit each click
+    seed = (seed + 1) % 9999;
+    turb.setAttribute('seed', String(seed));
+
+    // Animate: bump distortion up then down quickly
+    // Note: filter is shared, but we only show one lens briefly.
+    disp.setAttribute('scale', '0');
+
+    // turn on transitions next frame
+    requestAnimationFrame(() => {
+      lens.classList.add('on');
+      ring.classList.add('on');
+
+      // distortion punch
+      disp.setAttribute('scale', '26');
+
+      // ease back
+      setTimeout(() => disp.setAttribute('scale', '0'), 140);
+
+      // cleanup
+      setTimeout(() => {
+        lens.remove();
+        ring.remove();
+      }, 520);
+    });
+  }
+
+  // Use pointerdown so it works on touch too
+  window.addEventListener('pointerdown', (e) => {
+    // ignore right-click
+    if (e.button === 2) return;
+    spawn(e.clientX, e.clientY);
+  }, { passive: true });
+})();
