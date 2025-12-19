@@ -39,7 +39,7 @@ def check_health() -> Optional[str]:
         r = requests.get(f"{ENDPOINT_URL}/healthz", headers=HEADERS, timeout=10)
         if r.status_code == 200:
             print(f"Got valid health response: {r}")
-            return r.json().get("status", "unknown")
+            return true
         elif r.status_code == 401:
             print(f"401 Unauthorized: Check HF_TOKEN is valid for this endpoint.")
             return None

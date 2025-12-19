@@ -18,7 +18,9 @@ import hmac
 import asyncio
 import logging
 from datetime import datetime
-from typing import Optional, List
+from typing import List
+import model_controller
+import db
 
 from flask import Flask, render_template, request, jsonify, session
 
@@ -53,6 +55,10 @@ app = Flask(__name__)
 # IMPORTANT: set a real secret in production or sessions won't be secure/stable
 # Put this into systemd Environment= "FLASK_SECRET_KEY=..."
 app.secret_key = os.environ.get("FLASK_SECRET_KEY", "dev-change-me")
+
+# chat requests shouldn't exceed this
+MAX_ALLOWED_NEW_TOKENS = 1200
+
 
 # Dev-style template reloading:
 # - Safe for dev
@@ -133,6 +139,7 @@ def init_state():
 
 # Initialize once at import time (works well under systemd+gunicorn)
 init_state()
+db.init_db()
 
 
 # ---------------------------------------------------------------------------
@@ -307,7 +314,7 @@ def on_search():
 # Routes: Chat (LOCKED unless unlocked)
 # ---------------------------------------------------------------------------
 
-@app.post("/api/chat")
+@app.route("/api/chat", methods=["POST","GET"])
 def on_chat():
     """
     Chat endpoint (gated).
@@ -317,14 +324,62 @@ def on_chat():
     if locked:
         return locked
 
-    # TODO: Replace with real chat logic
-    payload = request.get_json(silent=True) or {}
-    return jsonify({
-        "ok": True,
-        "status": "chat was successful",
-        "received": payload,
-    }), 200
+    payload = request.get_json(silent=True)
+    if payload is None:
+        return jsonify({
+            "ok": False,
+            "error": "Invalid or missing JSON body"
+        }), 400
 
+    prompt = payload.get("prompt")
+    if not isinstance(prompt, str) or not prompt.strip():
+        app_logger.warn("Chat request prompt was invalid")
+        return jsonify({
+            "ok": False,
+            "error": "Field 'prompt' must be a non-empty string"
+        }), 400
+
+    max_new_tokens = payload.get("max_new_tokens", 250)
+    if not isinstance(max_new_tokens, int):
+        app_logger.warn("Chat request max_new_tokens was invalid")
+        return jsonify({
+            "ok": False,
+            "error": "Field 'max_new_tokens' must be int"
+        }), 400
+    if max_new_tokens < 1 or max_new_tokens > MAX_ALLOWED_NEW_TOKENS:
+        app_logger.warn("Chat request max_new_tokens was out of the allowed range")
+        return jsonify({
+            "ok": False,
+            "error": "Field 'max_new_tokens' must be within allowed range"
+        }), 400
+
+    user_id = payload.get("user_id", "none")
+    if not isinstance(user_id, str) or not prompt.strip():
+        app_logger.warn("Chat request user_id was invalid")
+        return jsonify({
+            "ok": False,
+            "error": "Field 'user_id' must be a string"
+        }), 400
+
+    try:
+        job_id = db.insert_job(user_id, prompt)
+
+        response = model_controller.send_prompt_to_model(prompt).strip()
+
+        db.mark_done(job_id, response)
+
+        return jsonify({
+            "ok": True,
+            "response": response,
+            "status": "success",
+        }), 200
+    except RuntimeError as e:
+        app_logger.exception("Runtime error occurred during chat")
+        return jsonify({
+            "ok": False,
+            "error": "Search failed",
+            "detail": str(e)
+        }), 500
 
 # ---------------------------------------------------------------------------
 # Routes: A/B test (LOCKED unless unlocked)
