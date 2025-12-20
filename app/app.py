@@ -415,11 +415,14 @@ def on_feedback():
 
 @app.route("/api/status", methods=["POST", "GET"])
 def on_status():
+    model_check_timeout_secs = 5
+    model_ready = model_controller.is_model_ready(model_check_timeout_secs)
     return jsonify({
         "ok": True,
         "status": "status was successful",
         "unlocked": _is_unlocked(),
         "retrieval_state_ready": retrieval_state is not None,
+        "model_ready": model_ready,
     }), 200
 
 @app.get("/api/queue")
