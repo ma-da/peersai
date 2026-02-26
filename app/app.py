@@ -32,6 +32,7 @@ import json
 import random
 import threading
 import logging
+import uuid
 from datetime import datetime
 from typing import List, Optional, Dict, Any
 
@@ -354,7 +355,15 @@ def debug_request():
 @app.post("/api/unlock")
 def api_unlock():
     payload = request.get_json(silent=True) or {}
+
+    # TODO: Fully enforce this user later. We may not have full gating for MVP.
+    user = (payload.get("user") or "").strip()
     pw = (payload.get("password") or "").strip()
+
+    # generate fully random uuid
+    user_uuid = uuid.uuid4()
+
+    # TODO: Write the uuid to the user db so we can gate on this later. May not be needed for MVP.
 
     if not pw or not ALLOWED_PASSWORDS:
         session["unlocked"] = False
@@ -362,6 +371,15 @@ def api_unlock():
 
     ok = any(hmac.compare_digest(pw, real) for real in ALLOWED_PASSWORDS)
     session["unlocked"] = bool(ok)
+<<<<<<< Updated upstream
+=======
+    if ok:
+        return jsonify({"ok": True,
+                        "uuid": str(user_uuid),
+                        "message": "Access Granted"
+                        }), 200
+    return jsonify({"ok": False, "message": "Not today"}), 403
+>>>>>>> Stashed changes
 
     return (jsonify({"ok": True, "message": "Access Granted"}), 200) if ok else \
            (jsonify({"ok": False, "message": "Not today"}), 403)
@@ -413,6 +431,7 @@ def on_search():
         sig = inspect.signature(search_corpus)
         params = sig.parameters
 
+<<<<<<< Updated upstream
         if "shard_k" in params:
             results = search_corpus(query, top_k=top_k, shard_k=shard_k)
         elif "centroid_k" in params:
@@ -420,6 +439,17 @@ def on_search():
         else:
             # old signature: search_corpus(query, top_k)
             results = search_corpus(query, top_k)
+=======
+@app.route("/api/chat", methods=["POST","GET"])
+def api_chat():
+    """
+    Chat endpoint (gated).
+    The UI should disable Chat mode unless unlocked, but this is the real enforcement.
+    """
+    locked = _require_unlocked()
+    if locked:
+        return locked
+>>>>>>> Stashed changes
 
         # Normalize results BEFORE .get calls (prevents HTML 500)
         if not isinstance(results, dict):
@@ -433,9 +463,27 @@ def on_search():
         if not isinstance(num_results, int):
             num_results = len(out_list)
 
+<<<<<<< Updated upstream
         message = results.get("message")
         if not isinstance(message, str) or not message.strip():
             message = f"Found {num_results} result(s)."
+=======
+    user_id = payload.get("user_id", "none")
+    if not isinstance(user_id, str) or not prompt.strip():
+        app_logger.warn("Chat request user_id was invalid")
+        return jsonify({
+            "ok": False,
+            "error": "Field 'user_id' must be a string"
+        }), 400
+
+    # TODO: Add the reload logic that initializes the queue with unfinished jobs
+    try:
+        job_id = db.insert_job(user_id, prompt)
+
+        response = model_controller.send_prompt_to_model(prompt).strip()
+
+        db.mark_done(job_id, response)
+>>>>>>> Stashed changes
 
         return jsonify({
             "ok": True,
@@ -547,14 +595,42 @@ def on_status():
 
 @app.get("/api/queue")
 def api_queue():
+<<<<<<< Updated upstream
     # Dev stub — shows UI movement
+=======
+    # Simple test queue: random 0..7 so you can see UI change
+    # Replace later with a real queue length from your worker system.
+
+    # For now, uuid and will only be valid for session for MVP. 
+    user_id,
+    uuid,
+
+    # TODO: Should a user only have one-inflight query? Perhaps for MVP
+    # TODO: On Chat and A/B, gate it so that a user can only have one inflight-query at a time.
+    # completed, queued response,
+    response
+    {
+        uuid,
+        response,
+        status
+        place_in_line,
+    }
+
+>>>>>>> Stashed changes
     return jsonify({
         "ok": True,
         "queries_in_line": random.randint(0, 7),
+        "queued_responses": list()
         "server_time": time.time()
     }), 200
 
+<<<<<<< Updated upstream
 # ------------------ Local dev runner ------------------
+=======
+# ---------------------------------------------------------------------------
+# Local dev runner (gunicorn ignores this)
+# ---------------------------------------------------------------------------
+>>>>>>> Stashed changes
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", "8000"))

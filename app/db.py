@@ -11,6 +11,13 @@ CREATE TABLE IF NOT EXISTS jobs (
     completed_at TIMESTAMP,
     response TEXT
 );
+
+CREATE TABLE IF NOT EXISTS users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    curr_uuid INTEGER NULL,
+    name TEXT NOT NULL,
+    passwd TEXT NOT NULL,
+);
 """
 import logging
 import sqlite3
@@ -47,6 +54,18 @@ def init_db():
         conn.execute("""
         CREATE INDEX IF NOT EXISTS idx_jobs_user_created
         ON jobs(user_id, created_at);
+        """)
+
+        conn.execute("""
+        CREATE TABLE IF NOT EXISTS jobs (
+            id TEXT PRIMARY KEY,
+            user_id TEXT NOT NULL,
+            prompt TEXT NOT NULL,
+            status TEXT CHECK(status IN ('queued','processing','done','failed')) NOT NULL,
+            created_at TIMESTAMP NOT NULL,
+            completed_at TIMESTAMP,
+            response TEXT
+        );
         """)
 
         conn.commit()

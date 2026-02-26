@@ -6,7 +6,10 @@ import logging
 #endpoint_url="https://xjgkrkdcm0eqb6gr.us-east-1.aws.endpoints.huggingface.cloud"
 
 # v4a
-endpoint_url="https://cr41uamktrsdyg3d.us-east-1.aws.endpoints.huggingface.cloud"
+#endpoint_url="https://cr41uamktrsdyg3d.us-east-1.aws.endpoints.huggingface.cloud"
+
+# v7
+endpoint_url = "https://d6pfgv6yisy4pld2.us-east-1.aws.endpoints.huggingface.cloud"
 
 # DO NOT CHECK IN THE HF TOKEN
 token=""
