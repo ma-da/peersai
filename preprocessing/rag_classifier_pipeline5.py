@@ -1,0 +1,463 @@
+import argparse
+import spacy
+from sentence_transformers import SentenceTransformer
+from rag_topics import *
+import re
+import json
+from tqdm import tqdm
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+import torch
+
+model_id = "meta-llama/Llama-3.1-8B-Instruct"
+
+tokenizer = AutoTokenizer.from_pretrained(model_id)
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token
+
+# 4-bit config
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_compute_dtype=torch.float16,   # or bfloat16 if supported
+    bnb_4bit_quant_type="nf4"               # best quality
+)
+
+chat_model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    torch_dtype="auto",
+    quantization_config=bnb_config,
+    device_map="auto",
+)
+
+
+model = SentenceTransformer("BAAI/bge-large-en")
+
+domain_vectors = {
+    d: model.encode(desc, normalize_embeddings=True)
+    for d, desc in DOMAINS.items()
+}
+
+def classify_domain_fast(text):
+    vec = model.encode(text, normalize_embeddings=True)
+
+    best_domain = None
+    best_score = -1
+
+    for d, dv in domain_vectors.items():
+        score = (vec @ dv)
+        if score > best_score:
+            best_score = score
+            best_domain = d
+
+    return best_domain
+
+#llm = Llama(
+#    model_path=MODEL_PATH,
+#    n_ctx=4096,
+#    n_threads=8,
+#    temperature=0.1
+#)
+
+PROMPT_TEMPLATE = """
+You are a classification system.
+
+Your task is to analyze the text and determine:
+
+1. The most appropriate DOMAIN.
+2. Up to 3 TOPICS that best describe the text.
+
+Rules:
+- DOMAIN must be chosen ONLY from the provided domain list.
+- TOPICS must be chosen ONLY from the provided topic list.
+- Return a maximum of 3 topics.
+- Do not invent new domains or topics.
+
+Allowed Domains:
+{domains}
+
+Allowed Topics:
+{topics}
+
+Return JSON ONLY in this format:
+
+{{
+  "domain": "...",
+  "topics": ["...", "..."],
+  "confidence": <float>
+}}
+
+Text:
+{text}
+
+You MUST return valid JSON.
+If invalid JSON is produced, the response is incorrect.
+Do not include any text before or after JSON.
+"""
+
+def generate_text(prompt: str):
+    messages = [
+        {"role": "system", "content": "You are a strict JSON classification system."},
+        {"role": "user", "content": prompt}
+    ]
+
+    inputs = tokenizer.apply_chat_template(
+        messages,
+        return_tensors="pt",
+        add_generation_prompt=True,
+        return_dict=True
+    ).to(chat_model.device)
+
+    outputs = chat_model.generate(
+        inputs["input_ids"],
+        attention_mask=inputs["attention_mask"],
+        max_new_tokens=300,
+        temperature=0.0,
+        do_sample=False,
+        pad_token_id=tokenizer.pad_token_id,
+        eos_token_id=tokenizer.eos_token_id,
+    )
+
+    generated = outputs[0][inputs["input_ids"].shape[-1]:]
+    return tokenizer.decode(generated, skip_special_tokens=True).strip()
+
+
+def classify_chunk(text: str) -> dict:
+    truncated = (text[:700] + "\n...\n" + text[-700:]) if len(text) > 1400 else text
+
+    domain = classify_domain_fast(truncated)
+
+    prompt = PROMPT_TEMPLATE.format(
+        domains=domain,
+        topics=", ".join(TOPICS[domain]),
+        text=truncated
+    )
+
+    try:
+        result = generate_text(prompt)
+
+    except Exception as e:
+        raise ValueError({"error": str(e), "raw": ""})
+
+    # --- CRITICAL: no grammar enforcement now ---
+    try:
+        data = safe_parse_json(result)
+    except Exception as e:
+        return {"safe_parse_json error": str(e), "raw": result}
+
+    data["topics"] = normalize_topics(data.get("topics", []))
+
+    return data
+
+
+def read_json_objects(path: str):
+    """Yield records from JSON array or JSONL file"""
+    with open(path, "r", encoding="utf-8") as f:
+        first_char = f.read(1)
+        f.seek(0)
+
+        if first_char == '[':
+            # Full JSON array
+            data = json.load(f)
+            for obj in data:
+                yield obj
+        else:
+            # Assume JSONL
+            for line in f:
+                line = line.strip()
+                if line:
+                    try:
+                        yield json.loads(line)
+                    except json.JSONDecodeError:
+                        print(f"Skipping invalid line: {line[:50]}...")
+
+
+
+nlp = spacy.load("en_core_web_trf")
+#ner = pipeline("ner", model="dslim/bert-base-NER", grouped_entities=True)
+
+def extract_entities(text):
+    doc = nlp(text)
+
+    entities = []
+    for ent in doc.ents:
+        entities.append({
+            "text": ent.text,
+            "label": ent.label_
+        })
+
+    return entities
+
+
+# spaCy entity → simplified category mapping
+LABEL_MAP = {
+    "PERSON": "persons",
+    "ORG": "organizations",
+    "GPE": "locations",
+    "LOC": "locations",
+    "WORK_OF_ART": "works",
+    "EVENT": "events",
+    "DATE": "dates"
+}
+
+# labels we usually ignore
+IGNORE_LABELS = {
+    "CARDINAL",
+    "ORDINAL",
+    "QUANTITY",
+    "PERCENT",
+    "TIME",
+    "MONEY"
+}
+
+# allow some single token historical figures
+PERSON_WHITELIST = {
+    "Hitler",
+    "Nixon",
+    "Stalin",
+    "Lenin"
+}
+
+BLACKLIST = {"Darth Vader"}
+
+def clean_entity(text):
+    text = text.strip()
+
+    # remove possessives
+    text = re.sub(r"[’']s$", "", text)
+
+    # collapse whitespace
+    text = re.sub(r"\s+", " ", text)
+
+    return text
+
+
+def is_strong_person(name):
+
+    if name in PERSON_WHITELIST:
+        return True
+
+    # require at least 2 tokens
+    return len(name.split()) >= 2
+
+
+def canonicalize_persons(persons):
+
+    canonical = {}
+
+    for p in persons:
+        parts = p.split()
+
+        last = parts[-1]
+
+        # prefer longest name
+        if last not in canonical or len(p) > len(canonical[last]):
+            canonical[last] = p
+
+    return sorted(canonical.values())
+
+
+def canonicalize_orgs(orgs):
+
+    canonical = {}
+
+    for o in orgs:
+        o = re.sub(r"^the\s+", "", o, flags=re.I)
+
+        key = o.lower()
+
+        if key not in canonical or len(o) > len(canonical[key]):
+            canonical[key] = o
+
+    return sorted(set(canonical.values()))
+
+
+def filter_dates(dates):
+
+    keep = []
+
+    for d in dates:
+
+        # keep real years
+        if re.match(r"\b\d{4}\b", d):
+            keep.append(d)
+
+    return sorted(set(keep))
+
+
+def limit_entities(items, limit):
+
+    return items[:limit]
+
+
+def group_entities(entities):
+
+    buckets = {
+        "persons": [],
+        "organizations": [],
+        "locations": [],
+        "works": [],
+        "events": [],
+        "dates": []
+    }
+
+    for ent in entities:
+
+        label = ent["label"]
+
+        if label in IGNORE_LABELS:
+            continue
+
+        category = LABEL_MAP.get(label)
+
+        if not category:
+            continue
+
+        text = clean_entity(ent["text"])
+
+        if text in BLACKLIST:
+            continue
+
+        buckets[category].append(text)
+
+    # --- persons ---
+    persons = [p for p in buckets["persons"] if is_strong_person(p)]
+    persons = canonicalize_persons(persons)
+
+    # --- organizations ---
+    orgs = canonicalize_orgs(buckets["organizations"])
+
+    # --- locations ---
+    locations = sorted(set(buckets["locations"]))
+
+    # --- works ---
+    works = sorted(set(buckets["works"]))
+
+    # --- events ---
+    events = sorted(set(buckets["events"]))
+
+    # --- dates ---
+    dates = filter_dates(buckets["dates"])
+
+    result = {
+        "persons": limit_entities(persons, 5),
+        "organizations": limit_entities(orgs, 4),
+        "locations": limit_entities(locations, 3),
+        "works": works,
+        "events": events,
+        "dates": dates
+    }
+
+    # remove empty categories
+    return {k: v for k, v in result.items() if v}
+
+
+def repair_json(text: str) -> str:
+    # Trim to last closing brace
+    last_brace = text.rfind("}")
+    if last_brace != -1:
+        text = text[:last_brace + 1]
+
+    # Close open string if needed
+    if text.count('"') % 2 == 1:
+        text += '"'
+
+    # Close array if needed
+    if text.count("[") > text.count("]"):
+        text += "]"
+
+    # Close object if needed
+    if text.count("{") > text.count("}"):
+        text += "}"
+
+    return text
+
+
+def safe_parse_json(text: str):
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # attempt repair
+        repaired = repair_json(text)
+        return json.loads(repaired)
+
+
+def normalize_topics(topics):
+    seen = set()
+    cleaned = []
+
+    for t in topics:
+        if t not in seen:
+            seen.add(t)
+            cleaned.append(t)
+
+    return cleaned[:10]  # cap length
+
+
+if __name__ == "__main__":
+    print("Rag processing corpus")
+
+    parser = argparse.ArgumentParser(description="RAG Classifier Pipeline")
+    parser.add_argument("input_file", type=str, help="Input JSON file")
+    parser.add_argument("output_file", type=str, help="Output JSON file")
+    args = parser.parse_args()
+
+    if args.input_file == None:
+        raise ValueError("No input file provided")
+
+    if args.output_file == None:
+        raise ValueError("No output file provided")
+
+    #print("Input file: {}".format(args.input_file))
+    #print("Output file: {}".format(args.output_file))
+    processed_count = 0
+    errors_count = 0
+
+    with open(args.output_file, "w", buffering=1) as out_f:
+        print("Saving to {}".format(args.output_file))
+        with open(args.input_file, "r") as in_f:
+            print("Loading from {}".format(args.input_file))
+            for record in tqdm(read_json_objects(args.input_file), desc="Enriching"):
+                #print(record, flush=True)
+                doc_idx = record["doc_idx"]
+                title = record["Title"]
+                text = record["chunk_text"]
+
+                # -- Perform classification --
+                entities = extract_entities(text)
+                grouped = group_entities(entities)
+                try:
+                    classification = classify_chunk(text)
+                except Exception as e:
+                    classification = {"error": str(e)}
+                    print(f"Classification failed for {doc_idx}: {e}")
+                    errors_count += 1
+                    continue
+
+                if classification == None:
+                    print(f"Classification is none. Failed for {doc_idx}")
+                    continue
+
+                # -- Create enriched record --
+                enriched = record.copy()
+                enriched["entities_grouped"] = grouped
+                enriched["domain"] = classification["domain"]
+                enriched["topics"] = classification["topics"]
+
+                #print(doc_idx, title, len(text))
+                #print(f"Entities: {grouped}")
+                #print(f"NER Entities: {ner_entities}")
+                #print(f"Classification: {classification}")
+
+                # ── Your console feedback ──
+                print(f"{doc_idx} | {title} | {len(text[0:100])} chars")
+                print(f"Entities: {grouped}")
+                print(f"Classification: {classification}")
+                print("─" * 80)
+
+                # ── Write to output file (JSONL) ──
+                out_f.write(json.dumps(enriched, ensure_ascii=True) + "\n")
+                print(f"Wrote doc_id {doc_idx} | processed {processed_count} | errors {errors_count}")
+                processed_count += 1
+
+
+    print(f"\nDone! Processed {processed_count} records.")
+    print(f"Enriched data saved to: {args.output_file}")
